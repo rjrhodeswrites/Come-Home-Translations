@@ -3,7 +3,7 @@
 translate spanish strings:
 
     # renpy/common/000statements.rpy:28
-    old "Click to play the video."
+    old "Click to play the video.THISISNEWTEXT"
     new "Haz clic para reproducir el vídeo."
 
     # renpy/common/00accessibility.rpy:28
