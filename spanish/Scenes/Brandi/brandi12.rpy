@@ -604,3 +604,11 @@ translate spanish strings:
     old "the next date you take her on, she will invite you inside."
     new "en la próxima cita a la que la lleves, te invitará a entrar."
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+# game/Scenes/Brandi/brandi12.rpy:179
+translate spanish brandi12_c7cef681:
+
+    # pc "That's okay, I do too."
+    pc "No pasa nada, a mí también me pasa."
+

@@ -604,3 +604,11 @@ translate chinese strings:
     old "the next date you take her on, she will invite you inside."
     new "下次带她约会时，她会邀请你进屋。"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+# game/Scenes/Brandi/brandi12.rpy:179
+translate chinese brandi12_c7cef681:
+
+    # pc "That's okay, I do too."
+    pc "没关系，我也是。"
+

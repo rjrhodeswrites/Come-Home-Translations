@@ -338,3 +338,23 @@ translate chinese strings:
     old "{size=50}Auto"
     new "{size=50}自动"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+translate chinese strings:
+
+    # game/Screens/screens.rpy:310
+    old "Translations for this game are a work in progress. The translations are done by machine, so are not perfect and there are some areas of the game that haven't been translated yet."
+    new "本游戏的翻译工作仍在进行中。这些翻译由机器完成，因此并不完美，且游戏中仍有部分内容尚未翻译。"
+
+    # game/Screens/screens.rpy:311
+    old "More work on the translations will be done in future updates."
+    new "未来的更新中将进一步完善翻译工作。"
+
+    # game/Screens/screens.rpy:312
+    old "If you would like to help with the translations, please contact the developer on Discord, Patreon, Itch.io, or through the Steam message boards."
+    new "如果您愿意协助翻译工作，请通过 Discord、Patreon、Itch.io 或 Steam 论坛联系开发者。"
+
+    # game/Screens/screens.rpy:314
+    old "Close"
+    new "关闭"
+

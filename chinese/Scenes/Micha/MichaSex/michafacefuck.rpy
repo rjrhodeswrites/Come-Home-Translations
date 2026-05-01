@@ -154,3 +154,11 @@ translate chinese strings:
     old "Choose to fuck her face."
     new "选择操她的脸。"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+# game/Scenes/Micha/MichaSex/michafacefuck.rpy:32
+translate chinese michafacefuck_d061c1f3:
+
+    # "She takes my cock willingly, not pulling away any."
+    "她心甘情愿地含住我的阴茎，丝毫没有退缩。"
+

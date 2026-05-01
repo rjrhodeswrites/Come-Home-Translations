@@ -266,3 +266,11 @@ translate spanish strings:
     old "On your ass"
     new "En tu culo"
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+# game/Scenes/Lisa/LisaSex/lisatvdoggy.rpy:38
+translate spanish lisatvdoggy_eb581d0b:
+
+    # "After a while she's not really watching the show anymore either, moaning and panting in pleasure."
+    "Al cabo de un rato, ella tampoco está prestando atención al programa, y se limita a gemir y jadear de placer."
+

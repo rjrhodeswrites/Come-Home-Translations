@@ -266,3 +266,11 @@ translate chinese strings:
     old "On your ass"
     new "在你的屁股上"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+# game/Scenes/Lisa/LisaSex/lisatvdoggy.rpy:38
+translate chinese lisatvdoggy_eb581d0b:
+
+    # "After a while she's not really watching the show anymore either, moaning and panting in pleasure."
+    "过了一会儿，她也不再真正关注节目了，而是发出愉悦的呻吟和喘息。"
+

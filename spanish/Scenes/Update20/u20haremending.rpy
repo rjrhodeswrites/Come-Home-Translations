@@ -3198,3 +3198,47 @@ translate spanish displayepilogueslides_b97a871d:
     # "What more could a person ask for?"
     "¿Qué más se puede pedir?"
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+# game/Scenes/Update20/u20haremending.rpy:1478
+translate spanish haremending_3dd8319c:
+
+    # rb "She's sucking that dick good, ain't she, [pcname]?"
+    rb "Se la está chupando bien, ¿verdad, [pcname]?"
+
+# game/Scenes/Update20/u20haremending.rpy:1479
+translate spanish haremending_feda4c94:
+
+    # det "Your pussy tastes amazing dripping off his cock."
+    det "Tu coño sabe de maravilla cuando gotea de su polla."
+
+# game/Scenes/Update20/u20haremending.rpy:1480
+translate spanish haremending_d5b4c15f:
+
+    # rb "Dang, that's hot."
+    rb "Vaya, qué calor hace."
+
+# game/Scenes/Update20/u20haremending.rpy:1488
+translate spanish haremending_cc992e97:
+
+    # bai "Oh my God, it feels so good."
+    bai "Dios mío, qué bien se siente."
+
+# game/Scenes/Update20/u20haremending.rpy:1489
+translate spanish haremending_01649506:
+
+    # mc "I'm glad. Do you feel good too, [mcsir]?"
+    mc "Me alegro. ¿Tú también te sientes bien, [mcsir]?"
+
+# game/Scenes/Update20/u20haremending.rpy:1490
+translate spanish haremending_7b005366:
+
+    # pc "It's amazing. His cock is making you feel even tighter than normal."
+    pc "Es increíble. Su polla te hace sentir aún más apretada de lo habitual."
+
+# game/Scenes/Update20/u20haremending.rpy:1491
+translate spanish haremending_4af44967:
+
+    # mc "I like that I can please you both at the same time."
+    mc "Me gusta poder complaceros a los dos a la vez."
+

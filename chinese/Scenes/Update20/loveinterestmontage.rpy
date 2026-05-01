@@ -828,3 +828,11 @@ translate chinese loveinterestmontage_3484a643:
     # pc "Thanks so much, Ms. Welch."
     pc "太感谢您了，韦尔奇老师。"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+# game/Scenes/Update20/loveinterestmontage.rpy:252
+translate chinese loveinterestmontage_486294f6:
+
+    # et "I'm not going to stop you from graduating because you had something more important going on in your life for a while."
+    et "我不会因为你最近有一段时间忙于处理更重要的事，就阻止你毕业。"
+

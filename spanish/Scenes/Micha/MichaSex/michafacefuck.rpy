@@ -154,3 +154,11 @@ translate spanish strings:
     old "Choose to fuck her face."
     new "Elige follarle la cara."
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+# game/Scenes/Micha/MichaSex/michafacefuck.rpy:32
+translate spanish michafacefuck_d061c1f3:
+
+    # "She takes my cock willingly, not pulling away any."
+    "Se mete mi polla sin rechistar, sin apartarse ni un ápice."
+

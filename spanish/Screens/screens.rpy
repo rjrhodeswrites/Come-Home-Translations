@@ -338,3 +338,23 @@ translate spanish strings:
     old "{size=50}Auto"
     new "{size=50}Automático"
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+translate spanish strings:
+
+    # game/Screens/screens.rpy:310
+    old "Translations for this game are a work in progress. The translations are done by machine, so are not perfect and there are some areas of the game that haven't been translated yet."
+    new "Las traducciones de este juego aún están en proceso. Las traducciones se han realizado mediante traducción automática, por lo que no son perfectas y hay algunas partes del juego que aún no se han traducido."
+
+    # game/Screens/screens.rpy:311
+    old "More work on the translations will be done in future updates."
+    new "En futuras actualizaciones se seguirá trabajando en las traducciones."
+
+    # game/Screens/screens.rpy:312
+    old "If you would like to help with the translations, please contact the developer on Discord, Patreon, Itch.io, or through the Steam message boards."
+    new "Si quieres colaborar con las traducciones, ponte en contacto con el desarrollador a través de Discord, Patreon, Itch.io o los foros de Steam."
+
+    # game/Screens/screens.rpy:314
+    old "Close"
+    new "Cerrar"
+

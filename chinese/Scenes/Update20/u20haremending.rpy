@@ -3198,3 +3198,47 @@ translate chinese displayepilogueslides_b97a871d:
     # "What more could a person ask for?"
     "人还能奢求什么呢？"
 
+# TODO: Translation updated at 2026-04-20 12:52
+
+# game/Scenes/Update20/u20haremending.rpy:1478
+translate chinese haremending_3dd8319c:
+
+    # rb "She's sucking that dick good, ain't she, [pcname]?"
+    rb "她吸那根鸡巴吸得真溜，对吧，[pcname]？"
+
+# game/Scenes/Update20/u20haremending.rpy:1479
+translate chinese haremending_feda4c94:
+
+    # det "Your pussy tastes amazing dripping off his cock."
+    det "你的阴户流出的汁液滴在他鸡巴上，味道棒极了。"
+
+# game/Scenes/Update20/u20haremending.rpy:1480
+translate chinese haremending_d5b4c15f:
+
+    # rb "Dang, that's hot."
+    rb "天哪，真性感。"
+
+# game/Scenes/Update20/u20haremending.rpy:1488
+translate chinese haremending_cc992e97:
+
+    # bai "Oh my God, it feels so good."
+    bai "天哪，感觉真好。"
+
+# game/Scenes/Update20/u20haremending.rpy:1489
+translate chinese haremending_01649506:
+
+    # mc "I'm glad. Do you feel good too, [mcsir]?"
+    mc "太好了。你感觉好些了吗，[mcsir]"
+
+# game/Scenes/Update20/u20haremending.rpy:1490
+translate chinese haremending_7b005366:
+
+    # pc "It's amazing. His cock is making you feel even tighter than normal."
+    pc "太棒了。他的阴茎让你感觉比平时更加紧致。"
+
+# game/Scenes/Update20/u20haremending.rpy:1491
+translate chinese haremending_4af44967:
+
+    # mc "I like that I can please you both at the same time."
+    mc "我喜欢能同时取悦你们俩。"
+

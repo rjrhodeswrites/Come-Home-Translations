@@ -828,3 +828,11 @@ translate spanish loveinterestmontage_3484a643:
     # pc "Thanks so much, Ms. Welch."
     pc "Muchas gracias, Sra. Welch."
 
+# TODO: Translation updated at 2026-04-20 12:08
+
+# game/Scenes/Update20/loveinterestmontage.rpy:252
+translate spanish loveinterestmontage_486294f6:
+
+    # et "I'm not going to stop you from graduating because you had something more important going on in your life for a while."
+    et "No voy a impedir que te gradúes solo porque hayas tenido otras cosas más importantes en tu vida durante un tiempo."
+
