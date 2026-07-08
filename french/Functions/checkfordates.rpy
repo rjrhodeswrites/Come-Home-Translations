@@ -10,19 +10,19 @@ translate french datesavailable_4706bc75:
 translate french datesavailable_35dab267:
 
     # "Which one should I go to? Whoever I don't go with will likely be disappointed."
-    "Lequel devrais-je choisir ? Celui ou celle avec qui je n'irai pas sera probablement déçu(e)."
+    "Lequel je choisis ? Les autres seront sûrement déçus."
 
 # game/Functions/checkfordates.rpy:44
 translate french datesavailable_4ed69c79:
 
     # "I quickly get ready for my date with Mari."
-    "Je me prépare rapidement pour mon rendez-vous avec Mari."
+    "Je me prépare rapidement pour mon rencard avec Mari."
 
 # game/Functions/checkfordates.rpy:47
 translate french datesavailable_7c25678d:
 
     # "I quickly get ready for my date with Jamie."
-    "Je me prépare rapidement pour mon rendez-vous avec Jamie."
+    "Je me prépare rapidement pour mon rencard avec Jamie."
 
 # game/Functions/checkfordates.rpy:51
 translate french datesavailable_d004128f:
@@ -34,7 +34,7 @@ translate french datesavailable_d004128f:
 translate french datesavailable_435e5423:
 
     # "I quickly get ready for my date with Bai."
-    "Je me prépare rapidement pour mon rendez-vous avec Bai."
+    "Je me prépare rapidement pour mon rencard avec Bai."
 
 translate french strings:
 
