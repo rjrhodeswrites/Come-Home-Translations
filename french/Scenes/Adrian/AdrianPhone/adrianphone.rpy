@@ -22,7 +22,7 @@ translate french adrianphone_9e6d7a2e:
 translate french adrianphone_1f602bfd:
 
     # gg "It's a little late right now. Could we do it sometime earlier in the day?"
-    gg "C'est un peu tard maintenant. On pourrait le faire plus tôt dans la journée ?"
+    gg "C'est un peu tard maintenant. Ce serait possible à un autre moment qu'en soirée ?"
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:16
 translate french adrianphone_325243c6:
@@ -34,31 +34,31 @@ translate french adrianphone_325243c6:
 translate french adrianphone_5e17d929:
 
     # gg "Okay, sorry, [pcname]. I'll talk to you later, okay?"
-    gg "D'accord, désolé, [pcname]. À plus tard, d'accord ?"
+    gg "D'accord, désolée, [pcname]. Je te parle plus tard, d'accord ?"
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:21
 translate french adrianphone_5a61ec4b:
 
     # gg "I don't really have time to do it before school."
-    gg "Je n'ai pas vraiment le temps de le faire avant l'école."
+    gg "Je n'ai pas vraiment le temps de le faire avant les cours."
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:22
 translate french adrianphone_8ec59c74:
 
     # gg "Could you give me a call after school maybe?"
-    gg "Tu pourrais m'appeler après l'école, peut-être ?"
+    gg "Alors tu pourrais m'appeler après la fac ?"
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:23
 translate french adrianphone_55b46fe0:
 
     # pc "Oh sure, you're right."
-    pc "Oh bien sûr, tu as raison."
+    pc "Oh bien sûr, bonne idée."
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:24
 translate french adrianphone_71abeb5f:
 
     # gg "Sorry, [pcname]. I'll talk to you later, okay?"
-    gg "Désolé, [pcname]. On se parle plus tard, d'accord ?"
+    gg "Désolée, [pcname]. On se parle plus tard, d'accord ?"
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:31
 translate french adrianchat_33d3bb38:
@@ -76,7 +76,7 @@ translate french adrianchat_47047af2:
 translate french adrianchat_b6985f40:
 
     # "We finish talking and eventually hang up."
-    "On finit de parler et on raccroche finalement."
+    "On finit de parler et on raccroche."
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:40
 translate french adrianchat_b7c4dd6f:
@@ -88,13 +88,13 @@ translate french adrianchat_b7c4dd6f:
 translate french adrianchat_451955f4:
 
     # "Then I rush off to school."
-    "Ensuite, je file à l'école."
+    "Ensuite, je file en cours."
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:50
 translate french adrianhangout_daa77548:
 
     # gg "Sure, where do you want to go?"
-    gg "Bien sûr, où veux-tu aller ?"
+    gg "Bien sûr, tu veux aller où ?"
 
 # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:58
 translate french adrianhangout_cd2a26fb:
@@ -118,7 +118,7 @@ translate french adrianhangout_a78c8e3d:
 translate french adriandatesetup_daa77548:
 
     # gg "Sure, where do you want to go?"
-    gg "Bien sûr, où veux-tu aller ?"
+    gg "Bien sûr, tu veux aller où ?"
 
 translate french strings:
 
@@ -128,7 +128,7 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:56
     old "Go-Karts"
-    new "Karts"
+    new "Karting"
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:60
     old "Yeah, let's do it"
@@ -160,15 +160,15 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:102
     old "Go-Karts (NEW)"
-    new "Karts (NOUVEAU)"
+    new "Karting (NOUVEAU)"
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:106
     old "Go-Karts (NEW SEX CONTENT)"
-    new "Karts (NOUVEAU CONTENU SEXUEL)"
+    new "Karting (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:110
     old "Go-Karts (NEW CONVERSATIONS)"
-    new "Karts (NOUVELLES CONVERSATIONS)"
+    new "Karting (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:118
     old "Park (NEW)"
@@ -196,7 +196,7 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:154
     old "Just chat"
-    new "Juste discuter"
+    new "Papoter"
 
     # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:181
     old "Hang Out"
