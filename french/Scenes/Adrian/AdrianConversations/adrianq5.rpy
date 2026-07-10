@@ -4,7 +4,7 @@
 translate french adrianq5_8a5bd2b2:
 
     # gg "So, I was wondering..."
-    gg "Alors, je me demandais…"
+    gg "Hé, je me demandais…"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:16
 translate french adrianq5_fe6dcebc:
@@ -16,7 +16,7 @@ translate french adrianq5_fe6dcebc:
 translate french adrianq5_3c2413b0:
 
     # gg "How would you feel about having a threesome with another person who has a penis?"
-    gg "Que dirais-tu de faire un plan à trois avec une autre personne qui a un pénis ?"
+    gg "Ça te dirait de faire un plan à trois avec une personne qui a un pénis ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:19
 translate french adrianq5_6b1785df:
@@ -28,7 +28,7 @@ translate french adrianq5_6b1785df:
 translate french adrianq5_3c2413b0_1:
 
     # gg "How would you feel about having a threesome with another person who has a penis?"
-    gg "Ça te dirait de faire un plan à trois avec une autre personne qui a un pénis ?"
+    gg "Ça te dirait de faire un plan à trois avec une personne qui a un pénis ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:22
 translate french adrianq5_175928a2:
@@ -58,19 +58,19 @@ translate french adrianq5_e1b99333:
 translate french adrianq5_cecf3d46:
 
     # pc "Yeah, that would be super hot."
-    pc "Ouais, ça serait super excitant."
+    pc "Ouais, ça serait super chaud."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:30
 translate french adrianq5_c66c0e6f:
 
     # gg "Fuck yeah!"
-    gg "Putain, ouais !"
+    gg "Génial !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:32
 translate french adrianq5_322668d4:
 
     # gg "I've been thinking about it for a while."
-    gg "J'y pense depuis un moment."
+    gg "Ça fait un moment que j'y pense."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:33
 translate french adrianq5_ae6bdfa2:
@@ -88,7 +88,7 @@ translate french adrianq5_fab9bfd6:
 translate french adrianq5_ff75403b:
 
     # pc "Well, let's make it happen then."
-    pc "Bon, alors mettons ça en place."
+    pc "Alors on va le faire."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:38
 translate french adrianq5_32c6968a:
@@ -100,19 +100,19 @@ translate french adrianq5_32c6968a:
 translate french adrianq5_d44d500d:
 
     # pc "I don't think it'll be hard to find a guy who will fuck you."
-    pc "Je pense pas que ce soit difficile de trouver un mec qui te baise."
+    pc "Je pense pas que ce sera difficile de trouver un mec prêt à te baiser."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:40
 translate french adrianq5_4a571e84:
 
     # pc "You're really fucking hot, you know?"
-    pc "T'es vraiment super sexy, tu sais ?"
+    pc "T'es vraiment super canon, tu sais ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:42
 translate french adrianq5_f2f7b8e9:
 
     # gg "Haha, I guess."
-    gg "Haha, je suppose."
+    gg "Haha, si tu le dis."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:44
 translate french adrianq5_71c7d4ae:
@@ -142,37 +142,37 @@ translate french adrianq5_222061f9:
 translate french adrianq5_570162c3:
 
     # gg "Awesome. Just let me know."
-    gg "Génial. Tiens-moi au courant."
+    gg "Super. Tiens-moi au courant."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:51
 translate french adrianq5_3c25b8b9:
 
     # gg "That's going to be fucking amazing when we can do that."
-    gg "Ça va être génial quand on pourra faire ça."
+    gg "Ooooh, ça va être génial."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:53
 translate french adrianq5_e6f7fcfa:
 
     # gg "You're not going to get jealous or anything are you?"
-    gg "Tu ne vas pas être jaloux ou quoi que ce soit, n'est-ce pas ?"
+    gg "Tu ne vas pas être jaloux ou quoi que ce soit, hein ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:54
 translate french adrianq5_b2747242:
 
     # gg "It's not like I want to fuck other people. I just want to do fun things with you."
-    gg "C'est pas comme si j'avais envie de baiser d'autres personnes. Je veux juste faire des trucs sympas avec toi."
+    gg "C'est pas comme si j'avais envie de baiser d'autres personnes. Je veux juste m'amuser avec toi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:56
 translate french adrianq5_74f73534:
 
     # gg "If you weren't into it, I would drop it immediately."
-    gg "Si ça te disait rien, j'arrêterais tout de suite."
+    gg "Si ça te branche pas, j'arrête tout de suite."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:57
 translate french adrianq5_92ad560e:
 
     # gg "You're more important to me than any sexual fantasy."
-    gg "Tu es plus important pour moi que n'importe quel fantasme sexuel."
+    gg "Tu es plus important pour moi que n'importe quel fantasme."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:58
 translate french adrianq5_ef5a22ea:
@@ -184,7 +184,7 @@ translate french adrianq5_ef5a22ea:
 translate french adrianq5_2315206f:
 
     # pc "I'm not jealous. I want to make you feel good. I want to fulfill your fantasies."
-    pc "Je ne suis pas jalouse. Je veux te faire du bien. Je veux réaliser tes fantasmes."
+    pc "Je ne suis pas jaloux. Je veux te faire du bien. Je veux réaliser tes fantasmes."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:61
 translate french adrianq5_09862bc7:
@@ -202,25 +202,25 @@ translate french adrianq5_c596ba54:
 translate french adrianq5_d8550b4e:
 
     # gg "Oh fuck yeah."
-    gg "Oh putain, ouais."
+    gg "Oh ouais, carrément."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:68
 translate french adrianq5_ebd79671:
 
     # gg "I mean, it's not like I want to fuck other people. I just want to do fun things with you."
-    gg "Je veux dire, c'est pas comme si j'avais envie de baiser d'autres personnes. Je veux juste faire des trucs sympas avec toi."
+    gg "Je veux dire, c'est pas comme si j'avais envie de baiser d'autres personnes. Je veux juste m'amuser avec toi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:70
 translate french adrianq5_b10bc818:
 
     # gg "If you're not into it, I'll drop it immediately."
-    gg "Si ça ne te dit rien, j'abandonne tout de suite."
+    gg "Si ça te branche rien, je laisse tomber tout de suite."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:71
 translate french adrianq5_92ad560e_1:
 
     # gg "You're more important to me than any sexual fantasy."
-    gg "Tu comptes plus pour moi que n'importe quel fantasme sexuel."
+    gg "Tu comptes plus pour moi que n'importe quel fantasme."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:75
 translate french adrianq5_e1b99333_1:
@@ -232,13 +232,13 @@ translate french adrianq5_e1b99333_1:
 translate french adrianq5_cecf3d46_1:
 
     # pc "Yeah, that would be super hot."
-    pc "Ouais, ça serait super excitant."
+    pc "Ouais, ça serait super chaud."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:77
 translate french adrianq5_c66c0e6f_1:
 
     # gg "Fuck yeah!"
-    gg "Putain, ouais !"
+    gg "Super !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:79
 translate french adrianq5_322668d4_1:
@@ -250,7 +250,7 @@ translate french adrianq5_322668d4_1:
 translate french adrianq5_ae6bdfa2_1:
 
     # gg "Sucking a dick while getting fucked in the ass at the same time..."
-    gg "Sucer une bite tout en me faisant enculer en même temps..."
+    gg "Sucer une bite et me faire enculer en même temps..."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:82
 translate french adrianq5_fab9bfd6_1:
@@ -262,7 +262,7 @@ translate french adrianq5_fab9bfd6_1:
 translate french adrianq5_ff75403b_1:
 
     # pc "Well, let's make it happen then."
-    pc "Eh bien, mettons ça en pratique alors."
+    pc "Alors on va le faire."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:85
 translate french adrianq5_32c6968a_1:
@@ -274,25 +274,25 @@ translate french adrianq5_32c6968a_1:
 translate french adrianq5_d44d500d_1:
 
     # pc "I don't think it'll be hard to find a guy who will fuck you."
-    pc "Je pense pas que ce sera dur de trouver un mec qui te baisera."
+    pc "Je pense pas que ce sera dur de trouver un mec prêt à te baiser."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:87
 translate french adrianq5_4a571e84_1:
 
     # pc "You're really fucking hot, you know?"
-    pc "T'es vraiment super sexy, tu sais ?"
+    pc "T'es vraiment super canon, tu sais ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:89
 translate french adrianq5_f2f7b8e9_1:
 
     # gg "Haha, I guess."
-    gg "Haha, je suppose."
+    gg "Haha, si tu le dis."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:91
 translate french adrianq5_71c7d4ae_1:
 
     # gg "I'd want it to be a good person too, though."
-    gg "Mais j'aimerais que ce soit quelqu'un de bien aussi."
+    gg "Mais j'aimerais que ce soit quelqu'un de bien."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:92
 translate french adrianq5_d0d6f883_1:
@@ -322,7 +322,7 @@ translate french adrianq5_570162c3_1:
 translate french adrianq5_3c25b8b9_1:
 
     # gg "That's going to be fucking amazing when we can do that."
-    gg "Ça va être génial quand on pourra faire ça."
+    gg "Ooooh, ça va être génial."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:102
 translate french adrianq5_4838ca1c:
@@ -346,7 +346,7 @@ translate french adrianq5_4838ca1c_1:
 translate french adrianq5_5bf62690:
 
     # gg "You're more important to me than any of that. I just want to do fun stuff with you."
-    gg "Tu es plus importante pour moi que tout ça. Je veux juste faire des trucs sympas avec toi."
+    gg "T'es plus important pour moi qu'un fantasme. Je veux juste m'amuser avec toi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:109
 translate french adrianq5_93c58f86_1:
@@ -358,11 +358,11 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:3
     old "She will only ask this question after you have a threesome with Kendra."
-    new "Elle ne te posera cette question qu’après que tu aies fait un plan à trois avec Kendra."
+    new "Elle ne posera cette question qu’après un plan à trois avec Kendra."
 
     # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:26
     old "I'm into it"
-    new "Ça me tente"
+    new "Ça me branche"
 
     # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:64
     old "You really want that?"
@@ -370,9 +370,9 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:100
     old "I'm not into it"
-    new "Ça ne me tente pas"
+    new "Ça ne me branche pas"
 
     # game/Scenes/Adrian/AdrianConversations/adrianq5.rpy:105
     old "I'm not into that"
-    new "Je ne suis pas partante pour ça"
+    new "Ça me tente pas"
 
