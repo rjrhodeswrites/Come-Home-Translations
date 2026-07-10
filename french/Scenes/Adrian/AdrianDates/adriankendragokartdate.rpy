@@ -4,7 +4,7 @@
 translate french adriankendragokart_19c1106e:
 
     # "I go pick them both up and we drive out to the go-kart track together."
-    "Je passe les chercher tous les deux et on part ensemble à la piste de karting."
+    "Je passe les chercher toutes les deux et on part ensemble au circuit de karting."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:20
 translate french adriankendragokart_139f4ea6:
@@ -28,31 +28,31 @@ translate french adriankendragokart_34879e58:
 translate french adriankendragokart_b805bf6e:
 
     # pc "I'd be careful. I've never actually won against Kendra."
-    pc "Je ferais gaffe. Je n'ai jamais vraiment gagné contre Kendra."
+    pc "Je serais prudent à ta place. Je n'ai jamais gagné contre Kendra."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:29
 translate french adriankendragokart_afd6c9fa:
 
     # gg "Probably because she's so tiny that it's almost no weight in the go-kart."
-    gg "Probablement parce qu'elle est si petite qu'elle ne pèse presque rien dans le kart."
+    gg "Probablement parce qu'elle est si petite qu'elle pèse rien dans le kart."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:31
 translate french adriankendragokart_bbe75268:
 
     # sg "Or because I'm a friggin' badass."
-    sg "Ou parce que je suis une sacrée dure à cuire."
+    sg "Ou parce que je suis une putain de dure à cuire."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:32
 translate french adriankendragokart_3a932245:
 
     # gg "Either way, I'm not scared."
-    gg "Quoi qu'il en soit, je n'ai pas peur."
+    gg "Dans tous les cas, j'ai pas peur."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:34
 translate french adriankendragokart_da371eb7:
 
     # sg "Okay, then I say when we're done here, we go back to Adrian's place."
-    sg "D'accord, alors je propose qu'une fois qu'on a fini ici, on retourne chez Adrian."
+    sg "Ah ouais, alors je propose qu'une fois qu'on a fini ici, on retourne chez Adrian."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:35
 translate french adriankendragokart_abd96d01:
@@ -64,13 +64,13 @@ translate french adriankendragokart_abd96d01:
 translate french adriankendragokart_a2114d7d:
 
     # sg "And the loser gets double-teamed by the winner."
-    sg "Et le perdant se fait prendre en double par le gagnant."
+    sg "Et le perdant se fait prendre en double par les gagnants."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:38
 translate french adriankendragokart_fcee6bae:
 
     # gg "Wait, what? How exactly does that work?"
-    gg "Attends, quoi ? Comment ça marche exactement ?"
+    gg "Attends, quoi ? Comment ça marcherait exactement ?"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:39
 translate french adriankendragokart_c95b4338:
@@ -94,43 +94,43 @@ translate french adriankendragokart_a9da3e66:
 translate french adriankendragokart_e41a3047:
 
     # sg "It's pretty simple really."
-    sg "C'est assez simple, en fait."
+    sg "C'est simple, pourtant."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:45
 translate french adriankendragokart_90c63d53:
 
     # gg "I'm usually more of a bottom, I think, but would you want me to top you, [pcname]?"
-    gg "Je suis plutôt du genre passif, je crois, mais tu voudrais que je te prenne par-dessus, [pcname] ?"
+    gg "Je suis plutôt du genre passive, je crois, mais tu voudrais que je te prenne par-dessus, [pcname] ?"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:48
 translate french adriankendragokart_7f9b8297:
 
     # pc "Sounds fun to me."
-    pc "Ça me semble sympa."
+    pc "Ça me semble intéressant."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:50
 translate french adriankendragokart_f69ab244:
 
     # gg "I'm in, then."
-    gg "Je suis partant, alors."
+    gg "Je suis partante, alors."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:52
 translate french adriankendragokart_3f6daff3:
 
     # sg "Awesome! Let's do it!"
-    sg "Génial ! Allons-y !"
+    sg "Trop bien ! Allons-y !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:55
 translate french adriankendragokart_228ff9f1:
 
     # sg "Fine. You'll just have to do us both then."
-    sg "D'accord. Tu devras juste nous prendre tous les deux, alors."
+    sg "Bien. Tu devras juste nous prendre toutes les deux, alors."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:56
 translate french adriankendragokart_32401eda:
 
     # pc "I'm struggling to see what the downside of losing is."
-    pc "J'ai du mal à voir quel est l'inconvénient de perdre."
+    pc "J'ai du mal à voir l'inconvénient de perdre."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:57
 translate french adriankendragokart_5e7cce38:
@@ -148,7 +148,7 @@ translate french adriankendragokart_03eaad50:
 translate french adriankendragokart_3f6daff3_1:
 
     # sg "Awesome! Let's do it!"
-    sg "Génial ! C'est parti !"
+    sg "Trop bien ! C'est parti !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:63
 translate french adriankendragokart_114f08b1:
@@ -166,7 +166,7 @@ translate french adriankendragokart_81aa0c36:
 translate french adriankendragokart_39757b54:
 
     # pc "Yeah, let's do it."
-    pc "Ouais, c'est parti."
+    pc "Ouais, on le fait."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:68
 translate french adriankendragokart_842af83c:
@@ -196,7 +196,7 @@ translate french adriankendragokart_7339d785:
 translate french adriankendragokart_57cbab46:
 
     # "And with a quick bump, hits the front of Adrian's kart, knocking it to the side into the guardrail."
-    "Et d'un petit coup, elle percute l'avant du kart d'Adrian, le projetant sur le côté contre la glissière de sécurité."
+    "Et d'un petit coup, elle percute l'avant du kart d'Adrian, la projetant sur le côté contre la glissière."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:83
 translate french adriankendragokart_dd18ddee:
@@ -226,7 +226,7 @@ translate french adriankendragokart_bcdcf360:
 translate french adriankendragokart_00c8fbb2:
 
     # sg "Agree to disagree. Let's go! I want some diiiiiick!"
-    sg "On n'est pas d'accord. C'est parti ! J'ai envie d'une bite !"
+    sg "Si tu le dis. C'est parti ! J'ai envie d'une biiiiiite !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:93
 translate french adriankendragokart_7339d785_1:
@@ -244,13 +244,13 @@ translate french adriankendragokart_dfc1d4a0:
 translate french adriankendragokart_3a7837b2:
 
     # "...but instead of knocking Adrian into the guardrail, Adrian turns the wheel away and Kendra ends up spinning around backwards."
-    "... mais au lieu de projeter Adrian contre la glissière de sécurité, Adrian dévie le volant et Kendra finit par faire un tête-à-queue."
+    "... mais au lieu qu'Adrian soit projetée contre la glissière, elle dévie le volant et Kendra se retrouve à faire un tête-à-queue."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:100
 translate french adriankendragokart_43a298d5:
 
     # "It takes Kendra way too long to recorrect, and I'm able to pass them both in the scuffle."
-    "Kendra met beaucoup trop de temps à se redresser, et je parviens à les dépasser tous les deux dans la mêlée."
+    "Ça lui prend beaucoup trop de temps pour se redresser, et je parviens à les dépasser toutes les deux dans la mêlée."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:103
 translate french adriankendragokart_cf832a81:
@@ -262,7 +262,7 @@ translate french adriankendragokart_cf832a81:
 translate french adriankendragokart_5edf2410:
 
     # gg "That's what happens when you try to do tricky stuff like that!"
-    gg "C'est ce qui arrive quand on essaie des trucs louches comme ça !"
+    gg "Voilà ce qui arrive quand on tente des coups fourrés comme ça !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:105
 translate french adriankendragokart_318880a9:
@@ -274,19 +274,19 @@ translate french adriankendragokart_318880a9:
 translate french adriankendragokart_c273a18d:
 
     # sg "Now I'm going to get stuffed with so much dick I'm gonna be walking funny tomorrow, huh?"
-    sg "Maintenant, je vais me faire fourrer tellement de bites que je vais marcher bizarrement demain, hein ?"
+    sg "Maintenant, je vais me faire fourrer par tellement de bite que je vais marcher bizarrement demain, hein ?"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:107
 translate french adriankendragokart_c46fcea1:
 
     # gg "You know you love it."
-    gg "Tu sais que tu adores ça."
+    gg "T'adores ça et tu le sais."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:108
 translate french adriankendragokart_cb69a99f:
 
     # sg "You're right. I'm such a slut. Let's go!"
-    sg "Tu as raison. Je suis une vraie salope. C'est parti !"
+    sg "T'as raison. Je suis une vraie salope. C'est parti !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:112
 translate french adriankendragokart_d3cd9fca:
@@ -298,13 +298,13 @@ translate french adriankendragokart_d3cd9fca:
 translate french adriankendragokart_a28bcb2f:
 
     # "It feels like my kart is just not as fast as theirs. Or maybe it's because I'm heavier than them."
-    "J'ai l'impression que mon kart n'est tout simplement pas aussi rapide que les leurs. Ou peut-être est-ce parce que je suis plus lourde qu'eux."
+    "J'ai l'impression que mon kart n'est tout simplement pas aussi rapide que les leurs. Ou peut-être est-ce parce que je suis plus lourd qu'eux."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:116
 translate french adriankendragokart_fa8da99d:
 
     # "I never felt like I was actually in the race, while they're trying to maneuver around each other in the corners ahead of me."
-    "Je n'ai jamais eu l'impression d'être vraiment dans la course, alors qu'ils essaient de se dépasser dans les virages devant moi."
+    "Pendant qu'elles sont occupées à se doubler dans les virages devant moi, j'ai pas une fois l'impression d'être vraiment dans la course."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:119
 translate french adriankendragokart_5d58ae93:
@@ -316,19 +316,19 @@ translate french adriankendragokart_5d58ae93:
 translate french adriankendragokart_b419f51e:
 
     # pc "Well, that sucked. My kart was junk."
-    pc "Bon, ça craignait. Mon kart était une vraie merde."
+    pc "Pfff, c'était nul. Mon kart était une vraie merde."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:123
 translate french adriankendragokart_50ef7b8d:
 
     # gg "Yeah I noticed. Sorry, [pcname]."
-    gg "Ouais, j’ai remarqué. Désolé, [pcname]."
+    gg "Ouais, j’ai remarqué. Désolée, [pcname]."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:125
 translate french adriankendragokart_b16aff15:
 
     # sg "I'm not sorry. That means I get to see Adrian fuck you. That's going to be hot!"
-    sg "Je ne suis pas désolé. Ça veut dire que je vais voir Adrian te baiser. Ça va être chaud !"
+    sg "Je suis pas désolée. Je vais voir Adrian te baiser. Ça va être chaud !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:126
 translate french adriankendragokart_55c55286:
@@ -346,7 +346,7 @@ translate french adriankendragokart_1a1c3141:
 translate french adriankendragokart_d632b3c2:
 
     # gg "I never really considered myself a top, but I definitely don't mind trying it."
-    gg "Je ne me suis jamais vraiment considéré comme un actif, mais ça ne me dérange pas du tout d’essayer."
+    gg "Je ne me suis jamais vraiment vue au-dessus, mais ça ne me dérange pas du tout d’essayer."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:131
 translate french adriankendragokart_d4ede98c:
@@ -358,7 +358,7 @@ translate french adriankendragokart_d4ede98c:
 translate french adriankendragokart_b9f519b6:
 
     # gg "That's okay. I never really considered myself a top anyway."
-    gg "C'est pas grave. Je me suis jamais vraiment considéré comme un actif de toute façon."
+    gg "C'est pas grave. Je me suis jamais vraiment vue au-dessus de toute façon."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:136
 translate french adriankendragokart_acb22b9c:
@@ -370,13 +370,13 @@ translate french adriankendragokart_acb22b9c:
 translate french adriankendragokart_d882afce:
 
     # sg "Well, [kdaddy]'s gotta fuck us both then. Let's go!"
-    sg "Bon, [kdaddy] va devoir nous baiser tous les deux alors. Allez, c'est parti !"
+    sg "Bon, [kdaddy] va devoir nous baiser toutes les deux alors. Allez, c'est parti !"
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:139
 translate french adriankendragokart_ab651372:
 
     # sg "I'm not sorry. That means you gotta fuck us both."
-    sg "Je suis pas désolé. Ça veut dire que tu vas devoir nous baiser tous les deux."
+    sg "Je suis pas désolé. Ça veut dire que tu dois nous baiser toutes les deux."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:140
 translate french adriankendragokart_5d2bada0:
@@ -412,7 +412,7 @@ translate french adriankendragokart_767ebb59_1:
 translate french adriankendragokart_5cd8f975:
 
     # sg "I feel so goozey."
-    sg "Je me sens tout gluant."
+    sg "Je me sens toute chose."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:172
 translate french adriankendragokart_d41d8cd9:
@@ -424,7 +424,7 @@ translate french adriankendragokart_d41d8cd9:
 translate french adriankendragokart_0a17b864:
 
     # gg "I'm sorry. I came so much."
-    gg "Désolé. J'ai tellement joui."
+    gg "Désolée. J'ai tellement joui."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:174
 translate french adriankendragokart_1a835180:
@@ -436,7 +436,7 @@ translate french adriankendragokart_1a835180:
 translate french adriankendragokart_a69a7d27:
 
     # sg "Next time, I'm going to win though."
-    sg "Mais la prochaine fois, c'est moi qui vais gagner."
+    sg "Mais la prochaine fois, c'est moi qui gagne."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:177
 translate french adriankendragokart_767ebb59_2:
@@ -448,13 +448,13 @@ translate french adriankendragokart_767ebb59_2:
 translate french adriankendragokart_444b4099:
 
     # "Nobody had ever put anything inside me before, so having Adrian do it now felt weird at first."
-    "Personne ne m'avait jamais pénétrée auparavant, alors quand Adrian l'a fait, ça m'a paru bizarre au début."
+    "Personne ne m'avait jamais pénétré auparavant, alors quand Adrian l'a fait, ça m'a paru bizarre au début."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:185
 translate french adriankendragokart_6111c7c5:
 
     # "Then it started feeling really good."
-    "Puis ça a commencé à me faire vraiment du bien."
+    "Puis ça a commencé à être vraiment bon."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:186
 translate french adriankendragokart_87d589e7:
@@ -478,13 +478,13 @@ translate french adriankendragokart_23173259:
 translate french adriankendragokart_811e75a9:
 
     # sg "It was so fucking hot."
-    sg "C'était tellement excitant."
+    sg "C'était tellement super chaud."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:201
 translate french adriankendragokart_1d0c3204:
 
     # pc "Yeah. Next time, I'm going to win though."
-    pc "Ouais. Mais la prochaine fois, c'est moi qui vais gagner."
+    pc "Ouais. Mais la prochaine fois, c'est moi qui gagne."
 
 # game/Scenes/Adrian/AdrianDates/adriankendragokartdate.rpy:204
 translate french adriankendragokart_530c8ee1:
