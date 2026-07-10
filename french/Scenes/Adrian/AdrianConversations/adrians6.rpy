@@ -52,19 +52,19 @@ translate french adrians6_cded8a02:
 translate french adrians6_a10a7ac0:
 
     # gg "Yeah, but that's part of what makes them cool!"
-    gg "Ouais, mais c’est en partie ce qui les rend cool !"
+    gg "Ouais, mais ça fait partie ce qui les rend cool !"
 
 # game/Scenes/Adrian/AdrianConversations/adrians6.rpy:28
 translate french adrians6_b4234ad6:
 
     # gg "Besides, the speed limit on every street in Skyhill is like 30 miles per hour."
-    gg "En plus, la limite de vitesse sur toutes les rues de Skyhill est à environ 50 km/h."
+    gg "En plus, dans toutes les rues de Skyhill, la limite de vitesse c'est genre 50 km/h."
 
 # game/Scenes/Adrian/AdrianConversations/adrians6.rpy:29
 translate french adrians6_da1f8c49:
 
     # gg "I'm not gonna be riding it on {i}der Autobahn{/i} or anything."
-    gg "Je ne vais pas rouler sur {i}l'Autobahn{/i} ou quoi que ce soit du genre."
+    gg "Je ne vais pas rouler sur {i}der Autobahn{/i} ou quoi que ce soit du genre."
 
 # game/Scenes/Adrian/AdrianConversations/adrians6.rpy:30
 translate french adrians6_d0c89101:
