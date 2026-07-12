@@ -4,13 +4,13 @@
 translate french adrian2_8e7751b4:
 
     # "In my social studies class, Adrian and I talk a bit before class starts."
-    "En cours d'éducation civique, Adrian et moi discutons un peu avant le début du cours."
+    "En cours de sciences sociales, Adrian et moi discutons un peu avant le début du cours."
 
 # game/Scenes/Adrian/Adrian2.rpy:12
 translate french adrian2_dfe32186:
 
     # gg "Have you played any Souls of War?"
-    gg "Tu as déjà joué à Souls of War ?"
+    gg "T'as déjà joué à Souls of War ?"
 
 # game/Scenes/Adrian/Adrian2.rpy:13
 translate french adrian2_ce2ffb52:
@@ -22,7 +22,7 @@ translate french adrian2_ce2ffb52:
 translate french adrian2_f421b58a:
 
     # gg "Yeah, man. It's great. I've been playing it like crazy the last couple of weeks."
-    gg "Ouais, mec. C'est génial. J'y joue comme un fou depuis deux semaines."
+    gg "Ouais, mec. C'est génial. Je suis à fond dessus depuis deux semaines."
 
 # game/Scenes/Adrian/Adrian2.rpy:15
 translate french adrian2_c7884527:
@@ -40,7 +40,7 @@ translate french adrian2_dff1d00f:
 translate french adrian2_9a1fce33:
 
     # gg "Hey, if you want to see what it's like, you could come over to my house and I could show you."
-    gg "Hé, si tu veux voir à quoi ça ressemble, tu pourrais passer chez moi et je te le montrerais."
+    gg "Hé, si tu veux voir à quoi ça ressemble, tu pourrais passer chez moi et je te montrerais."
 
 # game/Scenes/Adrian/Adrian2.rpy:23
 translate french adrian2_8c2be035:
@@ -52,13 +52,13 @@ translate french adrian2_8c2be035:
 translate french adrian2_38aec589:
 
     # pc "Sure, I'll head over after work."
-    pc "Bien sûr, je passerai après le boulot."
+    pc "Ouais, je passerai après le boulot."
 
 # game/Scenes/Adrian/Adrian2.rpy:25
 translate french adrian2_840b1f51:
 
     # gg "Okay, I'll text you my address."
-    gg "OK, je t'envoie mon adresse par SMS."
+    gg "OK, je t'enverrai mon adresse."
 
 # game/Scenes/Adrian/Adrian2.rpy:26
 translate french adrian2_7893f16a:
@@ -70,7 +70,7 @@ translate french adrian2_7893f16a:
 translate french adrian2_d639582e:
 
     # gg "Me too, I can't wait."
-    gg "Moi aussi, j'ai hâte."
+    gg "Moi aussi, vivement ce soir."
 
 # game/Scenes/Adrian/Adrian2.rpy:30
 translate french adrian2_c922aa63:
@@ -106,5 +106,5 @@ translate french strings:
 
     # game/Scenes/Adrian/Adrian2.rpy:28
     old "I don't think so"
-    new "Je ne crois pas"
+    new "Non merci"
 
