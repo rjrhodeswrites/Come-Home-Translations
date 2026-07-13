@@ -28,13 +28,13 @@ translate french adrian8_e74e5c12:
 translate french adrian8_c56bc283:
 
     # gg "I was hoping that you could come over to my house. I wanted to talk to you about something."
-    gg "J'espérais que tu pourrais passer chez moi. Je voulais te parler de quelque chose."
+    gg "J'espérais que tu puisses passer chez moi. Je voulais te parler de quelque chose."
 
 # game/Scenes/Adrian/adrian8.rpy:25
 translate french adrian8_969a62bc:
 
     # gg "It's kind of serious. Not something I really want to talk to you about over the phone."
-    gg "C'est assez sérieux. Ce n'est pas le genre de chose dont j'ai vraiment envie de te parler au téléphone."
+    gg "C'est assez sérieux. C'est pas vraiment le genre de chose dont j'ai envie de parler au téléphone."
 
 # game/Scenes/Adrian/adrian8.rpy:26
 translate french adrian8_29614313:
@@ -46,7 +46,7 @@ translate french adrian8_29614313:
 translate french adrian8_3fe97533:
 
     # gg "Yeah. At least, I think it is. Can you come over?"
-    gg "Oui. Du moins, je crois. Tu peux venir ?"
+    gg "Oui. Enfin, je crois. Tu peux venir ?"
 
 # game/Scenes/Adrian/adrian8.rpy:28
 translate french adrian8_06cea6b3:
@@ -124,13 +124,13 @@ translate french adrian8b_51c1b0fb:
 translate french adrian8b_44157735:
 
     # gg "Really? I guess I'm not passing as well as I thought then."
-    gg "Vraiment ? Je suppose que je ne passe pas aussi bien que je le pensais, alors."
+    gg "Vraiment ? Alors je devais pas le cacher aussi bien que je pensais."
 
 # game/Scenes/Adrian/adrian8.rpy:65
 translate french adrian8b_1d53153c:
 
     # gg "But you were still interested in me?"
-    gg "Mais tu étais quand même intéressé par moi ?"
+    gg "Mais je te plaisais quand même ?"
 
 # game/Scenes/Adrian/adrian8.rpy:68
 translate french adrian8b_0cbb35b5:
@@ -172,7 +172,7 @@ translate french adrian8b_905b38b8:
 translate french adrian8b_ac37fdb4:
 
     # gg "Maybe I could tell you a little more about it."
-    gg "Je pourrais peut-être t'en dire un peu plus à ce sujet."
+    gg "Je pourrais peut-être te raconter un peu plus ?."
 
 # game/Scenes/Adrian/adrian8.rpy:78
 translate french adrian8b_61f77a4c:
@@ -190,13 +190,13 @@ translate french adrian8b_05912956:
 translate french adrian8b_d7614a9f:
 
     # pc "Sorry, I didn't mean to give you that impression."
-    pc "Désolée, je ne voulais pas te donner cette impression."
+    pc "Désolé, je voulais pas donner cette impression."
 
 # game/Scenes/Adrian/adrian8.rpy:85
 translate french adrian8b_81eebb53:
 
     # gg "Well thank you for being a friend anyway. We can definitely still hang out and stuff."
-    gg "Eh bien, merci quand même d’être mon amie. On peut tout à fait continuer à se voir et tout ça."
+    gg "Eh bien, merci quand même d’être mon ami. On peut tout à fait continuer à se voir et tout ça."
 
 # game/Scenes/Adrian/adrian8.rpy:86
 translate french adrian8b_3dcda64e:
@@ -232,13 +232,13 @@ translate french adrian8b_11b003e9:
 translate french adrian8b_fd4c5306:
 
     # pc "I never would have guessed."
-    pc "Je n'aurais jamais deviné."
+    pc "J'aurais jamais deviné."
 
 # game/Scenes/Adrian/adrian8.rpy:99
 translate french adrian8b_4c4e1626:
 
     # gg "Well... are you still interested?"
-    gg "Eh bien… tu es toujours intéressé ?"
+    gg "Et… je t'intéresse toujours ?"
 
 # game/Scenes/Adrian/adrian8.rpy:102
 translate french adrian8b_0cbb35b5_1:
@@ -280,7 +280,7 @@ translate french adrian8b_905b38b8_1:
 translate french adrian8b_ac37fdb4_1:
 
     # gg "Maybe I could tell you a little more about it."
-    gg "Je pourrais peut-être t’en dire un peu plus."
+    gg "Je pourrais peut-être te raconter un peu plus ?."
 
 # game/Scenes/Adrian/adrian8.rpy:112
 translate french adrian8b_61f77a4c_1:
@@ -304,13 +304,13 @@ translate french adrian8b_508df5f5:
 translate french adrian8b_e1dfc80a:
 
     # gg "I didn't mean to surprise you with this, or keep it a secret or anything, it's just sometimes hard to bring up. You never know how somebody is going to react."
-    gg "Je ne voulais pas te surprendre avec ça, ni en faire un secret ou quoi que ce soit, c’est juste que c’est parfois difficile d’aborder le sujet. On ne sait jamais comment quelqu’un va réagir."
+    gg "Je ne voulais pas te surprendre avec ça, ni en faire un secret ou quoi que ce soit, c’est juste que ça peut être difficile d’aborder le sujet. On ne sait jamais comment l'autre va réagir."
 
 # game/Scenes/Adrian/adrian8.rpy:119
 translate french adrian8b_46f97d11:
 
     # pc "It's no problem, I understand. Thank you for trusting me with this."
-    pc "Ce n’est pas grave, je comprends. Merci de m’avoir fait confiance."
+    pc "C’est pas grave, je comprends. Merci de m’avoir fait confiance."
 
 # game/Scenes/Adrian/adrian8.rpy:120
 translate french adrian8b_499564e6:
@@ -340,31 +340,31 @@ translate french adrian8b_3be936d6_1:
 translate french adrian8b_4ffd6c13:
 
     # gg "Even when I was younger, I never really felt like the other boys."
-    gg "Même quand j'étais plus jeune, je ne me suis jamais vraiment senti comme les autres garçons."
+    gg "Même quand j'étais plus jeune, je me suis jamais vraiment senti comme les autres garçons."
 
 # game/Scenes/Adrian/adrian8.rpy:130
 translate french adrian8b_ba8e8213:
 
     # gg "I always felt more feminine, felt like I didn't belong with the rest of them."
-    gg "Je me suis toujours sentie plus féminine, j’avais l’impression de ne pas être à ma place avec les autres."
+    gg "Je me suis toujours sentie plus féminine, j’avais l’impression de pas être à ma place avec les autres."
 
 # game/Scenes/Adrian/adrian8.rpy:131
 translate french adrian8b_ee183101:
 
     # gg "So, eventually, I started identifying as a girl online. Like in video games and stuff. And something about it just felt RIGHT."
-    gg "Du coup, j’ai fini par m’identifier comme une fille en ligne. Dans les jeux vidéo et tout ça. Et ça me semblait tout simplement NATUREL."
+    gg "Du coup, sur Internet, j’ai fini par m’identifier comme une fille. Dans les jeux vidéo et tout ça. Et ça venait tout seul."
 
 # game/Scenes/Adrian/adrian8.rpy:132
 translate french adrian8b_cb2dd1bb:
 
     # gg "I didn't come out as trans for a while, because I knew my family wouldn't approve."
-    gg "Je n’ai pas fait mon coming out en tant que trans pendant un moment, parce que je savais que ma famille n’approuverait pas."
+    gg "J’ai pas fait mon coming out de trans pendant un moment, parce que je savais que ma famille n’approuverait pas."
 
 # game/Scenes/Adrian/adrian8.rpy:133
 translate french adrian8b_6c48fa79:
 
     # gg "But after a while, I just couldn't take it anymore. I wanted to be who I felt like I should be."
-    gg "Mais au bout d’un moment, je n’en pouvais plus. Je voulais être celle que je sentais que je devais être."
+    gg "Mais au bout d’un moment, j’en pouvais plus. Je voulais être celle que je sentais que je devais être."
 
 # game/Scenes/Adrian/adrian8.rpy:135
 translate french adrian8b_4c38e634:
@@ -376,13 +376,13 @@ translate french adrian8b_4c38e634:
 translate french adrian8b_9310348b:
 
     # gg "My dad and his whole side of the family just would not accept it."
-    gg "Mon père et toute sa famille n’ont tout simplement pas voulu l’accepter."
+    gg "Mon père et tou son côté de la famille ne l'ont tout simplement pas accepté."
 
 # game/Scenes/Adrian/adrian8.rpy:137
 translate french adrian8b_d41db744:
 
     # gg "My mom supported me though. And still does. She's been fantastic the whole time."
-    gg "Ma mère m’a soutenue, par contre. Et elle le fait toujours. Elle a été formidable tout au long de cette période."
+    gg "Mais ma mère m’a soutenue. Et elle le fait toujours. Elle a été formidable pendant toute cette période."
 
 # game/Scenes/Adrian/adrian8.rpy:138
 translate french adrian8b_47fe7df0:
@@ -400,19 +400,19 @@ translate french adrian8b_e01b7977:
 translate french adrian8b_3c12409d:
 
     # gg "You don't support who I am, then you don't love me, so why should I spend a second thought thinking about you?"
-    gg "Si vous ne soutenez pas qui je suis, c'est que vous ne m'aimez pas, alors pourquoi devrais-je passer une seconde à penser à vous ?"
+    gg "Si tu soutiens pas qui je suis, c'est que tu m'aimes pas, donc pourquoi je devrais m'emmerder à t'avoir dans ma vie ?"
 
 # game/Scenes/Adrian/adrian8.rpy:143
 translate french adrian8b_bb6dc664:
 
     # gg "So I started on hormone therapy about a year and a half ago, and that's going good."
-    gg "J'ai donc commencé un traitement hormonal il y a environ un an et demi, et ça se passe bien."
+    gg "Après ça, j'ai commencé un traitement hormonal il y a environ un an et demi, et ça se passe bien."
 
 # game/Scenes/Adrian/adrian8.rpy:144
 translate french adrian8b_26ad8579:
 
     # gg "I'm hoping to get surgery some day. At least top surgery. Not sure about bottom surgery yet."
-    gg "J'espère pouvoir me faire opérer un jour. Au moins pour le haut. Je ne suis pas encore sûre pour le bas."
+    gg "J'espère pouvoir me faire opérer un jour. Au moins pour le haut. Je suis pas encore sûre pour le bas."
 
 # game/Scenes/Adrian/adrian8.rpy:146
 translate french adrian8b_d41d8cd9_3:
@@ -424,7 +424,7 @@ translate french adrian8b_d41d8cd9_3:
 translate french adrian8b_46510896:
 
     # gg "And that's about it, I guess. I'm me. I'm a transwoman. Same as any other woman, just swinging a dick down there."
-    gg "Et c'est à peu près tout, je suppose. Je suis moi. Je suis une femme trans. Comme n'importe quelle autre femme, sauf que j'ai une bite là en bas."
+    gg "Et c'est à peu près tout. Je suis moi. Je suis une femme trans. Comme n'importe quelle autre femme, sauf que là-dessous, j'ai une bite."
 
 # game/Scenes/Adrian/adrian8.rpy:148
 translate french adrian8b_717563f7:
@@ -460,13 +460,13 @@ translate french adrian8b_022eb7b1:
 translate french adrian8b_e1dfc80a_1:
 
     # gg "I didn't mean to surprise you with this, or keep it a secret or anything, it's just sometimes hard to bring up. You never know how somebody is going to react."
-    gg "Je ne voulais pas te surprendre avec ça, ni en faire un secret ou quoi que ce soit, c'est juste que parfois, c'est difficile d'aborder le sujet. On ne sait jamais comment quelqu'un va réagir."
+    gg "Je voulais pas te surprendre avec ça, ni en faire un secret ou quoi que ce soit, c'est juste que parfois, c'est difficile d'aborder le sujet. On sait jamais comment l'autre va réagir."
 
 # game/Scenes/Adrian/adrian8.rpy:160
 translate french adrian8b_46f97d11_1:
 
     # pc "It's no problem, I understand. Thank you for trusting me with this."
-    pc "Ce n'est pas grave, je comprends. Merci de m'avoir fait confiance."
+    pc "C'est pas grave, je comprends. Merci de m'avoir fait confiance."
 
 # game/Scenes/Adrian/adrian8.rpy:161
 translate french adrian8b_499564e6_1:
@@ -532,7 +532,7 @@ translate french adrian8b_1094b697:
 translate french adrian8b_5aacbcd7:
 
     # "We keep kissing, biting and sucking lips, our tongues dancing in each other's mouths."
-    "On continue à s'embrasser, à se mordre et à se sucer les lèvres, nos langues dansant dans la bouche l'une de l'autre."
+    "On continue à s'embrasser, à se mordiller et sucer les lèvres, nos langues dansant dans la bouche l'un de l'autre."
 
 # game/Scenes/Adrian/adrian8.rpy:180
 translate french adrian8b_b6677a33:
@@ -592,13 +592,13 @@ translate french adrian8b_83e73bfa:
 translate french adrian8b_31ea97fa:
 
     # "I sit back down on the bed and Adrian strips out of her shirt first."
-    "Je me rassois sur le lit et Adrian enlève son t-shirt en premier."
+    "Je me rassois sur le lit et Adrian enlève d'abord son t-shirt."
 
 # game/Scenes/Adrian/adrian8.rpy:201
 translate french adrian8b_cebeeaca:
 
     # gg "My boobs are kind of small, but at least they're something. The hormone therapy helps some. I want to get surgery eventually though."
-    gg "Mes seins sont un peu petits, mais au moins j'en ai. L'hormonothérapie aide un peu. Mais je veux finir par me faire opérer."
+    gg "Mes seins sont un peu petits, mais au moins j'en ai. L'hormonothérapie aide un peu. Mais je veux me faire opérer."
 
 # game/Scenes/Adrian/adrian8.rpy:202
 translate french adrian8b_ae406147:
@@ -610,13 +610,13 @@ translate french adrian8b_ae406147:
 translate french adrian8b_457e911b:
 
     # gg "Thanks. I'm a little nervous about this."
-    gg "Merci. Je suis un peu nerveuse à ce sujet."
+    gg "Merci. Je suis un peu nerveuse."
 
 # game/Scenes/Adrian/adrian8.rpy:204
 translate french adrian8b_da25b7d1:
 
     # gg "I've never shown this to anybody."
-    gg "Je n’ai jamais montré ça à personne."
+    gg "Je les ai jamais montrés à personne."
 
 # game/Scenes/Adrian/adrian8.rpy:205
 translate french adrian8b_eacd2e0d:
@@ -628,7 +628,7 @@ translate french adrian8b_eacd2e0d:
 translate french adrian8b_041b8cb4:
 
     # gg "I'm more than okay. I want this. I want you. Really bad."
-    gg "Ça me va plus que ça. J’en ai envie. J’ai envie de toi. Vraiment très envie."
+    gg "Ça me va très bien. J’en ai envie. J’ai envie de toi. Vraiment très envie."
 
 # game/Scenes/Adrian/adrian8.rpy:209
 translate french adrian8b_73470995:
@@ -640,7 +640,7 @@ translate french adrian8b_73470995:
 translate french adrian8b_2109624a:
 
     # gg "Are you sure you want to see it?"
-    gg "Tu es sûr de vouloir voir ça ?"
+    gg "Tu es sûr de vouloir la voir ?"
 
 # game/Scenes/Adrian/adrian8.rpy:211
 translate french adrian8b_dafec977:
@@ -682,7 +682,7 @@ translate french adrian8b_e1b99333:
 translate french adrian8b_b202c715:
 
     # pc "Yeah. Come here."
-    pc "Oui. Viens ici."
+    pc "Oui. Viens par ici."
 
 # game/Scenes/Adrian/adrian8.rpy:222
 translate french adrian8b_2856f2ba:
@@ -730,13 +730,13 @@ translate french adrian8b_fa5123a5:
 translate french adrian8b_eee481a2:
 
     # gg "I've never done this before, okay? So let me know how I'm doing. I want to make you feel amazing."
-    gg "Je n’ai jamais fait ça avant, d’accord ? Alors dis-moi comment je m’en sors. Je veux que tu te sentes incroyablement bien."
+    gg "J’ai jamais fait ça, d’accord ? Alors dis-moi comment je m’en sors. Je veux que tu aies des sensations incroyables."
 
 # game/Scenes/Adrian/adrian8.rpy:232
 translate french adrian8b_a5d20584:
 
     # pc "Okay, but you already make me feel amazing."
-    pc "D’accord, mais tu me fais déjà me sentir incroyablement bien."
+    pc "D’accord, mais j'ai déjà des senssations incroyables."
 
 # game/Scenes/Adrian/adrian8.rpy:237
 translate french adrian8b_2febed5c:
@@ -772,7 +772,7 @@ translate french adrian8b_b3ad5283:
 translate french adrian8b_19040435:
 
     # pc "Don't be sorry, it feels fantastic."
-    pc "Ne t'excuse pas, c'est fantastique."
+    pc "Sois pas désolée, c'est fantastique."
 
 # game/Scenes/Adrian/adrian8.rpy:243
 translate french adrian8b_e10beef9:
@@ -802,7 +802,7 @@ translate french adrian8b_53526c09:
 translate french adrian8b_3f67e778:
 
     # "She starts bobbing her head up and down on my cock faster now, using her hand to stroke my shaft while she sucks on the tip."
-    "Elle commence à bouger sa tête de haut en bas sur ma bite plus vite maintenant, utilisant sa main pour caresser mon membre pendant qu’elle suce le bout."
+    "Elle commence à bouger sa tête de haut en bas sur ma bite plus vite, utilisant sa main pour caresser mon membre pendant qu’elle suce le bout."
 
 # game/Scenes/Adrian/adrian8.rpy:256
 translate french adrian8b_625a25c1:
@@ -856,7 +856,7 @@ translate french adrian8b_6baa0780:
 translate french adrian8b_848aeeab:
 
     # pc "Hol... ughh..."
-    pc "Attends... ughh..."
+    pc "Att... aaah..."
 
 # game/Scenes/Adrian/adrian8.rpy:268
 translate french adrian8b_ef09b0d3:
@@ -880,7 +880,7 @@ translate french adrian8b_64ed14f2:
 translate french adrian8b_dee0d491:
 
     # gg "Oh shit, man!"
-    gg "Oh merde, mec !"
+    gg "Oh merde !"
 
 # game/Scenes/Adrian/adrian8.rpy:275
 translate french adrian8b_8837fcf6:
@@ -892,13 +892,13 @@ translate french adrian8b_8837fcf6:
 translate french adrian8b_9bf8753e:
 
     # gg "You sprayed the fuck out of me, man. Haha!"
-    gg "Tu m’as complètement aspergée, mec. Haha !"
+    gg "Tu m’as complètement aspergée. Haha !"
 
 # game/Scenes/Adrian/adrian8.rpy:277
 translate french adrian8b_ae93b742:
 
     # pc "Yeah sorry. I couldn't hold back."
-    pc "Ouais, désolé. Je n’ai pas pu me retenir."
+    pc "Ouais, désolé. J’ai pas pu me retenir."
 
 # game/Scenes/Adrian/adrian8.rpy:278
 translate french adrian8b_a13379b0:
@@ -916,7 +916,7 @@ translate french adrian8b_f2f48f3e:
 translate french adrian8b_d0bf80b8:
 
     # gg "I was just curious what it tastes like. I mean, I've tasted mine, but yours does taste better for some reason."
-    gg "J'étais juste curieuse de savoir quel goût ça avait. Je veux dire, j'ai goûté le mien, mais le tien a meilleur goût pour une raison quelconque."
+    gg "J'étais juste curieuse de savoir quel goût ça avait. Je veux dire, j'ai goûté le mien, mais le tien est meilleur, va savoir pourquoi."
 
 # game/Scenes/Adrian/adrian8.rpy:283
 translate french adrian8b_3663c846:
@@ -964,7 +964,7 @@ translate french adrian8nodick_1ba3e6e7:
 translate french adrian8nodick_97b1a3b8:
 
     # gg "You have no idea how badly I've been wanting this."
-    gg "Tu n'as pas idée à quel point j'en avais envie."
+    gg "T'as pas idée à quel point j'en avais envie."
 
 # game/Scenes/Adrian/adrian8.rpy:297
 translate french adrian8nodick_b3791d05:
@@ -994,13 +994,13 @@ translate french adrian8nodick_fa5123a5:
 translate french adrian8nodick_eee481a2:
 
     # gg "I've never done this before, okay? So let me know how I'm doing. I want to make you feel amazing."
-    gg "Je n'ai jamais fait ça avant, d'accord ? Alors dis-moi comment je m'en sors. Je veux que tu te sentes incroyablement bien."
+    gg "Je n'ai jamais fait ça avant, d'accord ? Alors dis-moi comment je m'en sors. Je veux que tu aies des sensations incroyables."
 
 # game/Scenes/Adrian/adrian8.rpy:304
 translate french adrian8nodick_a5d20584:
 
     # pc "Okay, but you already make me feel amazing."
-    pc "D'accord, mais tu me fais déjà un bien fou."
+    pc "D'accord, mais j'ai déjà des sensations incroyables."
 
 # game/Scenes/Adrian/adrian8.rpy:308
 translate french adrian8nodick_2febed5c:
@@ -1036,13 +1036,13 @@ translate french adrian8nodick_b3ad5283:
 translate french adrian8nodick_19040435:
 
     # pc "Don't be sorry, it feels fantastic."
-    pc "Ne t'excuse pas, c'est fantastique."
+    pc "Sois pas désolée, c'est fantastique."
 
 # game/Scenes/Adrian/adrian8.rpy:314
 translate french adrian8nodick_e10beef9:
 
     # "She sucks a little softer now and though I can tell she hasn't had much experience at this, it feels incredible."
-    "Elle suce un peu plus doucement maintenant et même si je vois bien qu'elle n'a pas beaucoup d'expérience, c'est incroyable."
+    "Elle suce un peu plus doucement, et même si je vois bien qu'elle n'a pas beaucoup d'expérience, c'est incroyable."
 
 # game/Scenes/Adrian/adrian8.rpy:315
 translate french adrian8nodick_dc9d8af8:
@@ -1072,7 +1072,7 @@ translate french adrian8nodick_53526c09:
 translate french adrian8nodick_3f67e778:
 
     # "She starts bobbing her head up and down on my cock faster now, using her hand to stroke my shaft while she sucks on the tip."
-    "Elle commence à bouger sa tête de haut en bas sur ma bite plus vite maintenant, utilisant sa main pour caresser mon membre pendant qu'elle suce le bout."
+    "Elle commence à bouger sa tête de haut en bas sur ma bite plus vite, utilisant sa main pour caresser mon membre pendant qu'elle suce le bout."
 
 # game/Scenes/Adrian/adrian8.rpy:323
 translate french adrian8nodick_625a25c1:
@@ -1126,7 +1126,7 @@ translate french adrian8nodick_6baa0780:
 translate french adrian8nodick_848aeeab:
 
     # pc "Hol... ughh..."
-    pc "Attends... ughh..."
+    pc "Att... aaah..."
 
 # game/Scenes/Adrian/adrian8.rpy:333
 translate french adrian8nodick_ef09b0d3:
@@ -1144,13 +1144,13 @@ translate french adrian8nodick_9abd69bd:
 translate french adrian8nodick_64ed14f2:
 
     # "I cum hard, shooting up directly into her face, splattering it across her eye and her mouth."
-    "Je jouis fort, en éjaculant directement sur son visage, éclaboussant son œil et sa bouche."
+    "Je jouis fort, j'éjacule directement sur son visage, éclaboussant son œil et sa bouche."
 
 # game/Scenes/Adrian/adrian8.rpy:339
 translate french adrian8nodick_dee0d491:
 
     # gg "Oh shit, man!"
-    gg "Oh merde, mec !"
+    gg "Oh merde !"
 
 # game/Scenes/Adrian/adrian8.rpy:340
 translate french adrian8nodick_8837fcf6:
@@ -1162,13 +1162,13 @@ translate french adrian8nodick_8837fcf6:
 translate french adrian8nodick_9bf8753e:
 
     # gg "You sprayed the fuck out of me, man. Haha!"
-    gg "Tu m'as giclé partout, mec. Haha !"
+    gg "Tu m'as aspergée. Haha !"
 
 # game/Scenes/Adrian/adrian8.rpy:342
 translate french adrian8nodick_ae93b742:
 
     # pc "Yeah sorry. I couldn't hold back."
-    pc "Ouais, désolé. Je n'ai pas pu me retenir."
+    pc "Ouais, désolé. J'ai pas pu me retenir."
 
 # game/Scenes/Adrian/adrian8.rpy:343
 translate french adrian8nodick_a13379b0:
@@ -1186,7 +1186,7 @@ translate french adrian8nodick_f2f48f3e:
 translate french adrian8nodick_d0bf80b8:
 
     # gg "I was just curious what it tastes like. I mean, I've tasted mine, but yours does taste better for some reason."
-    gg "J'étais juste curieuse de savoir quel goût ça avait. Je veux dire, j'ai goûté le mien, mais le tien a meilleur goût pour une raison quelconque."
+    gg "J'étais juste curieuse de savoir quel goût ça avait. Je veux dire, j'ai goûté le mien, mais le tien est meilleur, va savoir pourquoi."
 
 # game/Scenes/Adrian/adrian8.rpy:347
 translate french adrian8nodick_3663c846:
@@ -1204,7 +1204,7 @@ translate french adrian8nodick_8f54900c:
 translate french adrian8nodick_13c8e81c:
 
     # gg "Because I really enjoyed that and I want more."
-    gg "Parce que j'ai vraiment kiffé ça et j'en veux encore."
+    gg "Parce que j'ai vraiment adoré ça et j'en veux encore."
 
 # game/Scenes/Adrian/adrian8.rpy:350
 translate french adrian8nodick_55ed05d8:
@@ -1222,7 +1222,7 @@ translate french adrian869_acbee5c9:
 translate french adrian869_8feb5682:
 
     # pc "Turn around, bring your dick over to me. I want to suck it."
-    pc "Tourn-toi, approche ta bite de moi. J'ai envie de te sucer."
+    pc "Tourne-toi, amène ta bite vers moi. J'ai envie de te sucer."
 
 # game/Scenes/Adrian/adrian8.rpy:357
 translate french adrian869_503b117c:
@@ -1252,13 +1252,13 @@ translate french adrian869_0cfe4d93:
 translate french adrian869_f1334cd0:
 
     # gg "I've never had anybody touch me there. I'm kind of nervous."
-    gg "Personne ne m'a jamais touchée là. Je suis un peu nerveuse."
+    gg "Personne m'a jamais touchée là. Je suis un peu nerveuse."
 
 # game/Scenes/Adrian/adrian8.rpy:364
 translate french adrian869_df63705b:
 
     # pc "I'd like to make you feel good. Do you want me to put it in my mouth?"
-    pc "J'aimerais te faire du bien. Tu veux que je la mette dans ma bouche ?"
+    pc "Je veux te faire du bien. Tu veux que je la mette dans ma bouche ?"
 
 # game/Scenes/Adrian/adrian8.rpy:365
 translate french adrian869_c4ed7bfd:
@@ -1288,7 +1288,7 @@ translate french adrian869_9173950c:
 translate french adrian869_36f3033c:
 
     # gg "I can't believe this is happening. It feels so fucking good."
-    gg "Je n'arrive pas à croire que ça arrive. C'est tellement bon."
+    gg "J'arrive pas à croire que ça m'arrive. C'est tellement bon."
 
 # game/Scenes/Adrian/adrian8.rpy:376
 translate french adrian869_ddf68111:
@@ -1300,13 +1300,13 @@ translate french adrian869_ddf68111:
 translate french adrian869_baac8485:
 
     # "Then we fall into a rhythm, me sucking her and her sucking me, both of us moaning as our mouths sucked and licked all over each other."
-    "Puis on trouve un rythme, moi la suçant et elle me suçant, gémissant tous les deux alors que nos bouches se sucent et se lèchent partout."
+    "Puis on trouve un rythme, moi la suçant et elle me suçant, gémissant tous les deux alors que nos bouches sucent et lèchent partout."
 
 # game/Scenes/Adrian/adrian8.rpy:381
 translate french adrian869_2d89b84b:
 
     # "Her girldick slides deeper into my mouth and her hips start bucking, pushing herself further into my throat, her balls bouncing off my nose."
-    "Sa bite de fille glisse plus profondément dans ma bouche et ses hanches se mettent à se cambrer, s’enfonçant plus loin dans ma gorge, ses couilles rebondissant contre mon nez."
+    "Sa bite glisse plus profondément dans ma bouche et ses hanches se mettent à se cambrer, s’enfonçant plus loin dans ma gorge, ses couilles rebondissant contre mon nez."
 
 # game/Scenes/Adrian/adrian8.rpy:382
 translate french adrian869_7f3b449e:
@@ -1318,7 +1318,7 @@ translate french adrian869_7f3b449e:
 translate french adrian869_b0c2a10c:
 
     # "She's going deeper now too, taking my cock all the way to the back of her throat, then gripping her lips tight around the shaft and sucking as she raises her head up."
-    "Elle va plus loin maintenant aussi, prenant ma bite jusqu’au fond de sa gorge, puis serrant ses lèvres fermement autour du manche et me suçant tout en relevant la tête."
+    "Elle aussi va plus loin, prenant ma bite jusqu’au fond de sa gorge, puis serrant ses lèvres fermement autour du manche et me suçant tout en relevant la tête."
 
 # game/Scenes/Adrian/adrian8.rpy:384
 translate french adrian869_0a765c80:
@@ -1348,7 +1348,7 @@ translate french adrian869_6baa0780:
 translate french adrian869_848aeeab:
 
     # pc "Hol... ughh..."
-    pc "Attends... ughh..."
+    pc "Att... aaah..."
 
 # game/Scenes/Adrian/adrian8.rpy:392
 translate french adrian869_ef09b0d3:
@@ -1366,13 +1366,13 @@ translate french adrian869_9abd69bd:
 translate french adrian869_64ed14f2:
 
     # "I cum hard, shooting up directly into her face, splattering it across her eye and her mouth."
-    "Je jouis fort, en éjaculant directement sur son visage, éclaboussant son œil et sa bouche."
+    "Je jouis fort, j'éjacule directement sur son visage, éclaboussant son œil et sa bouche."
 
 # game/Scenes/Adrian/adrian8.rpy:398
 translate french adrian869_dee0d491:
 
     # gg "Oh shit, man!"
-    gg "Oh merde, mec !"
+    gg "Oh merde !"
 
 # game/Scenes/Adrian/adrian8.rpy:399
 translate french adrian869_8837fcf6:
@@ -1384,7 +1384,7 @@ translate french adrian869_8837fcf6:
 translate french adrian869_9bf8753e:
 
     # gg "You sprayed the fuck out of me, man. Haha!"
-    gg "Tu m’as arrosée comme une folle, mec. Haha !"
+    gg "Tu m’as aspergée. Haha !"
 
 # game/Scenes/Adrian/adrian8.rpy:401
 translate french adrian869_ae93b742:
@@ -1408,13 +1408,13 @@ translate french adrian869_f2f48f3e:
 translate french adrian869_d0bf80b8:
 
     # gg "I was just curious what it tastes like. I mean, I've tasted mine, but yours does taste better for some reason."
-    gg "J’étais juste curieuse de savoir quel goût ça avait. Je veux dire, j’ai goûté le mien, mais le tien a meilleur goût pour une raison ou une autre."
+    gg "J’étais juste curieuse de savoir quel goût ça avait. Je veux dire, j’ai goûté le mien, mais le tien est meilleur, va savoir pourquoi."
 
 # game/Scenes/Adrian/adrian8.rpy:407
 translate french adrian869_3663c846:
 
     # gg "Sorry, you surprised me a little that time, but next time, I'll just let you finish in my mouth."
-    gg "Désolé, tu m’as un peu surprise cette fois-ci, mais la prochaine fois, je te laisserai finir dans ma bouche."
+    gg "Désolée, tu m’as un peu surprise cette fois-ci, mais la prochaine fois, je te laisserai finir dans ma bouche."
 
 # game/Scenes/Adrian/adrian8.rpy:408
 translate french adrian869_8f54900c:
@@ -1426,7 +1426,7 @@ translate french adrian869_8f54900c:
 translate french adrian869_13c8e81c:
 
     # gg "Because I really enjoyed that and I want more."
-    gg "Parce que j’ai vraiment kiffé ça et j’en veux encore."
+    gg "Parce que j’ai vraiment adoré ça et j’en veux encore."
 
 # game/Scenes/Adrian/adrian8.rpy:410
 translate french adrian869_a43ed096:
@@ -1438,7 +1438,7 @@ translate french adrian869_a43ed096:
 translate french adrian869_4117450e:
 
     # gg "That's okay, really. It felt incredible, but the hormones make it really hard for me to cum. We just don't really have time for it today."
-    gg "C’est bon, vraiment. C’était incroyable, mais les hormones me rendent vraiment difficile de jouir. On n’a pas vraiment le temps pour ça aujourd’hui."
+    gg "C’est bon, vraiment. C’était incroyable, mais l'orgasme est dur à atteindre à cause des hormones. On a pas vassez de temps pour ça aujourd’hui."
 
 # game/Scenes/Adrian/adrian8.rpy:412
 translate french adrian869_edc65b8d:
@@ -1450,19 +1450,19 @@ translate french adrian869_edc65b8d:
 translate french adrian8cuddles_168327ea:
 
     # gg "I'll go to the bathroom and clean up. I'll be right back."
-    gg "Je vais aller à la salle de bain me nettoyer. Je reviens tout de suite."
+    gg "Je vais à la salle de bain me nettoyer. Je reviens tout de suite."
 
 # game/Scenes/Adrian/adrian8.rpy:419
 translate french adrian8cuddles_8fe66b54:
 
     # "A couple minutes later, we lie in her bed next to each other."
-    "Quelques minutes plus tard, on est allongés dans son lit l’un à côté de l’autre."
+    "Quelques minutes plus tard, on est allongés sur son lit l’un à côté de l’autre."
 
 # game/Scenes/Adrian/adrian8.rpy:420
 translate french adrian8cuddles_24bbae10:
 
     # gg "That was amazing. I've never done any of that before."
-    gg "C’était génial. Je n’avais jamais fait ça avant."
+    gg "C’était génial. J’avais jamais fait ça avant."
 
 # game/Scenes/Adrian/adrian8.rpy:421
 translate french adrian8cuddles_0c50d398:
@@ -1486,37 +1486,37 @@ translate french adrian8cuddles_e8b86066:
 translate french adrian8cuddles_da9eeebb:
 
     # gg "But when it came to going any further than that, I just couldn't ever go through with it."
-    gg "Mais quand il s’agissait d’aller plus loin que ça, je n’arrivais tout simplement pas à franchir le pas."
+    gg "Mais quand il s’agissait d’aller plus loin que ça, j’arrivais tout simplement pas à franchir le pas."
 
 # game/Scenes/Adrian/adrian8.rpy:426
 translate french adrian8cuddles_ed6b5e4b:
 
     # gg "It didn't feel right."
-    gg "Ça ne me semblait pas normal."
+    gg "Y avait quelque chose qui allait pas."
 
 # game/Scenes/Adrian/adrian8.rpy:428
 translate french adrian8cuddles_a44af20a:
 
     # gg "This. This felt right."
-    gg "Ça. Ça m'a semblé parfait."
+    gg "Mais là. Tout allait bien."
 
 # game/Scenes/Adrian/adrian8.rpy:429
 translate french adrian8cuddles_8bdc6384:
 
     # pc "I'll agree with you there. It felt REALLY right to me."
-    pc "Je suis d'accord avec toi là-dessus. Ça m'a vraiment semblé parfait."
+    pc "D'accord avec toi. Ça allait très très bien."
 
 # game/Scenes/Adrian/adrian8.rpy:430
 translate french adrian8cuddles_daeeb8c4:
 
     # gg "I'm so happy that my first time is with you, and as a girl."
-    gg "Je suis tellement heureuse que ma première fois soit avec toi, et en tant que fille."
+    gg "Je suis tellement heureuse que ma première fois ait été avec toi, et en tant que fille."
 
 # game/Scenes/Adrian/adrian8.rpy:431
 translate french adrian8cuddles_11b5f980:
 
     # gg "I'm so happy that you like me for who I really am. I can't explain how good that feels."
-    gg "Je suis tellement heureuse que tu m'aimes pour qui je suis vraiment. Je ne peux pas t'expliquer à quel point ça fait du bien."
+    gg "Je suis tellement heureuse que tu m'aimes pour qui je suis vraiment. J'ai pas les mots pour te dire comme c'est agréable."
 
 # game/Scenes/Adrian/adrian8.rpy:432
 translate french adrian8cuddles_4029d959:
@@ -1534,7 +1534,7 @@ translate french adrian8cuddles_951e0450:
 translate french adrian8cuddles_2fde2ec9:
 
     # gg "Oh fuck, me too man. I can't wait."
-    gg "Oh putain, moi aussi, mec. J'ai hâte."
+    gg "Oh putain, moi aussi. J'ai hâte."
 
 # game/Scenes/Adrian/adrian8.rpy:435
 translate french adrian8cuddles_7e736de5:
@@ -1546,7 +1546,7 @@ translate french adrian8cuddles_7e736de5:
 translate french adrian8cuddles_18213312:
 
     # gg "Hey, that's my mom. She's going to be home in a few minutes."
-    gg "Hé, c'est ma mère. Elle va rentrer dans quelques minutes."
+    gg "Ha, c'est ma mère. Elle va rentrer dans quelques minutes."
 
 # game/Scenes/Adrian/adrian8.rpy:440
 translate french adrian8cuddles_35bb563e:
@@ -1604,7 +1604,7 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian8.rpy:3
     old "Then she'll call you in the evening and invite you over to talk about something."
-    new "Ensuite, elle t’appellera dans la soirée et t’invitera chez elle pour parler de quelque chose."
+    new "Puis elle t’appellera un soir et t’invitera chez elle pour parler de quelque chose."
 
     # game/Scenes/Adrian/adrian8.rpy:63
     old "I kinda knew"
@@ -1628,7 +1628,7 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian8.rpy:155
     old "No, sorry"
-    new "Non, désolée"
+    new "Non, désolé"
 
     # game/Scenes/Adrian/adrian8.rpy:247
     old "It feels great, keep going"
