@@ -10,7 +10,7 @@ translate french adrian2b_fe1843ee:
 translate french adrian2b_220b39e6:
 
     # "It doesn't take long to get to her house. She actually lives really close to my home."
-    "Je n'ai pas mis longtemps à arriver chez elle. En fait, elle habite tout près de chez moi."
+    "Je n'ai pas mis longtemps à arriver chez elle. Il s'avère qu'elle habite tout près de chez moi."
 
 # game/Scenes/Adrian/Adrian2b.rpy:20
 translate french adrian2b_614acdee:
@@ -64,7 +64,7 @@ translate french adrian2b_cddf2662:
 translate french adrian2b_9899eaa9:
 
     # gg "He's my friend, Mom, let him in."
-    gg "C’est mon ami, maman, laisse-le entrer."
+    gg "C’est mon ami, Maman, laisse-le entrer."
 
 # game/Scenes/Adrian/Adrian2b.rpy:33
 translate french adrian2b_c583a608:
@@ -76,7 +76,7 @@ translate french adrian2b_c583a608:
 translate french adrian2b_6c01d4fd:
 
     # gg "I know, Mom. I meant to, but I was just busy... with schoolwork. I forgot."
-    gg "Je sais, maman. J’avais l’intention de le faire, mais j’étais occupée… avec mes devoirs. J’ai oublié."
+    gg "Je sais, Maman. Je voulais le faire, mais j’étais occupée… avec mes devoirs. J’ai oublié."
 
 # game/Scenes/Adrian/Adrian2b.rpy:35
 translate french adrian2b_e878210c:
@@ -88,7 +88,7 @@ translate french adrian2b_e878210c:
 translate french adrian2b_326f12bf:
 
     # gg "Okay, Mom. Thank you."
-    gg "D'accord, maman. Merci."
+    gg "D'accord, Maman. Merci."
 
 # game/Scenes/Adrian/Adrian2b.rpy:39
 translate french adrian2b_8f7ebec7:
@@ -106,13 +106,13 @@ translate french adrian2b_d41d8cd9:
 translate french adrian2b_c03425eb:
 
     # gg "I'm sorry about that. She can be a bit overbearing sometimes."
-    gg "Je suis désolé pour ça. Elle peut être un peu autoritaire parfois."
+    gg "Je suis désolée pour ça. Elle peut être un peu autoritaire parfois."
 
 # game/Scenes/Adrian/Adrian2b.rpy:46
 translate french adrian2b_3ed1d973:
 
     # gg "She's just very protective of me. Only child and all."
-    gg "Elle est juste très protectrice envers moi. Je suis enfant unique, tu vois."
+    gg "Elle est juste très protectrice. Je suis enfant unique, tu vois."
 
 # game/Scenes/Adrian/Adrian2b.rpy:49
 translate french adrian2b_04c7f126:
@@ -130,13 +130,13 @@ translate french adrian2b_f7e6c62b:
 translate french adrian2b_636661b2:
 
     # gg "It does sometimes."
-    gg "C'est vrai, parfois."
+    gg "Oui, parfois."
 
 # game/Scenes/Adrian/Adrian2b.rpy:53
 translate french adrian2b_2900eca8:
 
     # gg "But I love her and she's been really good to me through a lot of hard times."
-    gg "Mais je l'aime et elle a été vraiment gentille avec moi pendant beaucoup de moments difficiles."
+    gg "Mais je l'aime et elle a été vraiment gentille avec moi pendant plein de moments difficiles."
 
 # game/Scenes/Adrian/Adrian2b.rpy:54
 translate french adrian2b_c07d0332:
@@ -202,13 +202,13 @@ translate french adrian2b_f57aeacc:
 translate french adrian2b_e3e97310:
 
     # pc "What if I get your character killed?"
-    pc "Et si je faisais mourir ton personnage ?"
+    pc "Et si jamais je fais mourir ton personnage ?"
 
 # game/Scenes/Adrian/Adrian2b.rpy:74
 translate french adrian2b_03db2857:
 
     # gg "It's no big deal. You just revive at the nearest respawn point and are weakened for a few minutes."
-    gg "Ce n’est pas grave. Tu ressuscites simplement au point de réapparition le plus proche et tu es affaibli pendant quelques minutes."
+    gg "C’est pas grave. Tu vas juste ressusciter au respawn le plus proche et tu seras affaibli pendant quelques minutes."
 
 # game/Scenes/Adrian/Adrian2b.rpy:75
 translate french adrian2b_9a5eb084:
@@ -232,25 +232,25 @@ translate french adrian2b_2d53ff69:
 translate french adrian2b_b0a6ba6f:
 
     # gg "Okay, all of your powers are the number keys up top. You move with WASD and look around with the mouse."
-    gg "Bon, tous tes pouvoirs sont sur les touches numériques en haut. Tu te déplaces avec WASD et tu regardes autour de toi avec la souris."
+    gg "Bon, tous tes pouvoirs sont sur les touches numériques en haut. Tu te déplaces avec ZQSD et tu regardes autour de toi avec la souris."
 
 # game/Scenes/Adrian/Adrian2b.rpy:81
 translate french adrian2b_3b25da4f:
 
     # gg "Just click on what you want to kill and then use one of your powers to kill it."
-    gg "Il suffit de cliquer sur ce que tu veux tuer, puis d'utiliser l'un de tes pouvoirs pour l'éliminer."
+    gg "T'as juste à cliquer sur ta cible, puis utiliser un de tes pouvoirs pour l'éliminer."
 
 # game/Scenes/Adrian/Adrian2b.rpy:82
 translate french adrian2b_b4a8a49d:
 
     # gg "Super easy. Barely an inconvenience."
-    gg "Super facile. À peine un inconvénient."
+    gg "Super facile. Ça va tout seul."
 
 # game/Scenes/Adrian/Adrian2b.rpy:83
 translate french adrian2b_babb66b4:
 
     # pc "You say that, but I'm still wondering what a WASD is."
-    pc "Tu dis ça, mais je me demande toujours ce qu'est un WASD."
+    pc "Tu dis ça, mais j'en suis encore au ZQSD."
 
 # game/Scenes/Adrian/Adrian2b.rpy:86
 translate french adrian2b_055f2992:
@@ -274,7 +274,7 @@ translate french adrian2b_3b7f3448:
 translate french adrian2b_a82592f5:
 
     # gg "I'm glad. If you bought a copy sometime, we could even play together."
-    gg "Je suis contente. Si tu en achètes un exemplaire un de ces jours, on pourrait même y jouer ensemble."
+    gg "Tant mieux. Si tu l'achètes un de ces jours, on pourrait même y jouer ensemble."
 
 # game/Scenes/Adrian/Adrian2b.rpy:90
 translate french adrian2b_c0437e5d:
@@ -286,13 +286,13 @@ translate french adrian2b_c0437e5d:
 translate french adrian2b_ee920117:
 
     # gg "I think so too. I'd love to explore and kill goblins with you."
-    gg "Je pense aussi. J'adorerais explorer et tuer des gobelins avec toi."
+    gg "Je crois aussi. J'adorerais explorer et tuer des gobelins avec toi."
 
 # game/Scenes/Adrian/Adrian2b.rpy:94
 translate french adrian2b_efa756f8:
 
     # pc "Maybe I'll get it sometime then."
-    pc "Je vais peut-être m'en procurer un un de ces jours, alors."
+    pc "Je vais peut-être me le procurer un de ces jours, alors."
 
 # game/Scenes/Adrian/Adrian2b.rpy:95
 translate french adrian2b_ce14f6da:
@@ -304,25 +304,25 @@ translate french adrian2b_ce14f6da:
 translate french adrian2b_6a346fe1:
 
     # gg "It's about time for you to go. I wouldn't mind hanging out longer, but it's nearly 10 and my mom will be mad."
-    gg "Il est presque l'heure pour toi de partir. Ça ne me dérangerait pas de rester plus longtemps, mais il est presque 22 h et ma mère va se fâcher."
+    gg "Il est presque l'heure pour toi de partir. Ça me dérangerait pas qu'on traîne plus longtemps, mais il est presque 22h et ma mère va se fâcher."
 
 # game/Scenes/Adrian/Adrian2b.rpy:97
 translate french adrian2b_8f70c6ec:
 
     # pc "Okay, I'll go then. Don't want to get you in trouble."
-    pc "D'accord, je vais y aller alors. Je ne veux pas te causer d'ennuis."
+    pc "D'accord, je vais y aller alors. Je veux pas te causer d'ennuis."
 
 # game/Scenes/Adrian/Adrian2b.rpy:98
 translate french adrian2b_45175d50:
 
     # gg "I had a good time though. Thank you for coming over."
-    gg "J'ai passé un bon moment quand même. Merci d'être venue."
+    gg "J'ai quand même passé un bon moment. Merci d'être venu."
 
 # game/Scenes/Adrian/Adrian2b.rpy:99
 translate french adrian2b_1b5489ad:
 
     # pc "Thanks for inviting me, I had fun too."
-    pc "Merci de m'avoir invitée, je me suis bien amusée aussi."
+    pc "Merci de m'avoir invité, je me suis bien amusé aussi."
 
 # game/Scenes/Adrian/Adrian2b.rpy:103
 translate french adrian2b_6a658ffa:
@@ -340,7 +340,7 @@ translate french adrian2b_2c7e0e7e:
 translate french adrian2b_7f0c6c37:
 
     # pc "Yeah, I think I could do that."
-    pc "Ouais, je pense que je pourrais."
+    pc "Ouais, y a moyen."
 
 # game/Scenes/Adrian/Adrian2b.rpy:107
 translate french adrian2b_d41d8cd9_1:
@@ -368,15 +368,15 @@ translate french strings:
 
     # game/Scenes/Adrian/Adrian2b.rpy:3
     old "This will happen automatically that evening."
-    new "Ça se passera automatiquement ce soir-là."
+    new "La scène aura lieu automatiquement le soir suivant."
 
     # game/Scenes/Adrian/Adrian2b.rpy:48
     old "It's okay, I get it."
-    new "C'est bon, je comprends."
+    new "Ça va, je comprends."
 
     # game/Scenes/Adrian/Adrian2b.rpy:51
     old "It must drive you crazy."
-    new "Ça doit te rendre fou."
+    new "Ça doit te rendre folle."
 
     # game/Scenes/Adrian/Adrian2b.rpy:65
     old "Watch the screen"

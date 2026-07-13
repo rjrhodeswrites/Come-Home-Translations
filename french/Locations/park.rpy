@@ -4,25 +4,25 @@
 translate french park_50db5da1:
 
     # "I decide to go to the park that I used to play at when I was younger."
-    "Je décide d'aller au parc où j'avais l'habitude de jouer quand j'étais plus jeune."
+    "Je décide d'aller au parc où j'avais l'habitude de jouer quand j'étais petit."
 
 # game/Locations/park.rpy:42
 translate french park_5dc08cda:
 
     # "Immediately, I can see that the place is not the same as it used to be. I remembered it being a safe place for children to hang out and play on the jungle gym and swings."
-    "Je remarque tout de suite que l'endroit n'est plus ce qu'il était. Je me souvenais que c'était un endroit sûr où les enfants pouvaient traîner et jouer sur les structures d'escalade et les balançoires."
+    "Je remarque tout de suite que l'endroit n'est plus ce qu'il était. Je me souvenais que c'était un endroit sûr où les enfants pouvaient traîner et jouer dans la cage à poules ou sur les balançoires."
 
 # game/Locations/park.rpy:43
 translate french park_99edb0ee:
 
     # "Now the playground looked broken and graffiti covered just about every surface and I didn't see any children anywhere."
-    "À présent, l'aire de jeux semblait délabrée, des graffitis recouvraient pratiquement toutes les surfaces et je ne voyais aucun enfant aux alentours."
+    "À présent, l'aire de jeu semble délabrée, des graffitis recouvrent pratiquement toutes les surfaces et je ne vois aucun enfant aux alentours."
 
 # game/Locations/park.rpy:48
 translate french park_de5a99f5:
 
     # "The place is pretty much empty today. Kendra and her friends that are usually over at the skate park are nowhere to be found."
-    "L'endroit est pratiquement désert aujourd'hui. Kendra et ses amis, qui sont d'habitude au skatepark, sont introuvables."
+    "L'endroit est pratiquement désert aujourd'hui. Kendra et ses amis, d'habitude au skatepark, sont introuvables."
 
 # game/Locations/park.rpy:49
 translate french park_1b3edabc:
@@ -70,11 +70,11 @@ translate french walkpark_b6b09adf:
 translate french walkpark_8d2de376:
 
     # "Now it's time to get to school."
-    "Il est temps d’aller à l’école."
+    "Il est temps d’aller à la fac."
 
 translate french strings:
 
     # game/Locations/park.rpy:56
     old "Go give her the new skateboard"
-    new "Va lui donner le nouveau skateboard."
+    new "Aller lui donner le nouveau skateboard."
 

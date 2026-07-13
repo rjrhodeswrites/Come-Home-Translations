@@ -20,15 +20,15 @@ translate french strings:
 
     # game/Screens/screens.rpy:266
     old "Save"
-    new "Enregistrer"
+    new "Sauvegarde"
 
     # game/Screens/screens.rpy:267
     old "Q.Save"
-    new "Q.Enregistrer"
+    new "Sauvegarde rapide"
 
     # game/Screens/screens.rpy:268
     old "Q.Load"
-    new "Q.Charger"
+    new "Chargement rapide"
 
     # game/Screens/screens.rpy:269
     old "Prefs"
@@ -44,7 +44,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:312
     old "If you would like to help with the translations, please contact the developer on Discord, Patreon, Itch.io, or through the Steam message boards."
-    new "Si vous souhaitez aider à la traduction, veuillez contacter le développeur sur Discord, Patreon, Itch.io ou via les forums Steam."
+    new "Si vous souhaitez aider à la traduction, veuillez contacter la développeuse sur Discord, Patreon, Itch.io ou via les forums Steam."
 
     # game/Screens/screens.rpy:314
     old "Close"
@@ -72,7 +72,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:355
     old "End Replay"
-    new "Fin de la rediffusion"
+    new "Fin du replay"
 
     # game/Screens/screens.rpy:359
     old "Main Menu"
@@ -140,7 +140,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:919
     old "Rollback Side"
-    new "Retour en arrière Côté"
+    new "Retour arrière par clic"
 
     # game/Screens/screens.rpy:921
     old "Left"
@@ -228,7 +228,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:1203
     old "Arrow Keys"
-    new "Touches fléchées"
+    new "Flèches"
 
     # game/Screens/screens.rpy:1204
     old "Navigate the interface."
@@ -260,7 +260,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:1219
     old "Page Up"
-    new "Page précédente"
+    new "Page Up"
 
     # game/Screens/screens.rpy:1220
     old "Rolls back to earlier dialogue."
@@ -268,7 +268,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:1223
     old "Page Down"
-    new "Page suivante"
+    new "Page Down"
 
     # game/Screens/screens.rpy:1224
     old "Rolls forward to later dialogue."
@@ -284,7 +284,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:1236
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Active/désactive l'aide {a=https://www.renpy.org/l/voicing}lecture vocale{/a}."
+    new "Active/désactive l'assistance par {a=https://www.renpy.org/l/voicing}lecture vocale{/a}."
 
     # game/Screens/screens.rpy:1242
     old "Left Click"
@@ -300,11 +300,11 @@ translate french strings:
 
     # game/Screens/screens.rpy:1254
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Molette de la souris vers le haut\nClic sur le côté"
+    new "Molette vers le haut\nClic de retour arrière"
 
     # game/Screens/screens.rpy:1258
     old "Mouse Wheel Down"
-    new "Molette de la souris vers le bas"
+    new "Molette vers le bas"
 
     # game/Screens/screens.rpy:1265
     old "Right Trigger\nA/Bottom Button"

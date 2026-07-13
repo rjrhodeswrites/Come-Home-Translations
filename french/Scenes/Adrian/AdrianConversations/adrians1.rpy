@@ -4,7 +4,7 @@
 translate french adrians1_5ca95384:
 
     # gg "Well, I grew up in Whiterock, but my mom and I moved here two years ago so that I could go to school at Skyhill."
-    gg "Eh bien, j'ai grandi à Whiterock, mais ma mère et moi avons déménagé ici il y a deux ans pour que je puisse aller à l'école à Skyhill."
+    gg "Ben, j'ai grandi à Whiterock, mais ma mère et moi on a déménagé ici il y a deux ans pour que je puisse aller à l'école à Skyhill."
 
 # game/Scenes/Adrian/AdrianConversations/adrians1.rpy:16
 translate french adrians1_cd22b14e:
@@ -22,7 +22,7 @@ translate french adrians1_ee7879cc:
 translate french adrians1_e8ea576e:
 
     # gg "But we both wanted to get away from there and kind of start over."
-    gg "Mais on voulait toutes les deux partir de là-bas et en quelque sorte repartir à zéro."
+    gg "Mais on voulait toutes les deux partir de là-bas et repartir à zéro."
 
 # game/Scenes/Adrian/AdrianConversations/adrians1.rpy:19
 translate french adrians1_3a43b4ac:
@@ -76,13 +76,13 @@ translate french adrians1_0e5ea782:
 translate french adrians1_1cbefdb2:
 
     # gg "Yeah, we just needed new lives. I left everything behind and became a new Adrian."
-    gg "Ouais, on avait juste besoin d'une nouvelle vie. J'ai tout laissé derrière moi et je suis devenu un nouvel Adrian."
+    gg "Ouais, on avait besoin d'une nouvelle vie. J'ai tout laissé derrière moi et je suis devenu une nouvelle Adrian."
 
 # game/Scenes/Adrian/AdrianConversations/adrians1.rpy:30
 translate french adrians1_6be34fc8:
 
     # gg "That's why I don't have a bunch of friends though. I didn't really stay in contact with anybody from Whiterock."
-    gg "C'est pour ça que je n'ai pas beaucoup d'amis, par contre. Je ne suis pas vraiment resté en contact avec les gens de Whiterock."
+    gg "Mais c'est aussi pour ça que j'ai pas beaucoup d'amis. Je ne suis pas vraiment resté en contact avec les gens de Whiterock."
 
 # game/Scenes/Adrian/AdrianConversations/adrians1.rpy:31
 translate french adrians1_3b69fa7a:
@@ -100,7 +100,7 @@ translate french adrians1_3e729810:
 translate french adrians1_083372d1:
 
     # gg "I'm really glad we sat next to each other in Social Studies."
-    gg "Je suis vraiment content qu'on se soit retrouvés assis l'un à côté de l'autre en sciences sociales."
+    gg "Je suis vraiment content qu'on se soit retrouvés assis à côté en sciences sociales."
 
 # game/Scenes/Adrian/AdrianConversations/adrians1.rpy:35
 translate french adrians1_03eaad50:

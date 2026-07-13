@@ -34,19 +34,19 @@ translate french adrian10_610c0cf9:
 translate french adrian10_fa6e4cda:
 
     # gg "Right now, I'm majoring in computer programming. That's what I thought I wanted to do. Become a programmer of some sort, maybe work on a game or something?"
-    gg "En ce moment, je me spécialise en programmation informatique. C'est ce que je pensais vouloir faire. Devenir programmeur, peut-être travailler sur un jeu ou quelque chose comme ça ?"
+    gg "En ce moment, je me spécialise en programmation informatique. C'est ce que je pensais vouloir faire. Devenir programmeuse, peut-être travailler sur un jeu ou un truc dans le genre ?"
 
 # game/Scenes/Adrian/adrian10.rpy:26
 translate french adrian10_fc672958:
 
     # gg "But the more I've done it, the more I think it's not for me. I don't really enjoy the coding, the numbers and all that."
-    gg "Mais plus je m'y mets, plus je me dis que ce n'est pas pour moi. Je n'aime pas vraiment le codage, les chiffres et tout ça."
+    gg "Mais plus j'en fais, plus je me dis que c'est pas pour moi. J'aime pas vraiment le codage, les chiffres et tout ça."
 
 # game/Scenes/Adrian/adrian10.rpy:27
 translate french adrian10_1e97fd27:
 
     # gg "So I've been thinking about changing up my major and maybe trying something different."
-    gg "Du coup, j’ai pensé changer de filière et peut-être essayer quelque chose de différent."
+    gg "Du coup, je pensais à changer de filière et peut-être essayer quelque chose de différent."
 
 # game/Scenes/Adrian/adrian10.rpy:28
 translate french adrian10_0c391334:
@@ -82,13 +82,13 @@ translate french adrian10_818c3b19:
 translate french adrian10_427a9d8b:
 
     # gg "But it would also have private booths that you could rent that have like couches and a big television and you could play console games on it. Like old stuff, or modern stuff. And you rent the booths by the hour or something."
-    gg "Mais il y aurait aussi des cabines privées que l'on pourrait louer, équipées de canapés et d'une grande télévision, où l'on pourrait jouer à des jeux sur console. Des jeux anciens ou modernes. Et on louerait les cabines à l'heure ou quelque chose comme ça."
+    gg "Mais il y aurait aussi des cabines privées qu'on pourrait louer, avec des canapés et une grande télévision, où on pourrait jouer à des jeux sur console. Des jeux anciens ou modernes. Et on louerait les cabines à l'heure ou un truc dans le genre."
 
 # game/Scenes/Adrian/adrian10.rpy:35
 translate french adrian10_39c37c49:
 
     # gg "And you could order food and drinks and stuff that servers would bring to your booth."
-    gg "Et on pourrait commander à manger et à boire, et des serveurs apporteraient tout ça dans la cabine."
+    gg "Et on pourrait commander à manger et à boire, et des serveurs iraient l'apporter dans la cabine."
 
 # game/Scenes/Adrian/adrian10.rpy:36
 translate french adrian10_61c01a73:
@@ -142,19 +142,19 @@ translate french adrian10_87461b0f:
 translate french adrian10_4152e0c4:
 
     # gg "Wow, I'm so happy to have your support. I think so too. It just feels good to talk to somebody about it who doesn't think it's just a silly idea."
-    gg "Waouh, je suis tellement contente d'avoir ton soutien. Je le pense aussi. Ça fait du bien d'en parler à quelqu'un qui ne trouve pas que c'est une idée idiote."
+    gg "Waouh, je suis tellement contente d'avoir ton soutien. Je pense pareil. Ça fait du bien d'en parler à quelqu'un qui trouve pas que c'est une idée idiote."
 
 # game/Scenes/Adrian/adrian10.rpy:51
 translate french adrian10_a694f75e:
 
     # pc "No I don't think it's silly at all. Sounds really cool."
-    pc "Non, je ne trouve pas ça bête du tout. Ça a l'air vraiment cool."
+    pc "Non, je trouve pas ça idiot du tout. Ça a l'air vraiment cool."
 
 # game/Scenes/Adrian/adrian10.rpy:53
 translate french adrian10_8531f092:
 
     # gg "Awesome. I guess I'll talk to the counselor and have her switch up my degree plan for next semester."
-    gg "Génial. Je vais en parler à la conseillère et lui demander de modifier mon plan d'études pour le semestre prochain."
+    gg "Génial. Je vais en parler à la conseillère et lui demander de modifier mon plan d'études pour le prochain semestre."
 
 # game/Scenes/Adrian/adrian10.rpy:54
 translate french adrian10_54287c82:
@@ -166,7 +166,7 @@ translate french adrian10_54287c82:
 translate french adrian10_aa87f601:
 
     # gg "Oh man, I'm so fucking excited!"
-    gg "Oh là là, je suis tellement excité !"
+    gg "Oh là là, je suis tellement excitée !"
 
 # game/Scenes/Adrian/adrian10.rpy:56
 translate french adrian10_87a3e492:
@@ -178,7 +178,7 @@ translate french adrian10_87a3e492:
 translate french adrian10_651cac03:
 
     # gg "You're the best. Seriously. Thank you."
-    gg "Tu es le meilleur. Sérieusement. Merci."
+    gg "T'es le meilleur. Sérieusement. Merci."
 
 # game/Scenes/Adrian/adrian10.rpy:59
 translate french adrian10_1f5cd361:
@@ -202,7 +202,7 @@ translate french adrian10_9b8e5bbe:
 translate french adrian10_ce11aceb:
 
     # pc "Yeah - better to have that guarantee. If you started a business and it failed, what would you do then?"
-    pc "Ouais – mieux vaut avoir cette garantie. Si tu lançais une entreprise et que ça marchait pas, tu ferais quoi après ?"
+    pc "Ouais – vaut mieux avoir cette garantie. Si tu lançais une entreprise et que ça marchait pas, tu ferais quoi après ?"
 
 # game/Scenes/Adrian/adrian10.rpy:65
 translate french adrian10_99766421:
@@ -220,7 +220,7 @@ translate french adrian10_fddb6cee:
 translate french adrian10_b4f625aa:
 
     # gg "Man, that's a bummer. I was really hoping to have your support here."
-    gg "Mec, ça craint. J'espérais vraiment pouvoir compter sur ton soutien."
+    gg "Pfff, ça craint. J'espérais vraiment que tu me soutiendrais."
 
 # game/Scenes/Adrian/adrian10.rpy:68
 translate french adrian10_21467e2b:
@@ -238,7 +238,7 @@ translate french adrian10_1dcb80a3:
 translate french adrian10_fbd4b012:
 
     # gg "Well, okay. Still a bummer."
-    gg "Bon, d'accord. Ça reste déprimant."
+    gg "Ouais, mais bon, ça craint quand même."
 
 # game/Scenes/Adrian/adrian10.rpy:71
 translate french adrian10_db859f40:
@@ -266,7 +266,7 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian10.rpy:3
     old "Then she'll call you to talk at night."
-    new "Elle t'appellera ensuite pour discuter le soir."
+    new "Puis elle t'appellera la nuit pour discuter."
 
     # game/Scenes/Adrian/adrian10.rpy:45
     old "You should do it"

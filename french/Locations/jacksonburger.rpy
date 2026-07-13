@@ -10,13 +10,13 @@ translate french jacksonburgermenu_124729ec:
 translate french jacksonburgermenu_a20a9eeb:
 
     # "Taking orders is the owner himself, Mr. Jackson, who has been running this place since it opened roughly a hundred years ago."
-    "C'est le propriétaire lui-même, M. Jackson, qui prend les commandes. Il dirige cet endroit depuis son ouverture, il y a environ cent ans."
+    "C'est le propriétaire lui-même, M. Jackson, qui prend les commandes. Il dirige cet endroit depuis son ouverture, il y a environ un siècle."
 
 # game/Locations/jacksonburger.rpy:50
 translate french jacksonburgermenu_ec6eec01:
 
     # "He's in in 70's now, but still sharp, funny, and charismatic."
-    "Il a maintenant la septantaine, mais il est toujours vif, drôle et charismatique."
+    "Il a passé ses 70 ans, mais il est toujours vif, drôle et charismatique."
 
 # game/Locations/jacksonburger.rpy:52
 translate french jacksonburgermenu_5248be33:
@@ -28,7 +28,7 @@ translate french jacksonburgermenu_5248be33:
 translate french jacksonburgermenu_5c62765d:
 
     # "I change my mind. I'm not really as hungry as I thought."
-    "Je change d'avis. Je n'ai pas vraiment aussi faim que je le pensais."
+    "J'ai changé d'avis. Je n'ai pas vraiment aussi faim que je le pensais."
 
 # game/Locations/jacksonburger.rpy:59
 translate french jacksonmenu_ce19a243:
@@ -40,7 +40,7 @@ translate french jacksonmenu_ce19a243:
 translate french jacksonmenu_5a2cd2de:
 
     # jk "Ah, my favorite. That'll be $5."
-    jk "Ah, mon plat préféré. Ça fera 5 $."
+    jk "Ah, mon préféré. Ça fera 5$."
 
 # game/Locations/jacksonburger.rpy:61
 translate french jacksonmenu_9ec0d379:
@@ -52,7 +52,7 @@ translate french jacksonmenu_9ec0d379:
 translate french jacksonmenu_3cf1e9b4:
 
     # jk "You just have a seat and one of my girls will bring it out to you in a few minutes."
-    jk "Asseyez-vous, l'une de mes filles vous l'apportera dans quelques minutes."
+    jk "Asseyez-vous, l'une de mes serveuses vous l'apportera dans quelques minutes."
 
 # game/Locations/jacksonburger.rpy:68
 translate french jacksonmenu_87d32fde:
@@ -82,13 +82,13 @@ translate french jacksonordered_124729ec:
 translate french jacksonordered_a20a9eeb:
 
     # "Taking orders is the owner himself, Mr. Jackson, who has been running this place since it opened roughly a hundred years ago."
-    "C'est le propriétaire lui-même, M. Jackson, qui prend les commandes. Il tient cet établissement depuis son ouverture, il y a environ cent ans."
+    "C'est le propriétaire lui-même, M. Jackson, qui prend les commandes. Il tient cet établissement depuis son ouverture, il y a environ un sièce."
 
 # game/Locations/jacksonburger.rpy:81
 translate french jacksonordered_ec6eec01:
 
     # "He's in in 70's now, but still sharp, funny, and charismatic."
-    "Il a maintenant la septantaine, mais il est toujours vif, drôle et charismatique."
+    "Il a passé ses 70 ans, mais il est toujours vif, drôle et charismatique."
 
 # game/Locations/jacksonburger.rpy:82
 translate french jacksonordered_5248be33:
@@ -106,7 +106,7 @@ translate french jacksonordered_ce19a243:
 translate french jacksonordered_5a2cd2de:
 
     # jk "Ah, my favorite. That'll be $5."
-    jk "Ah, mon plat préféré. Ça fera 5 $."
+    jk "Ah, mon préféré. Ça fera 5$."
 
 # game/Locations/jacksonburger.rpy:86
 translate french jacksonordered_9ec0d379:
@@ -118,25 +118,25 @@ translate french jacksonordered_9ec0d379:
 translate french jacksonordered_3cf1e9b4:
 
     # jk "You just have a seat and one of my girls will bring it out to you in a few minutes."
-    jk "Asseyez-vous, et l’une de mes serveuses vous l’apportera dans quelques minutes."
+    jk "Asseyez-vous, l’une de mes serveuses vous l’apportera dans quelques minutes."
 
 # game/Locations/jacksonburger.rpy:89
 translate french jacksonordered_eb342213:
 
     # "I sit at an empty table and look around at the other patrons. All of them sitting with other people - boyfriends, girlfriends, husbands, wives, or just friends."
-    "Je m’assois à une table vide et jette un œil aux autres clients. Ils sont tous accompagnés : petits amis, petites amies, maris, femmes, ou simplement des amis."
+    "Je m’assois à une table vide et jette un œil aux autres clients. Ils sont tous accompagnés : petits amis, petites amies, maris, femmes, ou simplement amis."
 
 # game/Locations/jacksonburger.rpy:90
 translate french jacksonordered_57eeca57:
 
     # "And here I am... alone. I need to make some new friends fast. I hate eating at restaurants like this by myself. I know that a lot of people do it, but it just feels so lonely."
-    "Et moi, je suis là... tout seul. Il faut que je me fasse vite de nouveaux amis. Je déteste manger seul dans des restaurants comme celui-ci. Je sais que beaucoup de gens le font, mais je me sens tellement seul."
+    "Et moi, je suis là... tout seul. Il faut que je me fasse vite de nouveaux amis. Je déteste manger seul dans des restaurants comme celui-ci. Je sais que beaucoup de gens le font, mais je me sens tellement isolé."
 
 # game/Locations/jacksonburger.rpy:102
 translate french jacksonordered_b5e1cd17:
 
     # "The waitress brings my order out to the table and I eat by myself."
-    "La serveuse m'apporte ma commande à table et je mange tout seul."
+    "La serveuse m'apporte ma commande à table et je mange seul."
 
 # game/Locations/jacksonburger.rpy:103
 translate french jacksonordered_c544842c:
@@ -154,13 +154,13 @@ translate french jacksonordered_e008a48e:
 translate french jacksonordered_ad0c9492:
 
     # "Waitress" "Bye hon, have a good day."
-    "Waitress" "Au revoir chérie, passe une bonne journée."
+    "Waitress" "Au revoir mon chou, passe une bonne journée."
 
 # game/Locations/jacksonburger.rpy:110
 translate french jacksonordered_9fbaa555:
 
     # "Connie brings my order out to the table and I eat by myself."
-    "Connie m'apporte ma commande à table et je mange toute seule."
+    "Connie m'apporte ma commande à table et je mange seul."
 
 # game/Locations/jacksonburger.rpy:111
 translate french jacksonordered_c544842c_1:
@@ -178,13 +178,13 @@ translate french jacksonordered_e008a48e_1:
 translate french jacksonordered_e47cf8c5:
 
     # con "Bye hon, have a good day."
-    con "Au revoir chérie, passe une bonne journée."
+    con "Au revoir mon chou, passe une bonne journée."
 
 # game/Locations/jacksonburger.rpy:119
 translate french jacksonordered_87ba2828:
 
     # "I put $5 on the table before I leave."
-    "Je pose 5 $ sur la table avant de partir."
+    "Je pose 5$ sur la table avant de partir."
 
 # game/Locations/jacksonburger.rpy:121
 translate french jacksonordered_01e672c5:
@@ -256,19 +256,19 @@ translate french mariorder_4664af7e:
 translate french mariorder_7a8f7f57:
 
     # fr "Okay! Let me just finish everything up."
-    fr "D'accord ! Laisse-moi juste finir tout ça."
+    fr "D'accord ! Laisse-moi juste tout boucler."
 
 # game/Locations/jacksonburger.rpy:157
 translate french mariorder_4ed0baca:
 
     # "I wait for her to finish working, then we go out to my car to go on our date."
-    "J'attends qu'elle ait fini de travailler, puis on sort vers ma voiture pour aller à notre rendez-vous."
+    "J'attends qu'elle ait fini de travailler, puis on sort vers ma voiture pour aller à notre rencard."
 
 # game/Locations/jacksonburger.rpy:162
 translate french marijusteat_c6ad28e4:
 
     # "Mari brings my order out to the table with a smile and I eat by myself."
-    "Mari m'apporte ma commande à table avec un sourire et je mange tout seul."
+    "Mari m'apporte ma commande à table avec un sourire et je mange seul."
 
 # game/Locations/jacksonburger.rpy:164
 translate french marijusteat_37800351:
@@ -298,7 +298,7 @@ translate french marijusteat_7949c609:
 translate french maritipmenu_87ba2828:
 
     # "I put $5 on the table before I leave."
-    "Je pose 5 $ sur la table avant de partir."
+    "Je pose 5$ sur la table avant de partir."
 
 # game/Locations/jacksonburger.rpy:175
 translate french maritipmenu_01e672c5:
@@ -310,7 +310,7 @@ translate french maritipmenu_01e672c5:
 translate french izzyorder_0353bdb4:
 
     # gl "What's good, Twig? You want your usual?"
-    gl "Ça va, Twig ? Tu veux ton habituel ?"
+    gl "Ça va, Brindille ? Tu prends comme d'habitude ?"
 
 # game/Locations/jacksonburger.rpy:188
 translate french izzyorder_2d95ab9f:
@@ -322,7 +322,7 @@ translate french izzyorder_2d95ab9f:
 translate french izzyorder_7397ea17:
 
     # "A little while later, Izzy brings my food out to the table with a smile and I eat by myself."
-    "Un peu plus tard, Izzy m'apporte mon repas à table avec le sourire et je mange tout seul."
+    "Un peu plus tard, Izzy m'apporte mon repas à table avec le sourire et je mange seul."
 
 # game/Locations/jacksonburger.rpy:191
 translate french izzyorder_e008a48e:
@@ -334,7 +334,7 @@ translate french izzyorder_e008a48e:
 translate french izzyorder_560e3418:
 
     # gl "See ya later, Twig!"
-    gl "À plus tard, Twig !"
+    gl "À plus tard, Brindille !"
 
 # game/Locations/jacksonburger.rpy:200
 translate french izzyorder_6122580f:
@@ -364,25 +364,25 @@ translate french izzyorder_58d7ebce:
 translate french izzyorder_579ef008:
 
     # pc "Nah, I'm gonna take off."
-    pc "Non, je vais y aller."
+    pc "Non, je vais filer."
 
 # game/Locations/jacksonburger.rpy:206
 translate french izzyorder_3f5d8e24:
 
     # gl "Alright. See you later."
-    gl "D’accord. À plus tard."
+    gl "Ça marche. À plus tard."
 
 # game/Locations/jacksonburger.rpy:209
 translate french izzyorder_57b8af05:
 
     # gl "I think I can handle that."
-    gl "Je pense que je peux m’en occuper."
+    gl "Je pense que je peux gérer."
 
 # game/Locations/jacksonburger.rpy:210
 translate french izzyorder_a069c599:
 
     # gl "You gonna wait around here for me to finish up this shit?"
-    gl "Tu vas m’attendre ici pendant que je finis ce bordel ?"
+    gl "Tu veux attendre pendant que je boucle ce merdier ?"
 
 # game/Locations/jacksonburger.rpy:211
 translate french izzyorder_61f77a4c:
@@ -394,19 +394,19 @@ translate french izzyorder_61f77a4c:
 translate french izzyorder_312ccaf5:
 
     # gl "Alright. Give me a bit."
-    gl "D'accord. Donne-moi un peu de temps."
+    gl "Très bien. Donne-moi un peu de temps."
 
 # game/Locations/jacksonburger.rpy:215
 translate french izzyorder_4ed0baca:
 
     # "I wait for her to finish working, then we go out to my car to go on our date."
-    "J'attends qu'elle ait fini de bosser, puis on sort vers ma voiture pour aller à notre rendez-vous."
+    "J'attends qu'elle ait fini de bosser, puis on sort vers ma voiture pour aller à notre rencard."
 
 # game/Locations/jacksonburger.rpy:220
 translate french izzyorder_6122580f_1:
 
     # gl "Damn, I'm sorry [pcname]. The boys are going to be at home today."
-    gl "Mince, désolé [pcname]. Les garçons vont être à la maison aujourd'hui."
+    gl "Mince, désolée [pcname]. Les garçons vont être à la maison aujourd'hui."
 
 # game/Locations/jacksonburger.rpy:221
 translate french izzyorder_b97c8490_1:
@@ -436,19 +436,19 @@ translate french izzyorder_579ef008_1:
 translate french izzyorder_3f5d8e24_1:
 
     # gl "Alright. See you later."
-    gl "D'accord. À plus tard."
+    gl "Ça marche. À plus tard."
 
 # game/Locations/jacksonburger.rpy:229
 translate french izzyorder_57b8af05_1:
 
     # gl "I think I can handle that."
-    gl "Je pense que je peux m'en occuper."
+    gl "Je pense que je peux gérer."
 
 # game/Locations/jacksonburger.rpy:230
 translate french izzyorder_a069c599_1:
 
     # gl "You gonna wait around here for me to finish up this shit?"
-    gl "Tu vas m'attendre ici pendant que je finis ce boulot ?"
+    gl "Tu vas attendre là pendant que je boucle ce merdier ?"
 
 # game/Locations/jacksonburger.rpy:231
 translate french izzyorder_61f77a4c_1:
@@ -460,7 +460,7 @@ translate french izzyorder_61f77a4c_1:
 translate french izzyorder_312ccaf5_1:
 
     # gl "Alright. Give me a bit."
-    gl "D'accord. Donne-moi un peu de temps."
+    gl "Très bien. Donne-moi un peu de temps."
 
 # game/Locations/jacksonburger.rpy:235
 translate french izzyorder_4ed0baca_1:
@@ -476,7 +476,7 @@ translate french strings:
 
     # game/Locations/jacksonburger.rpy:58
     old "$5 - Burger, fries, and a drink"
-    new "5 $ - Burger, frites et une boisson"
+    new "5$ - Burger, frites et une boisson"
 
     # game/Locations/jacksonburger.rpy:66
     old "Nevermind. I'm not hungry."
@@ -492,7 +492,7 @@ translate french strings:
 
     # game/Locations/jacksonburger.rpy:139
     old "My usual burger and fries"
-    new "Mon burger habituel et des frites"
+    new "Mon burger-frites habituel"
 
     # game/Locations/jacksonburger.rpy:147
     old "Go out after work?"

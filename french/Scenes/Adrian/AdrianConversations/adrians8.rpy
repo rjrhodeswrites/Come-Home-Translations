@@ -4,25 +4,25 @@
 translate french adrians8_6cec5501:
 
     # gg "Sure."
-    gg "C'est vrai."
+    gg "Oui."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:20
 translate french adrians8_52f2dc4c:
 
     # gg "You mean like Grand Theft Auto or something?"
-    gg "Tu veux dire comme Grand Theft Auto ou un truc du genre ?"
+    gg "Tu veux dire comme GTA ou des trucs du genre ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:21
 translate french adrians8_db7eb452:
 
     # gg "Yeah, most of the games I play are made for adults."
-    gg "Ouais, la plupart des jeux auxquels je joue sont faits pour les adultes."
+    gg "Ouais, la plupart des jeux auxquels je joue sont destinés aux adultes."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:23
 translate french adrians8_406e47e2:
 
     # gg "I mean, you remember what we got up to in Souls of War."
-    gg "Je veux dire, tu te souviens de ce qu'on a fait dans Souls of War."
+    gg "Après tout, tu te souviens de ce qu'on a fait dans Souls of War."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:24
 translate french adrians8_0fc36813:
@@ -34,13 +34,13 @@ translate french adrians8_0fc36813:
 translate french adrians8_012b76cf:
 
     # pc "No, I mean like {i}Adult Visual Novels.{/i}"
-    pc "Non, je veux dire comme {i}les romans visuels pour adultes.{/i}"
+    pc "Non, je veux dire des {i}romans visuels pour adultes.{/i}"
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:27
 translate french adrians8_af6a09fe:
 
     # pc "You know... porn games?"
-    pc "Tu sais... les jeux pornos ?"
+    pc "Tu sais... des jeux pornos ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:29
 translate french adrians8_d9716392:
@@ -52,7 +52,7 @@ translate french adrians8_d9716392:
 translate french adrians8_1a5ae66c:
 
     # gg "Um... Yeah, I've played a few."
-    gg "Euh... Ouais, j’en ai joué quelques-uns."
+    gg "Euh... Ouais, j’en ai fait quelques-uns."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:32
 translate french adrians8_65a62d3d:
@@ -76,13 +76,13 @@ translate french adrians8_2441c777:
 translate french adrians8_9f00d552:
 
     # pc "Yeah, I guess so."
-    pc "Ouais, je suppose."
+    pc "Ouais, efectivement."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:38
 translate french adrians8_ee8d7ffe:
 
     # gg "But they can be pretty hot sometimes."
-    gg "Mais ils peuvent être assez excitants parfois."
+    gg "Mais ils peuvent être assez chauds parfois."
 
 # game/Scenes/Adrian/AdrianConversations/adrians8.rpy:39
 translate french adrians8_f0757e59:

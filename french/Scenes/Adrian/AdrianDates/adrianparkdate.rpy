@@ -16,7 +16,7 @@ translate french adrianparkstartdate_72903eaa:
 translate french adrianparkstartdate_3560779f:
 
     # pc "You mean when Brogar facefucked Trenoxa, then pounded her against that tree?"
-    pc "Tu veux dire quand Brogar a baisé Trenoxa en face, puis l'a pilonnée contre cet arbre ?"
+    pc "Tu veux dire quand Brogar a baisé Trenoxa dans la bouche, puis l'a pilonnée contre l'arbre ?"
 
 # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:36
 translate french adrianparkstartdate_cf8da480:
@@ -58,7 +58,7 @@ translate french adrianparkstartdate_6ffe24a9:
 translate french adrianparkstartdate_54ae3b2b:
 
     # gg "Sorry. I know what I like."
-    gg "Désolé. Je sais ce que j'aime."
+    gg "Désolée. Je sais ce que j'aime."
 
 # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:51
 translate french adrianparkstartdate_1bdb11ac:
@@ -82,7 +82,7 @@ translate french adrianparkstartdate_6cb3d585:
 translate french adrianparkstartdate_df5a3267:
 
     # "Then we make out a bit, kissing passionately for some time."
-    "Puis on s'embrasse un peu, passionnément, pendant un moment."
+    "Puis on se pelote, et on s'embrasse passionnément, pendant un moment."
 
 # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:74
 translate french adrianparkstartdate_073c5861:

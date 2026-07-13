@@ -112,13 +112,13 @@ translate french adrian14_999410fb:
 translate french adrian14_7d975de6:
 
     # sg "Oh hey! I was just about to knock!"
-    sg "Oh salut ! J’allais justement frapper !"
+    sg "Oh hey ! J’allais frapper !"
 
 # game/Scenes/Adrian/adrian14.rpy:46
 translate french adrian14_53aa947a:
 
     # sg "Sorry I didn't call, but I thought we could hang out today, if you're not busy?"
-    sg "Désolée de ne pas avoir appelé, mais je me suis dit qu’on pourrait passer du temps ensemble aujourd’hui, si tu n’es pas occupé ?"
+    sg "Désolée de pas avoir appelé, mais j'me suis dit qu’on pourrait traîner aujourd’hui, si t’es pas occupé ?"
 
 # game/Scenes/Adrian/adrian14.rpy:47
 translate french adrian14_a5c73c21:
@@ -136,13 +136,13 @@ translate french adrian14_ceb74678:
 translate french adrian14_1f70a2f9:
 
     # sg "Adrian, right!? Heyyy!"
-    sg "Adrian, c’est ça ?! Salut !"
+    sg "Hé, Adrian ?! Heeey !"
 
 # game/Scenes/Adrian/adrian14.rpy:52
 translate french adrian14_4a6be163:
 
     # sg "Oh, were you two hanging out today? I'm sorry. I didn't mean to interrupt!"
-    sg "Oh, vous étiez ensemble aujourd’hui ? Désolée. Je ne voulais pas vous déranger !"
+    sg "Oh, vous étiez ensemble aujourd’hui ? Désolée. J'voulais pas vous déranger !"
 
 # game/Scenes/Adrian/adrian14.rpy:55
 translate french adrian14_4c65b47a:
@@ -154,67 +154,67 @@ translate french adrian14_4c65b47a:
 translate french adrian14_4c4108ab:
 
     # pc "Sorry, I didn't know you wanted to do something today."
-    pc "Désolée, je ne savais pas que tu voulais faire quelque chose aujourd’hui."
+    pc "Désolé, je savais pas que tu voulais faire quelque chose aujourd’hui."
 
 # game/Scenes/Adrian/adrian14.rpy:57
 translate french adrian14_7d4a292c:
 
     # sg "No, it's fine. We can just do something later. It was dumb of me not to call."
-    sg "Non, ça va. On peut faire quelque chose plus tard. C'était bête de ma part de ne pas appeler."
+    sg "Non, c'est bon. On f'ra des trucs plus tard. J'ai été conne de pas appeler."
 
 # game/Scenes/Adrian/adrian14.rpy:58
 translate french adrian14_a9f4cb4d:
 
     # gg "Hey, why don't you just come over too?"
-    gg "Hé, pourquoi tu ne viendrais pas aussi ?"
+    gg "Hé, et si tu venais aussi ?"
 
 # game/Scenes/Adrian/adrian14.rpy:61
 translate french adrian14_da9699ca:
 
     # sg "{i}Really!?{/i} You don't mind?"
-    sg "{i}Vraiment !?{/i} Ça ne te dérange pas ?"
+    sg "{i}Sans déc !?{/i} Ça te dérange pas ?"
 
 # game/Scenes/Adrian/adrian14.rpy:62
 translate french adrian14_75878a7e:
 
     # gg "No, we can all hang out together. We were just going to play some video games and stuff."
-    gg "Non, on peut tous traîner ensemble. On allait juste jouer à des jeux vidéo et faire des trucs."
+    gg "Non, on peut traîner tous ensemble. On allait juste faire des jeux vidéo et d'autres trucs."
 
 # game/Scenes/Adrian/adrian14.rpy:63
 translate french adrian14_96f92bdd:
 
     # sg "I'm really bad at games, but stuff sounds fun!"
-    sg "Je suis vraiment nulle aux jeux, mais les trucs, ça a l'air sympa !"
+    sg "J'suis nulle aux jeux, mais j'suis partante pour les trucs !"
 
 # game/Scenes/Adrian/adrian14.rpy:66
 translate french adrian14_f209c678:
 
     # sg "Is it really okay? Can I come hang out too?"
-    sg "C'est vraiment bon ? Je peux venir moi aussi ?"
+    sg "C'est bon, t'es sûr ? J'peux venir ?"
 
 # game/Scenes/Adrian/adrian14.rpy:67
 translate french adrian14_4be7307c:
 
     # pc "Sure, I don't see why not."
-    pc "Bien sûr, je ne vois pas pourquoi pas."
+    pc "Oui, ça me pose aucun problème."
 
 # game/Scenes/Adrian/adrian14.rpy:70
 translate french adrian14_37467fd8:
 
     # sg "Awesome! We'll be right there, Adrian!"
-    sg "Génial ! On arrive tout de suite, Adrian !"
+    sg "Trop bien ! On arrive, Adrian !"
 
 # game/Scenes/Adrian/adrian14.rpy:71
 translate french adrian14_50493baf:
 
     # gg "Okay, see you in a bit!"
-    gg "OK, à tout à l'heure !"
+    gg "OK, à tout de suite !"
 
 # game/Scenes/Adrian/adrian14.rpy:72
 translate french adrian14_be7a3ea5:
 
     # sg "Let's gooooooooo!"
-    sg "C'est parti !"
+    sg "Let's goooooooo !"
 
 # game/Scenes/Adrian/adrian14.rpy:76
 translate french adrian14_cd53e3ee:
@@ -232,7 +232,7 @@ translate french adrian14_ad73e03f:
 translate french adrian14_cac6bdc1:
 
     # sg "Damn girl, your legs look good!"
-    sg "Mince, tes jambes sont superbes !"
+    sg "La vache, t'as des belles jambes !"
 
 # game/Scenes/Adrian/adrian14.rpy:79
 translate french adrian14_ca921b63:
@@ -244,19 +244,19 @@ translate french adrian14_ca921b63:
 translate french adrian14_41395df5:
 
     # "Adrian walks up and pulls me into a deep kiss."
-    "Adrian s'approche et m'attire vers lui pour m'embrasser longuement."
+    "Adrian s'approche et m'attire à elle pour m'embrasser longuement."
 
 # game/Scenes/Adrian/adrian14.rpy:83
 translate french adrian14_9cfd9173:
 
     # gg "Hey, [pcname]. Glad you came."
-    gg "Salut, [pcname]. Content que tu sois venue."
+    gg "Salut, [pcname]. Contente que tu sois venue."
 
 # game/Scenes/Adrian/adrian14.rpy:84
 translate french adrian14_023258a8:
 
     # "I'm a little taken aback. It's awkward kissing Adrian right in front of Kendra like that."
-    "Je suis un peu décontenancée. C'est gênant d'embrasser Adrian comme ça, juste devant Kendra."
+    "Je suis un peu décontenancé. C'est gênant d'embrasser Adrian comme ça, juste devant Kendra."
 
 # game/Scenes/Adrian/adrian14.rpy:85
 translate french adrian14_b827e770:
@@ -274,7 +274,7 @@ translate french adrian14_e9af1721:
 translate french adrian14_de3c1ae8:
 
     # sg "But... I thought you were {i}my{/i} boyfriend."
-    sg "Mais... je croyais que tu étais {i}mon{/i} copain."
+    sg "Mais... j'croyais que t'étais {i}mon{/i} mec."
 
 # game/Scenes/Adrian/adrian14.rpy:90
 translate french adrian14_f2232abd:
@@ -292,25 +292,25 @@ translate french adrian14_8db959a9:
 translate french adrian14_3b6e0140:
 
     # sg "I'm just fucking with you!"
-    sg "Je te fais juste marcher !"
+    sg "Je te fais marcher !"
 
 # game/Scenes/Adrian/adrian14.rpy:95
 translate french adrian14_a5bb3b66:
 
     # sg "I know you two are boinking, it's fine!"
-    sg "Je sais que vous vous tapez, ça ne me dérange pas !"
+    sg "J'sais qu'vous vous tapez, ça m'dérange pas !"
 
 # game/Scenes/Adrian/adrian14.rpy:96
 translate french adrian14_8ab92b6f:
 
     # sg "Let's go play video games or whatever! I want to see your room, Adrian!"
-    sg "Allons jouer aux jeux vidéo ou autre chose ! Je veux voir ta chambre, Adrian !"
+    sg "Maintenant on fait des jeux vidéo ou j'sais pas quoi ! J'veux voir ta chambre, Adrian !"
 
 # game/Scenes/Adrian/adrian14.rpy:97
 translate french adrian14_25506a91:
 
     # gg "Oh, um... okay! Let's go then."
-    gg "Oh, euh... d'accord ! Allons-y alors."
+    gg "Oh, euh... d'accord ! Allons-y."
 
 # game/Scenes/Adrian/adrian14.rpy:100
 translate french adrian14_0fc679f0:
@@ -322,7 +322,7 @@ translate french adrian14_0fc679f0:
 translate french adrian14_343e7f9f:
 
     # gg "Oh that's a poster for Souls of War, this computer game I'm obsessed with."
-    gg "Oh, c'est un poster de Souls of War, ce jeu vidéo dont je suis accro."
+    gg "Oh, c'est un poster de Souls of War, je suis accro à ce jeu."
 
 # game/Scenes/Adrian/adrian14.rpy:102
 translate french adrian14_6985553d:
@@ -358,7 +358,7 @@ translate french adrian14_0fc679f0_2:
 translate french adrian14_cdec491c:
 
     # gg "That... is a plant. I call that one Kratos."
-    gg "C'est... une plante. Je l'ai baptisée Kratos."
+    gg "C'est... une plante. Je l'ai appelée Kratos."
 
 # game/Scenes/Adrian/adrian14.rpy:112
 translate french adrian14_6985553d_2:
@@ -394,7 +394,7 @@ translate french adrian14_3ac0e75d:
 translate french adrian14_8d80f60b:
 
     # "Adrian and I are having a good time, focusing more on fighting each other in the game, while Kendra just tries not to knock herself off the platforms."
-    "Adrian et moi, on s'amuse bien, on se concentre surtout sur le fait de se battre l'un contre l'autre dans le jeu, tandis que Kendra essaie juste de ne pas se faire tomber des plateformes."
+    "Adrian et moi, on s'amuse bien, on se concentre surtout sur le fait de se battre l'un contre l'autre dans le jeu, pendant que Kendra essaie juste de ne pas se faire tomber des plateformes."
 
 # game/Scenes/Adrian/adrian14.rpy:122
 translate french adrian14_118c8817:
@@ -406,19 +406,19 @@ translate french adrian14_118c8817:
 translate french adrian14_5eaf6faf:
 
     # sg "This is boring!"
-    sg "C'est ennuyeux !"
+    sg "C'est chiant !"
 
 # game/Scenes/Adrian/adrian14.rpy:126
 translate french adrian14_28e6f6bd:
 
     # sg "No matter how many of these buttons I hit, I just keep falling off the edge!"
-    sg "Peu importe combien de boutons j'appuie, je n'arrête pas de tomber du bord !"
+    sg "J'ai beau appuyer sur tous les boutons, j'fais que tomber du bord !"
 
 # game/Scenes/Adrian/adrian14.rpy:127
 translate french adrian14_d5fb617e:
 
     # sg "And why does that stupid kid keep saying \"Peaky Blinders\"?"
-    sg "Et pourquoi ce gamin stupide n'arrête-t-il pas de dire « Peaky Blinders » ?"
+    sg "Et pourquoi le gamin débile arrête pas de dire « Peaky Blinders » ?"
 
 # game/Scenes/Adrian/adrian14.rpy:128
 translate french adrian14_f65bedb7:
@@ -430,13 +430,13 @@ translate french adrian14_f65bedb7:
 translate french adrian14_25ff7af6:
 
     # sg "My guy is dead again, so I guess it's just you two fighting each other."
-    sg "Mon personnage est encore mort, donc je suppose que c'est juste vous deux qui vous battez."
+    sg "Mon personnage est encore mort, alors j'vous laisse jouer entre vous."
 
 # game/Scenes/Adrian/adrian14.rpy:132
 translate french adrian14_798cb349:
 
     # sg "What if I distract [pcname], to help Adrian win?"
-    sg "Et si je distrayais [pcname] pour aider Adrian à gagner ?"
+    sg "Et si j'distrayais [pcname] pour aider Adrian à gagner ?"
 
 # game/Scenes/Adrian/adrian14.rpy:133
 translate french adrian14_fa8e1fe9:
@@ -454,13 +454,13 @@ translate french adrian14_119489fb:
 translate french adrian14_63292927:
 
     # pc "Yeah, distract {i}her{/i}! I'm already behind."
-    pc "Ouais, distrait-la {i} ! Je suis déjà en retard."
+    pc "C'est vrai, distrais-la {i}elle{/i} ! Je suis aux fraises."
 
 # game/Scenes/Adrian/adrian14.rpy:138
 translate french adrian14_b70b1f02:
 
     # sg "Am I distracting?"
-    sg "Est-ce que je le distrait ?"
+    sg "Est-ce que j'te distrais ?"
 
 # game/Scenes/Adrian/adrian14.rpy:139
 translate french adrian14_438f761f:
@@ -472,19 +472,19 @@ translate french adrian14_438f761f:
 translate french adrian14_c382e093:
 
     # sg "Should I be more distracting?"
-    sg "Je devrais te distraire davantage ?"
+    sg "J'pourrais te distraire plus ?"
 
 # game/Scenes/Adrian/adrian14.rpy:141
 translate french adrian14_72506604:
 
     # gg "Uh... how?"
-    gg "Euh… comment ?"
+    gg "Euh… et comment ?"
 
 # game/Scenes/Adrian/adrian14.rpy:144
 translate french adrian14_7b90d4e7:
 
     # sg "What about this?"
-    sg "Et ça, alors ?"
+    sg "Tu dis quoi de ça ?"
 
 # game/Scenes/Adrian/adrian14.rpy:145
 translate french adrian14_fab640c3:
@@ -496,13 +496,13 @@ translate french adrian14_fab640c3:
 translate french adrian14_a7dce6e7:
 
     # sg "Maybe!"
-    sg "Peut-être !"
+    sg "P't-être !"
 
 # game/Scenes/Adrian/adrian14.rpy:147
 translate french adrian14_3136729e:
 
     # sg "You can play with them if you want. But you'd have to take your hands off the controller."
-    sg "Tu peux jouer avec si tu veux. Mais tu devras lâcher la manette."
+    sg "Tu peux jouer avec s'tu veux. Mais faudra lâcher la manette."
 
 # game/Scenes/Adrian/adrian14.rpy:148
 translate french adrian14_af9452bc:
@@ -514,7 +514,7 @@ translate french adrian14_af9452bc:
 translate french adrian14_feb7d77a:
 
     # sg "Sure, that sounds more fun than this game!"
-    sg "Bien sûr, ça a l’air plus marrant que ce jeu !"
+    sg "Ouais, c'est plus marrant qu'ce jeu !"
 
 # game/Scenes/Adrian/adrian14.rpy:152
 translate french adrian14_bd0c0c75:
@@ -526,43 +526,43 @@ translate french adrian14_bd0c0c75:
 translate french adrian14_b8fcdbc3:
 
     # gg "You need to control your girlfriend here, [pcname]."
-    gg "Tu dois contrôler ta copine ici, [pcname]."
+    gg "Il faut que tu contrôles ta copine, [pcname]."
 
 # game/Scenes/Adrian/adrian14.rpy:154
 translate french adrian14_acdc800f:
 
     # sg "Haha, which one!? I thought we were both his girlfriends!"
-    sg "Haha, laquelle ?! Je croyais qu'on était toutes les deux ses copines !"
+    sg "Haha, laquelle ?! J'croyais qu'on était toutes les deux ses copines !"
 
 # game/Scenes/Adrian/adrian14.rpy:155
 translate french adrian14_93b211d9:
 
     # gg "Well, yeah I guess so."
-    gg "Eh bien, ouais, je suppose."
+    gg "Ah, ouais, c'est vrai."
 
 # game/Scenes/Adrian/adrian14.rpy:156
 translate french adrian14_2d6fc387:
 
     # sg "Since I'm his girlfriend, and you're his girlfriend, then I think that basically makes you my girlfriend too right?"
-    sg "Puisque je suis sa copine, et que tu es sa copine, je pense que ça fait de toi ma copine aussi, non ?"
+    sg "Puisque j'suis sa copine, et que t'es sa copine, j'pense que t'es aussi ma copine, nan ?"
 
 # game/Scenes/Adrian/adrian14.rpy:157
 translate french adrian14_1d72d837:
 
     # sg "Or at least girlfriend-in-law?"
-    sg "Ou au moins ma belle-copine ?"
+    sg "Ou genre ma belle-copine ?"
 
 # game/Scenes/Adrian/adrian14.rpy:158
 translate french adrian14_71c649ca:
 
     # gg "I'm not sure it works that way."
-    gg "Je ne suis pas sûre que ça marche comme ça."
+    gg "Je suis pas sûre que ça marche comme ça."
 
 # game/Scenes/Adrian/adrian14.rpy:161
 translate french adrian14_7951a5d1:
 
     # sg "What do you think, [pcname]?"
-    sg "Qu'en penses-tu, [pcname] ?"
+    sg "T'en dis quoi, [pcname] ?"
 
 # game/Scenes/Adrian/adrian14.rpy:162
 translate french adrian14_5005cac0:
@@ -574,13 +574,13 @@ translate french adrian14_5005cac0:
 translate french adrian14_4a767f0f:
 
     # sg "There you have it. I'm your girlfriend now, Adrian. It's the law!"
-    sg "Et voilà. Je suis ta copine maintenant, Adrian. C'est la loi !"
+    sg "Et voilà. J'suis ta copine maintenant, Adrian. C'est la loi !"
 
 # game/Scenes/Adrian/adrian14.rpy:164
 translate french adrian14_82c7c2e6:
 
     # gg "Well, I'll take it, I guess. You are very cute."
-    gg "Bon, je vais m'en contenter, je suppose. Tu es très mignonne."
+    gg "Bon, après tout, ça me va. Tu es très mignonne."
 
 # game/Scenes/Adrian/adrian14.rpy:167
 translate french adrian14_3f7b7595:
@@ -592,7 +592,7 @@ translate french adrian14_3f7b7595:
 translate french adrian14_1d703622:
 
     # sg "Do you want to make out?"
-    sg "Tu veux qu'on s'embrasse ?"
+    sg "Tu veux qu'on s'pelote ?"
 
 # game/Scenes/Adrian/adrian14.rpy:169
 translate french adrian14_c3656cdc:
@@ -604,31 +604,31 @@ translate french adrian14_c3656cdc:
 translate french adrian14_766a2f64:
 
     # sg "You think I'm cute, I think you're gorgeous, and we're technically girlfriends."
-    sg "Tu me trouves mignonne, je te trouve canon, et techniquement, on est en couple."
+    sg "Tu m'trouves mignonne, j'te trouve canon, et techniquement, on est en couple."
 
 # game/Scenes/Adrian/adrian14.rpy:171
 translate french adrian14_4a4c4ecf:
 
     # sg "So, we should make out. Right, [pcname]?"
-    sg "Donc, on devrait s'embrasser. Pas vrai, [pcname] ?"
+    sg "Donc, on devrait s'peloter. Hein, [pcname] ?"
 
 # game/Scenes/Adrian/adrian14.rpy:178
 translate french adrian14_827c3a60:
 
     # sg "Dang, really? I was hoping you'd be cool with it."
-    sg "Mince, vraiment ? J'espérais que ça te ferait plaisir."
+    sg "T'es sérieux ? J'pensais que tu kifferais."
 
 # game/Scenes/Adrian/adrian14.rpy:179
 translate french adrian14_a6c2074a:
 
     # pc "Sorry, no."
-    pc "Désolée, non."
+    pc "Désolé, non."
 
 # game/Scenes/Adrian/adrian14.rpy:180
 translate french adrian14_6dad4939:
 
     # sg "Bleh! Fine let's just play the dumb game then."
-    sg "Pfff ! Bon, alors jouons juste à ce jeu idiot."
+    sg "Pfff ! Bon alors y a qu'à jouer à ce jeu débile."
 
 # game/Scenes/Adrian/adrian14.rpy:183
 translate french adrian14_3306f090:
@@ -646,19 +646,19 @@ translate french adrian14_3e2c538d:
 translate french adrian14_22e5899f:
 
     # "I'd rather spend some one-on-one time with them later."
-    "Je préfère passer un moment en tête-à-tête avec chacun d'eux plus tard."
+    "Je préfère les voir en tête-à-tête."
 
 # game/Scenes/Adrian/adrian14.rpy:186
 translate french adrian14_14cfd511:
 
     # "Back in the car, I try to find something else to do with my evening."
-    "De retour dans la voiture, j'essaie de trouver autre chose à faire pour ma soirée."
+    "De retour dans la voiture, j'essaie de trouver autre chose à faire de ma soirée."
 
 # game/Scenes/Adrian/adrian14.rpy:193
 translate french adrian14_a1006014:
 
     # gg "You're really okay with it?"
-    gg "Ça te va vraiment ?"
+    gg "Ah ouais, ça t'va ?"
 
 # game/Scenes/Adrian/adrian14.rpy:194
 translate french adrian14_5637ec58:
@@ -682,13 +682,13 @@ translate french adrian14_a469ba8b:
 translate french adrian14_85aee753:
 
     # pc "Last life, baby. [pcname] is the winner."
-    pc "Dernière vie, bébé. [pcname] est le gagnant."
+    pc "Dernière vie, bébé. [pcname] a gagné."
 
 # game/Scenes/Adrian/adrian14.rpy:200
 translate french adrian14_ee7574e5:
 
     # sg "I'm sorry, Adrian. Did I distract you?"
-    sg "Je suis désolée, Adrian. Je t'ai déconcentré ?"
+    sg "J'suis désolée, Adrian. J't'ai déconcentré ?"
 
 # game/Scenes/Adrian/adrian14.rpy:201
 translate french adrian14_8e1e1313:
@@ -700,13 +700,13 @@ translate french adrian14_8e1e1313:
 translate french adrian14_9aeb9251:
 
     # gg "Did you mean it though?"
-    gg "Tu le pensais vraiment ?"
+    gg "Mais tu le pensais vraiment ?"
 
 # game/Scenes/Adrian/adrian14.rpy:205
 translate french adrian14_0b44b0b4:
 
     # sg "Mean what?"
-    sg "Je pensais quoi ?"
+    sg "J'pensais quoi ?"
 
 # game/Scenes/Adrian/adrian14.rpy:206
 translate french adrian14_2d2cbc4b:
@@ -718,25 +718,25 @@ translate french adrian14_2d2cbc4b:
 translate french adrian14_0a5d47cb:
 
     # gg "Or were you just messing around, trying to distract me?"
-    gg "Ou tu faisais juste l'idiot pour essayer de me déconcentrer ?"
+    gg "Ou tu disais ça juste pour me déconcentrer ?"
 
 # game/Scenes/Adrian/adrian14.rpy:210
 translate french adrian14_936bd986:
 
     # "Kendra moves in quickly, planting her lips onto Adrian's."
-    "Kendra se jette rapidement sur Adrian et pose ses lèvres sur les siennes."
+    "Kendra s'approche rapidement d'Adrian et pose ses lèvres sur les siennes."
 
 # game/Scenes/Adrian/adrian14.rpy:211
 translate french adrian14_cf75f2bf:
 
     # sg "I meant it. You're gorgeous."
-    sg "Je le pensais vraiment. Tu es canon."
+    sg "J'le pensais vraiment. T'es canon."
 
 # game/Scenes/Adrian/adrian14.rpy:212
 translate french adrian14_af12f438:
 
     # sg "I want to make out with you. I want to do more than make out with you."
-    sg "J'ai envie de t'embrasser. J'ai envie de faire plus que ça."
+    sg "J'ai envie d't'embrasser. J'ai envie d'faire plus que ça."
 
 # game/Scenes/Adrian/adrian14.rpy:213
 translate french adrian14_b992ab22:
@@ -748,7 +748,7 @@ translate french adrian14_b992ab22:
 translate french adrian14_544b0e44:
 
     # sg "I want to lick you. I want to eat your pussy."
-    sg "J'ai envie de te lécher. J'ai envie de te bouffer la chatte."
+    sg "J'ai envie d'te lécher. J'ai envie d'te bouffer la chatte."
 
 # game/Scenes/Adrian/adrian14.rpy:217
 translate french adrian14_acd3f117:
@@ -778,7 +778,7 @@ translate french adrian14_ea9ed9aa:
 translate french adrian14_d37f00c5:
 
     # sg "Whoa! REALLY!?"
-    sg "Ouah ! VRAIMENT ?!"
+    sg "Ouah ! SÉRIEUX ?!"
 
 # game/Scenes/Adrian/adrian14.rpy:224
 translate french adrian14_dc9910fc:
@@ -790,19 +790,19 @@ translate french adrian14_dc9910fc:
 translate french adrian14_458c2e38:
 
     # sg "Can I see it?"
-    sg "Je peux le voir ?"
+    sg "J'peux le voir ?"
 
 # game/Scenes/Adrian/adrian14.rpy:228
 translate french adrian14_1b5acef2:
 
     # gg "Are we really going to do this? Are you okay with it?"
-    gg "On va vraiment faire ça ? Ça te va ?"
+    gg "On va le vraiment faire ? Ça te va ?"
 
 # game/Scenes/Adrian/adrian14.rpy:235
 translate french adrian14_827c3a60_1:
 
     # sg "Dang, really? I was hoping you'd be cool with it."
-    sg "Mince, vraiment ? J'espérais que ça te ferait plaisir."
+    sg "T'es sérieux ? J'pensais que tu kifferais."
 
 # game/Scenes/Adrian/adrian14.rpy:236
 translate french adrian14_a6c2074a_1:
@@ -814,7 +814,7 @@ translate french adrian14_a6c2074a_1:
 translate french adrian14_6dad4939_1:
 
     # sg "Bleh! Fine let's just play the dumb game then."
-    sg "Beurk ! Bon, alors jouons juste au jeu des idiots."
+    sg "Pfff ! Bon alors y a qu'à jouer à ce jeu débile."
 
 # game/Scenes/Adrian/adrian14.rpy:240
 translate french adrian14_3306f090_1:
@@ -826,25 +826,25 @@ translate french adrian14_3306f090_1:
 translate french adrian14_3e2c538d_1:
 
     # "Hanging out with Kendra and Adrian together is just too weird."
-    "Passer du temps avec Kendra et Adrian ensemble, c'est juste trop bizarre."
+    "Passer du temps avec Kendra et Adrian tous les trois, c'est trop bizarre."
 
 # game/Scenes/Adrian/adrian14.rpy:242
 translate french adrian14_22e5899f_1:
 
     # "I'd rather spend some one-on-one time with them later."
-    "Je préfère passer un moment en tête-à-tête avec eux plus tard."
+    "Je préfère les voir en tête-à-tête."
 
 # game/Scenes/Adrian/adrian14.rpy:243
 translate french adrian14_14cfd511_1:
 
     # "Back in the car, I try to find something else to do with my evening."
-    "De retour dans la voiture, j'essaie de trouver autre chose à faire pour ma soirée."
+    "De retour dans la voiture, j'essaie de trouver autre chose à faire de ma soirée."
 
 # game/Scenes/Adrian/adrian14.rpy:250
 translate french adrian14_a0fbfebf:
 
     # gg "I think I am. I've always wanted to be with a girl, as a girl. It's something I've never gotten to do before."
-    gg "Je crois que oui. J'ai toujours voulu être avec une fille, en tant que fille. C'est quelque chose que je n'ai jamais eu l'occasion de faire avant."
+    gg "Je crois que oui. J'ai toujours voulu être avec une fille, en tant que fille. C'est un truc que j'ai jamais pu faire avant."
 
 # game/Scenes/Adrian/adrian14.rpy:251
 translate french adrian14_3e8da32f:
@@ -862,13 +862,13 @@ translate french adrian14_2f090e88:
 translate french adrian14_d081eccb:
 
     # gg "Yeah, I think so."
-    gg "Ouais, je pense."
+    gg "Ouais, je crois."
 
 # game/Scenes/Adrian/adrian14.rpy:254
 translate french adrian14_0edea5e9:
 
     # sg "Fucking awesome."
-    sg "Putain, génial."
+    sg "Ça déchire."
 
 # game/Scenes/Adrian/adrian14.rpy:258
 translate french adrian14_1a26f7f0:
@@ -886,7 +886,7 @@ translate french adrian14_489348cf:
 translate french adrian14_5dcbe255:
 
     # "Adrian, nervous at first, starts to loosen up as she realizes how much Kendra and I both want her."
-    "Adrian, nerveuse au début, commence à se détendre quand elle réalise à quel point Kendra et moi la désirons toutes les deux."
+    "Adrian, nerveuse au début, commence à se détendre quand elle réalise à quel point Kendra et moi la désirons tous les deux."
 
 # game/Scenes/Adrian/adrian14.rpy:267
 translate french adrian14_ddea7f65:
@@ -898,43 +898,43 @@ translate french adrian14_ddea7f65:
 translate french adrian14_a86d2b6b:
 
     # sg "I wish I had a dick! How do you not just play with it all day?"
-    sg "J'aimerais bien avoir une bite ! Comment tu fais pour ne pas jouer avec toute la journée ?"
+    sg "J'aimerais bien avoir une bite ! Comment tu fais pour pas jouer avec toute la journée ?"
 
 # game/Scenes/Adrian/adrian14.rpy:271
 translate french adrian14_9e958ab2:
 
     # gg "I mean, I do play with it pretty often."
-    gg "Je veux dire, je joue avec assez souvent."
+    gg "Oh, ben, je joue avec assez souvent."
 
 # game/Scenes/Adrian/adrian14.rpy:272
 translate french adrian14_9778ceb0:
 
     # sg "Dicks are so much fun, man. Guys don't know how lucky they have it."
-    sg "Les bites, c'est trop marrant, mec. Les mecs ne savent pas la chance qu'ils ont."
+    sg "Les bites, c'est trop marrant. Les mecs savent pas la chance qu'ils ont."
 
 # game/Scenes/Adrian/adrian14.rpy:273
 translate french adrian14_6e7bc4bf:
 
     # sg "And you get the best of both worlds. Super hot girl, plus dick."
-    sg "Et toi, tu profites du meilleur des deux mondes. Une fille super sexy, plus une bite."
+    sg "Et toi, t'as l'meilleur des deux mondes. Une fille super sexy, plus une bite."
 
 # game/Scenes/Adrian/adrian14.rpy:274
 translate french adrian14_b0af1573:
 
     # gg "Ha, you could put it that way, I guess."
-    gg "Ha, on peut voir les choses comme ça, je suppose."
+    gg "Ha, on peut voir les choses comme ça."
 
 # game/Scenes/Adrian/adrian14.rpy:275
 translate french adrian14_9b67cf1a:
 
     # gg "I didn't want it for a long time, but I've started liking it more lately."
-    gg "Je n'en ai pas voulu pendant longtemps, mais j'ai commencé à l'apprécier davantage ces derniers temps."
+    gg "J'en ai pas voulu pendant longtemps, mais ces derniers temps, je commence à l'apprécier davantage."
 
 # game/Scenes/Adrian/adrian14.rpy:278
 translate french adrian14_64ff0472:
 
     # sg "So you're not going to get the surgery?"
-    sg "Alors tu ne vas pas te faire opérer ?"
+    sg "Alors tu vas pas t'faire opérer ?"
 
 # game/Scenes/Adrian/adrian14.rpy:279
 translate french adrian14_c545b73f:
@@ -952,7 +952,7 @@ translate french adrian14_5dc6aae3:
 translate french adrian14_4823dfda:
 
     # sg "I like it too."
-    sg "Moi aussi, je l'aime bien."
+    sg "Moi aussi, j'l'aime bien."
 
 # game/Scenes/Adrian/adrian14.rpy:285
 translate french adrian14_c7fe00cd:
@@ -1000,13 +1000,13 @@ translate french adrian14_7f948fce:
 translate french adrian14_cd480dd3:
 
     # sg "The two of your dicks together is the sexiest thing..."
-    sg "Vos deux bites ensemble, c'est la chose la plus sexy..."
+    sg "Vos deux bites collées, c'est tellement sexy..."
 
 # game/Scenes/Adrian/adrian14.rpy:302
 translate french adrian14_392d10c6:
 
     # "Our cocks barely fit into her mouth, but she tries really hard, gagging and spitting on them."
-    "Nos bites rentrent à peine dans sa bouche, mais elle fait vraiment de son mieux, elle a des haut-le-cœur et crache dessus."
+    "Nos bites rentrent à peine dans sa bouche, mais elle fait vraiment de son mieux, elle s'étouffe et crache."
 
 # game/Scenes/Adrian/adrian14.rpy:303
 translate french adrian14_cfa6ba50:
@@ -1018,19 +1018,19 @@ translate french adrian14_cfa6ba50:
 translate french adrian14_99a0458a:
 
     # "Kendra makes a noise that I think is supposed to be \"Fuck, yeah\", but it just comes out as \"BRALBHRAHALBHAHFALHBAHRLGH!\""
-    "Kendra émet un son qui, je crois, est censé signifier « Putain, ouais », mais ça sort juste comme « BRALBHRAHALBHAHFALHBAHRLGH ! »"
+    "Kendra émet un son qui, je crois, est censé signifier « Putain, ouais », mais qui donne « BRALBHRAHALBHAHFALHBAHRLGH ! »"
 
 # game/Scenes/Adrian/adrian14.rpy:308
 translate french adrian14_1d5255da:
 
     # gg "I've never done this before."
-    gg "Je n’ai jamais fait ça avant."
+    gg "J’ai jamais fait ça avant."
 
 # game/Scenes/Adrian/adrian14.rpy:309
 translate french adrian14_63b1e246:
 
     # sg "That's okay. Just lick. Focus on the clit."
-    sg "C’est pas grave. Lèche, c’est tout. Concentre-toi sur le clitoris."
+    sg "C’est pas grave. Lèche, c’est tout. Concentre-toi sur le clito."
 
 # game/Scenes/Adrian/adrian14.rpy:310
 translate french adrian14_904cfdae:
@@ -1066,7 +1066,7 @@ translate french adrian14_11564055:
 translate french adrian14_2ab5790b:
 
     # sg "Fuuuuck that's so hot."
-    sg "Putain, c'est trop excitant."
+    sg "Puuuuutain, c'est trop excitant."
 
 # game/Scenes/Adrian/adrian14.rpy:319
 translate french adrian14_1b23a63f:
@@ -1078,19 +1078,19 @@ translate french adrian14_1b23a63f:
 translate french adrian14_a92fd87a:
 
     # sg "You're doing fucking amazing."
-    sg "Tu t'en sors super bien."
+    sg "Tu t'en sors putain de bien."
 
 # game/Scenes/Adrian/adrian14.rpy:321
 translate french adrian14_7af36ffa:
 
     # sg "I want your dick back in my mouth though."
-    sg "Mais je veux ta bite dans ma bouche."
+    sg "Mais je veux reprendre ta bite dans ma bouche."
 
 # game/Scenes/Adrian/adrian14.rpy:324
 translate french adrian14_46840d5c:
 
     # "When we start moving, we fall into a rhythm together."
-    "Quand on commence à bouger, on trouve notre rythme ensemble."
+    "En commençant à bouger, nous trouvons un rythme commun."
 
 # game/Scenes/Adrian/adrian14.rpy:325
 translate french adrian14_f90ea420:
@@ -1108,7 +1108,7 @@ translate french adrian14_fc1e173c:
 translate french adrian14_cbad8e54:
 
     # sg "I want to put your dick inside me Adrian. Can I?"
-    sg "Je veux que tu me mettes ta bite, Adrian. Je peux ?"
+    sg "J'veux mettre ta bite en moi, Adrian. J'peux ?"
 
 # game/Scenes/Adrian/adrian14.rpy:328
 translate french adrian14_19b20cda:
@@ -1132,7 +1132,7 @@ translate french adrian14_32c91c97:
 translate french adrian14_3e45fe69:
 
     # "We devolve into a sweaty, moaning, writhing mess."
-    "Nous nous transformons en un chaos de sueur, de gémissements et de contorsions."
+    "Nous devenons un chaos de sueur, de gémissements et de contorsions."
 
 # game/Scenes/Adrian/adrian14.rpy:340
 translate french adrian14_354ccffd:
@@ -1150,13 +1150,13 @@ translate french adrian14_46813f7e:
 translate french adrian14_420f30ac:
 
     # "Then it almost becomes an unannounced battle to see who can hold out the longest."
-    "Puis ça devient presque une bataille improvisée pour voir qui tiendra le plus longtemps."
+    "Puis ça devient presque une bataille tacite pour voir qui tiendra le plus longtemps."
 
 # game/Scenes/Adrian/adrian14.rpy:350
 translate french adrian14_aed7c074:
 
     # "Kendra cums first, screaming in pleasure as Adrian keeps thrusting into her, with a little help from me behind."
-    "Kendra jouit la première, hurlant de plaisir tandis qu’Adrian continue de la pénétrer, avec un petit coup de main de ma part par derrière."
+    "Kendra jouit la première, hurlant de plaisir tandis qu’Adrian continue de la pénétrer, avec une petite aide de ma part par derrière."
 
 # game/Scenes/Adrian/adrian14.rpy:353
 translate french adrian14_6c8c2fcd:
@@ -1186,19 +1186,19 @@ translate french adrian14_7980f296:
 translate french adrian14_3dfde416:
 
     # "My eyes roll back and when I look over again, I see Kendra on top of Adrian, making out intensily, my cum pouring out of their mouths."
-    "Je lève les yeux au ciel et quand je regarde à nouveau, je vois Kendra au-dessus d’Adrian, s’embrassant intensément, mon sperme coulant de leurs bouches."
+    "Mes yeux se révulsent et quand je regarde à nouveau, je vois Kendra au-dessus d’Adrian, s’embrassant intensément, mon sperme coulant de leurs bouches."
 
 # game/Scenes/Adrian/adrian14.rpy:363
 translate french adrian14_90433543:
 
     # pc "Fuuuuck..."
-    pc "Putain..."
+    pc "Puuuutaaaain..."
 
 # game/Scenes/Adrian/adrian14.rpy:366
 translate french adrian14_cdc12cad:
 
     # "My eyes roll back again, exhausted."
-    "Je lève à nouveau les yeux au ciel, épuisé."
+    "Je suis épuisé, et mes yeux se femrent."
 
 # game/Scenes/Adrian/adrian14.rpy:369
 translate french adrian14_bb75a663:
@@ -1216,19 +1216,19 @@ translate french adrian14_14a24ae9:
 translate french adrian14_637897bd:
 
     # sg "Fuck yeah."
-    sg "Putain, ouais."
+    sg "Ouais, putain."
 
 # game/Scenes/Adrian/adrian14.rpy:372
 translate french adrian14_f0b84099:
 
     # gg "When he was inside me and I was inside you... I've never felt that good in my life."
-    gg "Quand il était en moi et que j'étais en toi… Je n'ai jamais pris autant de plaisir de ma vie."
+    gg "Quand il était en moi et que j'étais en toi… J'ai jamais pris autant de plaisir de ma vie."
 
 # game/Scenes/Adrian/adrian14.rpy:373
 translate french adrian14_637897bd_1:
 
     # sg "Fuck yeah."
-    sg "Putain, ouais."
+    sg "Ouais, putain."
 
 # game/Scenes/Adrian/adrian14.rpy:374
 translate french adrian14_a5bcc6a1:
@@ -1252,7 +1252,7 @@ translate french adrian14_43e65ebc:
 translate french adrian14_0dd683d0:
 
     # sg "Good! You're amazing."
-    sg "Tant mieux ! Tu es géniale."
+    sg "Tant mieux ! T'es géniale."
 
 # game/Scenes/Adrian/adrian14.rpy:380
 translate french adrian14_6602a66d:
@@ -1264,7 +1264,7 @@ translate french adrian14_6602a66d:
 translate french adrian14_da098c4d:
 
     # pc "You two are both amazing. I don't know how I got so lucky."
-    pc "Vous êtes tous les deux géniaux. Je ne sais pas comment j'ai pu avoir autant de chance."
+    pc "Vous êtes tous les deux géniales. Je sais pas comment j'ai pu avoir autant de chance."
 
 # game/Scenes/Adrian/adrian14.rpy:384
 translate french adrian14_d6d43c37:
@@ -1282,13 +1282,13 @@ translate french adrian14_13306177:
 translate french adrian14_ee409be6:
 
     # sg "Okay, but let's do something fun next time, like waterskiing or go-karts or something."
-    sg "D'accord, mais la prochaine fois, on fera quelque chose de sympa, comme du ski nautique ou du karting, ou autre chose."
+    sg "Dac, mais la prochaine fois, on f'ra un truc sympa, genre du ski nautique, du karting, j'sais pas quoi."
 
 # game/Scenes/Adrian/adrian14.rpy:387
 translate french adrian14_053b69a9:
 
     # gg "Oh go-karts! Hell yes!"
-    gg "Oh, du karting ! Carrément, oui !"
+    gg "Oh, du karting ! Carrément !"
 
 # game/Scenes/Adrian/adrian14.rpy:391
 translate french adrian14_d41d8cd9:
@@ -1312,7 +1312,7 @@ translate french adrian14_c2e970b1:
 translate french adrian14_4e8b6567:
 
     # gg "Bye, baby. Thanks for bringing her. It was really fun."
-    gg "Au revoir, chérie. Merci de l'avoir amenée. C'était vraiment sympa."
+    gg "Au revoir, bébé. Merci de l'avoir amenée. C'était vraiment sympa."
 
 # game/Scenes/Adrian/adrian14.rpy:397
 translate french adrian14_c46a0b54:
@@ -1336,11 +1336,11 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian14.rpy:3
     old "To unlock this scene, you need to have had anal sex with both Adrian and Kendra, and they must have met when you take Adrian to the park on a date."
-    new "Pour débloquer cette scène, tu dois avoir eu des relations sexuelles anales avec Adrian et Kendra, et ils doivent s'être rencontrés lorsque tu as emmené Adrian au parc pour un rendez-vous."
+    new "Pour débloquer cette scène, tu dois avoir eu des relations sexuelles anales avec Adrian et Kendra, et elles doivent s'être rencontrées lorsque tu as emmené Adrian au parc pour un rendez-vous."
 
     # game/Scenes/Adrian/adrian14.rpy:4
     old "Then, this scene will happen on a weekend morning when you sleep at home."
-    new "Ensuite, cette scène se déroulera un matin de week-end, lorsque tu dors chez toi."
+    new "Ensuite, cette scène se déroulera un matin de week-end où tu dors chez toi."
 
     # game/Scenes/Adrian/adrian14.rpy:173
     old "Absolutely"
@@ -1352,5 +1352,5 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian14.rpy:230
     old "I am, if you are"
-    new "Je le suis, si tu l'es"
+    new "Si ça te va, ça me convient"
 

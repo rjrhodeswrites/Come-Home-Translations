@@ -4,13 +4,13 @@
 translate french adriancowgirl_bfd8fd5a:
 
     # "She climbs on top of me, straddling my hips and lowering her ass towards the tip of my cock."
-    "Elle grimpe sur moi, s’assoit à califourchon sur mes hanches et abaisse son cul vers le bout de ma bite."
+    "Elle grimpe sur moi, s’assoit à califourchon sur mes hanches et descend son cul vers le bout de ma bite."
 
 # game/Scenes/Adrian/AdrianSex/adriancowgirl.rpy:17
 translate french adriancowgirl_8039e994:
 
     # gg "Fuck, I've always wanted to ride you like this."
-    gg "Putain, j’ai toujours rêvé de te baiser comme ça."
+    gg "Putain, j’ai toujours rêvé de te chevaucher comme ça."
 
 # game/Scenes/Adrian/AdrianSex/adriancowgirl.rpy:22
 translate french adriancowgirl_120964a3:
@@ -40,13 +40,13 @@ translate french adriancowgirl_a3452dbd:
 translate french adriancowgirl_892c7e38:
 
     # gg "I feel like I've never been this hard."
-    gg "J'ai l'impression de n'avoir jamais été aussi dur."
+    gg "J'ai l'impression que j'ai jamais été aussi dure."
 
 # game/Scenes/Adrian/AdrianSex/adriancowgirl.rpy:37
 translate french adriancowgirl_587c9b95:
 
     # "She bounces up and down on my cock, her dick flopping up and down with her movements."
-    "Elle rebondit de haut en bas sur ma bite, sa bite se balançant au rythme de ses mouvements."
+    "Elle rebondit de haut en bas sur ma bite, et la sienne se balance au rythme de ses mouvements."
 
 # game/Scenes/Adrian/AdrianSex/adriancowgirl.rpy:38
 translate french adriancowgirl_3b2544ad:
@@ -76,7 +76,7 @@ translate french adriancowgirl_12c6ffd8:
 translate french adriancowgirl_07f7520b:
 
     # gg "I love your cock inside me like this."
-    gg "J'adore ta bite en moi comme ça."
+    gg "J'adore ta bite en moi."
 
 # game/Scenes/Adrian/AdrianSex/adriancowgirl.rpy:43
 translate french adriancowgirl_0fe707e6:

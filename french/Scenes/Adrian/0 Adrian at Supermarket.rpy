@@ -4,7 +4,7 @@
 translate french adrian0_0ce1ef2b:
 
     # "I go inside and take a look around."
-    "J'entre et je jette un coup d'œil autour de moi."
+    "J'entre et je parcours les rayonnages du regard."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:13
 translate french adrian0_7849354b:
@@ -22,7 +22,7 @@ translate french adrian0_4f07aa53:
 translate french adrian0_b4e517f7:
 
     # gg "What?"
-    gg "Quoi ?"
+    gg "Hein ?"
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:19
 translate french adrian0_649f6f3d:
@@ -34,37 +34,37 @@ translate french adrian0_649f6f3d:
 translate french adrian0_0dd51ecf:
 
     # pc "I'm okay."
-    pc "Ça va."
+    pc "Ça roule."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:24
 translate french adrian0_ed6af726:
 
     # gg "Oh yeah, there's a new game out I'm here to buy."
-    gg "Ah oui, il y a un nouveau jeu qui vient de sortir, je suis venu l'acheter."
+    gg "Ah oui, il y a un nouveau jeu qui vient de sortir, je suis venue l'acheter."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:25
 translate french adrian0_25d3d4da:
 
     # gg "Just waiting on the clerk to come unlock the dang case for me."
-    gg "J'attends juste que le vendeur vienne m'ouvrir cette fichue vitrine."
+    gg "J'attends juste que le vendeur vienne ouvrir cette fichue vitrine."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:28
 translate french adrian0_286df3e0:
 
     # gg "Yeah, man. They're my favorite thing in the world."
-    gg "Ouais, mec. C'est ce que je préfère au monde."
+    gg "Ouais, carrément ! Y a rien de mieux au monde."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:29
 translate french adrian0_39b08e78:
 
     # gg "I'm just waiting on the clerk to come unlock the dang case now so I can pick up a new one."
-    gg "J'attends juste que le vendeur vienne m'ouvrir cette fichue vitrine pour que je puisse en prendre un nouveau."
+    gg "J'attends juste que le vendeur vienne ouvrir cette fichue vitrine pour que je puisse en prendre un nouveau."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:32
 translate french adrian0_6907ba6c:
 
     # gg "Oh, okay then. See ya."
-    gg "Oh, d'accord alors. À plus."
+    gg "Ah, très bien. À plus."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:33
 translate french adrian0_7dc169c2:
@@ -76,7 +76,7 @@ translate french adrian0_7dc169c2:
 translate french adrian0_37a2469c:
 
     # pc "Say, you wouldn't happen to know anything about computers, would you?"
-    pc "Dis, tu ne t'y connaîtrais pas un peu en ordinateurs, par hasard ?"
+    pc "Dis, est-ce que tu t'y connais un peu en ordinateurs, par hasard ?"
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:41
 translate french adrian0_789dfbd6:
@@ -88,13 +88,13 @@ translate french adrian0_789dfbd6:
 translate french adrian0_e350929a:
 
     # pc "Well, I know a little bit, but I'm no expert."
-    pc "Eh bien, j'en sais un peu, mais je ne suis pas un expert."
+    pc "Ben, moi je me débrouille, mais je suis pas un expert."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:44
 translate french adrian0_6e24121c:
 
     # gg "I wouldn't say I'm an expert either, but I know quite a bit."
-    gg "Je ne dirais pas non plus que je suis un expert, mais j'en sais pas mal."
+    gg "Je dirais pas non plus que je suis une experte, mais j'en sais pas mal."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:45
 translate french adrian0_b6cc961f:
@@ -106,7 +106,7 @@ translate french adrian0_b6cc961f:
 translate french adrian0_cec999ba:
 
     # "I tell her all about how my dad is missing and about finding his laptop in the basement."
-    "Je lui raconte tout : la disparition de mon père et la découverte de son ordinateur portable dans la cave."
+    "Je lui explique que mon père a disparu et que j'ai découvert son ordinateur portable dans la cave."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:47
 translate french adrian0_9892f205:
@@ -118,19 +118,19 @@ translate french adrian0_9892f205:
 translate french adrian0_18330a53:
 
     # gg "So you want me to hack into your dad's laptop to see what we can find on it?"
-    gg "Tu veux donc que je pirate l'ordinateur portable de ton père pour voir ce qu'on peut y trouver ?"
+    gg "Donc tu veux que je pirate l'ordinateur portable de ton père pour voir ce qu'on peut y trouver ?"
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:49
 translate french adrian0_f8fc980f:
 
     # pc "Yeah, something like that."
-    pc "Ouais, quelque chose comme ça."
+    pc "Ouais, c'est l'idée."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:51
 translate french adrian0_521f7e38:
 
     # gg "I might be able to do it."
-    gg "Je pourrais peut-être y arriver."
+    gg "Je pense que c'est dans mes cordes."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:52
 translate french adrian0_2d9575be:
@@ -148,13 +148,13 @@ translate french adrian0_4cb6a107:
 translate french adrian0_c93436d0:
 
     # gg "Peachy! I'm available in the evenings and pretty much any time on the weekends."
-    gg "Super ! Je suis disponible le soir et pratiquement tout le temps le week-end."
+    gg "Chouette ! Je suis disponible le soir et pratiquement tout le temps le week-end."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:56
 translate french adrian0_74405267:
 
     # gg "Here, I'll give you my phone number and you can just call me when you want me to come over."
-    gg "Tiens, je te donne mon numéro de téléphone, tu n'as qu'à m'appeler quand tu veux que je passe."
+    gg "Tiens, voilà mon numéro de téléphone, tu n'as qu'à m'appeler quand tu veux que je passe."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:57
 translate french adrian0_b6ecd7e5:
@@ -184,13 +184,13 @@ translate french adrian0_d4558b5f:
 translate french adrian0_9b7b8449:
 
     # gg "If you happen to see somebody who works here, could you tell them I've been waiting for them to open this case for like half an hour now?"
-    gg "Si tu croises quelqu'un qui travaille ici, tu pourrais lui dire que ça fait une demi-heure que j'attends qu'ils ouvrent cette vitrine ?"
+    gg "Si jamais tu croises quelqu'un qui travaille ici, tu pourrais lui dire que ça fait une demi-heure que j'attends qu'ils ouvrent cette vitrine ?"
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:64
 translate french adrian0_1df08797:
 
     # pc "Will do."
-    pc "Je n'y manquerai pas."
+    pc "Ça marche."
 
 # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:65
 translate french adrian0_1249f117:
@@ -210,7 +210,7 @@ translate french strings:
 
     # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:22
     old "See anything good?"
-    new "Tu as vu quelque chose d'intéressant ?"
+    new "Tu vois des choses intéressantes ?"
 
     # game/Scenes/Adrian/0 Adrian at Supermarket.rpy:26
     old "You like video games?"

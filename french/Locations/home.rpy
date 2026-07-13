@@ -52,7 +52,7 @@ translate french garage_f405c2dd:
 translate french garage_4bd4c99a:
 
     # "IS very particular. I have to correct myself. I'm already talking about him in the past tense as if he's not coming back."
-    "Il est très pointilleux. Je dois me corriger. Je parle déjà de lui au passé, comme s’il ne revenait pas."
+    "EST très pointilleux. Je dois me corriger. Je parle déjà de lui au passé, comme s’il n'allait pas revenir."
 
 # game/Locations/home.rpy:165
 translate french garagemenu_d0de5cf3:
@@ -64,7 +64,7 @@ translate french garagemenu_d0de5cf3:
 translate french garagemenu_f0f3eb96:
 
     # "I put the key back in my pocket and shut the car door. Guess I'll have to keep looking for the key. I have no idea what Dad did with it."
-    "Je remets la clé dans ma poche et je ferme la portière. Je vais devoir continuer à chercher la clé. Je n’ai aucune idée de ce que papa en a fait."
+    "Je remets la clé dans ma poche et je ferme la portière. Je vais devoir continuer à chercher la clé. Je n’ai aucune idée de ce que Papa en a fait."
 
 # game/Locations/home.rpy:173
 translate french garagemenu_8288ec7a:
@@ -160,13 +160,13 @@ translate french garagemenu_bfd28a27:
 translate french garagemenu_9f6bf808:
 
     # "I don't have time to mow the lawn before school starts."
-    "Je n'ai pas le temps de tondre la pelouse avant la rentrée."
+    "Je n'ai pas le temps de tondre la pelouse avant le début des cours."
 
 # game/Locations/home.rpy:209
 translate french garagemenu_6ba31408:
 
     # "It's dark outside and too late to mow the lawn today. I should try to get it done in the morning or afternoon sometime."
-    "Il fait nuit dehors et il est trop tard pour tondre la pelouse aujourd'hui. Je devrais essayer de le faire demain matin ou dans l'après-midi."
+    "Il fait nuit dehors, il est trop tard pour tondre la pelouse aujourd'hui. Je devrais essayer de le faire demain matin ou dans l'après-midi."
 
 # game/Locations/home.rpy:215
 translate french garagemenu_11f89b96:
@@ -178,7 +178,7 @@ translate french garagemenu_11f89b96:
 translate french basement_e5329a0d:
 
     # "Police tape cover the door and the door is locked tight."
-    "Du ruban de police recouvre la porte et celle-ci est fermée à clé."
+    "Du ruban de balisage recouvre la porte et celle-ci est fermée à clé."
 
 # game/Locations/home.rpy:235
 translate french basement_44eec9c4:
@@ -196,7 +196,7 @@ translate french basement_b79d2ed3:
 translate french firstbasement_67fcd577:
 
     # "The stairs are dark, but I know there's a string to turn on the lights just a couple steps down."
-    "L'escalier est sombre, mais je sais qu'il y a une cordelette pour allumer la lumière à quelques marches plus bas."
+    "L'escalier est sombre, mais je sais qu'il y a une cordelette pour allumer la lumière quelques marches plus bas."
 
 # game/Locations/home.rpy:242
 translate french firstbasement_fc2cdee6:
@@ -214,13 +214,13 @@ translate french firstbasement_954af110:
 translate french firstbasement_0e6c18e2:
 
     # "When I had been here before, it had been a well-organized office. Dad was never one to let things get cluttered and messy."
-    "Quand j’étais venu ici auparavant, c’était un bureau bien rangé. Papa n’était pas du genre à laisser les choses s’encombrer et se désorganiser."
+    "Quand je venais ici, c’était un bureau bien rangé. Papa n’était pas du genre à laisser les choses s’encombrer et se désorganiser."
 
 # game/Locations/home.rpy:246
 translate french firstbasement_27bba5b8:
 
     # "This is different - there is clutter and equipment everywhere. Tools and books and paperwork are scattered across every surface."
-    "Ici, c'est différent : il y a du désordre et du matériel partout. Des outils, des livres et des papiers sont éparpillés sur toutes les surfaces."
+    "Maintenant, c'est différent : il y a du désordre et du matériel partout. Des outils, des livres et des papiers sont éparpillés sur toutes les surfaces."
 
 # game/Locations/home.rpy:247
 translate french firstbasement_cf15c1a0:
@@ -232,7 +232,7 @@ translate french firstbasement_cf15c1a0:
 translate french firstbasement_fe1952f8:
 
     # "On the other side of the room, there is a safe against one wall - I have no idea what could be in that, or where the key for it might be."
-    "De l'autre côté de la pièce, il y a un coffre-fort contre un mur — je n'ai aucune idée de ce qu'il peut contenir, ni où se trouve la clé."
+    "De l'autre côté de la pièce, il y a un coffre-fort contre un mur — je n'ai aucune idée de ce qu'il peut contenir, ni d'où se trouve la clé."
 
 # game/Locations/home.rpy:250
 translate french firstbasement_f277a7ea:
@@ -304,7 +304,7 @@ translate french strings:
 
     # game/Locations/home.rpy:269
     old "Search through Dad's Laptop"
-    new "Fouiller dans l'ordinateur portable de papa"
+    new "Fouiller dans l'ordinateur portable de Papa"
 
     # game/Locations/home.rpy:286
     old "Bedroom"

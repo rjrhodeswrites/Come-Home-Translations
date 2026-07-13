@@ -4,7 +4,7 @@
 translate french adriandateend_6beb0946:
 
     # gg "Looks like my mom's not home yet. Do you want to come inside for a bit?"
-    gg "On dirait que ma mère n'est pas encore rentrée. Tu veux entrer un petit moment ?"
+    gg "On dirait que ma mère est pas encore rentrée. Tu veux rester un petit moment ?"
 
 # game/Scenes/Adrian/AdrianDates/adriandateend.rpy:14
 translate french adriandateend_546b975b:

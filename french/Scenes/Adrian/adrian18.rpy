@@ -34,7 +34,7 @@ translate french adrian18_636402f2:
 translate french adrian18_251f3dad:
 
     # gg "I was wondering if you'd want to come out to the arcade with me though."
-    gg "Je me demandais si tu voulais venir à la salle de jeux avec moi."
+    gg "Je me demandais si tu voulais venir à l'arcade avec moi."
 
 # game/Scenes/Adrian/adrian18.rpy:25
 translate french adrian18_33033593:
@@ -46,7 +46,7 @@ translate french adrian18_33033593:
 translate french adrian18_4ceec4b8:
 
     # gg "Well, no. They just closed. But I own the place and wanted to take a look at some stuff when there was nobody else around."
-    gg "Eh bien, non. Ils viennent de fermer. Mais c'est moi la propriétaire et je voulais jeter un œil à quelques trucs quand il n'y avait plus personne."
+    gg "Non, ils viennent de fermer. Mais c'est moi la propriétaire et je voulais jeter un œil à quelques trucs une fois qu'il y aurait plus personne."
 
 # game/Scenes/Adrian/adrian18.rpy:28
 translate french adrian18_d45dc672:
@@ -88,7 +88,7 @@ translate french adrian18_44adf008:
 translate french adrian18_ec3086b6:
 
     # gg "But it's mine now, you see?"
-    gg "Mais c'est à moi maintenant, tu vois ?"
+    gg "Mais maintenant c'est à moi, tu vois ?"
 
 # game/Scenes/Adrian/adrian18.rpy:41
 translate french adrian18_0094bbf5:
@@ -118,13 +118,13 @@ translate french adrian18_02f252de:
 translate french adrian18_15cedb40:
 
     # gg "They have a few duplicates in here right now."
-    gg "Il y a quelques doublons ici en ce moment."
+    gg "Il y a en même certaines en double."
 
 # game/Scenes/Adrian/adrian18.rpy:48
 translate french adrian18_5d801af9:
 
     # gg "I mean who needs three cabinets of Astro? Nobody even likes this game."
-    gg "Je veux dire, qui a besoin de trois bornes d’Astro ? Personne n’aime ce jeu."
+    gg "C'est vrai, qui a besoin de trois bornes d’Astro ? Personne n’aime ce jeu."
 
 # game/Scenes/Adrian/adrian18.rpy:49
 translate french adrian18_e40378b4:
@@ -136,19 +136,19 @@ translate french adrian18_e40378b4:
 translate french adrian18_b54755a1:
 
     # gg "And half the machines here have something wrong with them."
-    gg "Et la moitié des machines ici ont un problème."
+    gg "Et puis la moitié des machines ici ont un problème."
 
 # game/Scenes/Adrian/adrian18.rpy:53
 translate french adrian18_3a8f7905:
 
     # gg "The joysticks are loose, or the screen is glitchy or something. I'll have to get all of those fixed."
-    gg "Les manettes sont lâches, ou l’écran a des ratés, ou autre chose. Je vais devoir faire réparer tout ça."
+    gg "Les manettes sont lâches, l’écran a des ratés, et j'en passe. Je vais devoir faire réparer tout ça."
 
 # game/Scenes/Adrian/adrian18.rpy:54
 translate french adrian18_31966773:
 
     # gg "I've been doing some research on how to fix them myself. I think I could with some of them anyway."
-    gg "J'ai fait quelques recherches pour savoir comment les réparer moi-même. Je pense que je pourrais m'en sortir avec certaines d'entre elles, en tout cas."
+    gg "J'ai fait quelques recherches pour savoir comment les réparer moi-même. Je pense que je pourrais m'en sortir avec certaines."
 
 # game/Scenes/Adrian/adrian18.rpy:57
 translate french adrian18_5d107a20:
@@ -160,25 +160,25 @@ translate french adrian18_5d107a20:
 translate french adrian18_5737f0e0:
 
     # gg "There's a storage room over there that just has a bunch of junk in it. I think maybe I can knock down the wall and make this room bigger."
-    gg "Il y a un débarras là-bas qui n'est rempli que de bric-à-brac. Je pense que je pourrais peut-être abattre le mur et agrandir cette pièce."
+    gg "Il y a un débarras là-bas qui est rempli de bric-à-brac. Je pense peut-être abattre le mur et agrandir cette pièce."
 
 # game/Scenes/Adrian/adrian18.rpy:59
 translate french adrian18_8a19e285:
 
     # gg "I want more games back here. Maybe some more pinball."
-    gg "Je veux plus de jeux ici. Peut-être quelques flippers supplémentaires."
+    gg "Je veux plus de jeux ici. Peut-être plus de flippers."
 
 # game/Scenes/Adrian/adrian18.rpy:62
 translate french adrian18_3b040b37:
 
     # pc "Sounds like you have a good plan."
-    pc "On dirait que tu as un bon plan."
+    pc "On dirait que tu prévois tout."
 
 # game/Scenes/Adrian/adrian18.rpy:63
 translate french adrian18_9e3a91c1:
 
     # gg "I hope so. I have a little money to invest in it, but then I'll need to start making a profit to keep it going."
-    gg "Je l'espère. J'ai un peu d'argent à investir là-dedans, mais ensuite je devrai commencer à faire des bénéfices pour que ça continue."
+    gg "J'espère. J'ai un peu d'argent à investir là-dedans, mais ensuite je devrai commencer à faire des bénéfices pour que ça continue."
 
 # game/Scenes/Adrian/adrian18.rpy:64
 translate french adrian18_a1401294:
@@ -190,7 +190,7 @@ translate french adrian18_a1401294:
 translate french adrian18_8ba6e363:
 
     # pc "I think you can do it. You have such a passion for it. You'll get this place fixed up, advertise it a little, and I'm sure people will support it."
-    pc "Je pense que tu peux y arriver. Tu es tellement passionné par ça. Tu vas remettre cet endroit en état, en faire un peu de pub, et je suis sûr que les gens vont te soutenir."
+    pc "Je pense que tu peux y arriver. Tu es tellement passionnée par ça. Tu vas remettre cet endroit en état, faire un peu de pub, et je suis sûr que les gens vont te soutenir."
 
 # game/Scenes/Adrian/adrian18.rpy:68
 translate french adrian18_a213b1e6:
@@ -214,7 +214,7 @@ translate french adrian18_bd319a58:
 translate french adrian18_0e02b29c:
 
     # pc "You're an amazing girlfriend too."
-    pc "Tu es une petite amie incroyable aussi."
+    pc "Et tu es une petite amie incroyable."
 
 # game/Scenes/Adrian/adrian18.rpy:74
 translate french adrian18_dbda90a1:
@@ -268,13 +268,13 @@ translate french adrian18_690ea954:
 translate french adrian18_de4d3dc4:
 
     # gg "Sucking you always makes me horny for more."
-    gg "Te sucer me donne toujours envie de plus."
+    gg "Quand je te suce, ça me suffit jamais."
 
 # game/Scenes/Adrian/adrian18.rpy:89
 translate french adrian18_cd5ce265:
 
     # gg "Will you give me more?"
-    gg "Tu m'en donneras plus ?"
+    gg "Je veux plus. Tu vas me le donner ?"
 
 # game/Scenes/Adrian/adrian18.rpy:90
 translate french adrian18_4ebc54ab:
@@ -292,19 +292,19 @@ translate french adrian18_3d7f67a3:
 translate french adrian18_168c2c2c:
 
     # gg "Push it in, baby. I'm so ready for you."
-    gg "Enfonce-la, bébé. Je suis tellement prête pour toi."
+    gg "Enfonce-la, bébé. J'ai tellement envie de toi."
 
 # game/Scenes/Adrian/adrian18.rpy:97
 translate french adrian18_97aef84a:
 
     # "Her asshole opens for me and my cock slides in. Once past the entrance, it seems to suck me in the rest of the way."
-    "Son trou du cul s’ouvre pour moi et ma bite s’y glisse. Une fois passé l’entrée, il semble m’aspirer jusqu’au bout."
+    "Son trou du cul s’ouvre pour moi et ma bite s’y glisse. Une fois passée l’entrée, c'est comme s'il m’aspirait jusqu’au bout."
 
 # game/Scenes/Adrian/adrian18.rpy:98
 translate french adrian18_0ea3767d:
 
     # gg "Oh fuck, yes. I love the way you fill me."
-    gg "Oh putain, oui. J’adore la façon dont tu me remplis."
+    gg "Oh putain, oui. J’adore quand tu me remplis."
 
 # game/Scenes/Adrian/adrian18.rpy:99
 translate french adrian18_7cbaaa43:
@@ -412,7 +412,7 @@ translate french adrian18_3121c197:
 translate french adrian18_641c1360:
 
     # gg "This is such a step forward for me. I'm nervous."
-    gg "C'est un tel pas en avant pour moi. Je suis nerveux."
+    gg "C'est tellement un pas en avant pour moi. Je suis nerveuse."
 
 # game/Scenes/Adrian/adrian18.rpy:130
 translate french adrian18_6c68b967:
@@ -424,7 +424,7 @@ translate french adrian18_6c68b967:
 translate french adrian18_b232263a:
 
     # gg "It could be lifechanging."
-    gg "Ça pourrait changer ta vie."
+    gg "Ça pourrait changer ma vie."
 
 # game/Scenes/Adrian/adrian18.rpy:132
 translate french adrian18_7f44c272:
@@ -484,7 +484,7 @@ translate french adrian18_28cef181:
 translate french adrian18_7166dfaf:
 
     # pc "Not quite. I'll think about it though, okay? Maybe after graduation?"
-    pc "Pas tout à fait. Mais j’y réfléchirai, d’accord ? Peut-être après l’obtention du diplôme ?"
+    pc "Pas tout à fait. Mais j’y réfléchirai, d’accord ? Peut-être après le diplôme ?"
 
 # game/Scenes/Adrian/adrian18.rpy:148
 translate french adrian18_cae1895f:
@@ -496,13 +496,13 @@ translate french adrian18_cae1895f:
 translate french adrian18_e8c03b99:
 
     # gg "I just want you to know I'm ready for it. All of it."
-    gg "Je veux juste que tu saches que je suis prête. Pour tout."
+    gg "Je veux juste que tu saches que je suis prête. Pour le tout."
 
 # game/Scenes/Adrian/adrian18.rpy:152
 translate french adrian18_9bba0984:
 
     # gg "I'll jump all in with you at this point."
-    gg "Je suis prêt à me lancer à fond avec toi à ce stade."
+    gg "Je suis prête à me lancer à fond avec toi."
 
 # game/Scenes/Adrian/adrian18.rpy:153
 translate french adrian18_2b421482:
@@ -514,7 +514,7 @@ translate french adrian18_2b421482:
 translate french adrian18_574193c5:
 
     # gg "If you're not ready for it yet, that's okay... but I am."
-    gg "Si tu n'es pas encore prête, ce n'est pas grave... mais moi, je le suis."
+    gg "Si tu n'es pas encore prêt, c'est pas grave... mais moi, je le suis."
 
 # game/Scenes/Adrian/adrian18.rpy:155
 translate french adrian18_317afdc2:
@@ -544,25 +544,25 @@ translate french adrian18_58a92170:
 translate french adrian18_55eec867:
 
     # "Exclusive with Adrian?"
-    "En couple avec Adrian ?"
+    "N'être plus qu'avec Adrian ?"
 
 # game/Scenes/Adrian/adrian18.rpy:162
 translate french adrian18_44f495e7:
 
     # "I know I'm going to have to make a choice soon. I guess it can't just keep going like this forever."
-    "Je sais que je vais bientôt devoir faire un choix. Je suppose que ça ne peut pas continuer comme ça éternellement."
+    "Je sais que je vais bientôt devoir faire un choix. Je ne peux pas continuer comme ça éternellement."
 
 # game/Scenes/Adrian/adrian18.rpy:165
 translate french adrian18_71d0a4d0:
 
     # "I head home and get ready for bed, those thoughts still bouncing around in my mind, like a pinball."
-    "Je rentre chez moi et me prépare à aller me coucher, ces pensées continuant de rebondir dans ma tête, comme dans un flipper."
+    "Je rentre chez moi et me prépare à aller me coucher, toutes ces pensées remuant dans ma tête, comme une bille de flipper."
 
 translate french strings:
 
     # game/Scenes/Adrian/adrian18.rpy:5
     old "After you have progressed to the point where Adrian has gotten her motorcycle, and Whitney is ready for you to go through the portal,"
-    new "Une fois que tu auras progressé jusqu’au moment où Adrian a acheté sa moto et où Whitney est prête à ce que tu franchisses le portail,"
+    new "Une fois que tu auras progressé jusqu’au moment où Adrian a obtenu sa moto et où Whitney est prête à ce que tu franchisses le portail,"
 
     # game/Scenes/Adrian/adrian18.rpy:6
     old "this scene will happen automatically at night."

@@ -116,25 +116,25 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:39
     old "Missionary sex"
-    new "Sexe en missionnaire"
+    new "Missionnaire"
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:41
     old "Missionary sex (NEW)"
-    new "Sexe en missionnaire (NOUVEAU)"
+    new "Missionnaire (NOUVEAU)"
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:43
     old "Doggy style sex"
-    new "Sexe en levrette"
+    new "Levrette"
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:45
     old "Doggy style sex (NEW)"
-    new "Sexe en levrette (NOUVEAU)"
+    new "Levrette (NOUVEAU)"
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:47
     old "Cowgirl sex"
-    new "Sexe en cowgirl"
+    new "Cowgirl"
 
     # game/Scenes/Adrian/AdrianSex/adriansex.rpy:49
     old "Cowgirl sex (NEW)"
-    new "Sexe en cowgirl (NOUVEAU)"
+    new "Cowgirl (NOUVEAU)"
 

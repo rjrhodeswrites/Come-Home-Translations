@@ -4,13 +4,13 @@
 translate french adrianq6_7674968a:
 
     # gg "Oh, I have something big I wanted to tell you!"
-    gg "Oh, j’ai une grande nouvelle à t’annoncer !"
+    gg "Oh, j’ai une super nouvelle à t’annoncer !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq6.rpy:14
 translate french adrianq6_014f7ab2:
 
     # gg "This arcade..."
-    gg "Cette salle d’arcade…"
+    gg "La salle d’arcade…"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq6.rpy:16
 translate french adrianq6_e910639e:
@@ -112,13 +112,13 @@ translate french adrianq6_a78ad622:
 translate french adrianq6_b8f24aee:
 
     # gg "I'm going to finish this semester at school before I officially take over."
-    gg "Je vais finir ce semestre à l'école avant de prendre officiellement les rênes."
+    gg "Je vais finir le semestre à la fac avant de prendre officiellement les rênes."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq6.rpy:40
 translate french adrianq6_e6deeb1b:
 
     # gg "But this summer, I'm going to pimp that place out!"
-    gg "Mais cet été, je vais refaire cet endroit à fond !"
+    gg "Mais cet été, je refais l'endroit à fond !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq6.rpy:41
 translate french adrianq6_e6f94666:
@@ -136,11 +136,11 @@ translate french adrianq6_591daf17:
 translate french adrianq6_baad95b7:
 
     # gg "You better."
-    gg "Tu ferais bien."
+    gg "T'as intérêt."
 
 translate french strings:
 
     # game/Scenes/Adrian/AdrianConversations/adrianq6.rpy:3
     old "She will talk to you about this after she gets a motorcycle and has talked to you about her business idea."
-    new "Elle t'en parlera après avoir acheté une moto et t'avoir fait part de son idée d'entreprise."
+    new "Elle t'en parlera après avoir obtenu une moto et t'avoir fait part de son idée d'entreprise."
 

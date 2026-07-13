@@ -4,5 +4,5 @@
 translate french lisabedroom_9ae6da63:
 
     # "I don't have any reason to be in here right now."
-    "Je n'ai aucune raison d'être ici en ce moment."
+    "Je n'ai aucune raison d'être là pour l'instant."
 

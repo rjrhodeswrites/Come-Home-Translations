@@ -28,19 +28,19 @@ translate french adriandoggy_3e6c4760:
 translate french adriandoggy_aed8ab31:
 
     # "Then, gradually, I push until I'm all the way in."
-    "Puis, petit à petit, je pousse jusqu'à ce que je sois entièrement enfoncé."
+    "Puis, petit à petit, je pousse jusqu'à être entièrement enfoncé."
 
 # game/Scenes/Adrian/AdrianSex/adriandoggy.rpy:29
 translate french adriandoggy_62eea723:
 
     # gg "Fuck, you're so deep. It feels amazing."
-    gg "Putain, tu es si profond. C'est incroyable."
+    gg "Putain, tu es tellement profond. C'est incroyable."
 
 # game/Scenes/Adrian/AdrianSex/adriandoggy.rpy:30
 translate french adriandoggy_ccbd9c4b:
 
     # gg "Now fuck me. I want it hard, baby."
-    gg "Maintenant, baise-moi. Je le veux fort, bébé."
+    gg "Maintenant, baise-moi. Et vas-y fort, bébé."
 
 # game/Scenes/Adrian/AdrianSex/adriandoggy.rpy:37
 translate french adriandoggy_af7041e8:

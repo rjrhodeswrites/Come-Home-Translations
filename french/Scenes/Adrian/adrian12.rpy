@@ -52,7 +52,7 @@ translate french adrian12_ace8da72:
 translate french adrian12_ca1debd2:
 
     # pc "Be there in like five minutes."
-    pc "J'arrive dans environ cinq minutes."
+    pc "Je suis là dans moins de cinq minutes."
 
 # game/Scenes/Adrian/adrian12.rpy:39
 translate french adrian12_176879d2:
@@ -88,7 +88,7 @@ translate french adrian12_1331b37f:
 translate french adrian12_cba6ce79:
 
     # "When I get there, I knock and she opens the door right away, only slightly, enough to peek through the opening."
-    "Quand j'arrive, je frappe et elle ouvre la porte tout de suite, juste un peu, assez pour jeter un œil par l'interstice."
+    "Quand j'arrive, je frappe et elle ouvre la porte tout de suite, juste un peu, assez pour regarder par l'ouverture."
 
 # game/Scenes/Adrian/adrian12.rpy:54
 translate french adrian12_27df3559:
@@ -130,7 +130,7 @@ translate french adrian12_d41d8cd9_2:
 translate french adrian12_df2e97ea:
 
     # gg "I think I'm ready. To go all the way with you."
-    gg "Je crois que je suis prêt. À aller jusqu'au bout avec toi."
+    gg "Je crois que je suis prête. À aller jusqu'au bout avec toi."
 
 # game/Scenes/Adrian/adrian12.rpy:65
 translate french adrian12_d41d8cd9_3:
@@ -166,7 +166,7 @@ translate french adrian12_52c748ee:
 translate french adrian12_12b671ab:
 
     # pc "You want it right now?"
-    pc "Tu en veux tout de suite ?"
+    pc "Tu la veux tout de suite ?"
 
 # game/Scenes/Adrian/adrian12.rpy:74
 translate french adrian12_b3cd1f1c:
@@ -178,7 +178,7 @@ translate french adrian12_b3cd1f1c:
 translate french adrian12_7870b13b:
 
     # "She drags me upstairs, strips me out of my clothes, and immediately goes down on me, sucking me with an urgency."
-    "Elle m'entraîne à l'étage, me déshabille et se met immédiatement à me sucer, avec une urgence."
+    "Elle m'entraîne à l'étage, me déshabille et se met immédiatement à me sucer, avec empressement."
 
 # game/Scenes/Adrian/adrian12.rpy:80
 translate french adrian12_a1620bda:
@@ -190,13 +190,13 @@ translate french adrian12_a1620bda:
 translate french adrian12_800a3401:
 
     # pc "You can't keep going like that too much, or I'm going to cum."
-    pc "Tu ne peux pas continuer comme ça trop longtemps, sinon je vais jouir."
+    pc "Continue pas comme ça trop longtemps, sinon je vais jouir."
 
 # game/Scenes/Adrian/adrian12.rpy:85
 translate french adrian12_3b5bfa6f:
 
     # gg "Oh you're going to be cumming a lot tonight."
-    gg "Oh, tu vas jouir beaucoup ce soir."
+    gg "Oh, tu vas beaucoup jouir ce soir."
 
 # game/Scenes/Adrian/adrian12.rpy:86
 translate french adrian12_6af60a15:
@@ -244,7 +244,7 @@ translate french adrian12_e9992668:
 translate french adrian12_a692b975:
 
     # "I can tell she's paid extra attention to cleaning down here before I came over. She has definitely been thinking about this for a while."
-    "Je vois bien qu'elle a pris soin de bien se laver là en bas avant que j'arrive. Elle y pense sûrement depuis un moment."
+    "Je constate qu'elle a pris soin de bien se laver là-dessous avant que j'arrive. Elle y pense sûrement depuis un moment."
 
 # game/Scenes/Adrian/adrian12.rpy:98
 translate french adrian12_a45ef58b:
@@ -382,7 +382,7 @@ translate french adrian12_fc9808e0:
 translate french adrian12_2d0b2254:
 
     # gg "It feels really good, [pcname]. How does it feel for you?"
-    gg "C'est vraiment bon, [pcname]. T'en penses quoi ?"
+    gg "C'est vraiment bon, [pcname]. C'est comment pour toi ?"
 
 # game/Scenes/Adrian/adrian12.rpy:133
 translate french adrian12_990d965a:
@@ -400,7 +400,7 @@ translate french adrian12_1ce9dfad:
 translate french adrian12_b7f8ef0f:
 
     # pc "Fuck, that's hot."
-    pc "Putain, c'est excitant."
+    pc "Ooooh, ça c'est chaud."
 
 # game/Scenes/Adrian/adrian12.rpy:141
 translate french adrian12_0a3a5098:
@@ -448,7 +448,7 @@ translate french adrian12_e7eada28:
 translate french adrian12_cf70e680:
 
     # gg "I've never felt this good before."
-    gg "Je n'ai jamais pris autant de plaisir."
+    gg "J'ai jamais pris autant de plaisir."
 
 # game/Scenes/Adrian/adrian12.rpy:153
 translate french adrian12_d41d8cd9_7:
@@ -622,7 +622,7 @@ translate french adrian12_11b003e9_2:
 translate french adrian12_d14066b7:
 
     # gg "Want to play video games?"
-    gg "Tu veux jouer aux jeux vidéo ?"
+    gg "Tu veux faire des jeux vidéo ?"
 
 # game/Scenes/Adrian/adrian12.rpy:203
 translate french adrian12_d9b8ad9c:
@@ -634,7 +634,7 @@ translate french adrian12_d9b8ad9c:
 translate french adrian12_b221c6ad:
 
     # "We spend the rest of the night hanging out together, playing video games..."
-    "On passe le reste de la nuit ensemble, à jouer aux jeux vidéo..."
+    "On passe le reste de la nuit ensemble, à jouer..."
 
 # game/Scenes/Adrian/adrian12.rpy:209
 translate french adrian12_975ebe44:
@@ -688,7 +688,7 @@ translate french adrian12_fc89eebf:
 translate french adrian12_968ea7b2:
 
     # gg "This was the best day."
-    gg "C’était la meilleure journée."
+    gg "C’était la meilleure des journées."
 
 # game/Scenes/Adrian/adrian12.rpy:232
 translate french adrian12_2ef8d6bf:
@@ -706,7 +706,7 @@ translate french adrian12_e818baf5:
 translate french adrian12_13d3d17e:
 
     # pc "Sounds like a pretty good life to me, yeah."
-    pc "Ça me semble être une vie plutôt sympa, ouais."
+    pc "Ouais, c'est plutôt sympa comme vie."
 
 # game/Scenes/Adrian/adrian12.rpy:236
 translate french adrian12_017bd14a:
@@ -748,7 +748,7 @@ translate french adrian12_2cf58679:
 translate french adrian12_f6346068:
 
     # gg "I'm not trying to say that I want to get married or anything..."
-    gg "Je ne veux pas dire que je veux me marier ou quoi que ce soit..."
+    gg "Je veux pas dire que je veux me marier ou quoi que ce soit..."
 
 # game/Scenes/Adrian/adrian12.rpy:243
 translate french adrian12_8b3c9b1c:
@@ -784,7 +784,7 @@ translate french adrian12_1fa34386:
 translate french adrian12_5ea51d9c:
 
     # gg "Ah! Geez! Fuck!"
-    gg "Ah ! Bon sang ! Merde !"
+    gg "Ah ! Purée ! Merde !"
 
 # game/Scenes/Adrian/adrian12.rpy:258
 translate french adrian12_a2b01b11:
@@ -796,13 +796,13 @@ translate french adrian12_a2b01b11:
 translate french adrian12_aa61c19d:
 
     # gg "Good morning. I was really into this game. I didn't notice you were awake."
-    gg "Bonjour. J’étais vraiment prise par ce jeu. Je n’avais pas remarqué que tu étais réveillé."
+    gg "Bonjour. J’étais vraiment prise par ce jeu. J’avais pas remarqué que tu étais réveillé."
 
 # game/Scenes/Adrian/adrian12.rpy:260
 translate french adrian12_90d95827:
 
     # gg "You want some coffee? A donut?"
-    gg "Tu veux du café ? Un beignet ?"
+    gg "Tu veux du café ? Un donut ?"
 
 # game/Scenes/Adrian/adrian12.rpy:261
 translate french adrian12_868c06a8:
@@ -844,7 +844,7 @@ translate french adrian12_19a84d21:
 translate french adrian12_aca2eb70:
 
     # "We're both too tired and sore to have sex anymore, but we just hang out, play video games, and enjoy being with each other."
-    "On est tous les deux trop fatigués et courbaturés pour faire l'amour, mais on traîne ensemble, on joue aux jeux vidéo et on profite d'être l'un avec l'autre."
+    "On est tous les deux trop fatigués et courbaturés pour faire l'amour, mais on traîne ensemble, on joue et on profite d'être l'un avec l'autre."
 
 # game/Scenes/Adrian/adrian12.rpy:274
 translate french adrian12_fe342b61:
@@ -868,13 +868,13 @@ translate french adrian12_c63de01f:
 translate french adrian12_95427a61:
 
     # "I kiss her goodbye, my whole body still tingly and floaty from the night before."
-    "Je l'embrasse pour lui dire au revoir, tout mon corps encore tout frétillant et sur un petit nuage depuis la nuit d'avant."
+    "Je l'embrasse pour lui dire au revoir, tout mon corps encore tout frétillant et sur un petit nuage de la nuit d'avant."
 
 # game/Scenes/Adrian/adrian12.rpy:280
 translate french adrian12_070ea0cb:
 
     # gg "Fuck, I just want to be with you all the time."
-    gg "Putain, je veux juste être avec toi tout le temps."
+    gg "Bordel, j'ai envie d'être avec toi tout le temps."
 
 # game/Scenes/Adrian/adrian12.rpy:281
 translate french adrian12_f7fc2c28:
@@ -886,7 +886,7 @@ translate french adrian12_f7fc2c28:
 translate french adrian12_b52d5a8d:
 
     # gg "I'm tempted... but I'm not ready to have that conversation with my mom just yet."
-    gg "Je suis tentée... mais je ne suis pas encore prête à avoir cette conversation avec ma mère."
+    gg "Je suis tentée... mais je suis pas encore prête à avoir cette conversation avec ma mère."
 
 # game/Scenes/Adrian/adrian12.rpy:283
 translate french adrian12_1ff0362b:

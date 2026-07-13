@@ -272,7 +272,7 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}Avril"
+    new "{#month_short}Avr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
@@ -284,7 +284,7 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}Juillet"
+    new "{#month_short}Juil"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
@@ -292,11 +292,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short}Septembre"
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Octobre"
+    new "{#month_short}Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
@@ -312,11 +312,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "Emplacement de sauvegarde %s : [text]"
+    new "Sauvegarder l'emplacement %s : [text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
-    new "Emplacement de chargement %s : [text]"
+    new "Charger l'emplacement %s : [text]"
 
     # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
@@ -324,15 +324,15 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"
-    new "Page de fichier automatique"
+    new "Remplissage automatique de la page"
 
     # renpy/common/00action_file.rpy:615
     old "File page quick"
-    new "Page de fichier rapide"
+    new "Remplissage rapide de la page"
 
     # renpy/common/00action_file.rpy:617
     old "File page [text]"
-    new "Page de fichier [text]"
+    new "Remplir la page [text]"
 
     # renpy/common/00action_file.rpy:675
     old "Page {}"
@@ -360,7 +360,7 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:964
     old "Quick save."
-    new "Enregistrement rapide."
+    new "Sauvegarde rapide."
 
     # renpy/common/00action_file.rpy:983
     old "Quick load."
@@ -448,7 +448,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1753
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Cliquez pour activer/désactiver l'attribut, cliquez avec le bouton droit pour activer/désactiver l'attribut négatif."
+    new "Clic gauche pour activer/désactiver l'attribut, clic droit pour activer/désactiver l'attribut négatif."
 
     # renpy/common/00director.rpy:1765
     old "Transforms:"
@@ -456,7 +456,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1776
     old "Click to set transform, right click to add to transform list."
-    new "Cliquez pour définir la transformation, cliquez avec le bouton droit pour l'ajouter à la liste des transformations."
+    new "Clic gauche pour définir la transformation, clic droit pour l'ajouter à la liste des transformations."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
@@ -508,7 +508,7 @@ translate french strings:
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Le chargement entraînera la perte de la progression non enregistrée.\nÊtes-vous sûr de vouloir faire cela ?"
+    new "Charger vous fera perdre toute progression non enregistrée.\nÊtes-vous sûr de vouloir continuer ?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
@@ -516,7 +516,7 @@ translate french strings:
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous sûr de vouloir revenir au menu principal ?\nCela entraînera la perte de la progression non enregistrée."
+    new "Êtes-vous sûr de vouloir revenir au menu principal ?\nCela entraînera la perte de toute progression non enregistrée."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
@@ -524,27 +524,27 @@ translate french strings:
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr de vouloir terminer la relecture ?"
+    new "Êtes-vous sûr de vouloir terminer le replay ?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sûr de vouloir commencer à passer des passages ?"
+    new "Êtes-vous sûr de vouloir commencer à sauter des passages ?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "Êtes-vous sûr de vouloir passer au choix suivant ?"
+    new "Êtes-vous sûr de vouloir sauter jusqu'au choix suivant ?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous sûr de vouloir passer les dialogues non vus pour aller au choix suivant ?"
+    new "Êtes-vous sûr de vouloir passer les dialogues non vus jusqu'au choix suivant ?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde malveillants peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à toutes les personnes qui auraient pu modifier le fichier ?"
+    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde malveillants peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à toute personne qui aurait pu modifier le fichier ?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée ? Vous ne devriez choisir « oui » que si vous êtes l'unique utilisateur de l'appareil."
+    new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été créée ? Il est recommandé de ne choisir « oui » que si vous êtes l'unique utilisateur de l'appareil."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
@@ -616,7 +616,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:380
     old "skip after choices"
-    new "ignorer après les choix"
+    new "passer après les choix"
 
     # renpy/common/00preferences.rpy:382
     old "auto-forward time"
@@ -692,7 +692,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:486
     old "rollback side"
-    new "côté de retour en arrière"
+    new "côté de rollback"
 
     # renpy/common/00preferences.rpy:496
     old "gl powersave"
@@ -884,7 +884,7 @@ translate french strings:
 
     # renpy/common/00sync.rpy:468
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "Cela va contacter le {a=https://sync.renpy.org}serveur de synchronisation Ren'Py{/a}."
+    new "Cela va contacter le {a=https://sync.renpy.org}serveur Ren'Py Sync{/a}."
 
     # renpy/common/00sync.rpy:498
     old "Sync Success"
@@ -912,7 +912,7 @@ translate french strings:
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new "traduit [tl.filename]:[tl.linenumber]"
+    new " traduit [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
@@ -920,7 +920,7 @@ translate french strings:
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "Contact avec l'App Store\nVeuillez patienter..."
+    new "Contacte l'App Store\nVeuillez patienter..."
 
     # renpy/common/00updater.rpy:415
     old "No update methods found."
@@ -1124,7 +1124,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:214
     old "This game requires use of GL2 that can't be initialised."
-    new "Ce jeu nécessite l'utilisation de GL2, qui ne peut pas être initialisé."
+    new "Ce jeu nécessite un usage de GL2 qui ne peut pas être initialisé."
 
     # renpy/common/00gltest.rpy:216
     old "This computer has a problem displaying graphics: [problem]."

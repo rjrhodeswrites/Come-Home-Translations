@@ -52,13 +52,13 @@ translate french adrian13_7860a0fb:
 translate french adrian13_34b5448b:
 
     # gg "Poggers! Come and get me?"
-    gg "Poggers ! Tu viens me chercher ?"
+    gg "Nickel ! Tu viens me chercher ?"
 
 # game/Scenes/Adrian/adrian13.rpy:28
 translate french adrian13_4724ea78:
 
     # pc "Sure, I'll be there in a few minutes."
-    pc "Bien sûr, j'y serai dans quelques minutes."
+    pc "Bien sûr, je suis là dans quelques minutes."
 
 # game/Scenes/Adrian/adrian13.rpy:29
 translate french adrian13_5b5160ba:

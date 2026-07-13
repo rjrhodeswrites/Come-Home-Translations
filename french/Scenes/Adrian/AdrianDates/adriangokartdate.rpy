@@ -4,7 +4,7 @@
 translate french adriangokartstartdate_26c8bd29:
 
     # gg "Man, I haven't gone go-karting in a LONG time!"
-    gg "Mec, ça fait un BON temps que je n'ai pas fait de karting !"
+    gg "La vache, ça fait SUPER longtemps que j'ai pas fait de karting !"
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:31
 translate french adriangokartstartdate_425c7596:
@@ -34,19 +34,19 @@ translate french adriangokartstartdate_8f9b8839:
 translate french adriangokartstartdate_18ef0fb8:
 
     # gg "Hope you're ready to eat my dust."
-    gg "J'espère que tu es prête à manger ma poussière."
+    gg "J'espère que t'apprécieras de mordre la poussière."
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:49
 translate french adriangokartstartdate_53dbc1f5:
 
     # pc "Yeah right. You're going down."
-    pc "Ouais, c'est ça. Tu vas te faire battre."
+    pc "Ouais, c'est ça. Je vais te laisser sur place."
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:50
 translate french adriangokartstartdate_800a9087:
 
     # gg "No, you!"
-    gg "Non, c'est toi !"
+    gg "Non, moi !"
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:57
 translate french adriangokartstartdate_26aa19ac:
@@ -64,7 +64,7 @@ translate french adriangokartstartdate_1ec15e0c:
 translate french adriangokartstartdate_d3f8613e:
 
     # "By the end of our time, she is well in the lead, leaving me far behind."
-    "À la fin de notre session, elle a une bonne avance, me laissant loin derrière."
+    "Vers la fin du temps imparti, elle a une bonne avance, elle m'a laissé loin derrière."
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:77
 translate french adriangokartstartdate_855b783c:
@@ -88,25 +88,25 @@ translate french adriangokartstartdate_96accbe9:
 translate french adriangokartstartdate_3f94ba4d:
 
     # pc "Yeah it was. You kicked my ass."
-    pc "Oui, c’est vrai. Tu m’as battue à plate couture."
+    pc "Tu parles. Tu m’as battu à plate couture."
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:90
 translate french adriangokartstartdate_1a12d8de:
 
     # gg "Lots of Mario Kart practice."
-    gg "Beaucoup d’entraînement à Mario Kart."
+    gg "J'ai beaucoup d’entraînement à Mario Kart."
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:92
 translate french adriangokartstartdate_45c6ecca:
 
     # gg "I can't believe you caught up to me!"
-    gg "Je n’arrive pas à croire que tu m’aies rattrapée !"
+    gg "J’arrive pas à croire que tu m’aies rattrapée !"
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:93
 translate french adriangokartstartdate_778b032e:
 
     # gg "You're a damn good driver!"
-    gg "Tu es une sacrée bonne pilote !"
+    gg "Tu es un sacré bon pilote !"
 
 # game/Scenes/Adrian/AdrianDates/adriangokartdate.rpy:94
 translate french adriangokartstartdate_c6880d17:

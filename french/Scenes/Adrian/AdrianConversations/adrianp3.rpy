@@ -16,7 +16,7 @@ translate french adrianp3_c5d7621d:
 translate french adrianp3_d6e4ff01:
 
     # gg "\"Just wanted to tell my SON 'Happy Birthday.'\""
-    gg "« Je voulais juste souhaiter un \"joyeux anniversaire\" à mon FIL. »"
+    gg "« Je voulais juste souhaiter un \"joyeux anniversaire\" à mon FILS. »"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp3.rpy:15
 translate french adrianp3_c49453e5:
@@ -46,13 +46,13 @@ translate french adrianp3_66af7357:
 translate french adrianp3_ca22deec:
 
     # gg "Mom still has to deal with that side of my family some, but thankfully she keeps me pretty sheltered from it."
-    gg "Maman doit encore composer un peu avec cette partie de ma famille, mais heureusement, elle me protège assez bien de tout ça."
+    gg "Maman doit encore composer avec cette partie de ma famille, mais heureusement, elle me protège bien de tout ça."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp3.rpy:21
 translate french adrianp3_1003c31f:
 
     # gg "It's not something I need to even think about."
-    gg "C’est pas quelque chose auquel j’ai besoin de penser."
+    gg "J’ai pas besoin de m'encombrer avec ça."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp3.rpy:23
 translate french adrianp3_8a56a79f:

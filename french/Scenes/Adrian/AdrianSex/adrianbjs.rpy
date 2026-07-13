@@ -16,13 +16,13 @@ translate french adriangivebj_58c4e1c4:
 translate french adriangivebj_32befafe:
 
     # gg "You want to do that?"
-    gg "Tu veux faire ça ?"
+    gg "Tu veux le faire ?"
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:23
 translate french adriangivebj_d8538012:
 
     # pc "Badly. I want to make you feel good."
-    pc "Vraiment. Je veux te faire du bien."
+    pc "Oh oui. Je veux te faire du bien."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:24
 translate french adriangivebj_9b1d1fda:
@@ -118,7 +118,7 @@ translate french adriangivebj_f09dec73:
 translate french adriangivebj_b579528b:
 
     # gg "You almost did a couple of times. I was surprised. It's been a while."
-    gg "Tu as failli jouir plusieurs fois. J'ai été surpris. Ça fait un moment."
+    gg "C'était pas loin plusieurs fois. J'ai été surprise. Ça fait un moment."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:50
 translate french adriangivebj_52ca3236:
@@ -154,7 +154,7 @@ translate french adriangivebj_c49e000d:
 translate french adrianbjcuminmouth_eda1b92c:
 
     # "A bit surprised at first, I go down partially and take the tip of her girlcock into my mouth."
-    "Un peu surprise au début, je m’agenouille partiellement et prends le bout de sa bite de fille dans ma bouche."
+    "Un peu surpris au début, je m’agenouille partiellement et prends le bout de sa bite dans ma bouche."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:94
 translate french adrianbjcuminmouth_523c85bb:
@@ -190,7 +190,7 @@ translate french adrianbjcuminmouth_574d9312:
 translate french adrianbjcuminmouth_17c43d40:
 
     # pc "I'm glad you liked it."
-    pc "Je suis contente que ça t’ait plu."
+    pc "Je suis content que ça t’ait plu."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:105
 translate french adrianbjcuminmouth_e3ba1816:
@@ -202,7 +202,7 @@ translate french adrianbjcuminmouth_e3ba1816:
 translate french adrianbjcumonstomach_77711d6d:
 
     # "A bit surprised at first, I pull her girlcock out of my mouth and stroke it rapidly."
-    "Un peu surprise au début, je retire sa bite de ma bouche et la caresse rapidement."
+    "Un peu surpris au début, je retire sa bite de ma bouche et la branle rapidement."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:117
 translate french adrianbjcumonstomach_cbc9c960:
@@ -292,7 +292,7 @@ translate french adriangetbjcuminmouth_035e7a57_1:
 translate french adriangetbjcuminmouth_d3d88e1c_1:
 
     # "To her credit, she doesn't spill a single drop as she sucks it all out and swallows it."
-    "À son crédit, elle ne renverse pas une seule goutte alors qu’elle aspire tout et avale."
+    "À son crédit, elle ne renverse pas une seule goutte, elle aspire tout et avale."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjs.rpy:220
 translate french adriangetbjcuminmouth_7bf848a9_1:

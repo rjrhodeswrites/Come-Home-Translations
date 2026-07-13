@@ -4,5 +4,5 @@
 translate french addfighting_8db93b21:
 
     # "I feel like I'm better at fighting now."
-    "J'ai l'impression d'être meilleur au combat maintenant."
+    "J'ai l'impression d'être devenu meilleur au combat."
 

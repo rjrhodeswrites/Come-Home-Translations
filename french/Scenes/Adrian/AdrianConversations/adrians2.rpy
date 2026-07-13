@@ -10,25 +10,25 @@ translate french adrians2_1153c5b6:
 translate french adrians2_890b7d8e:
 
     # gg "Actually that's kind of a lie."
-    gg "En fait, c'est un peu un mensonge."
+    gg "Bon, c'est pas tout à fait la réalité."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:19
 translate french adrians2_0a40fc4a:
 
     # gg "School is easy. I haven't had any problems at all really."
-    gg "L'école, c'est facile. Je n'ai vraiment eu aucun problème."
+    gg "L'école, c'est facile. Je n'ai pas vraiment eu de problème."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:20
 translate french adrians2_6967b4f8:
 
     # gg "I could definitely get a job if I wanted and still be fine in school."
-    gg "Je pourrais sans problème trouver un boulot si je le voulais tout en continuant à bien m'en sortir à l'école."
+    gg "Je pourrais sans problème trouver un boulot si je voulais et continuer à bien m'en sortir à l'école."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:21
 translate french adrians2_24c19f10:
 
     # gg "I just don't want to right away. And I don't have to, so I'm not going to."
-    gg "C'est juste que je ne veux pas le faire tout de suite. Et je n'y suis pas obligé, donc je ne le ferai pas."
+    gg "C'est juste que je ne veux pas le faire tout de suite. Et je n'y suis pas obligée, donc je ne le ferai pas."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:22
 translate french adrians2_57cd481f:
@@ -40,7 +40,7 @@ translate french adrians2_57cd481f:
 translate french adrians2_3298487a:
 
     # gg "I guess. I feel bad sometimes though. Like people look down on me because I don't have a job."
-    gg "Je suppose. Mais je me sens mal parfois. J'ai l'impression que les gens me regardent de haut parce que je n'ai pas de boulot."
+    gg "C'est vrai. Mais je me sens mal parfois. J'ai l'impression que les gens me regardent de haut parce que je n'ai pas de boulot."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:24
 translate french adrians2_946ae6f7:
@@ -58,13 +58,13 @@ translate french adrians2_92420bc9:
 translate french adrians2_61fb90d2:
 
     # gg "I'm not sure about work though."
-    gg "Mais je ne suis pas sûr pour le boulot."
+    gg "Mais je ne suis pas sûre pour le boulot."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:29
 translate french adrians2_9f0324ca:
 
     # gg "I just have a hard time seeing myself happy if I have to work at some business with hours I have to be there and a boss and..."
-    gg "J'ai juste du mal à m'imaginer heureux si je dois bosser dans une boîte avec des horaires à respecter, un patron et..."
+    gg "J'ai juste du mal à m'imaginer heureuse si je dois bosser dans une boîte, avec des horaires à respecter et un patron et..."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:31
 translate french adrians2_6a0cc34f:
@@ -100,7 +100,7 @@ translate french adrians2_69a6cb52:
 translate french adrians2_9c2c85b4:
 
     # gg "No, it's okay. It's not you."
-    gg "Non, ça va. Ce n'est pas toi."
+    gg "Non, ça va. C'est pas toi."
 
 # game/Scenes/Adrian/AdrianConversations/adrians2.rpy:38
 translate french adrians2_b342ddbc:

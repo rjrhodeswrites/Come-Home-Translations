@@ -4,7 +4,7 @@
 translate french adriansurface_ec536340:
 
     # pc "Hey. I wanted to talk to you about something."
-    pc "Salut. Je voulais te parler de quelque chose."
+    pc "Salut. Je voulais te parler d'un truc."
 
 # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:22
 translate french adriansurface_f6964fe7:
@@ -16,7 +16,7 @@ translate french adriansurface_f6964fe7:
 translate french adriansurface_3edf6017:
 
     # pc "But now... I think I want something more."
-    pc "Mais maintenant... je crois que je veux quelque chose de plus."
+    pc "Mais maintenant... je crois que je veux plus."
 
 # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:25
 translate french adriansurface_2087cf83:
@@ -52,7 +52,7 @@ translate french adriansurface_b932f712:
 translate french adriansurface_aa5d791d:
 
     # gg "Awesome. I'm looking forward to spending some more time with you then."
-    gg "Génial. J'ai hâte de passer plus de temps avec toi alors."
+    gg "Génial. J'ai hâte de passer plus de temps avec toi."
 
 # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:33
 translate french adriansurface_03eaad50:
@@ -70,7 +70,7 @@ translate french adriansurface_07141454:
 translate french adriansurface_e18c7fe2:
 
     # pc "Oh, okay. I'll talk to you later then."
-    pc "Oh, d'accord. On se reparle plus tard alors."
+    pc "Oh, d'accord. Alors on se reparle plus tard."
 
 # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:37
 translate french adriansurface_01aff264:
@@ -106,7 +106,7 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:16
     old "What superpower would you want?"
-    new "Quel super-pouvoir aimerais-tu avoir ?"
+    new "Quel super-pouvoir tu aimerais avoir ?"
 
     # game/Scenes/Adrian/AdrianConversations/adriansurface.rpy:18
     old "Do you ever play any adult games?"
