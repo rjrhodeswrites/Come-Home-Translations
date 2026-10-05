@@ -22,7 +22,7 @@ translate french adrianmeetskendra_3228bf43:
 translate french adrianmeetskendra_fc38bc4a:
 
     # sg "Are you here on a date?"
-    sg "Vous êtes ici pour un rendez-vous ?"
+    sg "Vous êtes là en rencard ?"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:26
 translate french adrianmeetskendra_d41d8cd9:
@@ -34,7 +34,7 @@ translate french adrianmeetskendra_d41d8cd9:
 translate french adrianmeetskendra_06523d55:
 
     # sg "Hi there, my name's Kendra. He's been dating me too!"
-    sg "Salut, je m'appelle Kendra. Il sort avec moi aussi !"
+    sg "Salut, j'm'appelle Kendra. Il sort avec moi aussi !"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:28
 translate french adrianmeetskendra_1afda4df:
@@ -46,13 +46,13 @@ translate french adrianmeetskendra_1afda4df:
 translate french adrianmeetskendra_3b759174:
 
     # pc "A few."
-    pc "Quelques-uns."
+    pc "Un peu."
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:30
 translate french adrianmeetskendra_248cb961:
 
     # sg "Doesn't bother me any. Hope you're not mad at him about it or anything. I figured you knew what a slut he is."
-    sg "Ça ne me dérange pas. J'espère que tu ne lui en veux pas pour ça. Je pensais que tu savais à quel point c'est un coureur de jupons."
+    sg "Ça m'dérange pas. J'espère que tu lui en veux pas. J'me suis dit qu'tu savais qu'c'est une traînée."
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:31
 translate french adrianmeetskendra_fff19cf0:
@@ -64,7 +64,7 @@ translate french adrianmeetskendra_fff19cf0:
 translate french adrianmeetskendra_4cd5781b:
 
     # sg "Anyway, I just saw you two over here and I wanted to come tell you how pretty you are."
-    sg "Bref, je vous ai juste vus ici et je voulais venir vous dire à quel point vous êtes jolies."
+    sg "'fin, j'vous ai juste vus ici et j'voulais venir t'dire qu't'es super belle."
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:39
 translate french adrianmeetskendra_ed912b56:
@@ -82,7 +82,7 @@ translate french adrianmeetskendra_121ae9ff:
 translate french adrianmeetskendra_2f198d7d:
 
     # sg "If you ever want to hang out together or anything, you seem like you'd be super fun!"
-    sg "Si jamais tu veux qu'on traîne ensemble ou quoi que ce soit, tu as l'air d'être super sympa !"
+    sg "Si jamais tu veux qu'on traîne ensemble ou quoi que ce soit, t'as l'air d'être super cool !"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:43
 translate french adrianmeetskendra_50b71ca4:
@@ -94,13 +94,13 @@ translate french adrianmeetskendra_50b71ca4:
 translate french adrianmeetskendra_3ab7606c:
 
     # gg "You have no idea how good that makes me feel."
-    gg "Tu n'as pas idée à quel point ça me fait plaisir."
+    gg "T'as pas idée à quel point ça me fait plaisir."
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:45
 translate french adrianmeetskendra_ed38a5d0:
 
     # gg "Yeah, we should hang out some time, for sure. You're way cute too!"
-    gg "Ouais, on devrait traîner ensemble un de ces jours, c'est sûr. T'es trop mignon toi aussi !"
+    gg "Ouais, on devrait traîner ensemble un de ces jours, c'est sûr. T'es super canon toi aussi !"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:46
 translate french adrianmeetskendra_b09917cc:
@@ -118,13 +118,13 @@ translate french adrianmeetskendra_9f5af1b1:
 translate french adrianmeetskendra_c5dfe466:
 
     # sg "Okay, give her my number or something, [pcname]! I'll take off and let you two continue your date here."
-    sg "Ok, donne-lui mon numéro ou un truc, [pcname] ! Je vais m'éclipser et vous laisser continuer votre rendez-vous ici."
+    sg "Ok, donne-lui mon numéro, [pcname] ! Je file, j'vous laisse continuer vot' rencard."
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:54
 translate french adrianmeetskendra_8e2e5409:
 
     # sg "You kids have fun! I'll see you later!"
-    sg "Amusez-vous bien, les jeunes ! À plus tard !"
+    sg "Amusez-vous, les jeunes ! À plus !"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:60
 translate french adrianmeetskendra_999d521b:
@@ -166,7 +166,7 @@ translate french adrianmeetskendra_640386e6:
 translate french adrianmeetskendra_4ff1d969:
 
     # pc "You're not jealous?"
-    pc "Tu n'es pas jaloux ?"
+    pc "Tu n'es pas jalouse ?"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:67
 translate french adrianmeetskendra_d18ae471:
@@ -178,7 +178,7 @@ translate french adrianmeetskendra_d18ae471:
 translate french adrianmeetskendra_c98df1c4:
 
     # gg "As long as it's all out in the open, what's there to be jealous of?"
-    gg "Tant que tout est au grand jour, pourquoi être jaloux ?"
+    gg "Tant que tout est au grand jour, pourquoi être jalouse ?"
 
 # game/Scenes/Adrian/adrianmeetskendra.rpy:71
 translate french adrianmeetskendra_50a83334:

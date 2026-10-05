@@ -4,7 +4,7 @@
 translate french bais4_001fe456:
 
     # bai "I guess working out is sort of a hobby, right?"
-    bai "Je suppose que le sport, c’est un peu ton hobby, non ?"
+    bai "Hmm, le sport, ça compte comme passe-temps, non ?"
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:15
 translate french bais4_61f77a4c:
@@ -16,25 +16,25 @@ translate french bais4_61f77a4c:
 translate french bais4_2c539910:
 
     # bai "Well I work out a lot."
-    bai "Eh bien, je fais beaucoup de sport."
+    bai "Je fais beaucoup de sport."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:18
 translate french bais4_a68c9530:
 
     # pc "You go to the gym?"
-    pc "Tu vas à la salle de sport ?"
+    pc "Tu vas à la salle ?"
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:19
 translate french bais4_b8dd0440:
 
     # bai "I haven't since I moved here."
-    bai "Je n'y suis pas allé depuis que j'ai emménagé ici."
+    bai "J'y suis pas allé depuis que j'ai emménagé ici."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:20
 translate french bais4_1b8d6163:
 
     # bai "I just run, do bodyweight exercises, and tai chi."
-    bai "Je cours, je fais des exercices au poids du corps et du tai-chi."
+    bai "Je cours, je soulève des poids, et je fais du tai-chi."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:21
 translate french bais4_b2ff4c69:
@@ -46,13 +46,13 @@ translate french bais4_b2ff4c69:
 translate french bais4_fc950006:
 
     # bai "Yeah I know... Chinese guy doing martial arts. So stereotypical."
-    bai "Ouais, je sais... Un Chinois qui pratique les arts martiaux. C'est tellement stéréotypé."
+    bai "Ouais, je sais... Un Chinois qui pratique les arts martiaux. Tellement cliché."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:24
 translate french bais4_bf1af4f0:
 
     # bai "But it's something that my dad started teaching me when I was very young."
-    bai "Mais c'est quelque chose que mon père a commencé à m'enseigner quand j'étais tout petit."
+    bai "Mais mon père a commencé à me l'enseigner quand j'étais tout petit."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:25
 translate french bais4_b1e1fbbd:
@@ -70,25 +70,25 @@ translate french bais4_a678f791:
 translate french bais4_72c23e71:
 
     # pc "That's really cool."
-    pc "C'est vraiment cool."
+    pc "C'est très cool."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:29
 translate french bais4_6be4366c:
 
     # bai "Other hobby: I watch a ton of movies. I love movies."
-    bai "Autre passe-temps : je regarde énormément de films. J'adore les films."
+    bai "Autre passe-temps : je regarde plein de films. J'adore les films."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:30
 translate french bais4_27055ed1:
 
     # bai "Mostly comedies and action stuff. Nothing too dramatic or stuffy. I like fun movies."
-    bai "Surtout des comédies et des films d'action. Rien de trop dramatique ou guindé. J'aime les films sympas."
+    bai "Surtout des comédies et des films d'action. Rien de trop dramatique ou guindé. J'aime les films divertissants."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:31
 translate french bais4_f4136dc1:
 
     # bai "There's enough sadness in the real world that I'm not really interested in watching movies that make me sad too."
-    bai "Il y a assez de tristesse dans le monde réel pour que je ne sois pas vraiment intéressé par des films qui me rendent triste en plus."
+    bai "Il y a assez de tristesse dans le monde réel pour que je tienne pas à regarder des films qui me rendent triste en plus."
 
 # game/Scenes/Bai/BaiConversations/bais4.rpy:32
 translate french bais4_9daa58fa:

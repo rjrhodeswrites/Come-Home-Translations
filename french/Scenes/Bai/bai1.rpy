@@ -16,7 +16,7 @@ translate french bai1a_9c1f35c1:
 translate french bai1a_8b526dd6:
 
     # bai "I'm new to town and don't really have a lot of friends and there's this new movie out at the theater that I really want to see."
-    bai "Je viens d'arriver en ville, je n'ai pas vraiment d'amis, et il y a un nouveau film au cinéma que j'ai vraiment envie de voir."
+    bai "Je viens d'arriver en ville, j'ai pas vraiment d'amis, et il y a un nouveau film au cinéma que j'ai vraiment envie de voir."
 
 # game/Scenes/Bai/bai1.rpy:24
 translate french bai1a_d7584f25:
@@ -34,7 +34,7 @@ translate french bai1a_98c52d24:
 translate french bai1a_e00fd3a3:
 
     # bai "That's what I meant. Not a date or anything like that."
-    bai "C'est ce que je voulais dire. Ce n'est pas un rendez-vous galant ni rien de ce genre."
+    bai "C'est ce que je voulais dire. C'est pas un rencard ni rien de ce genre."
 
 # game/Scenes/Bai/bai1.rpy:37
 translate french baimoviesure_adfca239:
@@ -52,7 +52,7 @@ translate french baimoviesure_7b6e80ee:
 translate french baimoviesure_0d391b30:
 
     # bai "Thanks, man. I'm looking forward to it."
-    bai "Merci, mec. J'ai hâte d'y être."
+    bai "Merci. J'ai hâte d'y être."
 
 # game/Scenes/Bai/bai1.rpy:40
 translate french baimoviesure_a29de295:
@@ -64,7 +64,7 @@ translate french baimoviesure_a29de295:
 translate french baimoviesure_3962dff8:
 
     # bai "Okay man, no big deal."
-    bai "C'est bon, mec, ce n'est pas grave."
+    bai "OK, c'est pas grave."
 
 # game/Scenes/Bai/bai1.rpy:49
 translate french baimoviesure_a29de295_1:
@@ -82,7 +82,7 @@ translate french baimoviesure_56dd4dff:
 translate french baimoviesure_03605427:
 
     # bai "I won't bother you any more."
-    bai "Je ne t'embêterai plus."
+    bai "Je t'embêterai plus."
 
 # game/Scenes/Bai/bai1.rpy:71
 translate french bai1b_958f7147:
@@ -118,7 +118,7 @@ translate french bai1b_77aa3783:
 translate french bai1b_466c163b:
 
     # bai "Oh it's just a dumb comedy. I thought it looked funny."
-    bai "Oh, c'est juste une comédie idiote. J'ai trouvé que ça avait l'air marrant."
+    bai "Oh, c'est juste une comédie débile. J'ai trouvé que ça avait l'air marrant."
 
 # game/Scenes/Bai/bai1.rpy:83
 translate french bai1b_369c1c9b:
@@ -136,7 +136,7 @@ translate french bai1b_de97b00f:
 translate french bai1b_148803bd:
 
     # bai "I just moved here at the beginning of the school year and I haven't really made many friends."
-    bai "Je viens d'emménager ici au début de l'année scolaire et je ne me suis pas vraiment fait beaucoup d'amis."
+    bai "J'ai emménagé ici juste au début de l'année scolaire et je me suis pas vraiment fait beaucoup d'amis."
 
 # game/Scenes/Bai/bai1.rpy:86
 translate french bai1b_fef816c4:
@@ -154,7 +154,7 @@ translate french bai1b_c1effd55:
 translate french bai1b_1a5154bd:
 
     # pc "Yeah, man. Any time. Especially since you're paying."
-    pc "Ouais, mec. Quand tu veux. Surtout que c'est toi qui paies."
+    pc "Quand tu veux. Surtout que c'est toi qui paies."
 
 # game/Scenes/Bai/bai1.rpy:89
 translate french bai1b_ca8e9a7a:
@@ -178,13 +178,13 @@ translate french bai1b_319c57ed:
 translate french bai1b_3193918e:
 
     # "It ends up being a romantic comedy. It's not really my thing, but Bai is completely into it, laughing through the whole thing."
-    "C'est finalement une comédie romantique. Ce n'est pas vraiment mon truc, mais Bai est complètement à fond dedans, il rit tout du long."
+    "Au final, c'est une comédie romantique. Ce n'est pas vraiment mon truc, mais Bai est complètement à fond dedans, il rit tout du long."
 
 # game/Scenes/Bai/bai1.rpy:96
 translate french bai1b_0361fd49:
 
     # "I don't hate it. It isn't as bad as that show I watch with Jamie. It's just a little boring and cliche."
-    "Je ne déteste pas ça. Ce n'est pas aussi mauvais que cette série que je regarde avec Jamie. C'est juste un peu ennuyeux et cliché."
+    "Je ne déteste pas. Ce n'est pas aussi mauvais que la série que je regarde avec Jamie. C'est juste un peu ennuyeux et cliché."
 
 # game/Scenes/Bai/bai1.rpy:97
 translate french bai1b_84a813d4:
@@ -232,19 +232,19 @@ translate french bai1b_b462b355:
 translate french bai1b_7961d78c:
 
     # bai "Nah, man, we're just a couple of dudes eating a burger."
-    bai "Non, mec, on est juste deux potes qui vont manger un hamburger."
+    bai "Non, on est juste deux potes qui vont manger un hamburger."
 
 # game/Scenes/Bai/bai1.rpy:111
 translate french bai1b_d2fca1fb:
 
     # pc "It's dinner and a movie though. And you're paying for everything. That's kind of a date."
-    pc "Mais c'est dîner et cinéma. Et c'est toi qui paies tout. C'est un peu un rendez-vous."
+    pc "Mais c'est dîner et cinéma. Et c'est toi qui paies tout. C'est un peu un rencard."
 
 # game/Scenes/Bai/bai1.rpy:112
 translate french bai1b_654551a2:
 
     # bai "You're looking into it too much. It's just a burger between bros."
-    bai "Tu y accordes trop d'importance. C'est juste un hamburger entre potes."
+    bai "Tu réfléchis trop. C'est juste un hamburger entre potes."
 
 # game/Scenes/Bai/bai1.rpy:113
 translate french bai1b_90bc5101:
@@ -268,7 +268,7 @@ translate french bai1b_132d7457:
 translate french bai1b_90d231c6:
 
     # bai "Well thanks for coming to see the movie with me anyway."
-    bai "Bon, merci d'être venu voir le film avec moi quand même."
+    bai "Bon, merci quand même d'être venu voir le film avec moi."
 
 # game/Scenes/Bai/bai1.rpy:126
 translate french bai1b_132d7457_1:
@@ -280,7 +280,7 @@ translate french bai1b_132d7457_1:
 translate french bai1b_90d231c6_1:
 
     # bai "Well thanks for coming to see the movie with me anyway."
-    bai "En tout cas, merci d’être venu voir le film avec moi."
+    bai "Bon, merci quand même d'être venu voir le film avec moi."
 
 # game/Scenes/Bai/bai1.rpy:129
 translate french bai1b_9ce0c193:
@@ -292,19 +292,19 @@ translate french bai1b_9ce0c193:
 translate french bai1c_30423311:
 
     # bai "Hey before we leave, let me give you my phone number."
-    bai "Hé, avant de partir, laisse-moi te donner mon numéro de téléphone."
+    bai "Hé, avant de partir, je te donne mon numéro de téléphone."
 
 # game/Scenes/Bai/bai1.rpy:134
 translate french bai1c_0b8345e6:
 
     # bai "I don't have a lot of friends around here, so I'd love to just chat with you whenever you feel up to it."
-    bai "Je n’ai pas beaucoup d’amis par ici, alors j’adorerais discuter avec toi quand tu en auras envie."
+    bai "J’ai pas beaucoup d’amis par ici, alors j’adorerais discuter avec toi quand t'en auras envie."
 
 # game/Scenes/Bai/bai1.rpy:135
 translate french bai1c_fed45739:
 
     # bai "And maybe we can go out again sometime."
-    bai "Et peut-être qu’on pourra ressortir ensemble un de ces jours."
+    bai "Et peut-être qu’on pourra remettre ça un de ces jours."
 
 # game/Scenes/Bai/bai1.rpy:136
 translate french bai1c_74dad17c:
@@ -316,13 +316,13 @@ translate french bai1c_74dad17c:
 translate french bai1c_551a5a42:
 
     # "We leave the theater and wave goodbye as we head towards our separate cars."
-    "On sort du cinéma et on se fait un petit signe de la main en se dirigeant vers nos voitures respectives."
+    "On sort du cinéma et on se fait un signe de la main en se dirigeant vers nos voitures respectives."
 
 # game/Scenes/Bai/bai1.rpy:142
 translate french bai1c_37249873:
 
     # "It was kinda fun and Bai seems like a good guy, but I am ready to go home."
-    "C'était plutôt sympa et Bai a l'air d'être un type bien, mais je suis prête à rentrer chez moi."
+    "C'était plutôt sympa et Bai a l'air d'être un type bien, mais je suis prêt à rentrer chez moi."
 
 # game/Scenes/Bai/bai1.rpy:150
 translate french bai1d_44de25ff:
@@ -334,13 +334,13 @@ translate french bai1d_44de25ff:
 translate french bai1d_b613a935:
 
     # "I drive to Jackson Burger and he follows close behind me."
-    "Je me rends chez Jackson Burger et il me suit de près."
+    "Je me rends au Jackson Burger et il me suit de près."
 
 # game/Scenes/Bai/bai1.rpy:156
 translate french bai1d_038c9c07:
 
     # "Dinner and a movie. Bai paying for everything. This is starting to feel like a date."
-    "Un dîner et un film. Bai paie tout. Ça commence à ressembler à un rendez-vous galant."
+    "Un dîner et un film. Bai qui paie tout. Ça commence à ressembler à un rencard."
 
 # game/Scenes/Bai/bai1.rpy:157
 translate french bai1d_b0f0ec2f:
@@ -352,7 +352,7 @@ translate french bai1d_b0f0ec2f:
 translate french bai1d_52ccbf0a:
 
     # "I've never really been into guys before, but I'm not completely opposed to it."
-    "Je n’ai jamais vraiment été attirée par les garçons avant, mais je ne suis pas complètement contre."
+    "J’ai jamais vraiment été attiré par les mecs avant, mais je suis pas complètement contre."
 
 # game/Scenes/Bai/bai1.rpy:162
 translate french bai1d_807671c5:
@@ -376,7 +376,7 @@ translate french bai1d_a05b670d:
 translate french bai1d_2c4d1bf4:
 
     # "No dates here, just being a friend."
-    "Pas de rendez-vous galants ici, juste une amitié."
+    "On est potes, c'est tout."
 
 # game/Scenes/Bai/bai1.rpy:168
 translate french bai1d_4dd932a3:
@@ -394,13 +394,13 @@ translate french bai1d_1a66ac2a:
 translate french bai1d_0fd8bfb1:
 
     # pc "They have the best burgers in town too."
-    pc "En plus, ils ont les meilleurs burgers de la ville."
+    pc "Et en plus, ils ont les meilleurs burgers de la ville."
 
 # game/Scenes/Bai/bai1.rpy:175
 translate french bai1d_38551cf6:
 
     # bai "See this is why I needed to hang out with somebody like you. I probably would have never come here on my own."
-    bai "Tu vois, c'est pour ça que j'avais besoin de traîner avec quelqu'un comme toi. Je ne serais probablement jamais venue ici toute seule."
+    bai "Tu vois, c'est pour ça qu'il fallait que je traîne avec quelqu'un comme toi. Je serais probablement jamais venu ici tout seul."
 
 # game/Scenes/Bai/bai1.rpy:178
 translate french bai1d_d8780fe8:
@@ -412,7 +412,7 @@ translate french bai1d_d8780fe8:
 translate french bai1d_e62147cf:
 
     # pc "Hey Mari, we're great. This is Bai."
-    pc "Salut Mari, on va super bien. Voici Bai."
+    pc "Salut Mari, ça va très bien. Voici Bai."
 
 # game/Scenes/Bai/bai1.rpy:180
 translate french bai1d_dd988bf5:
@@ -448,19 +448,19 @@ translate french bai1d_1f404a7b:
 translate french bai1d_da139e49:
 
     # bai "You two got a thing going on?"
-    bai "Y a-t-il quelque chose entre vous deux ?"
+    bai "Il y a quelque chose entre vous ?"
 
 # game/Scenes/Bai/bai1.rpy:193
 translate french bai1d_1272aef0:
 
     # bai "Yeah, man! Good job!"
-    bai "Ouais, mec ! Bien joué !"
+    bai "Hahaaa ! Bien joué !"
 
 # game/Scenes/Bai/bai1.rpy:194
 translate french bai1d_affb6002:
 
     # bai "Glad one of us is getting some."
-    bai "Je suis content que l'un de nous deux s'en sorte."
+    bai "Je suis content qu'un de nous deux s'en sorte."
 
 # game/Scenes/Bai/bai1.rpy:197
 translate french bai1d_7cc6172a:
@@ -478,13 +478,13 @@ translate french bai1d_a80c024d:
 translate french bai1d_cd394271:
 
     # bai "I mean yeah, she's pretty."
-    bai "Je veux dire, ouais, elle est jolie."
+    bai "Baaah, ouais, elle est jolie."
 
 # game/Scenes/Bai/bai1.rpy:201
 translate french bai1d_18a0a28f:
 
     # bai "I don't know that she's necessarily my type though."
-    bai "Mais je ne sais pas si c'est vraiment mon type."
+    bai "Mais je sais pas si c'est vraiment mon genre."
 
 # game/Scenes/Bai/bai1.rpy:202
 translate french bai1d_ef22220c:
@@ -496,19 +496,19 @@ translate french bai1d_ef22220c:
 translate french bai1d_c8677477:
 
     # gl "What's up boys, how are y'all doing?"
-    gl "Salut les gars, comment ça va ?"
+    gl "Salut les mecs, comment ça va ?"
 
 # game/Scenes/Bai/bai1.rpy:206
 translate french bai1d_e119d1fc:
 
     # pc "Hey Izzy, we're great. This is Bai."
-    pc "Salut Izzy, on va super bien. Voici Bai."
+    pc "Salut Izzy, on va très bien. Voici Bai."
 
 # game/Scenes/Bai/bai1.rpy:207
 translate french bai1d_a1278079:
 
     # gl "Hey Bai, I'm Izzy."
-    gl "Salut Bai, je suis Izzy."
+    gl "Salut Bai, ch'uis Izzy."
 
 # game/Scenes/Bai/bai1.rpy:209
 translate french bai1d_70903e6a_1:
@@ -520,7 +520,7 @@ translate french bai1d_70903e6a_1:
 translate french bai1d_59935ba7:
 
     # gl "Got it. Alright, give me a few minutes and I'll be back with your stuff."
-    gl "D'accord. Bon, donnez-moi quelques minutes et je reviens avec vos commandes."
+    gl "Nickel. Bon, donnez-moi quelques minutes et je reviens avec vos commandes."
 
 # game/Scenes/Bai/bai1.rpy:213
 translate french bai1d_3ed21895:
@@ -538,19 +538,19 @@ translate french bai1d_ff2abd5a:
 translate french bai1d_da139e49_1:
 
     # bai "You two got a thing going on?"
-    bai "Y a-t-il quelque chose entre vous deux ?"
+    bai "Il y a quelque chose entre vous ?"
 
 # game/Scenes/Bai/bai1.rpy:220
 translate french bai1d_1272aef0_1:
 
     # bai "Yeah, man! Good job!"
-    bai "Ouais, mec ! Bien joué !"
+    bai "Hahaaa ! Bien joué !"
 
 # game/Scenes/Bai/bai1.rpy:221
 translate french bai1d_affb6002_1:
 
     # bai "Glad one of us is getting some."
-    bai "Je suis content que l'un de nous deux s'en sorte."
+    bai "Je suis content qu'un de nous deux s'en sorte."
 
 # game/Scenes/Bai/bai1.rpy:224
 translate french bai1d_7cc6172a_1:
@@ -568,19 +568,19 @@ translate french bai1d_a80c024d_1:
 translate french bai1d_cd394271_1:
 
     # bai "I mean yeah, she's pretty."
-    bai "Je veux dire, ouais, elle est jolie."
+    bai "Bah, ouais, elle est jolie."
 
 # game/Scenes/Bai/bai1.rpy:228
 translate french bai1d_18a0a28f_1:
 
     # bai "I don't know that she's necessarily my type though."
-    bai "Mais je ne sais pas si c'est vraiment mon type."
+    bai "Mais je sais pas si c'est vraiment mon genre."
 
 # game/Scenes/Bai/bai1.rpy:229
 translate french bai1d_39f795d2:
 
     # "A little bit later, Izzy brings our plates out and we dig in."
-    "Un peu plus tard, Izzy nous apporte nos assiettes et on se jette dessus."
+    "Un peu plus tard, Izzy nous apporte nos assiettes et on se met à manger."
 
 # game/Scenes/Bai/bai1.rpy:231
 translate french bai1d_6b766726:
@@ -592,7 +592,7 @@ translate french bai1d_6b766726:
 translate french bai1d_bace05fb:
 
     # bai "Man you weren't kidding. This is like the best burger I've ever tasted."
-    bai "Mec, tu ne plaisantais pas. C'est le meilleur hamburger que j'aie jamais mangé."
+    bai "Mec, tu plaisantais pas. C'est le meilleur hamburger que j'aie jamais mangé."
 
 # game/Scenes/Bai/bai1.rpy:234
 translate french bai1d_a6a2e950:
@@ -610,19 +610,19 @@ translate french bai1d_03eaad50:
 translate french bai1d_8c24f368:
 
     # bai "So would you be up for one of these little dates again?"
-    bai "Alors, tu serais partant pour un autre petit rendez-vous comme ça ?"
+    bai "Alors, tu serais partant pour un autre petit rendez-vous ?"
 
 # game/Scenes/Bai/bai1.rpy:242
 translate french bai1d_802bd748:
 
     # bai "I'm glad to hear it. Can't wait for our next one."
-    bai "Je suis contente de l'entendre. J'ai hâte de notre prochain rendez-vous."
+    bai "Je suis content d'entendre ça. J'ai hâte du prochain."
 
 # game/Scenes/Bai/bai1.rpy:245
 translate french bai1d_3c769f7a:
 
     # bai "I mean we don't have to call it that, I was just joking."
-    bai "Je veux dire, on n'est pas obligés de l'appeler comme ça, je plaisantais juste."
+    bai "Bon, on est pas obligés d'appeler ça comme ça, je plaisantais."
 
 # game/Scenes/Bai/bai1.rpy:249
 translate french bai1d_96804e49:
@@ -664,19 +664,19 @@ translate french bai1d_03eaad50_1:
 translate french bai1d_30423311:
 
     # bai "Hey before we leave, let me give you my phone number."
-    bai "Hé, avant de partir, laisse-moi te donner mon numéro de téléphone."
+    bai "Hé, avant de partir, je te donne mon numéro de téléphone."
 
 # game/Scenes/Bai/bai1.rpy:261
 translate french bai1d_0b8345e6:
 
     # bai "I don't have a lot of friends around here, so I'd love to just chat with you whenever you feel up to it."
-    bai "Je n'ai pas beaucoup d'amis par ici, alors j'adorerais discuter avec toi quand tu en auras envie."
+    bai "J'ai pas beaucoup d'amis par ici, alors j'adorerais discuter avec toi quand t'en auras envie."
 
 # game/Scenes/Bai/bai1.rpy:262
 translate french bai1d_465c988e:
 
     # bai "And maybe we can go out again sometime soon."
-    bai "Et peut-être qu'on pourra ressortir ensemble bientôt."
+    bai "Et peut-être qu'on pourra remettre ça bientôt."
 
 # game/Scenes/Bai/bai1.rpy:263
 translate french bai1d_50eb93b7:
@@ -694,7 +694,7 @@ translate french bai1d_0e8a2008:
 translate french bai1d_630eae85:
 
     # bai "Well that was the most fun I've had in a while."
-    bai "Eh bien, je ne m'étais pas autant amusé depuis longtemps."
+    bai "Eh bien, je m'étais pas autant amusé depuis longtemps."
 
 # game/Scenes/Bai/bai1.rpy:272
 translate french bai1d_a96bfd7d:
@@ -706,7 +706,7 @@ translate french bai1d_a96bfd7d:
 translate french bai1d_fe5246ec:
 
     # pc "No problem. I had fun too."
-    pc "Pas de souci. Je me suis bien amusé moi aussi."
+    pc "Pas de souci. Je me suis bien amusé aussi."
 
 # game/Scenes/Bai/bai1.rpy:274
 translate french bai1d_b6980062:
@@ -748,11 +748,11 @@ translate french strings:
 
     # game/Scenes/Bai/bai1.rpy:28
     old "Just as friends?"
-    new "Juste entre amis ?"
+    new "En tant qu'amis ?"
 
     # game/Scenes/Bai/bai1.rpy:34
     old "Sure, I'll go"
-    new "Bien sûr, j'y vais"
+    new "Ouais, je suis partant"
 
     # game/Scenes/Bai/bai1.rpy:46
     old "Maybe some other time"
@@ -760,7 +760,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai1.rpy:52
     old "Dude, I am not at all interested in being your friend"
-    new "Mec, je ne suis pas du tout intéressé par une amitié avec toi"
+    new "Je suis pas du tout intéressé par une amitié avec toi"
 
     # game/Scenes/Bai/bai1.rpy:106
     old "Yeah that sounds great"
@@ -768,7 +768,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai1.rpy:109
     old "Not a date though?"
-    new "Mais ce n'est pas un rendez-vous ?"
+    new "Mais pas un rencard ?"
 
     # game/Scenes/Bai/bai1.rpy:118
     old "Nah, I'm good"
@@ -780,7 +780,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai1.rpy:165
     old "No, we're just friends hanging out"
-    new "Non, on est juste des amis qui traînent ensemble"
+    new "Non, on est juste des potes qui traînent ensemble"
 
     # game/Scenes/Bai/bai1.rpy:195
     old "Nah not really"
@@ -800,5 +800,5 @@ translate french strings:
 
     # game/Scenes/Bai/bai1.rpy:251
     old "We're just friends hanging out"
-    new "On est juste des amis qui traînent ensemble"
+    new "On est juste des potes qui traînent ensemble"
 

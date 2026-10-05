@@ -4,25 +4,25 @@
 translate french adrianp4_8bbe7261:
 
     # gg "She seems really cool."
-    gg "Elle a l'air vraiment cool."
+    gg "Elle a l'air super cool."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:13
 translate french adrianp4_cc266ccb:
 
     # gg "And you know I'm all about the same politics she is. She really fought for trans rights, which makes me like her even more."
-    gg "Et tu sais que je partage ses opinions politiques. Elle s'est vraiment battue pour les droits des trans, ce qui me la rend encore plus sympathique."
+    gg "Et tu sais que je partage ses opinions politiques. Elle s'est vraiment battue pour les droits des trans, alors je l'aime encore plus !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:14
 translate french adrianp4_ea7950ed:
 
     # pc "Plus, I think you mentioned to me that she's super hot."
-    pc "En plus, je crois que tu m'as dit qu'elle était super canon."
+    pc "D'ailleurs, il me semble que t'as dit qu'elle était super canon."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:16
 translate french adrianp4_0cd61e6f:
 
     # gg "Yeah, there's that too."
-    gg "Ouais, ça aussi."
+    gg "Ouais, y a ça aussi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:17
 translate french adrianp4_b3ae9196:
@@ -34,19 +34,19 @@ translate french adrianp4_b3ae9196:
 translate french adrianp4_05aeeb73:
 
     # gg "Sure. But she's a teacher and I'm way more into you."
-    gg "Bien sûr. Mais c'est une prof et tu me plais bien plus que ça."
+    gg "Ouais. Mais c'est une prof et tu me plais bien plus que ça."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:19
 translate french adrianp4_9bd95684:
 
     # pc "But if you had the opportunity to hook up with her and I was good with it... would you?"
-    pc "Mais si tu avais l'occasion de coucher avec elle et que ça ne me dérangeait pas... tu le ferais ?"
+    pc "Mais si tu avais l'occasion de coucher avec elle et que ça me dérangeait pas... tu le ferais ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:21
 translate french adrianp4_e572baf0:
 
     # gg "What is all of this about?"
-    gg "C'est quoi tout ce cirque ?"
+    gg "C'est quoi toutes ces questions ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:23
 translate french adrianp4_4261d578:
@@ -64,7 +64,7 @@ translate french adrianp4_944b5ed3:
 translate french adrianp4_600c9dbe:
 
     # gg "And you want a threesome, you dirty slut!"
-    gg "Et tu veux un plan à trois, sale cochonne !"
+    gg "Et tu veux un plan à trois, petite cochonne !"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:26
 translate french adrianp4_944b5ed3_1:
@@ -76,19 +76,19 @@ translate french adrianp4_944b5ed3_1:
 translate french adrianp4_7bbf9d22:
 
     # gg "Damn, that got me hard immediately, just considering it."
-    gg "Merde, rien que d'y penser, ça m'a tout de suite excité."
+    gg "Merde, rien que d'y penser, j'ai bandé."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:29
 translate french adrianp4_9c6cf063:
 
     # pc "So you're into it?"
-    pc "Alors ça te dit ?"
+    pc "Alors ça t'intéresse ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:31
 translate french adrianp4_cc2e3da5:
 
     # gg "It sounds really hot. Fuck yes, I'm into it."
-    gg "Ça a l'air vraiment excitant. Putain oui, ça me dit."
+    gg "Ça a l'air vraiment chaud. Putain oui, ça m'intéresse."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp4.rpy:32
 translate french adrianp4_d78ee529:

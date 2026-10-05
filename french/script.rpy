@@ -10,19 +10,19 @@ translate french over18check_8da66ccc:
 translate french over18check_ff99c671:
 
     # rj "This game has a lot of really hot sex in it, so you have to be over 18 to play."
-    rj "Ce jeu contient beaucoup de scènes de sexe très torrides, tu dois donc avoir plus de 18 ans pour y jouer."
+    rj "Ce jeu contient plein de scènes de sexe très torrides, alors il faut avoir plus de 18 ans pour y jouer."
 
 # game/script.rpy:155
 translate french over18check_b40f9ed1:
 
     # rj "So are you over 18 years old? Don't lie to me."
-    rj "Alors, as-tu plus de 18 ans ? Ne me mens pas."
+    rj "Alors, t'as plus de 18 ans ? Me mens pas."
 
 # game/script.rpy:159
 translate french over18check_83f5daf3:
 
     # rj "Woo! That's great!"
-    rj "Wouah ! C'est génial !"
+    rj "Wouah ! Génial !"
 
 # game/script.rpy:161
 translate french over18check_613faf73:
@@ -34,7 +34,7 @@ translate french over18check_613faf73:
 translate french over18check_3b065084:
 
     # rj "Then you can't play, sorry."
-    rj "Dans ce cas, tu ne peux pas jouer, désolé."
+    rj "Dans ce cas, tu peux pas jouer, désolé."
 
 # game/script.rpy:166
 translate french over18check_828f04ed:

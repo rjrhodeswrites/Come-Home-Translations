@@ -4,7 +4,7 @@
 translate french baipenis_31517e29:
 
     # bai "Um... I feel a little embarrassed. My dick's not as big as yours. I've never been happy with the size."
-    bai "Euh... je me sens un peu gêné. Ma bite n'est pas aussi grosse que la tienne. Je n'ai jamais été satisfait de sa taille."
+    bai "Euh... je suis un peu gêné. Ma bite est pas aussi grosse que la tienne. J'ai jamais été satisfait de sa taille."
 
 # game/Scenes/Bai/BaiSex/baipenis.rpy:6
 translate french baipenis_8ea06322:
@@ -22,7 +22,7 @@ translate french baipenis_c8e9b5b0:
 translate french baipenis_779c9a68:
 
     # pc "Dude, you're crazy. You have a nice looking dick."
-    pc "Mec, t'es fou. T'as une belle bite."
+    pc "Bai, t'es cinglé. T'as une belle bite."
 
 # game/Scenes/Bai/BaiSex/baipenis.rpy:9
 translate french baipenis_66969a83:
@@ -40,13 +40,13 @@ translate french baipenis_bd83c620:
 translate french baipenis_5270f26e:
 
     # pc "Yeah, man. You have a fat, nice-looking cock. I have no idea why you would think that is small."
-    pc "Ouais, mec. T'as une bite bien grosse et bien belle. Je comprends pas pourquoi tu penses qu'elle est petite."
+    pc "Ouais. T'as une bite bien grosse et bien belle. Je comprends pas pourquoi tu penses qu'elle est petite."
 
 # game/Scenes/Bai/BaiSex/baipenis.rpy:12
 translate french baipenis_bc523bc0:
 
     # pc "Not that it would even matter if your dick {i}was{/i} small. Doesn't make any difference at all."
-    pc "Et puis, ça changerait rien si ta bite {i}était{/i} petite. Ça fait aucune différence."
+    pc "Et puis, ça changerait rien si ta bite était petite. Ça fait aucune différence."
 
 # game/Scenes/Bai/BaiSex/baipenis.rpy:13
 translate french baipenis_fa799796:

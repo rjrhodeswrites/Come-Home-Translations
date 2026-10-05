@@ -4,7 +4,7 @@
 translate french bais1_9c7f2465:
 
     # bai "I moved here from Dallas."
-    bai "J'ai déménagé ici depuis Dallas."
+    bai "J'ai emménagé ici depuis Dallas."
 
 # game/Scenes/Bai/BaiConversations/bais1.rpy:14
 translate french bais1_ff8c2611:
@@ -22,7 +22,7 @@ translate french bais1_91293519:
 translate french bais1_857b3766:
 
     # pc "Why move then? Skyhill isn't exactly the most prestigious college or anything."
-    pc "Pourquoi déménager alors ? Skyhill n'est pas vraiment la fac la plus prestigieuse qui soit."
+    pc "Pourquoi déménager alors ? On peut pas dire que Skyhill soit la fac la plus prestigieuse qui soit."
 
 # game/Scenes/Bai/BaiConversations/bais1.rpy:18
 translate french bais1_a54e3187:
@@ -70,19 +70,19 @@ translate french bais1_5a42b0ca:
 translate french bais1_08af1ce0:
 
     # bai "A little lonely, but that'll get better."
-    bai "Je me sens un peu seule, mais ça va s'arranger."
+    bai "Je me sens un peu seul, mais ça va s'arranger."
 
 # game/Scenes/Bai/BaiConversations/bais1.rpy:29
 translate french bais1_63f71381:
 
     # bai "I have one friend now at least."
-    bai "Au moins, j'ai un ami maintenant."
+    bai "Au moins, j'ai un ami, maintenant."
 
 # game/Scenes/Bai/BaiConversations/bais1.rpy:30
 translate french bais1_ab78ffa7:
 
     # pc "Yeah, man. I'm here for you."
-    pc "Ouais, mec. Je suis là pour toi."
+    pc "Tu l'as dit ! Je suis là pour toi."
 
 # game/Scenes/Bai/BaiConversations/bais1.rpy:31
 translate french bais1_badd9121:

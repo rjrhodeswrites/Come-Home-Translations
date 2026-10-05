@@ -82,7 +82,7 @@ translate french adrianbjbuttplay_21178230:
 translate french adrianbjbuttplay_e13558df:
 
     # pc "I think I know something that'll feel better."
-    pc "Je crois que je sais quelque chose qui te fera encore plus de bien."
+    pc "Je crois que je connais quelque chose qui te fera encore plus de bien."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjbuttplay.rpy:52
 translate french adrianbjbuttplay_f7c6632e:
@@ -124,7 +124,7 @@ translate french adrianbjbuttplay_41a492a5:
 translate french adrianbjbuttplay_e1bcb434:
 
     # pc "Not at all. I like doing it. I like making you feel good."
-    pc "Pas du tout. J'aime bien faire ça. J'aime te faire du bien."
+    pc "Pas du tout. J'aime bien le faire. J'aime te faire du bien."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjbuttplay.rpy:65
 translate french adrianbjbuttplay_84cf85f3:
@@ -172,7 +172,7 @@ translate french adrianbjbuttplay_f1c1f9c9:
 translate french adrianbjbuttplay_b0f319ea:
 
     # "I move my head up and down, taking her girlcock into my mouth and sucking while I finger her ass."
-    "Je bouge ma tête de haut en bas, prenant sa bite de fille dans ma bouche et la suçant tout en lui doigtant le cul."
+    "Je bouge ma tête de haut en bas, prenant sa bite dans ma bouche et la suçant tout en lui doigtant le cul."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjbuttplay.rpy:81
 translate french adrianbjbuttplay_5e1026a7:
@@ -286,13 +286,13 @@ translate french adrianbjbuttplaycuminmouth_90f312e1:
 translate french adrianbjbuttplaycuminmouth_43df0912:
 
     # pc "You're welcome. I like doing it."
-    pc "De rien. J’aime faire ça."
+    pc "De rien. J’aime le faire."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjbuttplay.rpy:142
 translate french adrianbjbuttplaycuminmouth_ee510445:
 
     # pc "I love that I'm able to make you cum, now."
-    pc "J'adore pouvoir te faire jouir maintenant."
+    pc "J'adore arriver à te faire jouir maintenant."
 
 # game/Scenes/Adrian/AdrianSex/adrianbjbuttplay.rpy:143
 translate french adrianbjbuttplaycuminmouth_872c5a95:

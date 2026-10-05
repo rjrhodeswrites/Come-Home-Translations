@@ -124,7 +124,7 @@ translate french brandi10_55d9b757:
 translate french brandi10_56ad40c2:
 
     # fd "Hopefully I'll be a little less busy soon and can devote more time into this relationship. I really like you, [pcname]."
-    fd "J'espère que je serai bientôt un peu moins occupé et que je pourrai consacrer plus de temps à notre relation. Je t'aime vraiment beaucoup, [pcname]."
+    fd "J'espère que je serai bientôt un peu moins occupée et que je pourrai consacrer plus de temps à notre relation. Je t'aime vraiment beaucoup, [pcname]."
 
 # game/Scenes/Brandi/brandi10.rpy:55
 translate french brandi10_fe3ccff0:
@@ -136,7 +136,7 @@ translate french brandi10_fe3ccff0:
 translate french brandi10_7ade3dd9:
 
     # fd "I thought it'd be fun to make dinner together. Just something simple. I have everything all ready to go."
-    fd "Je me suis dit que ce serait sympa de préparer le dîner ensemble. Juste quelque chose de simple. J'ai déjà tout préparé."
+    fd "Je me suis dit que ce serait sympa de préparer le dîner ensemble. Un truc simple. J'ai déjà tout mis en place."
 
 # game/Scenes/Brandi/brandi10.rpy:59
 translate french brandi10_4f8139d5:
@@ -148,7 +148,7 @@ translate french brandi10_4f8139d5:
 translate french brandi10_819e9c39:
 
     # fd "I do these kinds of cooking shows every once in a while for my audience, just to show I'm not some chick who just eats stuff, I can make things too!"
-    fd "Je fais ce genre d’émissions de cuisine de temps en temps pour mon public, juste pour montrer que je ne suis pas une fille qui se contente de manger, je sais aussi cuisiner !"
+    fd "Je fais ce genre d’émissions de cuisine de temps en temps pour mon public, pour montrer que je fais pas que manger, je sais aussi cuisiner !"
 
 # game/Scenes/Brandi/brandi10.rpy:61
 translate french brandi10_e05718ec:
@@ -250,13 +250,13 @@ translate french brandi10_3f1f134e:
 translate french brandi10_3036fe0a:
 
     # "She reaches over and presses a couple of buttons on the laptop, then her demeanor changes as she puts on her performer voice and greets her internet audience."
-    "Elle se penche et appuie sur quelques boutons de l'ordinateur portable, puis son attitude change lorsqu'elle prend sa voix d'artiste et salue son public sur Internet."
+    "Elle se penche et appuie sur quelques boutons de l'ordinateur portable, puis son attitude change quand elle prend sa voix d'artiste et salue son public sur Internet."
 
 # game/Scenes/Brandi/brandi10.rpy:94
 translate french brandi10_a2e10435:
 
     # fd "Hey, everybody! Welcome to a special stream today! I have [pcname] with me again, at my home this time."
-    fd "Salut tout le monde ! Bienvenue à ce stream spécial aujourd’hui ! J’ai de nouveau [pcname] avec moi, chez moi cette fois-ci."
+    fd "Salut tout le monde ! Bienvenue dans un stream spécial aujourd’hui ! J’ai de nouveau [pcname] avec moi, chez moi cette fois-ci."
 
 # game/Scenes/Brandi/brandi10.rpy:95
 translate french brandi10_741691ee:
@@ -310,25 +310,25 @@ translate french brandi10_280a4ccd:
 translate french brandi10_20da8ec3:
 
     # fd "So usually, first thing I do is wrap the chicken in plastic wrap and then smash it out into an even thickness."
-    fd "En général, la première chose que je fais, c'est d'envelopper le poulet dans du film alimentaire, puis de l'aplatir pour obtenir une épaisseur uniforme."
+    fd "En général, la première chose que je fais, c'est d'envelopper le poulet dans du film alimentaire, puis de bien étaler avec les mains pour obtenir une épaisseur uniforme."
 
 # game/Scenes/Brandi/brandi10.rpy:109
 translate french brandi10_a14c3ef7:
 
     # fd "But I pounded the meat before you got here today."
-    fd "Mais j'ai déjà aplati la viande avant que tu n'arrives aujourd'hui."
+    fd "Mais je m'en suis déjà chargée avant que tu arrives."
 
 # game/Scenes/Brandi/brandi10.rpy:110
 translate french brandi10_7cdec2bb:
 
     # pc "Oh yeah? Man, I wish I'd been here for that."
-    pc "Ah oui ? J'aurais bien aimé être là pour voir ça."
+    pc "Ah oui ? Dommage, j'aurais aimé être là pour voir ça."
 
 # game/Scenes/Brandi/brandi10.rpy:111
 translate french brandi10_8e4ba83d:
 
     # fd "Really? Dang, well next time, I'll wait and let you pound the meat for me."
-    fd "Vraiment ? Zut, eh bien la prochaine fois, j'attendrai et je te laisserai aplatir la viande pour moi."
+    fd "Vraiment ? Alors la prochaine fois, j'attendrai et je te laisserai m'étaler la viande."
 
 # game/Scenes/Brandi/brandi10.rpy:112
 translate french brandi10_54cbc8c2:
@@ -382,7 +382,7 @@ translate french brandi10_7e389ec4:
 translate french brandi10_8a87440b:
 
     # fd "Okay, don't cut your fingers off or anything. This is a PG show."
-    fd "Bon, ne te coupe pas les doigts ou quoi que ce soit. C'est une émission tout public."
+    fd "Ne te coupe pas les doigts ou quoi que ce soit, hein. C'est une émission tout public."
 
 # game/Scenes/Brandi/brandi10.rpy:125
 translate french brandi10_c769c598:
@@ -406,7 +406,7 @@ translate french brandi10_7093bbbc:
 translate french brandi10_961a61db:
 
     # fd "Keep the audience entertained for me, will you?"
-    fd "Tu vas divertir le public pour moi, d'accord ?"
+    fd "Divertis un peu le public pour moi, d'accord ?"
 
 # game/Scenes/Brandi/brandi10.rpy:131
 translate french brandi10_db2f8969:
@@ -484,7 +484,7 @@ translate french brandi10_81072e1b:
 translate french brandi10_340af957:
 
     # "But it's hard when her tongue feels so damn good."
-    "Mais c'est difficile quand sa langue me fait tellement de bien."
+    "Mais c'est difficile, sa langue est tellement agréable."
 
 # game/Scenes/Brandi/brandi10.rpy:160
 translate french brandi10_8e3cfdbb:
@@ -514,7 +514,7 @@ translate french brandi10_7c7c33df:
 translate french brandi10_b7961d4d:
 
     # "Somehow though, I finish peeling the potatoes instead."
-    "Mais bizarrement, je finis quand même d'éplucher les patates."
+    "Mais tant bien que mal, je finis quand même d'éplucher les patates."
 
 # game/Scenes/Brandi/brandi10.rpy:165
 translate french brandi10_66c3a19f:
@@ -532,13 +532,13 @@ translate french brandi10_01054fad:
 translate french brandi10_f73e7df0:
 
     # fd "Ah, here it is!"
-    fd "Ah, voilà !"
+    fd "Ah, la voilà !"
 
 # game/Scenes/Brandi/brandi10.rpy:170
 translate french brandi10_bfe6e677:
 
     # fd "Okay, let's get things cooking."
-    fd "Bon, on se met aux fourneaux."
+    fd "Et maintenant, aux fourneaux."
 
 # game/Scenes/Brandi/brandi10.rpy:171
 translate french brandi10_6eea8bf8:
@@ -550,7 +550,7 @@ translate french brandi10_6eea8bf8:
 translate french brandi10_d5fabf70:
 
     # fd "Could you grab the laptop and move it over here, please? So they can see me cooking."
-    fd "Tu peux prendre l’ordi portable et le mettre par là, s’il te plaît ? Pour qu’ils puissent me voir cuisiner."
+    fd "Tu peux prendre l’ordi portable et le mettre par là, s’il te plaît ? Qu’ils puissent me voir cuisiner."
 
 # game/Scenes/Brandi/brandi10.rpy:175
 translate french brandi10_fa5acc16:
@@ -610,7 +610,7 @@ translate french brandi10_377734de:
 translate french brandi10_3a0a1ede:
 
     # "She acts like my cock is the most delicious thing that she's ever put in her mouth and she is eager to devour it."
-    "Elle se comporte comme si ma bite était la chose la plus délicieuse qu’elle ait jamais mise dans sa bouche et elle a hâte de la dévorer."
+    "C'est comme si ma bite était la chose la plus délicieuse qu’elle ait jamais mise dans sa bouche et qu'elle avait hâte de la dévorer."
 
 # game/Scenes/Brandi/brandi10.rpy:194
 translate french brandi10_c9c408ae:
@@ -718,7 +718,7 @@ translate french brandi10_18c6dd4b:
 translate french brandi10_6d8abd34:
 
     # "And I'm close to giving it to her. I feel it building up, my cock swollen and ready to blow."
-    "Et je suis sur le point de lui donner. Je le sens monter, ma bite gonflée et prête à exploser."
+    "Et je suis sur le point de le lui donner. Je le sens monter, ma bite gonflée et prête à exploser."
 
 # game/Scenes/Brandi/brandi10.rpy:234
 translate french brandi10_b748bc6b:
@@ -772,25 +772,25 @@ translate french brandi10_b667d3f9:
 translate french brandi10_76d7b1b8:
 
     # fd "Wow, it's so good, you guys."
-    fd "Waouh, c'est trop bon, les gars."
+    fd "Hmmm, c'est trop bon, les gars."
 
 # game/Scenes/Brandi/brandi10.rpy:256
 translate french brandi10_54e27dc7:
 
     # "I chuckle as I zip my pants back up, barely able to believe how much she teases her audience."
-    "Je glousse en remontant ma braguette, ayant du mal à croire à quel point elle taquine son public."
+    "J'ai un petit rire, et je remonte ma braguette. J'ai du mal à croire à quel point elle aguiche son public."
 
 # game/Scenes/Brandi/brandi10.rpy:259
 translate french brandi10_a7eab8ee:
 
     # fd "Well, it looks like the food is pretty much done. Just some finishing touches and we'll plate it up and eat."
-    fd "Bon, on dirait que le repas est presque prêt. Juste quelques touches finales et on va dresser les assiettes et manger."
+    fd "Bon, on dirait que le repas est presque prêt. Encore quelques touches finales et on va dresser la table et manger."
 
 # game/Scenes/Brandi/brandi10.rpy:260
 translate french brandi10_abd8c91a:
 
     # fd "[pcname] and I are going to have a little private dinner over in my dining room this time, so this is goodbye to all of you."
-    fd "[pcname] et moi, on va prendre un petit dîner en tête-à-tête dans ma salle à manger cette fois-ci, donc c'est un au revoir à vous tous."
+    fd "[pcname] et moi, on va prendre un petit dîner en tête-à-tête dans ma salle à manger cette fois-ci, donc au revoir à vous tous."
 
 # game/Scenes/Brandi/brandi10.rpy:261
 translate french brandi10_0baaa582:
@@ -802,7 +802,7 @@ translate french brandi10_0baaa582:
 translate french brandi10_d9dbcd95:
 
     # pc "I know I did!"
-    pc "Moi, c'est sûr que oui !"
+    pc "Moi oui !"
 
 # game/Scenes/Brandi/brandi10.rpy:263
 translate french brandi10_773e28b0:
@@ -832,7 +832,7 @@ translate french brandi10_7f7a340b:
 translate french brandi10_0ed7d93d:
 
     # fd "I'm glad you think so. I take a little pride in my blowjob skills."
-    fd "Je suis contente que tu le penses. Je suis plutôt fière de mes talents en matière de fellation."
+    fd "Ça me fait plaisir que tu le penses. Je suis plutôt fière de mes talents en matière de fellation."
 
 # game/Scenes/Brandi/brandi10.rpy:271
 translate french brandi10_e65a8235:
@@ -874,13 +874,13 @@ translate french brandi10_d41d8cd9_2:
 translate french brandi10_a39e109a:
 
     # fd "Awesome. Call me sometime and we'll go out, okay. Any evening will be fine. I'll make time for you."
-    fd "Génial. Appelle-moi un de ces jours et on sortira, d'accord. N'importe quel soir me convient. Je prendrai le temps pour toi."
+    fd "Génial. Appelle-moi un de ces jours et on sortira, d'accord ? N'importe quel soir me convient. Je prendrai le temps pour toi."
 
 # game/Scenes/Brandi/brandi10.rpy:281
 translate french brandi10_ef67626a:
 
     # fd "No restaurants though, okay? No food. That's work. I want to do other things with you."
-    fd "Mais pas de restaurant, d'accord ? Pas de repas. C'est du travail. Je veux faire d'autres choses avec toi."
+    fd "Mais pas de restaurant, d'accord ? Pas de repas. Ce serait du boulot. Je veux faire d'autres choses avec toi."
 
 # game/Scenes/Brandi/brandi10.rpy:282
 translate french brandi10_4f1735dd:
@@ -904,7 +904,7 @@ translate french brandi10_1b1f4e0e:
 translate french brandi10_9afbe91f:
 
     # fd "Ha! I bet you could. Trust me, I'm looking forward to it. Not tonight though."
-    fd "Ha ! Je parie que tu le pourrais. Crois-moi, j'ai hâte. Mais pas ce soir."
+    fd "Ha ! J'en doute pas. Crois-moi, j'ai hâte. Mais pas ce soir."
 
 # game/Scenes/Brandi/brandi10.rpy:288
 translate french brandi10_602ef602:
@@ -934,7 +934,7 @@ translate french brandi10_ae323429:
 translate french brandi10_9a76a304:
 
     # fd "Ha! Coming."
-    fd "Ha ! J'arrive."
+    fd "Tu fais une super sauce."
 
 # game/Scenes/Brandi/brandi10.rpy:295
 translate french brandi10_254161e9:
@@ -946,13 +946,13 @@ translate french brandi10_254161e9:
 translate french brandi10_1afaf8d8:
 
     # "We kiss again. I'm hoping that she'll change her mind and ask me to stay longer."
-    "On s'embrasse à nouveau. J'espère qu'elle changera d'avis et me demandera de rester plus longtemps."
+    "On s'embrasse à nouveau. J'ai envie qu'elle change d'avis et me demande de rester plus longtemps."
 
 # game/Scenes/Brandi/brandi10.rpy:299
 translate french brandi10_63c938af:
 
     # "That we'll move this kiss over to her bed and I'll tear her clothes off and bury myself in her."
-    "Qu'on poursuivra ce baiser sur son lit, que j'arracherai ses vêtements et que je m'enfoncerai en elle."
+    "De poursuivre ce baiser sur son lit, d'arracher ses vêtements et de m'enfoncer en elle."
 
 # game/Scenes/Brandi/brandi10.rpy:302
 translate french brandi10_1cc2ac27:

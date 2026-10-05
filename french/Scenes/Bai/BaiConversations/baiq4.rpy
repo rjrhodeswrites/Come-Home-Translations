@@ -4,7 +4,7 @@
 translate french baiq4_d7454f81:
 
     # bai "Would your family be okay with you dating a guy?"
-    bai "Est-ce que ta famille accepterait que tu sors avec un mec ?"
+    bai "Ta famille serait OK que tu sortes avec un mec ?"
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:17
 translate french baiq4_11c1e186:
@@ -16,7 +16,7 @@ translate french baiq4_11c1e186:
 translate french baiq4_496d02d6:
 
     # pc "I know they'd be okay with it."
-    pc "Je sais qu’ils l’accepteraient."
+    pc "Je sais qu’ils seraient OK."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:20
 translate french baiq4_14c40bf5:
@@ -28,19 +28,19 @@ translate french baiq4_14c40bf5:
 translate french baiq4_641aa178:
 
     # pc "I think they'd be okay with it, but I'm really not sure."
-    pc "Je pense qu’ils l’accepteraient, mais je n’en suis vraiment pas sûr."
+    pc "Je pense qu’ils seraient OK, mais j’en suis vraiment pas sûr."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:25
 translate french baiq4_0937f04c:
 
     # bai "I'm kind of in the same situation, but I don't think my family would accept it."
-    bai "Je suis un peu dans la même situation, mais je ne pense pas que ma famille l’accepterait."
+    bai "JC'est un peu pareil pour moi, mais je crois pas que ma famille accepterait."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:28
 translate french baiq4_1d7e03dd:
 
     # pc "I'm going to be who I am. I can't control if they accept me or not."
-    pc "Je vais être qui je suis. Je ne peux pas contrôler s’ils m’acceptent ou non."
+    pc "Je vais juste être qui je suis. Je peux pas contrôler s’ils m’acceptent ou pas."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:30
 translate french baiq4_bc6f44b0:
@@ -52,13 +52,13 @@ translate french baiq4_bc6f44b0:
 translate french baiq4_a1ea4d5b:
 
     # bai "I don't know what I'd do if my parents disowned me or something."
-    bai "Je ne sais pas ce que je ferais si mes parents me reniaient ou quelque chose comme ça."
+    bai "Je sais pas ce que je ferais si mes parents me reniaient ou quelque chose comme ça."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:33
 translate french baiq4_73a87b41:
 
     # bai "I love my family and I don't want to lose them."
-    bai "J'aime ma famille et je ne veux pas les perdre."
+    bai "J'aime ma famille et je veux pas les perdre."
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:34
 translate french baiq4_86bff002:
@@ -76,7 +76,7 @@ translate french baiq4_6d1300e5:
 translate french baiq4_fd5f0242:
 
     # bai "We never talk about sex, except when I was younger and they'd say \"Keep it in your pants and focus on your studies.\""
-    bai "On ne parle jamais de sexe, sauf quand j'étais plus jeune et qu'ils me disaient : « Garde-la dans ton pantalon et concentre-toi sur tes études. »"
+    bai "On parle jamais de sexe, sauf quand j'étais plus jeune et qu'ils me disaient : « Garde-la dans ton pantalon et concentre-toi sur tes études. »"
 
 # game/Scenes/Bai/BaiConversations/baiq4.rpy:38
 translate french baiq4_88b89347:
@@ -106,19 +106,19 @@ translate french baiq4_3bc5ec55:
 translate french baiq4_c5724971:
 
     # bai "I'm just not quite ready for that yet."
-    bai "Je ne suis juste pas encore tout à fait prêt pour ça."
+    bai "Je suis juste pas encore tout à fait prêt pour ça."
 
 translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baiq4.rpy:16
     old "Yeah, I'm sure they would"
-    new "Ouais, je suis sûr qu’ils le feraient."
+    new "Ouais, je suis sûr qu’ils seraient OK"
 
     # game/Scenes/Bai/BaiConversations/baiq4.rpy:22
     old "I'm not sure"
-    new "Je ne suis pas sûr."
+    new "Je ne suis pas sûr"
 
     # game/Scenes/Bai/BaiConversations/baiq4.rpy:27
     old "It doesn't matter"
-    new "Peu importe."
+    new "Peu importe"
 

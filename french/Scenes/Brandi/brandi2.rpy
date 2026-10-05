@@ -40,13 +40,13 @@ translate french brandi2_48df05b4:
 translate french brandi2_95de9f02:
 
     # pc "You mean like a date?"
-    pc "Tu veux dire, comme un rendez-vous ?"
+    pc "Tu veux dire, comme un rencard ?"
 
 # game/Scenes/Brandi/brandi2.rpy:24
 translate french brandi2_bc08406c:
 
     # fd "Well, yeah. Exactly like a date."
-    fd "Eh bien, oui. Exactement comme un rendez-vous."
+    fd "Eh bien, oui. Comme un rencard."
 
 # game/Scenes/Brandi/brandi2.rpy:25
 translate french brandi2_c14c8905:
@@ -64,7 +64,7 @@ translate french brandi2_60b83ec3:
 translate french brandi2_fcc3b2b6:
 
     # fd "You know Luigi's? The new Italian place? Could you meet me there?"
-    fd "Tu connais Luigi's ? Le nouveau resto italien ? Tu pourrais m'y retrouver ?"
+    fd "Tu connais Luigi ? Le nouveau resto italien ? On se retrouve là-bas ?"
 
 # game/Scenes/Brandi/brandi2.rpy:31
 translate french brandi2_06cea6b3:
@@ -94,7 +94,7 @@ translate french brandi2_72628cc8:
 translate french brandi2_23254083:
 
     # fd "Oh well, give me a call if you change your mind. I usually eat out most every night."
-    fd "Bon, appelle-moi si tu changes d'avis. Je mange dehors presque tous les soirs."
+    fd "Bon, appelle-moi si tu changes d'avis. Je mange au resto presque tous les soirs."
 
 # game/Scenes/Brandi/brandi2.rpy:39
 translate french brandi2_5d94ae2f:
@@ -124,7 +124,7 @@ translate french brandi2_fc0e4cb5:
 translate french brandi2_b0060369:
 
     # "She seems nice, but I'm not all that interested in dating her with the internet always watching."
-    "Elle a l'air sympa, mais je ne suis pas vraiment intéressé par un rendez-vous avec elle alors qu'Internet nous regarde tout le temps."
+    "Elle a l'air sympa, mais je ne suis pas vraiment tenté par un rencard avec elle avec Internet qui regarde tout du long."
 
 # game/Scenes/Brandi/brandi2.rpy:44
 translate french brandi2_61234404:
@@ -136,7 +136,7 @@ translate french brandi2_61234404:
 translate french brandi2_7a261ee1:
 
     # "I pull up into the Luigi's parking lot and my phone buzzes again."
-    "Je me gare sur le parking de Luigi's et mon téléphone vibre à nouveau."
+    "Je me gare sur le parking de Luigi et mon téléphone vibre à nouveau."
 
 # game/Scenes/Brandi/brandi2.rpy:61
 translate french brandi2_763b14c3:
@@ -166,7 +166,7 @@ translate french brandi2_d41d8cd9_2:
 translate french brandi2_e3c46240:
 
     # fd "Hey, [pcname]. I'm so glad you came."
-    fd "Salut, [pcname]. Je suis tellement contente que tu sois venu."
+    fd "Salut, [pcname]. Je suis super contente que tu sois venu."
 
 # game/Scenes/Brandi/brandi2.rpy:73
 translate french brandi2_7623cc69:
@@ -178,7 +178,7 @@ translate french brandi2_7623cc69:
 translate french brandi2_36036053:
 
     # fd "I know that this is a little weird having all those people watching us, but just pretend like they're not there okay?"
-    fd "Je sais que c'est un peu bizarre d'avoir tous ces gens qui nous regardent, mais fais comme s'ils n'étaient pas là, d'accord ?"
+    fd "Je sais que c'est un peu bizarre d'avoir tous ces gens qui nous regardent, mais fais comme s'ils étaient pas là, d'accord ?"
 
 # game/Scenes/Brandi/brandi2.rpy:75
 translate french brandi2_63023601_1:
@@ -196,7 +196,7 @@ translate french brandi2_50d36c3a:
 translate french brandi2_5342c32e:
 
     # fd "Hey everybody, BurgerBuddy is here. Or [pcname], which we should probably call him from now on."
-    fd "Salut tout le monde, BurgerBuddy est là. Ou [pcname], comme on devrait probablement l'appeler à partir de maintenant."
+    fd "Salut tout le monde, BurgerBuddy est là. Ou [pcname], et d'ailleurs on devrait l'appeler comme ça à partir de maintenant."
 
 # game/Scenes/Brandi/brandi2.rpy:79
 translate french brandi2_21079f98:
@@ -214,7 +214,7 @@ translate french brandi2_66c11aab:
 translate french brandi2_155c8f5e:
 
     # pc "Uh, I guess I'll have that too."
-    pc "Euh, je pense que je vais prendre la même chose."
+    pc "Hmm, je pense que je vais prendre la même chose."
 
 # game/Scenes/Brandi/brandi2.rpy:82
 translate french brandi2_98b146f0:
@@ -250,13 +250,13 @@ translate french brandi2_76f35fc6:
 translate french brandi2_e86c12d0:
 
     # fd "So what should I talk about? What are good conversation topics for the first date?"
-    fd "Alors, de quoi je devrais parler ? Quels sont les bons sujets de conversation pour un premier rendez-vous ?"
+    fd "Alors, de quoi je devrais parler ? Quels sont des bons sujets de conversation pour un premier rendez-vous ?"
 
 # game/Scenes/Brandi/brandi2.rpy:90
 translate french brandi2_65ba2cc2:
 
     # fd "What do you think, chat? What should we talk about?"
-    fd "Qu'est-ce que tu en penses, on discute ? De quoi on devrait parler ?"
+    fd "Vous en pensez quoi, le chat ? De quoi on devrait parler ?"
 
 # game/Scenes/Brandi/brandi2.rpy:93
 translate french brandi2_c16cea75:
@@ -274,13 +274,13 @@ translate french brandi2_14197c78:
 translate french brandi2_7c433d80:
 
     # fd "Ah, there's a good one."
-    fd "Ah, en voilà un bon."
+    fd "Ah, en voilà un bien."
 
 # game/Scenes/Brandi/brandi2.rpy:98
 translate french brandi2_78389a04:
 
     # fd "BurgerChic suggests I ask if you have any brothers or sisters?"
-    fd "BurgerChic suggère que je te demande si tu as des frères ou des sœurs ?"
+    fd "BurgerChic propose que je te demande si tu as des frères ou des sœurs ?"
 
 # game/Scenes/Brandi/brandi2.rpy:99
 translate french brandi2_37eda2d6:
@@ -316,13 +316,13 @@ translate french brandi2_0a955753:
 translate french brandi2_fce9f9b7:
 
     # pc "I do. I'm an assistant for an attorney."
-    pc "Oui. Je suis assistante d'un avocat."
+    pc "Oui. Je suis assistant d'une avocate."
 
 # game/Scenes/Brandi/brandi2.rpy:107
 translate french brandi2_8844ef8a:
 
     # fd "Oh, so you're going to be a lawyer?"
-    fd "Oh, alors tu vas devenir avocate ?"
+    fd "Oh, alors tu vas devenir avocat ?"
 
 # game/Scenes/Brandi/brandi2.rpy:108
 translate french brandi2_afbdac62:
@@ -352,7 +352,7 @@ translate french brandi2_037690dc:
 translate french brandi2_75eca7b6:
 
     # fd "Right! Somebody tell my mom that."
-    fd "Exactement ! Que quelqu'un dise ça à ma mère."
+    fd "Exactement ! Que quelqu'un aille le à ma mère."
 
 # game/Scenes/Brandi/brandi2.rpy:115
 translate french brandi2_3adc15d4:
@@ -394,13 +394,13 @@ translate french brandi2_f2d6f866:
 translate french brandi2_add75b21:
 
     # fd "Now it's my turn."
-    fd "Maintenant, c'est mon tour."
+    fd "Maintenant, à moi."
 
 # game/Scenes/Brandi/brandi2.rpy:124
 translate french brandi2_d1a17c3f:
 
     # fd "I like to start with the balls."
-    fd "J'aime bien commencer par les boulettes."
+    fd "J'aime bien commencer par les boules."
 
 # game/Scenes/Brandi/brandi2.rpy:125
 translate french brandi2_dcb21a7c:
@@ -478,13 +478,13 @@ translate french brandi2_01aec78f:
 translate french brandi2_173c3c75:
 
     # fd "Okay guys, that's it for today. Remember to click Like and Subscribe if you're not already following me."
-    fd "Bon, les amis, c'est tout pour aujourd'hui. N'oubliez pas de cliquer sur « J'aime » et de vous abonner si vous ne me suivez pas déjà."
+    fd "Bon, les amis, c'est tout pour aujourd'hui. N'oubliez pas de liker et de vous abonner si vous ne me suivez pas déjà."
 
 # game/Scenes/Brandi/brandi2.rpy:151
 translate french brandi2_97f9ef0f:
 
     # fd "This was fun. I hope we'll be able to do it again sometime soon."
-    fd "C'était sympa. J'espère qu'on pourra recommencer bientôt."
+    fd "C'était sympa. J'espère qu'on pourra bientôt remettre ça."
 
 # game/Scenes/Brandi/brandi2.rpy:152
 translate french brandi2_7bb0c1c0:
@@ -520,49 +520,49 @@ translate french brandi2_2545de2f:
 translate french brandi2_b23717c5:
 
     # fd "But this is part of who I am. I hope that you'll be okay with that."
-    fd "Mais ça fait partie de qui je suis. J'espère que ça ne te dérange pas."
+    fd "Mais ça fait partie de qui je suis. J'espère que tu arriveras à t'y faire."
 
 # game/Scenes/Brandi/brandi2.rpy:167
 translate french brandi2_ecd95542:
 
     # fd "If you're not, then we just won't be able to date, I'm sorry."
-    fd "Si c'est le cas, alors on ne pourra tout simplement pas sortir ensemble, je suis désolée."
+    fd "Sinon, on pourra tout simplement pas sortir ensemble, désolée."
 
 # game/Scenes/Brandi/brandi2.rpy:172
 translate french brandi2_c90abea0:
 
     # fd "Good, because I think that really went over well with the audience."
-    fd "Parfait, parce que je pense que ça a vraiment bien marché auprès du public."
+    fd "Parfait, parce que je pense que ça a vraiment bien marché avec le public."
 
 # game/Scenes/Brandi/brandi2.rpy:173
 translate french brandi2_6f7cc3ca:
 
     # fd "I got a bunch of new subscribers and the tips were coming in hard."
-    fd "J'ai gagné plein de nouveaux abonnés et les pourboires ont afflué."
+    fd "Y a eu pas mal de nouveaux abonnés et les tips étaient bons."
 
 # game/Scenes/Brandi/brandi2.rpy:174
 translate french brandi2_67293cc6:
 
     # fd "People are curious to see where this relationship goes."
-    fd "Les gens sont curieux de voir où cette relation va mener."
+    fd "Ils sont curieux de voir où cette relation va aller."
 
 # game/Scenes/Brandi/brandi2.rpy:175
 translate french brandi2_23d6be6d:
 
     # fd "So am I actually."
-    fd "Moi aussi, en fait."
+    fd "Et moi aussi, en fait."
 
 # game/Scenes/Brandi/brandi2.rpy:177
 translate french brandi2_625d8282:
 
     # fd "Okay then. Thanks for hanging out with me today."
-    fd "D'accord alors. Merci de m'avoir tenu compagnie aujourd'hui."
+    fd "Très bien. Merci de m'avoir tenu compagnie aujourd'hui."
 
 # game/Scenes/Brandi/brandi2.rpy:178
 translate french brandi2_d3615a77:
 
     # fd "I'll go get the check. You can leave now."
-    fd "Je vais régler l'addition. Tu peux partir maintenant."
+    fd "Je vais régler l'addition. Tu peux y aller."
 
 # game/Scenes/Brandi/brandi2.rpy:181
 translate french brandi2_6f831ce8:
@@ -592,13 +592,13 @@ translate french brandi2_fbe3fcb3:
 translate french brandi2_0da34d09:
 
     # fd "Okay, I'll go take care of the check real quick and we can head out."
-    fd "Bon, je vais régler l'addition rapidement et on pourra partir."
+    fd "Bon, je vais régler l'addition vite fait et on pourra partir."
 
 # game/Scenes/Brandi/brandi2.rpy:192
 translate french brandi2_76db71da:
 
     # fd "I appreciate you being chivalrous. I actually find that extremely attractive in a guy."
-    fd "J'apprécie que tu sois galant. En fait, je trouve ça extrêmement attirant chez un homme."
+    fd "J'apprécie que tu sois galant. En fait, je trouve ça super attirant chez un homme."
 
 # game/Scenes/Brandi/brandi2.rpy:193
 translate french brandi2_79a749bb:
@@ -610,7 +610,7 @@ translate french brandi2_79a749bb:
 translate french brandi2_91244ab3:
 
     # fd "So don't worry about it at all."
-    fd "Alors ne t'en fais pas du tout."
+    fd "Alors vraiment, t'inquiète."
 
 # game/Scenes/Brandi/brandi2.rpy:195
 translate french brandi2_e4ebd2ba:
@@ -634,13 +634,13 @@ translate french brandi2_06e3ffe9:
 translate french brandi2_bf746f0d:
 
     # fd "I'm really looking forward to our next date."
-    fd "J'ai vraiment hâte de notre prochain rendez-vous."
+    fd "J'ai vraiment hâte de notre prochain rencard."
 
 # game/Scenes/Brandi/brandi2.rpy:206
 translate french brandi2_fbd35383:
 
     # fd "Sorry if I'm a bit of a tease. I just want to take things slow."
-    fd "Désolée si je te fais un peu marcher. Je veux juste y aller doucement."
+    fd "Désolée si je fais allumeuse. Je veux juste y aller doucement."
 
 # game/Scenes/Brandi/brandi2.rpy:207
 translate french brandi2_8958b08a:
@@ -652,7 +652,7 @@ translate french brandi2_8958b08a:
 translate french brandi2_19e5a49d:
 
     # pc "That's fine Brandi. No rush. I'm enjoying just spending time with you."
-    pc "C'est bon, Brandi. Pas de précipitation. J'apprécie simplement de passer du temps avec toi."
+    pc "Ça me va, Brandi. Pas de précipitation. J'apprécie de simplement passer du temps avec toi."
 
 # game/Scenes/Brandi/brandi2.rpy:209
 translate french brandi2_38f226f4:
@@ -688,11 +688,11 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi2.rpy:1
     old "After you watch her live stream, Brandi will give you her phone number. Call it and leave a message."
-    new "Après avoir regardé son live, Brandi te donnera son numéro de téléphone. Appelle-la et laisse-lui un message."
+    new "Après que tu as regardé son live, Brandi te donnera son numéro de téléphone. Appelle-la et laisse-lui un message."
 
     # game/Scenes/Brandi/brandi2.rpy:2
     old "She will call you back in the evening soon."
-    new "Elle te rappellera dans la soirée."
+    new "Elle te rappellera un soir."
 
     # game/Scenes/Brandi/brandi2.rpy:27
     old "Sure, sounds great"
@@ -708,11 +708,11 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi2.rpy:160
     old "I did"
-    new "Je l'ai fait"
+    new "Oui, c'était fun"
 
     # game/Scenes/Brandi/brandi2.rpy:162
     old "I'd rather not have the audience"
-    new "Je préfère qu'il n'y ait pas de public"
+    new "Je préfèrerais qu'il n'y ait pas de public"
 
     # game/Scenes/Brandi/brandi2.rpy:169
     old "I'm okay with it"

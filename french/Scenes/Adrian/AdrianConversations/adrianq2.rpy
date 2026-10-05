@@ -28,7 +28,7 @@ translate french adrianq2_d3547599:
 translate french adrianq2_b1ac4484:
 
     # pc "I've kinda been having mixed feelings about it lately though."
-    pc "Mais j'ai des sentiments un peu mitigés à ce sujet ces derniers temps."
+    pc "Mais je suis un peu partagé à ce sujet ces derniers temps."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:18
 translate french adrianq2_e1b99333:
@@ -40,7 +40,7 @@ translate french adrianq2_e1b99333:
 translate french adrianq2_7d02499a:
 
     # pc "Yeah. I'm not sure if I even want to do the whole quantum physics thing. It's all kind of boring."
-    pc "Ouais. Je ne suis même pas sûr de vouloir me lancer dans la physique quantique. C'est un peu ennuyeux, tout ça."
+    pc "Ouais. Je ne suis même pas sûr de vouloir me lancer dans la physique quantique, je trouve que c'est un peu chiant."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:21
 translate french adrianq2_854e732b:
@@ -52,25 +52,25 @@ translate french adrianq2_854e732b:
 translate french adrianq2_150e3c9e:
 
     # gg "I'm majoring in computer programming, but I'm not sure that's what I want to do either."
-    gg "Je fais une spécialisation en programmation informatique, mais je ne suis pas sûr non plus que ce soit ce que je veux faire."
+    gg "Je fais une spécialisation en programmation informatique, mais je suis pas sûre non plus que ce soit ce que je veux faire."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:23
 translate french adrianq2_d970da1e:
 
     # gg "I'm only one year in, so I could just change my major if I wanted..."
-    gg "Je n'en suis qu'à ma première année, donc je pourrais changer de spécialisation si je le voulais..."
+    gg "J'en suis qu'à ma première année, donc je pourrais changer de spécialisation si je le voulais..."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:24
 translate french adrianq2_88c4cd80:
 
     # gg "... but I'm not sure college is for me at all."
-    gg "... mais je ne suis pas sûr que l'université soit faite pour moi."
+    gg "... mais même l'université, je suis pas sûre que ce soit fait pour moi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:25
 translate french adrianq2_aabb72ee:
 
     # pc "You want to drop out? What would you do?"
-    pc "Tu veux abandonner tes études ? Que ferais-tu ?"
+    pc "Tu veux lâcher les études ? Tu ferais quoi ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:27
 translate french adrianq2_b7f3960a:
@@ -82,13 +82,13 @@ translate french adrianq2_b7f3960a:
 translate french adrianq2_f6c28ccc:
 
     # pc "Well, if I can help just let me know."
-    pc "Eh bien, si je peux t'aider, dis-le-moi."
+    pc "Eh ben, si je peux t'aider, dis-le-moi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:30
 translate french adrianq2_45ad41a9:
 
     # gg "Thanks, [pcname]. I'm not going to do anything drastic. At least not until the end of the year."
-    gg "Merci, [pcname]. Je ne vais pas prendre de décision radicale. Du moins, pas avant la fin de l'année."
+    gg "Merci, [pcname]. Je vais pas prendre de décision radicale. Du moins, pas avant la fin de l'année."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq2.rpy:31
 translate french adrianq2_d26df279:

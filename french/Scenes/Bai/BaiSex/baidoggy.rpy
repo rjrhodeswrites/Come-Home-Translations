@@ -10,7 +10,7 @@ translate french baidoggy_ac59d364:
 translate french baidoggy_73375073:
 
     # bai "Damn, that's hot. Okay [pcname]. Pound me then."
-    bai "Putain, c'est excitant. D'accord [pcname]. Alors baise-moi."
+    bai "Putain, c'est excitant. Vas-y, [pcname]. Baise-moi."
 
 # game/Scenes/Bai/BaiSex/baidoggy.rpy:21
 translate french baidoggy_7a48fad9:
@@ -22,13 +22,13 @@ translate french baidoggy_7a48fad9:
 translate french baidoggy_330a020b:
 
     # pc "Fuck, your ass looks so nice and tight."
-    pc "Putain, ton cul a l’air si beau et si serré."
+    pc "Putain, ton cul est tellement sexy, bien serré."
 
 # game/Scenes/Bai/BaiSex/baidoggy.rpy:23
 translate french baidoggy_1c36bc9e:
 
     # bai "Come on and put your dick in it then. I want you inside me."
-    bai "Allez, enfonce ta bite dedans alors. Je te veux en moi."
+    bai "Alors enfonce ta bite dedans. Je te veux en moi."
 
 # game/Scenes/Bai/BaiSex/baidoggy.rpy:29
 translate french baidoggy_2967cf0c:
@@ -46,7 +46,7 @@ translate french baidoggy_d8a08e79:
 translate french baidoggy_f0b03f72:
 
     # bai "Ugh, it feels so good."
-    bai "Ugh, c’est tellement bon."
+    bai "Ooh, c’est tellement bon."
 
 # game/Scenes/Bai/BaiSex/baidoggy.rpy:32
 translate french baidoggy_fe5ce28e:
@@ -136,7 +136,7 @@ translate french baidoggy_46d5ce16:
 translate french baidoggy_961db6b4:
 
     # bai "We really need to start putting a towel down or something though."
-    bai "Il faudrait vraiment qu'on commence à mettre une serviette ou quelque chose comme ça, par contre."
+    bai "Il faudrait vraiment qu'on commence à mettre une serviette ou quelque chose, par contre."
 
 # game/Scenes/Bai/BaiSex/baidoggy.rpy:70
 translate french baidoggy_7799012f:

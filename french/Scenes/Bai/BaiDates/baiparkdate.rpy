@@ -16,7 +16,7 @@ translate french baiparkstartdate_236ab045:
 translate french baiparkstartdate_1b78059e:
 
     # "We sit next to each other for a bit, chatting."
-    "On s’assoit l’un à côté de l’autre un moment, en discutant."
+    "On s’assoit l’un à côté de l’autre un moment, et on discute."
 
 # game/Scenes/Bai/BaiDates/baiparkdate.rpy:54
 translate french baiparkstartdate_8ab96ed5:

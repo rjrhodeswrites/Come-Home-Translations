@@ -10,5 +10,5 @@ translate french englishhomeworkdone_0b8717b0:
 translate french sshomeworkdone_7828ae56:
 
     # "I spend some time doing my Social Studies homework."
-    "Je passe un peu de temps à faire mes devoirs d'histoire-géographie."
+    "Je passe un peu de temps à faire mes devoirs de sciences sociales."
 

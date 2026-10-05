@@ -10,7 +10,7 @@ translate french baisex_0d9e700f:
 translate french baisex_9bfb8849:
 
     # bai "I'm not quite ready for actual... um... sex. Like... butt-stuff."
-    bai "Je ne suis pas tout à fait prêt pour du vrai... euh... sexe. Genre... des trucs par derrière."
+    bai "Je suis pas tout à fait prêt pour... euh... du vrai sexe. Genre... des trucs par derrière."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:12
 translate french baisex_624995f3:
@@ -58,7 +58,7 @@ translate french baisexend_d6f415b8:
 translate french baisexend_6e1bce86:
 
     # "In the morning, I wake up and he's not in bed anymore. I drowsily get up and walk to the living room."
-    "Le matin, je me réveille et il n’est plus dans le lit. Je me lève, encore endormie, et je me dirige vers le salon."
+    "Le matin, je me réveille et il n’est plus dans le lit. Je me lève, encore endormi, et je me dirige vers le salon."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:64
 translate french baisexend_9b669d88:
@@ -88,19 +88,19 @@ translate french baisexend_8aa3ecf4:
 translate french baisexend_3e2e9ddd:
 
     # bai "No, I haven't found one that I like here in Skyhill."
-    bai "Non, je n’en ai pas trouvé qui me plaise ici à Skyhill."
+    bai "Non, j’en ai pas trouvé qui me plaise à Skyhill."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:72
 translate french baisexend_72b740d9:
 
     # bai "I pretty much just do my exercises here, then do some running in the evening."
-    bai "Je fais surtout mes exercices ici, puis je vais courir le soir."
+    bai "Du coup, je fais mes exercices ici, et puis je vais courir le soir."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:73
 translate french baisexend_451132c5:
 
     # pc "Well, there's a gym that I go to over on Ollie Avenue. You're welcome to come sometime and workout with me and Tammy."
-    pc "Eh bien, il y a une salle de sport où je vais sur Ollie Avenue. Tu es le bienvenu si tu veux venir un de ces jours t’entraîner avec moi et Tammy."
+    pc "Sur Ollie Avenue, il y a une salle de sport où je vais. Tu es le bienvenu si tu veux venir un de ces jours t’entraîner avec moi et Tammy."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:74
 translate french baisexend_fafb216a:
@@ -178,7 +178,7 @@ translate french baisexend_81c7a132:
 translate french baisexend_fa2494eb:
 
     # "I keep thinking that maybe he'll invite me to stay, but it hasn't happened yet, and I don't want to push it."
-    "Je n'arrête pas de me dire qu'il va peut-être m'inviter à rester, mais ça ne s'est pas encore produit, et je ne veux pas forcer les choses."
+    "Je n'arrête pas de me dire qu'il va peut-être m'inviter à rester, mais il ne l'a pas encore fait, et je ne veux pas forcer les choses."
 
 # game/Scenes/Bai/BaiSex/baisex.rpy:106
 translate french baisexend_082d3312:
@@ -212,11 +212,11 @@ translate french strings:
 
     # game/Scenes/Bai/BaiSex/baisex.rpy:27
     old "Cuddlefuck"
-    new "Baise câline"
+    new "Étreinte coquine"
 
     # game/Scenes/Bai/BaiSex/baisex.rpy:29
     old "Cuddlefuck (NEW)"
-    new "Baise câline (NOUVEAU)"
+    new "Étreinte coquine (NOUVEAU)"
 
     # game/Scenes/Bai/BaiSex/baisex.rpy:31
     old "Doggy Style"

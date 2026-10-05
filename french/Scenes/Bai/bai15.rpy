@@ -22,7 +22,7 @@ translate french bai15_4c5b4d27:
 translate french bai15_7a93e2b0:
 
     # pc "Okay, what do you need?"
-    pc "D'accord, de quoi as-tu besoin ?"
+    pc "D'accord, de quoi t'as besoin ?"
 
 # game/Scenes/Bai/bai15.rpy:23
 translate french bai15_c3d8151a:
@@ -34,13 +34,13 @@ translate french bai15_c3d8151a:
 translate french bai15_1769b53f:
 
     # bai "I think I'm going to tell them about me... about us."
-    bai "Je pense que je vais leur parler de moi... de nous."
+    bai "Je pense que je vais leur dire pour moi... pour nous."
 
 # game/Scenes/Bai/bai15.rpy:25
 translate french bai15_8392a4ca:
 
     # bai "Would you be there with me?"
-    bai "Tu serais là avec moi ?"
+    bai "Tu veux bien être avec moi ?"
 
 # game/Scenes/Bai/bai15.rpy:26
 translate french bai15_2cd33def:
@@ -64,7 +64,7 @@ translate french bai15_2ecdb735:
 translate french bai15_62b2a1d1:
 
     # pc "It's no problem really. I'd love to meet them. And I want to be there with you."
-    pc "Ce n'est vraiment pas un problème. J'adorerais les rencontrer. Et je veux être là avec toi."
+    pc "C'est pas un problème. J'adorerais les rencontrer. Et je veux être là avec toi."
 
 # game/Scenes/Bai/bai15.rpy:31
 translate french bai15_9c6957e3:
@@ -130,7 +130,7 @@ translate french bai15_5ea5aa90:
 translate french bai15_3c387be2:
 
     # "Meeting Bai's parents. This should be interesting!"
-    "Rencontre avec les parents de Bai. Ça promet d'être intéressant !"
+    "Rencontrer les parents de Bai. Ça promet d'être intéressant !"
 
 # game/Scenes/Bai/bai15.rpy:47
 translate french bai15_98881080:
@@ -166,7 +166,7 @@ translate french bai15_d881598d:
 translate french bai15_4bd90501:
 
     # bai "Mom, Dad, this is my friend, [pcname]."
-    bai "Maman, papa, voici mon ami, [pcname]."
+    bai "Maman, Papa, voici mon ami, [pcname]."
 
 # game/Scenes/Bai/bai15.rpy:58
 translate french bai15_0d66f124:
@@ -196,7 +196,7 @@ translate french bai15_1010f7f8:
 translate french bai15_9f61af91:
 
     # pc "Very nice to meet you too. And you, Mrs. Wáng."
-    pc "Ravi de vous rencontrer aussi. Et vous aussi, Mme Wáng."
+    pc "Ravi aussi. Et vous aussi, Mme Wáng."
 
 # game/Scenes/Bai/bai15.rpy:65
 translate french bai15_5017a9ed:
@@ -232,7 +232,7 @@ translate french bai15_90b16dec:
 translate french bai15_354f7ad1:
 
     # "Mr. Wáng" "You help injured people. That is what doctors do, right [pcname]?"
-    "Mr. Wáng" "On aide les gens blessés. C'est ce que font les médecins, n'est-ce pas [pcname] ?"
+    "Mr. Wáng" "Tu aides les gens blessés. C'est ce que font les médecins, n'est-ce pas [pcname] ?"
 
 # game/Scenes/Bai/bai15.rpy:73
 translate french bai15_97f396d1:
@@ -304,7 +304,7 @@ translate french bai15_73788646:
 translate french bai15_d56ba29f:
 
     # "Surely they realize that he didn't just invite me here as a friend."
-    "Ils se rendent sûrement compte qu’il ne m’a pas invitée ici juste en tant qu’amie."
+    "Ils doivent bien se rendre compte qu’il ne m’a pas invité ici juste en tant qu’ami."
 
 # game/Scenes/Bai/bai15.rpy:93
 translate french bai15_67ec92e0:
@@ -340,13 +340,13 @@ translate french bai15_954bc39c:
 translate french bai15_fe0ef88f:
 
     # "Mr. Wáng" "I know you're Bai. Who you think named you that?"
-    "Mr. Wáng" "Je sais que tu es Bai. Qui crois-tu qui t'a donné ce prénom ?"
+    "Mr. Wáng" "C'est-à-dire ? C'est quoi, « bi » ?"
 
 # game/Scenes/Bai/bai15.rpy:103
 translate french bai15_90b22383:
 
     # bai "No, Dad. I'm bisexual."
-    bai "Non, papa. Je suis bisexuel."
+    bai "Ça veut dire... que je suis bisexuel."
 
 # game/Scenes/Bai/bai15.rpy:104
 translate french bai15_94ad15b4:
@@ -394,7 +394,7 @@ translate french bai15_83b82ca9:
 translate french bai15_272024f0:
 
     # bai "Really, Mom?"
-    bai "Vraiment, maman ?"
+    bai "Vraiment, Maman ?"
 
 # game/Scenes/Bai/bai15.rpy:116
 translate french bai15_158f0fe3:
@@ -412,7 +412,7 @@ translate french bai15_fd86eb81:
 translate french bai15_ca9fc704:
 
     # "Mr. Wáng" "You are an absolute joy to have as a son. I am so proud of you."
-    "Mr. Wáng" "C'est un vrai bonheur de t'avoir comme fils. Je suis tellement fière de toi."
+    "Mr. Wáng" "C'est un vrai bonheur de t'avoir comme fils. Je suis tellement fièr de toi."
 
 # game/Scenes/Bai/bai15.rpy:123
 translate french bai15_51678d55:
@@ -430,7 +430,7 @@ translate french bai15_0d02d68c:
 translate french bai15_2500edfb:
 
     # "Mr. Wáng" "You remember that when we get old and you have to take care of us."
-    "Mr. Wáng" "Souvenez-vous-en quand on sera vieux et que vous devrez prendre soin de nous."
+    "Mr. Wáng" "Souviens-t'en quand on sera vieux et que tu devras prendre soin de nous."
 
 # game/Scenes/Bai/bai15.rpy:128
 translate french bai15_f44e14a7:
@@ -454,7 +454,7 @@ translate french bai15_50bd8c22:
 translate french bai15_5bfadc88:
 
     # "Mrs. Wáng" "You think that we are monsters? That we would be upset that you love a man?"
-    "Mrs. Wáng" "Tu penses qu’on est des monstres ? Qu’on serait bouleversés que tu aimes un homme ?"
+    "Mrs. Wáng" "Tu pensais qu’on était des monstres ? Qu’on serait fâchés que tu aimes un homme ?"
 
 # game/Scenes/Bai/bai15.rpy:134
 translate french bai15_dffb885d:
@@ -466,7 +466,7 @@ translate french bai15_dffb885d:
 translate french bai15_0519aada:
 
     # "Mr. Wáng" "If you told us you are switching to a liberal arts major, then we would have issue."
-    "Mr. Wáng" "Si tu nous avais dit que tu changeais pour une filière en lettres et sciences humaines, là, on aurait eu un problème."
+    "Mr. Wáng" "Si tu nous avais dit que tu changeais pour une filière en lettres et sciences sociales, là, on aurait eu un problème."
 
 # game/Scenes/Bai/bai15.rpy:138
 translate french bai15_8e5fa26f:
@@ -484,7 +484,7 @@ translate french bai15_cb7cfe75:
 translate french bai15_48048864:
 
     # pc "Nice to meet you too, Mr. Wáng."
-    pc "Ravi de vous avoir rencontré aussi, M. Wáng."
+    pc "Ravi de vous avoir rencontré aussi, monsieur Wáng."
 
 # game/Scenes/Bai/bai15.rpy:143
 translate french bai15_1005ee8b:
@@ -496,7 +496,7 @@ translate french bai15_1005ee8b:
 translate french bai15_db1ed0fe:
 
     # pc "I will, Mrs. Wáng."
-    pc "Je le ferai, Mme Wáng."
+    pc "Je le ferai, madame Wáng."
 
 # game/Scenes/Bai/bai15.rpy:145
 translate french bai15_bfe014f5:
@@ -520,25 +520,25 @@ translate french bai15_f6b18e48:
 translate french bai15_6b860891:
 
     # "Mrs. Wáng" "Goodbye Ming Bai. {font=fonts/yrdzst semibold.ttf}我会一直陪着你 {/font}"
-    "Mrs. Wáng" "Au revoir Ming Bai. {font=fonts/yrdzst semibold.ttf}Je serai toujours à tes côtés {/font}"
+    "Mrs. Wáng" "Au revoir Ming Bai. {font=fonts/yrdzst semibold.ttf}我会一直陪着你 {/font}"
 
 # game/Scenes/Bai/bai15.rpy:152
 translate french bai15_e5290e82:
 
     # bai "{font=fonts/yrdzst semibold.ttf}妈, 我爱你{/font}"
-    bai "{font=fonts/yrdzst semibold.ttf}Maman, je t’aime{/font}"
+    bai "{font=fonts/yrdzst semibold.ttf}妈, 我爱你{/font}"
 
 # game/Scenes/Bai/bai15.rpy:155
 translate french bai15_af1459aa:
 
     # "When his parents leave, Bai turns to me."
-    "Quand ses parents sont partis, Bai s’est tourné vers moi."
+    "Une fois ses parents partis, Bai se tourne vers moi."
 
 # game/Scenes/Bai/bai15.rpy:156
 translate french bai15_57a4ab8c:
 
     # bai "Thanks for being here with me for this."
-    bai "Merci d'être là avec moi pour ça."
+    bai "Merci d'avoir été là avec moi."
 
 # game/Scenes/Bai/bai15.rpy:157
 translate french bai15_08ab74ef:
@@ -592,13 +592,13 @@ translate french bai15_e4e4e222:
 translate french bai15_ae781b3c:
 
     # "I guess I'm going to have to decide soon how serious I am about this relationship."
-    "Je suppose que je vais devoir décider bientôt à quel point je prends cette relation au sérieux."
+    "On dirait que je vais bientôt devoir décider si cette relation, c'est du sérieux."
 
 translate french strings:
 
     # game/Scenes/Bai/bai15.rpy:6
     old "This scene happens automatically on an afternoon weekend"
-    new "Cette scène se produit automatiquement un après-midi de week-end"
+    new "Cette scène se produira automatiquement un après-midi de week-end"
 
     # game/Scenes/Bai/bai15.rpy:7
     old "after you have had sex with Bai in a few different ways."

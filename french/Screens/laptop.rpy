@@ -16,7 +16,7 @@ translate french laptopshop_39579f17:
 translate french laptopshop_64e8b184:
 
     # "$150? It's a lot of money, but it would make her happy."
-    "150 $ ? C'est beaucoup d'argent, mais ça lui ferait plaisir."
+    "150$ ? C'est beaucoup d'argent, mais ça lui ferait plaisir."
 
 # game/Screens/laptop.rpy:39
 translate french laptopshop_44c793eb:
@@ -40,13 +40,13 @@ translate french buykendraboard_241d28dc:
 translate french buykendraboard_c80eccb5:
 
     # "I sit up the computer and open up an internet auction site where I find somebody selling the same skateboard."
-    "J'allume l'ordinateur et j'ouvre un site d'enchères en ligne où je trouve quelqu'un qui vend la même planche à roulettes."
+    "J'allume l'ordinateur et j'ouvre un site d'enchères en ligne où je trouve quelqu'un qui vend le même skateboard."
 
 # game/Screens/laptop.rpy:56
 translate french buykendraboard_7de0f2fd:
 
     # "150!? That's a lot of money for a board with four wheels."
-    "150 $ !? C'est beaucoup d'argent pour une planche à quatre roues."
+    "150$ !? C'est beaucoup d'argent pour une planche à quatre roues."
 
 # game/Screens/laptop.rpy:57
 translate french buykendraboard_8567cba3:
@@ -70,13 +70,13 @@ translate french buykendraboard_31acde2b:
 translate french studyenglish_079e5bf3:
 
     # "And now it's time to get to school."
-    "Et maintenant, il est temps d'aller à l'école."
+    "Et maintenant, il est temps d'aller à la fac."
 
 # game/Screens/laptop.rpy:79
 translate french studyenglish_3f99fe4b:
 
     # "I rush downstairs and out to the car, then drive across town to get to class on time."
-    "Je me précipite en bas et dehors vers la voiture, puis je traverse la ville en voiture pour arriver à l'heure en cours."
+    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure en cours."
 
 # game/Screens/laptop.rpy:82
 translate french studyenglish_5471bfe1:
@@ -88,13 +88,13 @@ translate french studyenglish_5471bfe1:
 translate french studyss_079e5bf3:
 
     # "And now it's time to get to school."
-    "Et maintenant, il est temps d'aller à l'école."
+    "Et maintenant, il est temps d'aller à la fac."
 
 # game/Screens/laptop.rpy:93
 translate french studyss_3f99fe4b:
 
     # "I rush downstairs and out to the car, then drive across town to get to class on time."
-    "Je me précipite en bas et dehors vers la voiture, puis je traverse la ville en voiture pour arriver à l'heure en cours."
+    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure en cours."
 
 # game/Screens/laptop.rpy:96
 translate french studyss_5471bfe1:

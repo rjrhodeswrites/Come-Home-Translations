@@ -28,13 +28,13 @@ translate french bai9_aa28bfa4:
 translate french bai9_3590cd00:
 
     # bai "Well I was wondering if you wanted to come over to my place."
-    bai "Eh bien, je me demandais si tu voulais passer chez moi."
+    bai "Je me demandais si tu voulais passer chez moi."
 
 # game/Scenes/Bai/bai9.rpy:21
 translate french bai9_7875d60c:
 
     # bai "We could pick up a pizza, watch a movie or something?"
-    bai "On pourrait aller chercher une pizza, regarder un film ou un truc comme ça ?"
+    bai "On pourrait se prendre une pizza, regarder un film ou un truc comme ça ?"
 
 # game/Scenes/Bai/bai9.rpy:27
 translate french bai9_c3165bcb:
@@ -58,7 +58,7 @@ translate french bai9_813bf4a4:
 translate french bai9_d6e9e52b:
 
     # bai "Great, I'll text you my address! See you when you get here then."
-    bai "Super, je t'envoie mon adresse par SMS ! On se voit quand tu arrives alors."
+    bai "Super, je t'envoie mon adresse ! On se voit quand tu arrives alors."
 
 # game/Scenes/Bai/bai9.rpy:36
 translate french bai9_e9a66ac5:
@@ -118,7 +118,7 @@ translate french bai9_fb83c8fe:
 translate french bai9_272d5b8d:
 
     # bai "Cool, I'll order something. You good with meatlovers?"
-    bai "Cool, je vais commander un truc. Ça te va, une pizza « Meatlovers » ?"
+    bai "Cool, je vais commander un truc. Ça te va, une cannibale ?"
 
 # game/Scenes/Bai/bai9.rpy:53
 translate french bai9_b0f6a54a:
@@ -136,13 +136,13 @@ translate french bai9_6e13ba28:
 translate french bai9_86b17e77:
 
     # bai "Uh... that came out wrong."
-    bai "Euh... ça sortait pas comme ça."
+    bai "Euh... ça sonnait différement dans ma tête."
 
 # game/Scenes/Bai/bai9.rpy:57
 translate french bai9_1df12a36:
 
     # pc "Sounded accurate to me."
-    pc "Ça m'a semblé tout à fait juste."
+    pc "Faut dire que c'est la vérité."
 
 # game/Scenes/Bai/bai9.rpy:58
 translate french bai9_bd1bd4bc:
@@ -154,7 +154,7 @@ translate french bai9_bd1bd4bc:
 translate french bai9_b5a309e5:
 
     # bai "Okay, it's ordered. Want to watch a movie?"
-    bai "Bon, c'est commandé. Tu veux regarder un film ?"
+    bai "Bien, c'est commandé. Tu veux regarder un film ?"
 
 # game/Scenes/Bai/bai9.rpy:61
 translate french bai9_39d36142:
@@ -202,7 +202,7 @@ translate french bai9_1748bb30:
 translate french bai9_5a45a7d8:
 
     # pc "Is there enough room?"
-    pc "Y a-t-il assez de place ?"
+    pc "Il y a assez de place ?"
 
 # game/Scenes/Bai/bai9.rpy:76
 translate french bai9_132eed22:
@@ -292,13 +292,13 @@ translate french bai9_a41697c3:
 translate french bai9_958a1ca5:
 
     # "After a few minutes of this, he pulls away slightly and whispers."
-    "Au bout de quelques minutes, il s’écarte légèrement et murmure :"
+    "Au bout de quelques minutes, il s’écarte légèrement et chuchote."
 
 # game/Scenes/Bai/bai9.rpy:97
 translate french bai9_15adcf99:
 
     # bai "Can I uh... see your dick?"
-    bai "« Je peux… voir ta bite ? »"
+    bai "Je peux… voir ta bite ?"
 
 # game/Scenes/Bai/bai9.rpy:105
 translate french bai9_814ccd00:
@@ -316,19 +316,19 @@ translate french bai9_a5573473:
 translate french bai9_8a74d566:
 
     # bai "I've never actually been this close to another man's junk."
-    bai "Je n’ai jamais été aussi près du sexe d’un autre homme."
+    bai "J’ai jamais été aussi près du membre d’un autre homme."
 
 # game/Scenes/Bai/bai9.rpy:108
 translate french bai9_1abd715e:
 
     # bai "Like, I've thought about this for a long time... but wasn't sure it would ever actually happen."
-    bai "Genre, j’y ai pensé depuis longtemps… mais je n’étais pas sûr que ça arriverait un jour."
+    bai "Genre, j’y ai pensé depuis longtemps… mais j’étais pas sûr que ça arriverait un jour."
 
 # game/Scenes/Bai/bai9.rpy:109
 translate french bai9_f89ce982:
 
     # bai "Wasn't sure I'd be able to go through with it."
-    bai "Je n’étais pas sûr d’être capable d’aller jusqu’au bout."
+    bai "J’étais pas sûr d’être capable d’aller jusqu’au bout."
 
 # game/Scenes/Bai/bai9.rpy:110
 translate french bai9_7e5d50ee:
@@ -352,7 +352,7 @@ translate french bai9_cd8c7e8e:
 translate french bai9_a5631df8:
 
     # bai "It's bigger than mine. So thick... and hard."
-    bai "Elle est plus grosse que la mienne. Tellement épaisse… et dure."
+    bai "Elle est plus grosse que la mienne. Bien épaisse… et dure."
 
 # game/Scenes/Bai/bai9.rpy:123
 translate french bai9_5e67ac78:
@@ -388,7 +388,7 @@ translate french bai9_ae580848:
 translate french bai9_0512dd0f:
 
     # "Completely focused on making me feel amazing."
-    "Entièrement concentré sur le fait de me faire du bien."
+    "Entièrement concentré sur mon plaisir."
 
 # game/Scenes/Bai/bai9.rpy:139
 translate french bai9_377b69b0:
@@ -454,19 +454,19 @@ translate french bai9_c0b07388:
 translate french bai9_153c3e78:
 
     # bai "Good. I really liked doing it."
-    bai "Bien. J'ai vraiment aimé faire ça."
+    bai "Bien. J'ai vraiment aimé le faire."
 
 # game/Scenes/Bai/bai9.rpy:159
 translate french bai9_20039880:
 
     # bai "Next time, I want to try to go even deeper though. I want to take the whole thing down my throat."
-    bai "La prochaine fois, j'aimerais essayer d'aller encore plus loin. Je veux l'avaler tout entier."
+    bai "La prochaine fois, j'aimerais essayer d'aller encore plus loin. Je veux l'avaler tout entière."
 
 # game/Scenes/Bai/bai9.rpy:160
 translate french bai9_de9936b4:
 
     # bai "I feel like I need to brush my teeth now though. Tastes like pizza and cum."
-    bai "J'ai l'impression que je dois me brosser les dents maintenant. Ça a un goût de pizza et de sperme."
+    bai "Mais maintenant, je crois que je vais me brosser les dents. J'ai le goût de pizza et de sperme."
 
 # game/Scenes/Bai/bai9.rpy:161
 translate french bai9_1fc66138:
@@ -484,7 +484,7 @@ translate french bai9menu_cf0f2f8a:
 translate french bai9menu_7fa504ff:
 
     # bai "I'm not quite ready to uh... show you mine."
-    bai "Je ne suis pas tout à fait prêt à... te montrer le mien."
+    bai "Je ne suis pas tout à fait prêt à... te montrer la mienne."
 
 # game/Scenes/Bai/bai9.rpy:168
 translate french bai9menu_98d0e474:
@@ -526,7 +526,7 @@ translate french bai9menu_88bf94b8:
 translate french bai9menu_e54660df:
 
     # bai "I love lying like this. Being held by you."
-    bai "J'adore être allongée comme ça. Être dans tes bras."
+    bai "J'adore être allongé comme ça. Être dans tes bras."
 
 # game/Scenes/Bai/bai9.rpy:179
 translate french bai9menu_66a45b8c:
@@ -580,7 +580,7 @@ translate french bai9menu_fa924955:
 translate french bai9menu_5fb6f695:
 
     # pc "Yeah, it was."
-    pc "Oui, c'est vrai."
+    pc "Oui, c'était cool."
 
 # game/Scenes/Bai/bai9.rpy:193
 translate french bai9menu_49fd0008:
@@ -592,7 +592,7 @@ translate french bai9menu_49fd0008:
 translate french bai9menu_99b0804b:
 
     # "But he doesn't. Not ready yet, I guess. So I pull away."
-    "Mais il ne le fait pas. Il n'est pas encore prêt, j'imagine. Alors je m'éloigne."
+    "Mais il ne le fait pas. Il n'est pas encore prêt, j'imagine. Alors je me recule."
 
 # game/Scenes/Bai/bai9.rpy:197
 translate french bai9menu_996630df:
@@ -610,7 +610,7 @@ translate french bai9menu_2de26655:
 translate french bai9menu_3f5af290:
 
     # "With that, I leave his apartment and walk back to my car."
-    "Sur ce, je quitte son appartement et retourne à ma voiture."
+    "Là-dessus, je quitte son appartement et retourne à ma voiture."
 
 # game/Scenes/Bai/bai9.rpy:202
 translate french bai9menu_fab7459a:
@@ -622,19 +622,19 @@ translate french bai9menu_fab7459a:
 translate french bai9end_87193ebc:
 
     # pc "I'm sorry, I can't. I'm not into this."
-    pc "Je suis désolée, je ne peux pas. Ça ne m'intéresse pas."
+    pc "Je suis désolé, je peux pas. Ça me branche pas."
 
 # game/Scenes/Bai/bai9.rpy:222
 translate french bai9end_28261d04:
 
     # bai "Oh, Okay. That's okay, I understand."
-    bai "Oh, d'accord. Ce n'est pas grave, je comprends."
+    bai "Oh, d'accord. C'est pas grave, je comprends."
 
 # game/Scenes/Bai/bai9.rpy:223
 translate french bai9end_511bbc2a:
 
     # "I stand up and leave Bai's apartment. This just wasn't going to work for me."
-    "Je me lève et je quitte l'appartement de Bai. Ça n'allait tout simplement pas marcher pour moi."
+    "Je me lève et je quitte l'appartement de Bai. Ça le faisait pas pour moi."
 
 translate french strings:
 
@@ -660,11 +660,11 @@ translate french strings:
 
     # game/Scenes/Bai/bai9.rpy:163
     old "Want me to do you too?"
-    new "Tu veux que je te le fasse aussi ?"
+    new "Tu veux que je te fasse aussi ?"
 
     # game/Scenes/Bai/bai9.rpy:172
     old "Sure, let's watch another movie"
-    new "Bien sûr, regardons un autre film"
+    new "Oui, regardons un autre film"
 
     # game/Scenes/Bai/bai9.rpy:185
     old "I better head home"

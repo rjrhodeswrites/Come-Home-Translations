@@ -16,7 +16,7 @@ translate french adrian3b_3e2f7daf:
 translate french adrian3b_e481cbc4:
 
     # "I guess I'll give it a try."
-    "Je vais l'essayer."
+    "J'ai plus qu'à l'essayer."
 
 # game/Scenes/Adrian/adrian3b.rpy:21
 translate french adrian3b_8131ccda:
@@ -34,7 +34,7 @@ translate french adrian3b_62dfcc6e:
 translate french adrian3b_59517f82:
 
     # "I spend probably too much time going through all the different options, before deciding on the character I want to play."
-    "Je passe probablement trop de temps à passer en revue toutes les différentes options avant de choisir le personnage que je veux incarner."
+    "Je passe sûrement bien trop de temps à me décider parmi toutes les différentes options avant de choisir le personnage que je veux incarner."
 
 # game/Scenes/Adrian/adrian3b.rpy:25
 translate french adrian3b_827389d1:
@@ -52,7 +52,7 @@ translate french adrian3b_c19763c8:
 translate french adrian3b_112c09f7:
 
     # "He is also the biggest, most badass character that I could make."
-    "C’est aussi le personnage le plus imposant et le plus badass que je puisse créer."
+    "C’est aussi le personnage le plus imposant et le plus badass que j'ai pu créer."
 
 # game/Scenes/Adrian/adrian3b.rpy:30
 translate french adrian3b_8f0fae1d:
@@ -70,7 +70,7 @@ translate french adrian3b_4d69dd27:
 translate french adrian3b_62775756:
 
     # "I wonder if Adrian is online right now? She said she would be. I type her username into the search window and find her."
-    "Je me demande si Adrian est en ligne en ce moment ? Elle a dit qu'elle le serait. Je tape son nom d'utilisateur dans la fenêtre de recherche et je la trouve."
+    "Je me demande si Adrian est en ligne ? Elle a dit qu'elle le serait. Je tape son nom d'utilisateur dans la fenêtre de recherche et je la trouve."
 
 # game/Scenes/Adrian/adrian3b.rpy:33
 translate french adrian3b_03467b31:
@@ -106,19 +106,19 @@ translate french adrian3b_2730945b:
 translate french adrian3b_3292efd3:
 
     # gg "Oh, you're in Arigamir. Okay, I'll teleport there in just a minute."
-    gg "Oh, tu es à Arigamir. D'accord, je me téléporte là-bas dans une minute."
+    gg "Oh, tu es à Arigamir. D'accord, je me téléporte là-bas dans un instant."
 
 # game/Scenes/Adrian/adrian3b.rpy:40
 translate french adrian3b_b9029897:
 
     # pc "Okay. I'm just doing some of this tutorial stuff."
-    pc "D'accord. Je suis juste en train de faire le tutoriel."
+    pc "D'accord. Je suis en train de faire le tutoriel."
 
 # game/Scenes/Adrian/adrian3b.rpy:43
 translate french adrian3b_0520cb55:
 
     # "After a minute or so, Adrian's character \"Trenoxa\", who I recognize from playing before walks up to me."
-    "Au bout d'une minute environ, le personnage d'Adrian, « Trenoxa », que je reconnais pour avoir déjà joué avec elle, s'approche de moi."
+    "Au bout d'une minute environ, quelqu'un s'approche de moi, et je reconnais « Trenoxa », le personnage d'Adrian."
 
 # game/Scenes/Adrian/adrian3b.rpy:44
 translate french adrian3b_2116c262:
@@ -142,7 +142,7 @@ translate french adrian3b_fd3dc2df:
 translate french adrian3b_33a9a8b1:
 
     # gg "Want to go kill some stuff?"
-    gg "Tu veux aller tuer quelques bestioles ?"
+    gg "Tu veux aller tuer de la vermine ?"
 
 # game/Scenes/Adrian/adrian3b.rpy:48
 translate french adrian3b_39757b54:
@@ -154,7 +154,7 @@ translate french adrian3b_39757b54:
 translate french adrian3b_c06aa83e:
 
     # "We spend the next hour or so doing various quests, killing monsters, and leveling up."
-    "On passe l'heure suivante à accomplir diverses quêtes, à tuer des monstres et à monter de niveau."
+    "On passe l'heure suivante à faire diverses quêtes, à tuer des monstres et à monter de niveau."
 
 # game/Scenes/Adrian/adrian3b.rpy:52
 translate french adrian3b_44e05c13:
@@ -184,7 +184,7 @@ translate french adrian3b_4a42f78f:
 translate french adrian3b_e7c80669:
 
     # gg "I'm glad you enjoyed it. I had a blast."
-    gg "Je suis contente que ça t’ait plu. Je me suis éclatée."
+    gg "Content que ça t’ait plu. Je me suis éclaté."
 
 # game/Scenes/Adrian/adrian3b.rpy:59
 translate french adrian3b_31f7576c:
@@ -202,7 +202,7 @@ translate french adrian3b_0233efaf:
 translate french adrian3b_2d5d032d:
 
     # gg "It's good to play in short bursts though. Don't spend all day on here, you know?"
-    gg "C'est bien de jouer par petites sessions quand même. Ne passe pas toute la journée là-dessus, tu vois ?"
+    gg "C'est bien de jouer par petites sessions quand même. Ne passe pas toute la journée dessus, tu vois ?"
 
 # game/Scenes/Adrian/adrian3b.rpy:62
 translate french adrian3b_7acad64a:
@@ -214,19 +214,19 @@ translate french adrian3b_7acad64a:
 translate french adrian3b_79845768:
 
     # gg "Well, we should probably get off for today then, but I hope you'll come on here and play again with me soon."
-    gg "Bon, on devrait probablement arrêter pour aujourd'hui, mais j'espère que tu reviendras bientôt jouer avec moi."
+    gg "Bon, on devrait probablement arrêter là pour aujourd'hui, mais j'espère que tu reviendras bientôt jouer avec moi."
 
 # game/Scenes/Adrian/adrian3b.rpy:64
 translate french adrian3b_95e44169:
 
     # pc "I will. Thanks for showing me the ropes."
-    pc "Je reviendrai. Merci de m'avoir montré les ficelles du métier."
+    pc "Je reviendrai. Merci de m'avoir montré les ficelles."
 
 # game/Scenes/Adrian/adrian3b.rpy:65
 translate french adrian3b_b6875399:
 
     # gg "No problem. Keep fighting like that and you'll be max level in no time."
-    gg "Pas de problème. Continue à te battre comme ça et tu atteindras le niveau maximum en un rien de temps."
+    gg "Pas de problème. Continue à te battre comme ça et tu seras niveau max en un rien de temps."
 
 # game/Scenes/Adrian/adrian3b.rpy:66
 translate french adrian3b_d91c0c89:
@@ -248,5 +248,5 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian3b.rpy:3
     old "install it on the computer in your bedroom and play with her at night."
-    new "tu l’installes sur l’ordinateur de ta chambre et tu joues avec elle le soir."
+    new "installe-le sur l’ordinateur de ta chambre et joue avec elle un soir."
 

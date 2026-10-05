@@ -10,19 +10,19 @@ translate french adrian11_e6b6169b:
 translate french adrian11_584cd980:
 
     # pc "Haven't seen you in Souls of War as much lately. Everything okay?"
-    pc "Je ne t'ai pas beaucoup vu sur Souls of War ces derniers temps. Tout va bien ?"
+    pc "Je t'ai pas beaucoup vue sur Souls of War ces derniers temps. Tout va bien ?"
 
 # game/Scenes/Adrian/adrian11.rpy:16
 translate french adrian11_c8aa5afa:
 
     # gg "Oh! Yeah, everything is great actually."
-    gg "Oh ! Ouais, tout va super bien en fait."
+    gg "Oh ! Ouais, tout va super bien."
 
 # game/Scenes/Adrian/adrian11.rpy:17
 translate french adrian11_93e26893:
 
     # gg "I've been kind of busy with this arcade idea though."
-    gg "J'ai été un peu occupé avec cette idée de salle d'arcade."
+    gg "J'ai juste été un peu occupée avec cette idée de salle d'arcade."
 
 # game/Scenes/Adrian/adrian11.rpy:18
 translate french adrian11_37a88e09:
@@ -40,7 +40,7 @@ translate french adrian11_25ef1d29:
 translate french adrian11_e7b7b41e:
 
     # gg "She helped me change up all my classes for next semester. It's all set up now."
-    gg "Elle m'a aidé à changer tous mes cours pour le semestre prochain. Tout est réglé maintenant."
+    gg "Elle m'a aidé à changer tous mes cours pour le prochain semestre."
 
 # game/Scenes/Adrian/adrian11.rpy:22
 translate french adrian11_f428f0b6:
@@ -70,13 +70,13 @@ translate french adrian11_61f77a4c:
 translate french adrian11_8dfefed2:
 
     # "She puts a folder with typed papers in front of me, and I flip through it."
-    "Elle pose un dossier contenant des feuilles dactylographiées devant moi, et je le feuillette."
+    "Elle pose un dossier contenant des feuilles imprimées devant moi, et je le feuillette."
 
 # game/Scenes/Adrian/adrian11.rpy:29
 translate french adrian11_37adcdf0:
 
     # "There's so much information here, so much detail. She knows far more about this stuff than I do, obviously. I'm not even sure where to begin."
-    "Il y a tellement d’informations ici, tellement de détails. Elle en sait bien plus que moi sur ce sujet, c’est évident. Je ne sais même pas par où commencer."
+    "Il y a tellement d’informations là-dedans, tellement de détails. Elle en sait bien plus que moi sur tout ça, c’est évident. Je ne sais même pas par où commencer."
 
 # game/Scenes/Adrian/adrian11.rpy:30
 translate french adrian11_6d5e4bce:
@@ -88,13 +88,13 @@ translate french adrian11_6d5e4bce:
 translate french adrian11_08f3eb16:
 
     # pc "I mean, I'm no expert here, but it looks great to me."
-    pc "Je veux dire, je ne suis pas une experte, mais ça me semble génial."
+    pc "Et bien, je ne suis pas un expert, mais ça me semble au poil."
 
 # game/Scenes/Adrian/adrian11.rpy:32
 translate french adrian11_f9c7e107:
 
     # gg "The goal is to get people to invest so that I can get some startup money."
-    gg "Le but, c'est de convaincre des gens d'investir pour que je puisse avoir un peu d'argent de démarrage."
+    gg "Le but, c'est de convaincre des gens d'investir pour que je puisse avoir un capital de départ."
 
 # game/Scenes/Adrian/adrian11.rpy:33
 translate french adrian11_10293973:
@@ -106,7 +106,7 @@ translate french adrian11_10293973:
 translate french adrian11_c4fb707b:
 
     # gg "Awesome! That makes me super happy."
-    gg "Génial ! Ça me rend super heureuse."
+    gg "Génial ! Ça me fait super plaisir."
 
 # game/Scenes/Adrian/adrian11.rpy:37
 translate french adrian11_0c2c19e9:
@@ -142,7 +142,7 @@ translate french adrian11_cfc70d4a:
 translate french adrian11_07e7c552:
 
     # pc "I'm really happy for you."
-    pc "Je suis vraiment contente pour toi."
+    pc "Je suis vraiment content pour toi."
 
 # game/Scenes/Adrian/adrian11.rpy:49
 translate french adrian11_c7d52788:
@@ -172,7 +172,7 @@ translate french adrian11_91c10599:
 translate french adrian11_b3da124f:
 
     # "The rest of the school day passes by pretty quick, then it's time for work."
-    "Le reste de la journée scolaire passe assez vite, puis c'est l'heure d'aller travailler."
+    "Le reste des cours passe assez vite, puis c'est l'heure d'aller travailler."
 
 translate french strings:
 
@@ -182,5 +182,5 @@ translate french strings:
 
     # game/Scenes/Adrian/adrian11.rpy:3
     old "This scene will happen sometimes before Ms. Welch's class."
-    new "Cette scène se produira parfois avant le cours de Mme Welch."
+    new "cette scène se produira parfois avant le cours de Mme Welch."
 

@@ -4,7 +4,7 @@
 translate french bai16_b98e01a5:
 
     # "We walk back out to the car, holding hands after a nice date."
-    "Nous retournons à la voiture, main dans la main, après un rendez-vous sympa."
+    "Nous retournons à la voiture, main dans la main, après un chouette rencard."
 
 # game/Scenes/Bai/bai16.rpy:17
 translate french bai16_8be27a25:
@@ -16,19 +16,19 @@ translate french bai16_8be27a25:
 translate french bai16_9c4a5e92:
 
     # "Douchebag" "Fucking disgusting."
-    "Douchebag" "Putain, c'est dégoûtant."
+    "Douchebag" "Putain, c'est répugnant."
 
 # game/Scenes/Bai/bai16.rpy:22
 translate french bai16_e10bc822:
 
     # "Douchebag" "I shouldn't have to see this homo shit out in public."
-    "Douchebag" "Je ne devrais pas avoir à voir ces conneries d'homos en public."
+    "Douchebag" "Je devrais pas avoir à voir ces conneries d'homos en public."
 
 # game/Scenes/Bai/bai16.rpy:23
 translate french bai16_3c3e6e38:
 
     # "I turn and look at whoever is saying these things very loudly."
-    "Je me retourne et je regarde celui qui crie ces choses à tue-tête."
+    "Je me retourne et je regarde celui qui dit toutes ces choses à voix très haute."
 
 # game/Scenes/Bai/bai16.rpy:26
 translate french bai16_16eb4a88:
@@ -40,7 +40,7 @@ translate french bai16_16eb4a88:
 translate french bai16_1fb653bc:
 
     # "Douchebag" "Whatever gay shit you want to do in your homes is fine, but there are kids out here."
-    "Douchebag" "Vous pouvez faire toutes les conneries de gays que vous voulez chez vous, mais il y a des enfants ici."
+    "Douchebag" "Vous pouvez faire toutes les conneries de gays que vous voulez chez vous, mais dehors, il y a des enfants."
 
 # game/Scenes/Bai/bai16.rpy:28
 translate french bai16_3c3c2a31:
@@ -58,7 +58,7 @@ translate french bai16_bd07c2b0:
 translate french bai16_c088abf8:
 
     # bai "You go home, asshole! We aren't doing anything wrong."
-    bai "C'est toi qui devrais rentrer chez toi, connard ! On ne fait rien de mal."
+    bai "C'est toi qui devrais rentrer chez toi, trouduc ! On fait rien de mal."
 
 # game/Scenes/Bai/bai16.rpy:35
 translate french bai16_0d4b6b54:
@@ -70,13 +70,13 @@ translate french bai16_0d4b6b54:
 translate french bai16_fc761c48:
 
     # "Douchebag 2" "Did this fag call me an asshole? Does that mean he wants to fuck me?"
-    "Douchebag 2" "Ce pédé m'a traité de connard ? Ça veut dire qu'il veut me baiser ?"
+    "Douchebag 2" "Ce pédé m'a traité de trouduc ? Ça veut dire qu'il veut me baiser ?"
 
 # game/Scenes/Bai/bai16.rpy:37
 translate french bai16_a2d4cca7:
 
     # bai "I just want you to leave us alone."
-    bai "Je veux juste que tu nous fasses chier."
+    bai "Je veux juste que vous nous laissiez tranquille."
 
 # game/Scenes/Bai/bai16.rpy:40
 translate french bai16_5dbee22d:
@@ -112,7 +112,7 @@ translate french bai16_0a999916:
 translate french bai16_111a92cc:
 
     # "Douchebag" "Go home, or we're going to stomp your ass."
-    "Douchebag" "Rentre chez toi, ou on va te botter le cul."
+    "Douchebag" "Rentre chez toi, ou on va te casser la gueule."
 
 # game/Scenes/Bai/bai16.rpy:50
 translate french bai16_0eed767a_2:
@@ -136,19 +136,19 @@ translate french bai16_ad933371:
 translate french bai16_1e80696e:
 
     # bai "No, they don't get to tell us what to do! They don't get to ruin our good moments!"
-    bai "Non, ils n'ont pas à nous dire quoi faire ! Ils n'ont pas le droit de gâcher nos bons moments !"
+    bai "Non, ils ont pas à nous dire quoi faire ! Ils ont pas le droit de gâcher nos bons moments !"
 
 # game/Scenes/Bai/bai16.rpy:57
 translate french bai16_0bdc1880:
 
     # bai "Just because they're hateful idiots."
-    bai "Juste parce que ce sont des idiots haineux."
+    bai "Sous prétexte que ce sont des abrutis."
 
 # game/Scenes/Bai/bai16.rpy:60
 translate french bai16_9cfe4290:
 
     # "Then the first punch gets thrown and everything is chaos."
-    "Puis le premier coup de poing est lancé et c'est le chaos total."
+    "Puis le premier coup de poing part et c'est le chaos total."
 
 # game/Scenes/Bai/bai16.rpy:61
 translate french bai16_0cd58f93:
@@ -166,13 +166,13 @@ translate french bai16_a2cf30ca:
 translate french bai16_7b767096:
 
     # "The douchebag's jaw cracks and he goes down to the pavement."
-    "La mâchoire du connard craque et il s'écroule sur le trottoir."
+    "La mâchoire du connard craque et il s'écroule sur le goudron."
 
 # game/Scenes/Bai/bai16.rpy:68
 translate french bai16_29c616a4:
 
     # "This happens so quickly that I'm taken aback and don't see the other douchebag coming at me until I'm flying backwards."
-    "Tout se passe si vite que je suis pris de court et que je ne vois pas l'autre connard foncer sur moi avant de me retrouver projeté en arrière."
+    "Tout se passe si vite que je suis pris de court et que je ne vois pas l'autre connard se jeter sur moi avant de me retrouver projeté en arrière."
 
 # game/Scenes/Bai/bai16.rpy:71
 translate french bai16_71fdcc54:
@@ -196,7 +196,7 @@ translate french bai16_cdd17a4d:
 translate french bai16_34206e8e:
 
     # bai "Why did you make me do this?"
-    bai "Pourquoi tu m'as forcé à faire ça ?"
+    bai "Pourquoi vous m'avez forcé à faire ça ?"
 
 # game/Scenes/Bai/bai16.rpy:79
 translate french bai16_32690104:
@@ -208,13 +208,13 @@ translate french bai16_32690104:
 translate french bai16_6537042d:
 
     # bai "I'm not fucking hiding anymore!"
-    bai "J'en ai marre de me cacher, putain !"
+    bai "J'en ai plus que marre de me cacher !"
 
 # game/Scenes/Bai/bai16.rpy:83
 translate french bai16_253afa4f:
 
     # bai "I'm queer and I'm happy and you can just fucking deal with it!"
-    bai "Je suis gay et je suis heureux, et tu n'as qu'à t'y faire, putain !"
+    bai "Je suis gay, je suis heureux, et vous avez qu'à vous y faire !"
 
 # game/Scenes/Bai/bai16.rpy:84
 translate french bai16_dcd7108e:
@@ -232,7 +232,7 @@ translate french bai16_92a0b92d:
 translate french bai16_a5d180ae:
 
     # bai "Leave people alone and mind your own business!"
-    bai "Laisse les gens tranquilles et occupe-toi de tes affaires !"
+    bai "Laissez les gens tranquilles et occupez-vous de vos putains d'oignons !"
 
 # game/Scenes/Bai/bai16.rpy:91
 translate french bai16_22d6fd2e:
@@ -250,7 +250,7 @@ translate french bai16_dd15d074:
 translate french bai16_3876018e:
 
     # bai "I'm fucking fantastic."
-    bai "Je me sens super bien, putain."
+    bai "Je me sens extrêmement bien."
 
 # game/Scenes/Bai/bai16.rpy:98
 translate french bai16_440c55ae:
@@ -268,7 +268,7 @@ translate french bai16_a7e9de3b:
 translate french bai16_dc8d3b8d:
 
     # bai "Good, because I want to take you home and fuck you so bad right now."
-    bai "Tant mieux, parce que j'ai tellement envie de te ramener chez moi et de te baiser tout de suite."
+    bai "Tant mieux, parce que j'ai très envie de te ramener chez moi et de te baiser."
 
 # game/Scenes/Bai/bai16.rpy:104
 translate french bai16_bca926c5:
@@ -286,7 +286,7 @@ translate french bai16_3f727396:
 translate french bai16_1f996713:
 
     # bai "Can {i}I{/i} fuck {i}you{/i} tonight?"
-    bai "Je {i}peux{/i} te {i}baiser{/i} ce soir ?"
+    bai "Est-ce que {i}je{/i} peux {i}te{/i} baiser ce soir ?"
 
 # game/Scenes/Bai/bai16.rpy:111
 translate french bai16_159a9132:
@@ -340,19 +340,19 @@ translate french bai16_6c308a73:
 translate french bai16_150a25d9:
 
     # "Nobody had ever put anything inside me before, so having Bai do it now felt weird at first."
-    "Personne ne m’avait jamais mis quoi que ce soit en dedans avant, alors que Bai le fasse maintenant m’a paru bizarre au début."
+    "Personne ne m’avait jamais mis quoi que ce soit dedans avant, alors que Bai le fasse maintenant me paraît bizarre au début."
 
 # game/Scenes/Bai/bai16.rpy:132
 translate french bai16_6111c7c5:
 
     # "Then it started feeling really good."
-    "Puis ça a commencé à me faire vraiment du bien."
+    "Puis ça commence à vraiment me faire du bien."
 
 # game/Scenes/Bai/bai16.rpy:133
 translate french bai16_2d19a94b:
 
     # bai "You look so hot right now."
-    bai "T’es tellement sexy en ce moment."
+    bai "T’es tellement sexy, là."
 
 # game/Scenes/Bai/bai16.rpy:134
 translate french bai16_859b9d6b:
@@ -394,7 +394,7 @@ translate french bai16_63393b3e:
 translate french bai16_d0b31ddb:
 
     # "We're both moaning like crazy almost immediately. Fuck, it feels good."
-    "On gémit tous les deux comme des fous presque immédiatement. Putain, c’est bon."
+    "On gémit fort tous les deux presque tout de suite. Putain, c’est bon."
 
 # game/Scenes/Bai/bai16.rpy:143
 translate french bai16_fef01bb9:
@@ -424,7 +424,7 @@ translate french bai16_6b9c7ccb:
 translate french bai16_e4d1e63d:
 
     # pc "Hell yeah. Do it."
-    pc "Putain, ouais. Vas-y."
+    pc "Ooooh, ouais. Vas-y."
 
 # game/Scenes/Bai/bai16.rpy:149
 translate french bai16_a6e2ff27:
@@ -436,7 +436,7 @@ translate french bai16_a6e2ff27:
 translate french bai16_443ec998:
 
     # "I feel him release, deep inside me, his cock pulsing."
-    "Je le sens se déchaîner, au plus profond de moi, sa bite palpitant."
+    "Je le sens se déchaîner, au plus profond de moi, sa bite palpitante."
 
 # game/Scenes/Bai/bai16.rpy:153
 translate french bai16_327664b2:
@@ -484,7 +484,7 @@ translate french bai16end_a8a1eaa7:
 translate french bai16end_f3c644b7:
 
     # bai "I still think I'm more of a bottom... but maybe every once in a while, doing that again would be nice."
-    bai "Je pense toujours que je suis plutôt passif... mais peut-être que de temps en temps, ce serait sympa de recommencer."
+    bai "Je pense toujours que je suis plutôt passif... mais peut-être que de temps en temps, ce serait sympa de refaire ça."
 
 # game/Scenes/Bai/bai16.rpy:168
 translate french bai16end_c417e350:
@@ -520,13 +520,13 @@ translate french bai16end_01c9683b:
 translate french bai16end_415e0df5:
 
     # bai "I've never stood up for myself like that."
-    bai "Je ne m'étais jamais défendu comme ça."
+    bai "Je m'étais jamais défendu comme ça."
 
 # game/Scenes/Bai/bai16.rpy:177
 translate french bai16end_5e40f92f:
 
     # pc "You were a badass. It was awesome."
-    pc "Tu as été un vrai dur à cuire. C'était génial."
+    pc "T'étais badass. C'était génial."
 
 # game/Scenes/Bai/bai16.rpy:178
 translate french bai16end_cced8f19:
@@ -556,13 +556,13 @@ translate french bai16end_6becddca:
 translate french bai16end_11c7eeac:
 
     # bai "When we first started dating, it was more curiosity and exploration than anything."
-    bai "Quand on a commencé à sortir ensemble, c'était plus par curiosité et par envie de découvrir que par autre chose."
+    bai "Quand on a commencé à sortir ensemble, c'était plus par curiosité et par envie de découvrir qu'autre chose."
 
 # game/Scenes/Bai/bai16.rpy:185
 translate french bai16end_5997bac9:
 
     # bai "But, I don't need to explore anymore. I found what I was looking for."
-    bai "Mais je n'ai plus besoin de découvrir quoi que ce soit. J'ai trouvé ce que je cherchais."
+    bai "Mais j'ai plus besoin de découvrir quoi que ce soit. J'ai trouvé ce que je cherchais."
 
 # game/Scenes/Bai/bai16.rpy:186
 translate french bai16end_1451df48:
@@ -586,13 +586,13 @@ translate french bai16end_e7215a1d:
 translate french bai16end_a4d2bd6c:
 
     # pc "I guess that stuff really does come in handy."
-    pc "Je suppose que ce truc-là est vraiment utile."
+    pc "En fait, c'est vraiment utile, ton truc."
 
 # game/Scenes/Bai/bai16.rpy:194
 translate french bai16end_5110ed5e:
 
     # bai "Have to stay in shape, in case any more homophobic assholes want to fuck with us."
-    bai "Faut qu'on reste en forme, au cas où d'autres connards homophobes voudraient encore nous emmerder."
+    bai "Faut rester en forme, au cas où d'autres connards homophobes voudraient encore nous emmerder."
 
 # game/Scenes/Bai/bai16.rpy:195
 translate french bai16end_3f328696:
@@ -650,7 +650,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai16.rpy:5
     old "take him on a date to the park in the evening and this scene will happen afterwards."
-    new "emmène-le au parc pour un rendez-vous galant le soir et cette scène se produira ensuite."
+    new "emmène-le au parc pour un rencard un soir et cette scène se produira ensuite."
 
     # game/Scenes/Bai/bai16.rpy:45
     old "Go stand with Bai"

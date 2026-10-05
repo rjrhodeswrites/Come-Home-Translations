@@ -10,7 +10,7 @@ translate french baigrottodate_d3715341:
 translate french baigrottodate_4243d9c3:
 
     # pc "It's called The Grotto. It's out on the lake."
-    pc "Ça s'appelle La Grotte. C'est au bord du lac."
+    pc "Ça s'appelle le Grotto. C'est au bord du lac."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:23
 translate french baigrottodate_4f7f94cb:
@@ -40,7 +40,7 @@ translate french baigrottodate_f82e580f:
 translate french baigrottodate_5f71dc40:
 
     # pc "All right! I'll text you the address and meet you out there."
-    pc "D’accord ! Je t’envoie l’adresse par SMS et on se retrouve là-bas."
+    pc "Super ! Je t’envoie l’adresse par SMS et on se retrouve là-bas."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:29
 translate french baigrottodate_1bda0dbe:
@@ -58,7 +58,7 @@ translate french baigrottodate_cf65d098:
 translate french baigrottodate_79872e14:
 
     # bai "That sounds great. Are we going to get all dressed up in suits and stuff?"
-    bai "Ça a l’air génial. On va s’habiller en costume et tout ça ?"
+    bai "Ça a l’air génial. On va s’habiller en costard et tout ça ?"
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:36
 translate french baigrottodate_a9dc377e:
@@ -70,7 +70,7 @@ translate french baigrottodate_a9dc377e:
 translate french baigrottodate_bfaba4a8:
 
     # bai "Oh man. I have to find my suit then. I know I have one in the closet somewhere."
-    bai "Oh là là. Il va falloir que je trouve mon costume alors. Je sais que j’en ai un quelque part dans le placard."
+    bai "Oh là là. Il va falloir que je retrouve le mien alors. Je sais que j’en ai un quelque part dans le placard."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:39
 translate french baigrottodate_b5cc83ae:
@@ -166,7 +166,7 @@ translate french baigrottostartdate_023cf823:
 translate french baigrottostartdate_e39c1441:
 
     # pc "Good. You look like a fucking stud right now. I'm proud to be here with you."
-    pc "Bien. T'as l'air d'un vrai tombeur là. Je suis fier d'être ici avec toi."
+    pc "Bien. Parce que t'es putain de canon là. Je suis fier d'être ici avec toi."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:74
 translate french baigrottostartdate_bb37df29:
@@ -214,7 +214,7 @@ translate french baigrottostartdate_7150c85d:
 translate french baigrottostartdate_25d6d119:
 
     # bai "That was fun, man. Good food. Thanks for inviting me."
-    bai "C’était sympa, mec. Bon repas. Merci de m’avoir invité."
+    bai "C’était sympa. De la bonne bouffe. Merci de m’avoir invité."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:106
 translate french baigrottostartdate_0c975e99:
@@ -226,7 +226,7 @@ translate french baigrottostartdate_0c975e99:
 translate french baigrottostartdate_49b45846:
 
     # bai "Yeah it was."
-    bai "Ouais, c’est vrai."
+    bai "Ouais, pareil."
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:108
 translate french baigrottostartdate_01c7ca57:
@@ -262,7 +262,7 @@ translate french baigrottostartdate_1ef0c0b5:
 translate french baigrottostartdate_ca01422f:
 
     # bai "It's so pretty out here, isn't it?"
-    bai "C’est tellement joli ici, n’est-ce pas ?"
+    bai "C’est tellement joli ici, hein ?"
 
 # game/Scenes/Bai/BaiDates/baigrottodate.rpy:133
 translate french baigrottostartdate_44eeaf1a:

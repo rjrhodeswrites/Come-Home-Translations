@@ -4,7 +4,7 @@
 translate french brandi0_c2ac7ef7:
 
     # "I go to Jackson Burger and start to walk up to the counter to put my order in with Jackson when a girl catches my attention out of the corner of my eye."
-    "Je me rends chez Jackson Burger et commence à marcher vers le comptoir pour passer ma commande auprès de Jackson quand une fille attire mon attention du coin de l’œil."
+    "Je me rends chez Jackson Burger et vais vers le comptoir pour passer ma commande auprès de Jackson quand une fille dans un coin attire mon attention."
 
 # game/Scenes/Brandi/brandi0.rpy:17
 translate french brandi0_fca97d2f:
@@ -28,7 +28,7 @@ translate french brandi0_d172813e:
 translate french brandi0_50c27c88:
 
     # "Girl" "Do you mind coming here for a minute? I won't bother you too long, I promise."
-    "Girl" "Ça te dérangerait de venir ici une minute ? Je ne te retiendrai pas trop longtemps, promis."
+    "Girl" "Tu pourrais venir ici une minute ? Je te retiendrai pas trop longtemps, promis."
 
 # game/Scenes/Brandi/brandi0.rpy:23
 translate french brandi0_ee9dd18b:
@@ -64,7 +64,7 @@ translate french brandi0_55be1fd1:
 translate french brandi0_2a83a288:
 
     # "I recognize her then as the woman who had set the record for the most burgers eaten here on All-You-Can-Eat Sundays."
-    "Je la reconnais alors comme la femme qui a établi le record du plus grand nombre de burgers mangés ici lors des dimanches « à volonté »."
+    "C'est alors que je la reconnais : c'est celle qui a établi le record du plus grand nombre de burgers mangés ici lors des dimanches « à volonté »."
 
 # game/Scenes/Brandi/brandi0.rpy:33
 translate french brandi0_6a2e96f3:
@@ -76,19 +76,19 @@ translate french brandi0_6a2e96f3:
 translate french brandi0_09a42674:
 
     # fd "Well [pcname], I do a food blog and three times a week, for my Kitch subscribers, I do these live dinners where I sit and chat with my followers while I eat some good food."
-    fd "Eh bien [pcname], je tiens un blog culinaire et trois fois par semaine, pour mes abonnés à Kitch, j’organise ces dîners en direct où je m’assois et discute avec mes followers tout en dégustant de bons petits plats."
+    fd "Eh bien [pcname], je tiens un blog culinaire et trois fois par semaine, pour mes abonnés sur Kitch, je fais des repas en direct où je m’assois et discute avec mes followers tout en dégustant de bons petits plats."
 
 # game/Scenes/Brandi/brandi0.rpy:37
 translate french brandi0_900cc1e0:
 
     # pc "Wait, so they're just sitting at their computers watching you eat?"
-    pc "Attends, alors ils sont juste assis devant leur ordinateur à te regarder manger ?"
+    pc "Attends, donc ils sont juste assis devant leur ordinateur à te regarder manger ?"
 
 # game/Scenes/Brandi/brandi0.rpy:38
 translate french brandi0_8aa68273:
 
     # fd "Yeah there's nearly 600 people in chat right now. Say hi."
-    fd "Ouais, il y a près de 600 personnes dans le chat en ce moment. Dites bonjour."
+    fd "Ouais, il y a près de 600 personnes dans le chat en ce moment. Dis bonjour."
 
 # game/Scenes/Brandi/brandi0.rpy:41
 translate french brandi0_73e58957:
@@ -106,7 +106,7 @@ translate french brandi0_d5bcf556:
 translate french brandi0_2f36690d:
 
     # fd "So I've been telling everybody for a long time how this place has the best burgers in the world, but they don't believe me."
-    fd "Ça fait longtemps que je dis à tout le monde que cet endroit sert les meilleurs burgers du monde, mais ils ne me croient pas."
+    fd "Ça fait un bail que je leur dis que cet endroit sert les meilleurs burgers du monde, mais ils ne me croient pas."
 
 # game/Scenes/Brandi/brandi0.rpy:46
 translate french brandi0_4454c371:
@@ -142,13 +142,13 @@ translate french brandi0_3091c9ab:
 translate french brandi0_866e846f:
 
     # pc "I don't know what kind of black magic fuckery Jackson does to make them taste so good,"
-    pc "Je sais pas quel genre de magie noire Jackson utilise pour qu'ils aient un goût aussi bon,"
+    pc "Je sais pas quel genre de magie noire Jackson utilise pour qu'ils soient aussi bon,"
 
 # game/Scenes/Brandi/brandi0.rpy:52
 translate french brandi0_8b6dd367:
 
     # pc "But this is seriously the best meat you'll ever put in your mouth."
-    pc "mais c'est vraiment la meilleure viande que tu mettras jamais dans ta bouche."
+    pc "mais c'est vraiment la meilleure viande qu'on puisse se mettre en bouche."
 
 # game/Scenes/Brandi/brandi0.rpy:55
 translate french brandi0_c69ca1b2:
@@ -160,7 +160,7 @@ translate french brandi0_c69ca1b2:
 translate french brandi0_51ca4011:
 
     # fd "I don't know about that though. I've had some pretty great meat in my mouth."
-    fd "Je ne sais pas trop, par contre. J'ai déjà mangé de la viande vraiment excellente."
+    fd "Je ne sais pas trop, par contre. J'ai déjà eu de bonnes viandes dans ma bouche."
 
 # game/Scenes/Brandi/brandi0.rpy:59
 translate french brandi0_4b6dcd67:
@@ -178,13 +178,13 @@ translate french brandi0_720edf84:
 translate french brandi0_57dba103:
 
     # fd "See guys. Best burgers in the world, right here in little Skyhill."
-    fd "Vous voyez, les amis. Les meilleurs burgers du monde, juste ici, dans la petite ville de Skyhill."
+    fd "Alors, vous voyez. Les meilleurs burgers du monde, juste ici, à Skyhill."
 
 # game/Scenes/Brandi/brandi0.rpy:64
 translate french brandi0_c6c249ec:
 
     # fd "And with that, it's time for me to sign off. Thanks for hanging out with me and [pcname]."
-    fd "Sur ce, il est temps pour moi de vous quitter. Merci de m'avoir suivie et [pcname]."
+    fd "Sur ce, il est temps que je vous laisse. Merci d'avoir suivi le live avec moi et [pcname]."
 
 # game/Scenes/Brandi/brandi0.rpy:66
 translate french brandi0_d41d8cd9_1:
@@ -202,7 +202,7 @@ translate french brandi0_4ac0cb0a:
 translate french brandi0_326081b3:
 
     # fd "Say bye, [pcname]."
-    fd "Dites au revoir, [pcname]."
+    fd "Dis au revoir, [pcname]."
 
 # game/Scenes/Brandi/brandi0.rpy:71
 translate french brandi0_a9138891:
@@ -220,7 +220,7 @@ translate french brandi0_d41d8cd9_2:
 translate french brandi0_6583f806:
 
     # fd "Thanks again for helping me out with that. I'll buy you a burger."
-    fd "Merci encore de m'avoir aidé avec ça. Je t'offrirai un hamburger."
+    fd "Merci encore pour le coup de main. Je t'offre un hamburger."
 
 # game/Scenes/Brandi/brandi0.rpy:81
 translate french brandi0_90fdbc67:
@@ -232,13 +232,13 @@ translate french brandi0_90fdbc67:
 translate french brandi0_906d37ca:
 
     # fd "Anyways, I gotta get going. Hope you enjoy."
-    fd "Bref, je dois y aller. J'espère que vous apprécierez."
+    fd "Bref, je dois y aller. J'espère que tu l'aimeras."
 
 # game/Scenes/Brandi/brandi0.rpy:84
 translate french brandi0_4e279127:
 
     # fd "Oh, well thanks for doing this for me anyways."
-    fd "Oh, eh bien merci de l'avoir fait pour moi quand même."
+    fd "Ah, eh bien merci quand même."
 
 # game/Scenes/Brandi/brandi0.rpy:85
 translate french brandi0_0260c184:
@@ -250,13 +250,13 @@ translate french brandi0_0260c184:
 translate french brandi0_29773f1e:
 
     # fd "I would, but I gotta run. I have somewhere to be in like ten minutes."
-    fd "J'aimerais bien, mais je dois filer. J'ai un rendez-vous dans une dizaine de minutes."
+    fd "J'aimerais bien, mais je dois filer. J'ai un rendez-vous dans genre dix minutes."
 
 # game/Scenes/Brandi/brandi0.rpy:92
 translate french brandi0_9645916f:
 
     # "I stand up and let her slide out of the booth."
-    "Je me lève et la laisse sortir de la cabine."
+    "Je me lève et la laisse sortir du box."
 
 # game/Scenes/Brandi/brandi0.rpy:93
 translate french brandi0_c7c7ca8c:
@@ -292,19 +292,19 @@ translate french brandi0_6b3f9108:
 translate french brandi0_9fa5f8e4:
 
     # fd "Because it's talking about me swallowing food, but also about me swallowing cum."
-    fd "Parce que ça parle de moi en train d'avaler de la nourriture, mais aussi de moi en train d'avaler du sperme."
+    fd "Parce que ça parle de moi qui avale de la nourriture, mais aussi de moi qui avale du sperme."
 
 # game/Scenes/Brandi/brandi0.rpy:101
 translate french brandi0_6a38101b:
 
     # fd "Get it?"
-    fd "Tu piges ?"
+    fd "Tu captes ?"
 
 # game/Scenes/Brandi/brandi0.rpy:102
 translate french brandi0_6221d019:
 
     # pc "I got it."
-    pc "J'ai compris."
+    pc "Je capte."
 
 # game/Scenes/Brandi/brandi0.rpy:104
 translate french brandi0_f75f7c08:
@@ -340,7 +340,7 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi0.rpy:1
     old "After day 8, Brandi will start hanging out at Jackson Burger during the day."
-    new "Après le huitième jour, Brandi commencera à traîner chez Jackson Burger pendant la journée."
+    new "Après le jour 8, Brandi commencera à traîner chez Jackson Burger pendant la journée."
 
     # game/Scenes/Brandi/brandi0.rpy:2
     old "Go there and chat with her."
@@ -348,7 +348,7 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi0.rpy:80
     old "Cool, free food always tastes better."
-    new "Cool, la nourriture gratuite a toujours meilleur goût."
+    new "Cool, c'est toujours meilleur, la nourriture gratuite."
 
     # game/Scenes/Brandi/brandi0.rpy:83
     old "That's okay, I'm not really hungry."
@@ -356,5 +356,5 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi0.rpy:87
     old "How about you stay and have lunch with me?"
-    new "Et si tu restais pour déjeuner avec moi ?"
+    new "Et si tu restais déjeuner avec moi ?"
 

@@ -136,7 +136,7 @@ translate french brandi8_b0060369:
 translate french brandi8_61234404:
 
     # "There are just other people I'd rather spend my time with."
-    "Il y a juste d’autres personnes avec qui je préfère passer mon temps."
+    "Il y a d’autres personnes qui m'intéressent davantage."
 
 # game/Scenes/Brandi/brandi8.rpy:56
 translate french brandi8_768e89d5:
@@ -172,7 +172,7 @@ translate french brandi8_cc1701a5:
 translate french brandi8_0fa59c98:
 
     # fd "This blouse makes my tits look great, doesn't it? Hopefully get me a bit of extra tip money tonight. Rent is due next week."
-    fd "Ce chemisier met mes seins en valeur, non ? J'espère que ça me rapportera un peu plus de pourboires ce soir. Le loyer est dû la semaine prochaine."
+    fd "Ce chemisier met mes seins en valeur, non ? J'espère que ça me rapportera un peu plus de pourboires ce soir. Je dois payer mon loyer la semaine prochaine."
 
 # game/Scenes/Brandi/brandi8.rpy:69
 translate french brandi8_e951f28e:
@@ -382,7 +382,7 @@ translate french brandi8_3236daa3:
 translate french brandi8kiss_7ff0e0a0:
 
     # "I lean in and pull her closer to me until our lips press against each other. They're greasy from the pizza and taste a bit like pepperoni, but it somehow makes the kiss even better."
-    "Je me penche vers elle et l'attire vers moi jusqu'à ce que nos lèvres se touchent. Elles sont grasses à cause de la pizza et ont un petit goût de pepperoni, mais cela rend le baiser encore meilleur."
+    "Je me penche vers elle et l'attire vers moi jusqu'à ce que nos lèvres se touchent. Elles sont grasses à cause de la pizza et ont un petit goût de pepperoni, mais ça rend le baiser encore meilleur."
 
 # game/Scenes/Brandi/brandi8.rpy:136
 translate french brandi8kiss_c90c2c8d:
@@ -472,19 +472,19 @@ translate french brandi8kiss_75f40431:
 translate french brandi8kiss_4ded12c0:
 
     # pc "I don't know. I changed my mind, I guess."
-    pc "Je ne sais pas. J'ai changé d'avis, je suppose."
+    pc "Je ne sais pas. J'ai changé d'avis."
 
 # game/Scenes/Brandi/brandi8.rpy:168
 translate french brandi8kiss_31f931b7:
 
     # fd "Well if you didn't want to kiss me, you could have just said so earlier instead of making me look like an idiot."
-    fd "Eh bien, si tu ne voulais pas m'embrasser, tu aurais pu le dire plus tôt au lieu de me faire passer pour un idiot."
+    fd "Eh bien, si tu ne voulais pas m'embrasser, tu aurais pu le dire plus tôt au lieu de me faire passer pour une idiote."
 
 # game/Scenes/Brandi/brandi8.rpy:169
 translate french brandi8kiss_8cdb66fd:
 
     # fd "We're done. You can leave. I'll go pay for the food."
-    fd "C'est fini. Tu peux partir. Je vais payer le repas."
+    fd "C'est fini. Tu peux y aller. Je vais payer le repas."
 
 # game/Scenes/Brandi/brandi8.rpy:173
 translate french brandi8kiss_505d92df:
@@ -556,13 +556,13 @@ translate french brandi8kiss_a81836cb:
 translate french brandi8kiss_9e74a425:
 
     # fd "Not that it was just a performance or anything. I really do like you and care about you."
-    fd "Ce n'était pas juste une mise en scène, ni rien de ce genre. Je t'apprécie vraiment et je tiens à toi."
+    fd "C'était pas du tout pour de faux, tu sais. Je t'apprécie vraiment et je tiens à toi."
 
 # game/Scenes/Brandi/brandi8.rpy:195
 translate french brandi8kiss_ef302c1a:
 
     # fd "This isn't all just for show."
-    fd "Tout ça, ce n'est pas juste pour le spectacle."
+    fd "Tout ça, c'est pas juste pour le show."
 
 # game/Scenes/Brandi/brandi8.rpy:198
 translate french brandi8kiss_bf746f0d:
@@ -580,7 +580,7 @@ translate french brandi8kiss_df2c64d6:
 translate french brandi8kiss_6a600759:
 
     # fd "But I'm actually really busy after this. I have to write blog posts and make clips for YouTube and all of that."
-    fd "Mais en fait, je suis vraiment très occupée après ça. Je dois écrire des articles de blog, faire des vidéos pour YouTube et tout ça."
+    fd "Mais en fait, je suis vraiment très occupée après. Je dois écrire des articles de blog, faire des clips YouTube et tout ça."
 
 # game/Scenes/Brandi/brandi8.rpy:201
 translate french brandi8kiss_a9cb880b:
@@ -622,7 +622,7 @@ translate french brandi8kiss_57ca3c84:
 translate french brandi8kiss_60ae11f7:
 
     # fd "Oh man. I could get addicted to that."
-    fd "Oh là là. Je pourrais devenir accro à ça."
+    fd "Oh là là. Je pourrais devenir accro."
 
 # game/Scenes/Brandi/brandi8.rpy:212
 translate french brandi8kiss_7d47f573:
@@ -652,7 +652,7 @@ translate french brandi8kiss_d026f778:
 translate french brandi8kiss_f2567900:
 
     # "She pays for the meal and we walk out together, then get in our separate cars and drive away."
-    "Elle paie l'addition et on sort ensemble, puis on monte dans nos voitures respectives et on s'en va."
+    "Elle paie l'addition et on sort, puis on monte dans nos voitures respectives et on s'en va."
 
 # game/Scenes/Brandi/brandi8.rpy:219
 translate french brandi8kiss_7bfa1389:
@@ -668,7 +668,7 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi8.rpy:2
     old "she'll call you in the evening and invite you out again."
-    new "elle t'appellera dans la soirée et t'invitera à nouveau à sortir."
+    new "elle t'appellera en soirée et t'invitera à nouveau à sortir."
 
     # game/Scenes/Brandi/brandi8.rpy:149
     old "I like the dates too"

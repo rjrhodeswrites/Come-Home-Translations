@@ -28,13 +28,13 @@ translate french adrianmovietheaterstartdate_d2fbe7b2:
 translate french adrianmovietheaterstartdate_9dc3692e:
 
     # "Finally the lights dim and the movie starts. It's not bad."
-    "Enfin, les lumières s'éteignent et le film commence. Ce n'est pas mal."
+    "Enfin, les lumières s'éteignent et le film commence. Il est pas mal."
 
 # game/Scenes/Adrian/AdrianDates/adrianmovietheaterdate.rpy:40
 translate french adrianmovietheaterstartdate_9b19c90f:
 
     # gg "That was pretty good, huh?"
-    gg "C'était plutôt bien, hein ?"
+    gg "C'était pas mal, hein ?"
 
 # game/Scenes/Adrian/AdrianDates/adrianmovietheaterdate.rpy:41
 translate french adrianmovietheaterstartdate_a57bb1cd:

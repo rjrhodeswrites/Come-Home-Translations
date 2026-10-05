@@ -4,13 +4,13 @@
 translate french adrianq1_4182cfbe:
 
     # gg "Am I the only transgender person you've been with?"
-    gg "Suis-je la seule personne transgenre avec qui tu aies été ?"
+    gg "T'as été avec d'autres personnes transgenres avant moi ?"
 
 # game/Scenes/Adrian/AdrianConversations/adrianq1.rpy:12
 translate french adrianq1_7251a973:
 
     # pc "Yeah. I'll admit I'm a little new to all of this."
-    pc "Ouais. Je dois avouer que tout ça est un peu nouveau pour moi."
+    pc "Non. Je dois avouer que tout ça est un peu nouveau pour moi."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq1.rpy:14
 translate french adrianq1_6d84cb37:
@@ -100,7 +100,7 @@ translate french adrianq1_1f0f23f7:
 translate french adrianq1_3fa23424:
 
     # gg "We'll figure all this out together. I'm sure there will be some weirdness at times..."
-    gg "On va trouver notre chemin ensemble. Je suis sûre qu'il y aura des moments un peu bizarres..."
+    gg "On avancera là-dedans ensemble. Je suis sûre qu'il y aura des moments un peu bizarres..."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq1.rpy:34
 translate french adrianq1_4c72c4e2:
@@ -112,7 +112,7 @@ translate french adrianq1_4c72c4e2:
 translate french adrianq1_6167082f:
 
     # pc "Yeah, there will."
-    pc "Ouais, c'est sûr."
+    pc "Ouais, y en aura."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq1.rpy:36
 translate french adrianq1_d742aae1:

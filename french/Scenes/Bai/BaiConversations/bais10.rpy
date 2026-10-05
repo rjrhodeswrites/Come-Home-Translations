@@ -10,19 +10,19 @@ translate french bais10_b658a7cb:
 translate french bais10_3633a31f:
 
     # bai "I guess I've never really done anything crazy."
-    bai "Je crois que je n’ai jamais vraiment fait de folies."
+    bai "Je crois que j’ai jamais vraiment fait de folies."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:18
 translate french bais10_ac714f3e:
 
     # bai "Maybe I'm more like my parents than I thought. Conservative. Boring."
-    bai "Peut-être que je ressemble plus à mes parents que je ne le pensais. Conservateur. Ennuyeux."
+    bai "Peut-être que je ressemble plus à mes parents que je croyais. Que je suis conservateur... ennuyeux..."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:19
 translate french bais10_30e413ca:
 
     # pc "There's got to be something you've done."
-    pc "Il doit bien y avoir quelque chose que tu as fait."
+    pc "T'as forcément fait {i}quelque chose{/i}."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:21
 translate french bais10_9c14f05f:
@@ -34,7 +34,7 @@ translate french bais10_9c14f05f:
 translate french bais10_3a6ffca7:
 
     # bai "I took Spanish in high school and there was one test that I didn't study for."
-    bai "J’ai suivi des cours d’espagnol au lycée et il y a eu un examen pour lequel je n’avais pas révisé."
+    bai "Je faisais espagnol au lycée et il y a eu un examen pour lequel j’avais pas révisé."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:23
 translate french bais10_588e3031:
@@ -52,13 +52,13 @@ translate french bais10_82b2dacd:
 translate french bais10_8b0d24fb:
 
     # pc "You cheated?"
-    pc "Tu as triché ?"
+    pc "T'as triché ?"
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:27
 translate french bais10_3ef34cd0:
 
     # bai "Well, yeah."
-    bai "Eh bien, ouais."
+    bai "Eh ben, ouais."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:28
 translate french bais10_97f3cec6:
@@ -70,13 +70,13 @@ translate french bais10_97f3cec6:
 translate french bais10_81bd648b:
 
     # bai "But some of the other students saw what I did and they wanted me to make pens like that for them too."
-    bai "Mais certains autres élèves ont vu ce que j'avais fait et ils voulaient que je leur fasse des stylos comme ça aussi."
+    bai "Mais d'autres élèves m'ont vu, et ils ont voulu que je leur fasse aussi des stylos comme ça."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:31
 translate french bais10_ab910e91:
 
     # bai "So I bought a bunch of clear pens and before every test, I'd stand out in the hallway and sell them to the other students for ten bucks each."
-    bai "J'ai donc acheté tout un tas de stylos transparents et, avant chaque examen, je me tenais dans le couloir et je les vendais aux autres élèves pour dix dollars pièce."
+    bai "Du coup, j'ai acheté tout un tas de stylos transparents et, avant chaque examen, je me tenais dans le couloir et je les vendais aux autres élèves pour dix dollars pièce."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:32
 translate french bais10_c8710b8f:
@@ -88,7 +88,7 @@ translate french bais10_c8710b8f:
 translate french bais10_91f82bbf:
 
     # pc "You never got caught?"
-    pc "Tu ne t'es jamais fait prendre ?"
+    pc "Tu t'es jamais fait prendre ?"
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:35
 translate french bais10_7cc43a7d:
@@ -106,7 +106,7 @@ translate french bais10_a2832bb3:
 translate french bais10_e911d852:
 
     # bai "I guess that's not really all that crazy though, is it?"
-    bai "Mais je suppose que ce n'est pas si fou que ça, non ?"
+    bai "Mais je suppose que c'est pas si dingue que ça, non ?"
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:39
 translate french bais10_ce27e975:
@@ -118,11 +118,11 @@ translate french bais10_ce27e975:
 translate french bais10_deb02eca:
 
     # pc "Sounds pretty crazy to me."
-    pc "Ça me semble complètement dingue."
+    pc "Je trouve ça vachement dingue."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:42
 translate french bais10_1412d6d7:
 
     # bai "Ha! Yeah, I guess so!"
-    bai "Ha ! Ouais, je suppose que oui !"
+    bai "Ha ! Ouais, c'est pas faux !"
 

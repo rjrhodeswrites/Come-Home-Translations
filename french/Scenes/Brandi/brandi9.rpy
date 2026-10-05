@@ -40,7 +40,7 @@ translate french brandi9_d4705421:
 translate french brandi9_a0b04b9d:
 
     # fd "Same place. I'll meet you there, okay?"
-    fd "Au même endroit. Je te retrouve là-bas, d'accord ?"
+    fd "Au même endroit que la dernière fois. On se voit là-bas ?"
 
 # game/Scenes/Brandi/brandi9.rpy:26
 translate french brandi9_838e37c7:
@@ -106,7 +106,7 @@ translate french brandi9_fc0e4cb5:
 translate french brandi9_b0060369:
 
     # "She seems nice, but I'm not all that interested in dating her with the internet always watching."
-    "Elle a l'air sympa, mais je ne suis pas vraiment intéressé par sortir avec elle alors qu'Internet nous surveille en permanence."
+    "Elle a l'air sympa, mais ça ne m'intéresse pas de sortir avec elle avec Internet qui nous surveille en permanence."
 
 # game/Scenes/Brandi/brandi9.rpy:46
 translate french brandi9_61234404:
@@ -142,13 +142,13 @@ translate french brandi9_ebf9a147:
 translate french brandi9_68698817:
 
     # "Ice Cream Man" "Do you want a banana on the side again?"
-    "Ice Cream Man" "Tu veux encore une banane en accompagnement ?"
+    "Ice Cream Man" "Vous voulez encore une banane en accompagnement ?"
 
 # game/Scenes/Brandi/brandi9.rpy:65
 translate french brandi9_01bf7579:
 
     # fd "Hey! You remembered."
-    fd "Hé ! Tu t'en es souvenu."
+    fd "Oh ! Vous vous en souvenez."
 
 # game/Scenes/Brandi/brandi9.rpy:66
 translate french brandi9_7e7dea69:
@@ -166,13 +166,13 @@ translate french brandi9_ec4b2df7:
 translate french brandi9_14600a71:
 
     # fd "I think you should get in first this time."
-    fd "Je pense que tu devrais t'asseoir en premier cette fois-ci."
+    fd "Tu t'asseois en premier ce coup-ci ?"
 
 # game/Scenes/Brandi/brandi9.rpy:71
 translate french brandi9_804a84e3:
 
     # pc "Oh, okay. Sure."
-    pc "Oh, d'accord. Bien sûr."
+    pc "Oh, oui. D'accord."
 
 # game/Scenes/Brandi/brandi9.rpy:74
 translate french brandi9_db064c9c:
@@ -274,19 +274,19 @@ translate french brandi9_89523da1:
 translate french brandi9_c130310e:
 
     # fd "I was thinking today how much food and memories are connected. Like, when you eat a specific food or drink a specific beverage, it takes you back to a particular moment in your life."
-    fd "Je me disais aujourd'hui à quel point la nourriture et les souvenirs sont liés. Par exemple, quand on mange un plat ou qu'on boit une boisson en particulier, ça nous ramène à un moment précis de notre vie."
+    fd "Je me disais aujourd'hui que la nourriture et les souvenirs sont énormément liés. Par exemple, quand on mange un plat ou qu'on boit une boisson particulière, ça nous ramène à un moment précis de notre vie."
 
 # game/Scenes/Brandi/brandi9.rpy:99
 translate french brandi9_0e20c052:
 
     # fd "For me, one that comes to mind is root beer. Like, every time I drink root beer, it makes me think of Final Fantasy."
-    fd "Pour moi, ce qui me vient à l'esprit, c'est la root beer. À chaque fois que j'en bois, ça me fait penser à Final Fantasy."
+    fd "Pour moi, ce qui me vient à l'esprit, c'est la bière brune. À chaque fois que j'en bois, ça me fait penser à Final Fantasy."
 
 # game/Scenes/Brandi/brandi9.rpy:100
 translate french brandi9_ce3c6d03:
 
     # fd "I played a lot of that game in middle school. Final Fantasy X, I think. And I was on a root beer kick at the time. Like I wanted to try all the different brands of root beer and was drinking them while I played."
-    fd "J’y jouais beaucoup au collège. Final Fantasy X, je crois. Et à l’époque, j’étais à fond dans la root beer. Je voulais essayer toutes les marques et j’en buvais pendant que je jouais."
+    fd "J’y jouais beaucoup au collège. Final Fantasy X, je crois. Et à l’époque, j’étais à fond dans la bière brune. Je voulais essayer toutes les marques et j’en buvais pendant que je jouais."
 
 # game/Scenes/Brandi/brandi9.rpy:101
 translate french brandi9_a0bfab67:
@@ -430,7 +430,7 @@ translate french brandi9_ddcf7f64:
 translate french brandi9_8e8c7b3b:
 
     # pc "Tacos. I meant tacos."
-    pc "Des tacos. Je voulais dire des tacos."
+    pc "Des tacos. Je voulais dire tacos."
 
 # game/Scenes/Brandi/brandi9.rpy:150
 translate french brandi9_4a450ab6:
@@ -472,7 +472,7 @@ translate french brandi9_dc7d78e0:
 translate french brandi9_08b9c704:
 
     # "It's not going to take much more."
-    "Ça ne va pas durer bien longtemps."
+    "Je ne vais pas durer bien longtemps."
 
 # game/Scenes/Brandi/brandi9.rpy:157
 translate french brandi9_bf043fad:
@@ -574,7 +574,7 @@ translate french brandi9_cb7067f6:
 translate french brandi9_9b382a80:
 
     # pc "Oh. Yeah."
-    pc "Oh. Ouais."
+    pc "Ah. Ouais."
 
 # game/Scenes/Brandi/brandi9.rpy:186
 translate french brandi9_8a59b722:
@@ -604,7 +604,7 @@ translate french brandi9_3512a485:
 translate french brandi9_fea4ef32:
 
     # fd "I definitely did."
-    fd "Moi, c’est sûr."
+    fd "Moi oui, c’est sûr."
 
 # game/Scenes/Brandi/brandi9.rpy:195
 translate french brandi9_74f1ba1c:
@@ -670,7 +670,7 @@ translate french brandi9_ead0a6aa:
 translate french brandi9_ba583cbe:
 
     # "I mean, they couldn't see anything, but it was still a little weird."
-    "Je veux dire, ils ne pouvaient rien voir, mais c'était quand même un peu bizarre."
+    "Bon, ils ne pouvaient rien voir, mais c'était quand même un peu bizarre."
 
 # game/Scenes/Brandi/brandi9.rpy:212
 translate french brandi9_45ce7c5c:

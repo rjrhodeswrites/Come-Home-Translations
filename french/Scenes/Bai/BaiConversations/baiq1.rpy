@@ -4,13 +4,13 @@
 translate french baiq1_b3b299b7:
 
     # bai "So, do you sleep with a lot of women?"
-    bai "Alors, tu couches avec beaucoup de femmes ?"
+    bai "Est-ce que tu couches avec beaucoup de femmes ?"
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:16
 translate french baiq1_f7083e72:
 
     # bai "Ha! Well good for you."
-    bai "Ha ! Eh bien tant mieux pour toi."
+    bai "Ha ! Ben tant mieux pour toi."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:18
 translate french baiq1_4849a0ff:
@@ -22,7 +22,7 @@ translate french baiq1_4849a0ff:
 translate french baiq1_a6be2815:
 
     # pc "You're a good-looking guy. You could if you wanted to."
-    pc "T'es un beau gosse. Tu pourrais si tu le voulais."
+    pc "T'es un beau mec. Tu pourrais si tu voulais."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:21
 translate french baiq1_f777c019:
@@ -46,7 +46,7 @@ translate french baiq1_8f0f2230:
 translate french baiq1_f8f70b20:
 
     # bai "I don't know man. I just don't understand them."
-    bai "Je sais pas, mec. Je les comprends pas, c'est tout."
+    bai "Je sais pas trop. J'arrive pas à les comprendre."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:26
 translate french baiq1_f5250c69:
@@ -58,7 +58,7 @@ translate french baiq1_f5250c69:
 translate french baiq1_b1f467b1:
 
     # bai "Sure. Maybe not as much as guys though."
-    bai "Bien sûr. Peut-être pas autant que les mecs, par contre."
+    bai "Oui. Mais peut-être pas autant que les mecs."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:31
 translate french baiq1_fc03c8ed:
@@ -82,7 +82,7 @@ translate french baiq1_da9a849a:
 translate french baiq1_f7083e72_1:
 
     # bai "Ha! Well good for you."
-    bai "Ha ! Eh bien tant mieux pour toi."
+    bai "Ha ! Ben tant mieux pour toi."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:37
 translate french baiq1_4849a0ff_1:
@@ -94,7 +94,7 @@ translate french baiq1_4849a0ff_1:
 translate french baiq1_a6be2815_1:
 
     # pc "You're a good-looking guy. You could if you wanted to."
-    pc "T'es un beau gosse. Tu pourrais si tu le voulais."
+    pc "T'es un beau mec. Tu pourrais si tu voulais."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:40
 translate french baiq1_f777c019_1:
@@ -118,7 +118,7 @@ translate french baiq1_8f0f2230_1:
 translate french baiq1_f8f70b20_1:
 
     # bai "I don't know man. I just don't understand them."
-    bai "Je sais pas, mec. Je les comprends pas, c'est tout."
+    bai "Je sais pas. J'arrive pas à les comprendre."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:45
 translate french baiq1_f5250c69_1:
@@ -130,7 +130,7 @@ translate french baiq1_f5250c69_1:
 translate french baiq1_b1f467b1_1:
 
     # bai "Sure. Maybe not as much as guys though."
-    bai "Bien sûr. Peut-être pas autant que les mecs, par contre."
+    bai "Oui. Mais peut-être pas autant que les mecs."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:50
 translate french baiq1_d535db40:
@@ -154,7 +154,7 @@ translate french baiq1_132f540d:
 translate french baiq1_a6be2815_2:
 
     # pc "You're a good-looking guy. You could if you wanted to."
-    pc "T'es un beau gosse. Tu pourrais si tu le voulais."
+    pc "T'es un beau gosse. Tu pourrais si tu voulais."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:58
 translate french baiq1_f777c019_2:
@@ -178,7 +178,7 @@ translate french baiq1_8f0f2230_2:
 translate french baiq1_f8f70b20_2:
 
     # bai "I don't know man. I just don't understand them."
-    bai "Je sais pas, mec. C'est juste que je les comprends pas."
+    bai "Je sais pas. J'arrive pas à les comprendre."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:63
 translate french baiq1_f5250c69_2:
@@ -190,13 +190,13 @@ translate french baiq1_f5250c69_2:
 translate french baiq1_b1f467b1_2:
 
     # bai "Sure. Maybe not as much as guys though."
-    bai "Bien sûr. Peut-être pas autant que les mecs, par contre."
+    bai "Oui. Mais peut-être pas autant que les mecs."
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:68
 translate french baiq1_9f2cc91c:
 
     # bai "Really?"
-    bai "Vraiment ?"
+    bai "Sérieux ?"
 
 # game/Scenes/Bai/BaiConversations/baiq1.rpy:69
 translate french baiq1_c417e350:
@@ -214,17 +214,17 @@ translate french baiq1_04373d8d:
 translate french baiq1_4f7ef07d:
 
     # bai "Whoa, I wouldn't have guessed."
-    bai "Ouah, j'aurais jamais deviné."
+    bai "Ouah, j'aurais pas cru."
 
 translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baiq1.rpy:14
-    old "Oh yeah"
+    old "Pas mal"
     new "Oh ouais"
 
     # game/Scenes/Bai/BaiConversations/baiq1.rpy:48
     old "No, I don't sleep with any"
-    new "Non, je couche avec personne"
+    new "Non, avec aucune"
 
     # game/Scenes/Bai/BaiConversations/baiq1.rpy:52
     old "Nope"

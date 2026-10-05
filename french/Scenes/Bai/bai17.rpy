@@ -4,13 +4,13 @@
 translate french bai17_74461e7f:
 
     # "When we come around the bend, I see two people I recognize, sitting on the bench ahead."
-    "Quand on arrive au virage, je vois deux personnes que je reconnais, assises sur le banc devant nous."
+    "Quand on arrive au virage, je vois deux personnes que je reconnais, assises sur le banc."
 
 # game/Scenes/Bai/bai17.rpy:15
 translate french bai17_e3977d79:
 
     # moose "Yo, [pcname]. What's up?"
-    moose "Yo, [pcname]. Ça va ?"
+    moose "Yo, [pcname]. Ça roule ?"
 
 # game/Scenes/Bai/bai17.rpy:16
 translate french bai17_d947bfd0:
@@ -28,13 +28,13 @@ translate french bai17_a9adc06f:
 translate french bai17_d02fdf9c:
 
     # moose "You think a guy can't go for a walk in the park with another guy without being gay?"
-    moose "Tu crois qu'un mec ne peut pas aller se balader dans le parc avec un autre mec sans être gay ?"
+    moose "Tu crois qu'un mec peut pas aller se balader dans le parc avec un autre mec sans être gay ?"
 
 # game/Scenes/Bai/bai17.rpy:21
 translate french bai17_fe79c7f3:
 
     # moose "I mean, we hanging out in the park too, man."
-    moose "Je veux dire, on traîne dans le parc nous aussi, mec."
+    moose "Je veux dire, nous aussi on traîne dans le parc, mec."
 
 # game/Scenes/Bai/bai17.rpy:22
 translate french bai17_91504e9a:
@@ -46,7 +46,7 @@ translate french bai17_91504e9a:
 translate french bai17_c7686c51:
 
     # moose "I'll hold your hand, bro."
-    moose "Je te tiendrai la main, mec."
+    moose "Moi je veux bien te tenir la main, mec."
 
 # game/Scenes/Bai/bai17.rpy:24
 translate french bai17_52a3eb06:
@@ -58,7 +58,7 @@ translate french bai17_52a3eb06:
 translate french bai17_50dbe535:
 
     # moose "Bitch, I am pansexual. You best get yourself straight."
-    moose "Salope, je suis pansexuel. Tu ferais mieux de te remettre les idées en place."
+    moose "Je suis pansexuel, petit con. T'as pas intérêt à encore te louper."
 
 # game/Scenes/Bai/bai17.rpy:28
 translate french bai17_69df470f:
@@ -70,7 +70,7 @@ translate french bai17_69df470f:
 translate french bai17_09823c94:
 
     # pc "This is Bai. Bai, this is Moose and Mal."
-    pc "C'est Bai. Bai, voici Moose et Mal."
+    pc "Il s'appelle Bai. Bai, voici Moose et Mal."
 
 # game/Scenes/Bai/bai17.rpy:30
 translate french bai17_507c42da:
@@ -142,13 +142,13 @@ translate french bai17_8785dc77:
 translate french bai17_cdc8a285:
 
     # moose "I apologize for my friend here, man."
-    moose "Je m'excuse pour mon pote là, mec."
+    moose "Je m'excuse pour mon pote, mec."
 
 # game/Scenes/Bai/bai17.rpy:50
 translate french bai17_ae8f0a2f:
 
     # moose "Y'all have a nice date."
-    moose "Passez un bon rendez-vous."
+    moose "Passez un bon rencard."
 
 # game/Scenes/Bai/bai17.rpy:51
 translate french bai17_75ad7412:
@@ -166,7 +166,7 @@ translate french bai17_de2a4cc9:
 translate french bai17_8c6c438b:
 
     # moose "Yeah you were."
-    moose "Ouais, tu l'as été."
+    moose "Ouais, t'as été."
 
 # game/Scenes/Bai/bai17.rpy:56
 translate french bai17_0f11f377:
@@ -178,7 +178,7 @@ translate french bai17_0f11f377:
 translate french bai17_3852d7ce:
 
     # mal "We good, [pcname]?"
-    mal "Tout va bien, [pcname] ?"
+    mal "On est bon, [pcname] ?"
 
 # game/Scenes/Bai/bai17.rpy:58
 translate french bai17_5a7e556f:
@@ -202,7 +202,7 @@ translate french bai17_4ae2cc03:
 translate french bai17_3f3f2e96:
 
     # mal "You just want to fuck him, man."
-    mal "Tu veux juste le baiser, mec."
+    mal "Tu veux juste te le taper, mec."
 
 # game/Scenes/Bai/bai17.rpy:66
 translate french bai17_6c82e1af:
@@ -214,13 +214,13 @@ translate french bai17_6c82e1af:
 translate french bai17_9bc903a6:
 
     # mal "No, I don't have a problem with it! I'm not a bigot!"
-    mal "Non, ça ne me pose aucun problème ! Je ne suis pas un bigot !"
+    mal "Non, ça me pose aucun problème ! Je ne suis pas un bigot !"
 
 # game/Scenes/Bai/bai17.rpy:68
 translate french bai17_25435421:
 
     # mal "I don't care if you dudes suck and fuck each other all night!"
-    mal "Je m'en fous si vous vous sucez et vous baisez toute la nuit !"
+    mal "Je m'en fous si vous vous baisez toute la nuit !"
 
 # game/Scenes/Bai/bai17.rpy:71
 translate french bai17_b95ef25d:
@@ -232,13 +232,13 @@ translate french bai17_b95ef25d:
 translate french bai17_0d9791df:
 
     # bai "Yeah... nice to meet you though."
-    bai "Ouais... ravie de t'avoir rencontré quand même."
+    bai "Ouais... ravi de vous avoir rencontrés quand même."
 
 # game/Scenes/Bai/bai17.rpy:73
 translate french bai17_69bcf3dd:
 
     # moose "Yeah man, y'all have a nice date. Hope to see you around again."
-    moose "Ouais mec, passez un bon rendez-vous. J'espère vous revoir."
+    moose "Ouais mec, passez un bon rencard. J'espère vous revoir."
 
 # game/Scenes/Bai/bai17.rpy:76
 translate french bai17_57b924f5:
@@ -274,13 +274,13 @@ translate french bai17_6512bbd6:
 translate french bai17_88bb0336:
 
     # pc "So we met up to play games, but we ended up just all having sex."
-    pc "Alors on s'est retrouvés pour jouer à des jeux, mais on a fini par tous baiser."
+    pc "Alors on s'est retrouvés pour faire des jeux de société, mais on a fini par tous baiser."
 
 # game/Scenes/Bai/bai17.rpy:84
 translate french bai17_a5e88521:
 
     # pc "I mean, I didn't do anything with Moose or Mal, but we all three fucked her."
-    pc "Je veux dire, j'ai rien fait avec Moose ou Mal, mais on l'a tous les trois baisée."
+    pc "Enfin, j'ai rien fait avec Moose ou Mal, mais on l'a tous les trois baisée."
 
 # game/Scenes/Bai/bai17.rpy:87
 translate french bai17_35bd1047:
@@ -304,13 +304,13 @@ translate french bai17_b6940984:
 translate french bai17_66a99081:
 
     # pc "You want in?"
-    pc "Tu veux venir ?"
+    pc "Ça t'intéresse ?"
 
 # game/Scenes/Bai/bai17.rpy:93
 translate french bai17_5b609477:
 
     # bai "A bisexual orgy? Uh... yeah that sounds insanely hot."
-    bai "Une orgie bisexuelle ? Euh... ouais, ça a l'air incroyablement excitant."
+    bai "Une orgie bisexuelle ? Ben... ouais, ça a l'air carrément excitant."
 
 # game/Scenes/Bai/bai17.rpy:94
 translate french bai17_5ad586f4:
@@ -322,13 +322,13 @@ translate french bai17_5ad586f4:
 translate french bai17_ed1aca30:
 
     # bai "I think we need to go back to my place pretty quick, if you know what I mean."
-    bai "Je pense qu'on doit rentrer chez moi assez vite, si tu vois ce que je veux dire."
+    bai "Il faut qu'on rentre chez moi assez vite, si tu vois ce que je veux dire."
 
 # game/Scenes/Bai/bai17.rpy:98
 translate french bai17_4664af7e:
 
     # pc "For sure."
-    pc "C'est sûr."
+    pc "Je vois, oui."
 
 # game/Scenes/Bai/bai17.rpy:99
 translate french bai17_9b95fc58:

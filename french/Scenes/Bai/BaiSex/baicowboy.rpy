@@ -94,7 +94,7 @@ translate french baicowboy_491266a1:
 translate french baicowboy_59b9cb8d:
 
     # bai "It feels so good. I'm not going to last long like this."
-    bai "C’est tellement bon. Je ne vais pas tenir longtemps comme ça."
+    bai "C’est tellement bon. Je vais pas tenir longtemps comme ça."
 
 # game/Scenes/Bai/BaiSex/baicowboy.rpy:45
 translate french baicowboy_3ddf96c7:
@@ -118,7 +118,7 @@ translate french baicowboy_faf887ad:
 translate french baicowboy_28c0d316:
 
     # "He leans back and shoots hot cum all over my stomach and chest."
-    "Il se penche en arrière et éjacule du sperme chaud partout sur mon ventre et ma poitrine."
+    "Il se penche en arrière et éjacule du sperme chaud partout sur mon ventre et mon torse."
 
 # game/Scenes/Bai/BaiSex/baicowboy.rpy:53
 translate french baicowboy_ab8867be:

@@ -52,7 +52,7 @@ translate french adrianbaithreesome_2ff9e51a:
 translate french adrianbaithreesome_65aa83b7:
 
     # pc "Ha! No, she brought up the idea of a threesome with another guy."
-    pc "Ha ! Non, c'est elle qui a lancé l'idée d'un plan à trois avec un autre mec."
+    pc "Ha ! Non, mais elle a lancé l'idée d'un plan à trois avec un autre mec."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:37
 translate french adrianbaithreesome_7d85dd4a:
@@ -118,7 +118,7 @@ translate french adrianbaithreesome_79820072:
 translate french adrianbaithreesome_372cf124:
 
     # bai "Okay. I just haven't been around trans people too much. Not really sure how to act."
-    bai "OK. C'est juste que je n'ai pas beaucoup côtoyé de personnes trans. Je ne sais pas trop comment me comporter."
+    bai "OK. C'est juste que j'ai pas beaucoup côtoyé de personnes trans. Je sais pas trop comment me comporter."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:53
 translate french adrianbaithreesome_700e23e0:
@@ -142,7 +142,7 @@ translate french adrianbaithreesome_4bbab91c:
 translate french adrianbaithreesome_d78bb780:
 
     # bai "Cool, yeah bring her over then. Sounds like a fun night."
-    bai "Cool, ouais, amène-la alors. Ça s'annonce comme une soirée sympa."
+    bai "Cool, ouais, amène-la alors. Ça s'annonce sympa."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:58
 translate french adrianbaithreesome_5a924abc:
@@ -250,7 +250,7 @@ translate french adrianbaithreesome_7af0e433:
 translate french adrianbaithreesome_0bfce27e:
 
     # bai "Nice to meet you too. Come in! Make yourselves at home."
-    bai "Enchantée aussi. Entrez ! Faites comme chez vous."
+    bai "Enchanté aussi. Entrez ! Faites comme chez vous."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:87
 translate french adrianbaithreesome_41e0b9de:
@@ -268,25 +268,25 @@ translate french adrianbaithreesome_3c62aa24:
 translate french adrianbaithreesome_77827cc2:
 
     # gg "I've seen you before, haven't I? At the cafe at school?"
-    gg "Je t’ai déjà vue, non ? Au café de l’école ?"
+    gg "Je t’ai déjà vu, non ? Au café de la fac ?"
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:90
 translate french adrianbaithreesome_4c3ac34f:
 
     # bai "Oh yeah, I work there in the morning."
-    bai "Oh oui, j’y travaille le matin."
+    bai "Ah oui, j’y travaille le matin."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:91
 translate french adrianbaithreesome_036221ae:
 
     # gg "Yeah! I don't drink coffee much, but I've noticed you when I walked by sometimes."
-    gg "Oui ! Je ne bois pas beaucoup de café, mais je t'ai remarquée quand je passais devant parfois."
+    gg "Oui ! Je ne bois pas beaucoup de café, mais je t'ai remarqué quand je passais devant parfois."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:94
 translate french adrianbaithreesome_7808bed6:
 
     # bai "I never noticed you. I feel like I would have too. You're so pretty."
-    bai "Je ne t'avais jamais remarquée. J'ai l'impression que je t'aurais remarquée. Tu es tellement jolie."
+    bai "Je t'avais jamais remarquée. Je crois que je t'aurais remarquée. Tu es très jolie."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:95
 translate french adrianbaithreesome_cb5ac6de:
@@ -322,7 +322,7 @@ translate french adrianbaithreesome_d1f7fa3b:
 translate french adrianbaithreesome_251e1f3d:
 
     # gg "I'm still figuring everything out too. I'm not going to get pissed at you if you say something that's not quite right."
-    gg "Je suis encore en train de comprendre tout ça moi aussi. Je ne vais pas m'énerver contre toi si tu dis quelque chose qui n'est pas tout à fait correct."
+    gg "Je suis encore en train de démêler tout ça moi aussi. Je ne vais pas m'énerver contre toi si tu dis quelque chose qui n'est pas tout à fait correct."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:105
 translate french adrianbaithreesome_89cbb6cc:
@@ -388,7 +388,7 @@ translate french adrianbaithreesome_e0ea8385:
 translate french adrianbaithreesome_cebd3815:
 
     # "I notice Bai rubbing her leg a little. They're definitely getting more comfortable with each other now."
-    "Je remarque que Bai se frotte un peu la jambe. Ils sont clairement de plus en plus à l'aise l'un avec l'autre maintenant."
+    "Je remarque que Bai se frotte un peu la jambe. Ils sont clairement en train de se mettre à l'aise."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:122
 translate french adrianbaithreesome_f62311b4:
@@ -460,7 +460,7 @@ translate french adrianbaithreesome_6388489e:
 translate french adrianbaithreesome_e2b18532:
 
     # gg "You two are making me so hot. Fuck, I can't wait to get you inside me."
-    gg "Vous me rendez tellement excitée. Putain, j’ai hâte de te sentir en moi."
+    gg "Vous m'excitez tellement. Putain, j’ai hâte de vous sentir en moi."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:138
 translate french adrianbaithreesome_222ee295:
@@ -526,7 +526,7 @@ translate french adrianbaithreesome_a34fc72b:
 translate french adrianbaithreesome_e15e7a56:
 
     # gg "I want to see what you're packing too."
-    gg "Je veux voir ce que tu caches aussi."
+    gg "Toi aussi, je veux voir ce que t'as."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:155
 translate french adrianbaithreesome_26397961:
@@ -772,7 +772,7 @@ translate french adrianbaithreesome_8f6e784a:
 translate french adrianbaithreesome_3551bd02:
 
     # gg "Every time you push into him, he pushes into me."
-    gg "À chaque fois que tu le pénètres, il me pénètre."
+    gg "À chaque fois que tu pousses en lui, ça le pousse en moi."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:214
 translate french adrianbaithreesome_26d41b5f:
@@ -790,7 +790,7 @@ translate french adrianbaithreesome_4821aa32:
 translate french adrianbaithreesome_3908af94:
 
     # gg "Unngh, me too!"
-    gg "Unngh, moi aussi !"
+    gg "Aargh, moi aussi !"
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:219
 translate french adrianbaithreesome_f41bf304:
@@ -862,7 +862,7 @@ translate french adrianbaithreesome_a04aa63c:
 translate french adrianbaithreesome_70a64ef6:
 
     # gg "I can feel how full they are."
-    gg "Je sens à quel point elles sont pleines."
+    gg "Je sens comme elles sont pleines."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:235
 translate french adrianbaithreesome_ced17e98:
@@ -892,7 +892,7 @@ translate french adrianbaithreesome_a118a09f:
 translate french adrianbaithreesome_03c94378:
 
     # "Bai turns and kisses her, my cum swapping between them."
-    "Bai se retourne et l'embrasse, mon sperme passant de l'une à l'autre."
+    "Bai se retourne et l'embrasse, mon sperme passant de l'un à l'autre."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:244
 translate french adrianbaithreesome_cf2aa26d:
@@ -1048,7 +1048,7 @@ translate french adrianbaithreesome_abf9b2ed:
 translate french adrianbaithreesome_16a21182:
 
     # gg "Nice to meet you too, Bai. You're a good guy."
-    gg "Ravi de t'avoir rencontrée aussi, Bai. T'es un mec bien."
+    gg "Ravie de t'avoir rencontré aussi, Bai. T'es un mec bien."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:285
 translate french adrianbaithreesome_5c100f89:
@@ -1072,13 +1072,13 @@ translate french adrianbaithreesome_bf762ec1:
 translate french adrianbaithreesome_ff812afe:
 
     # bai "That's not what I..."
-    bai "C'est pas ce que je..."
+    bai "On se refera ça ?"
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:289
 translate french adrianbaithreesome_311714da:
 
     # gg "Haha, I'm playing."
-    gg "Haha, je plaisante."
+    gg "Ça me dirait bien."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:293
 translate french adrianbaithreesome_996630df:
@@ -1138,13 +1138,13 @@ translate french adrianbaithreesome_19556f62:
 translate french adrianbaithreesome_f7a38431:
 
     # gg "You're like... the best boyfriend."
-    gg "T’es genre… le meilleur petit ami."
+    gg "T’es genre... le meilleur petit ami."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:310
 translate french adrianbaithreesome_b514f2f7:
 
     # gg "I should get inside or Mom's gonna worry."
-    gg "Je devrais rentrer, sinon maman va s’inquiéter."
+    gg "Je devrais rentrer, ou maman va s’inquiéter."
 
 # game/Scenes/Adrian/adrianbaithreesome.rpy:311
 translate french adrianbaithreesome_f27d9018:
@@ -1178,7 +1178,7 @@ translate french strings:
 
     # game/Scenes/Adrian/adrianbaithreesome.rpy:7
     old "Bai must have also come out to you as bisexual. It doesn't matter if you reciprocated his interest or not. Then you have to call Bai during the evening."
-    new "Bai doit également t’avoir révélé qu’il était bisexuel. Peu importe que tu aies répondu à son intérêt ou non. Ensuite, tu dois appeler Bai dans la soirée."
+    new "Bai doit également t’avoir révélé qu’il était bisexuel. Peu importe que tu aies répondu à son intérêt ou non. Ensuite, tu dois appeler Bai un soir."
 
     # game/Scenes/Adrian/adrianbaithreesome.rpy:16
     old "Are you in a sexual relationship with Bai?"
@@ -1186,9 +1186,9 @@ translate french strings:
 
     # game/Scenes/Adrian/adrianbaithreesome.rpy:183
     old "Suck her dick"
-    new "Suce-lui la bite"
+    new "Lui sucer la bite"
 
     # game/Scenes/Adrian/adrianbaithreesome.rpy:189
     old "Don't"
-    new "Non"
+    new "Ne pas la sucer"
 

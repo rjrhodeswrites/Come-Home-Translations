@@ -4,13 +4,13 @@
 translate french baip5_9b8193a4:
 
     # bai "Oh, damn!"
-    bai "Oh, merde !"
+    bai "Woohow !"
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:19
 translate french baip5_6782fe43:
 
     # bai "How? I can barely fit you in there. Two at once might just tear me apart."
-    bai "Comment ça ? J'arrive à peine à te caser là-dedans. Deux à la fois, ça risque de me déchirer."
+    bai "Et comment ? J'arrive à peine à te caser là-dedans. Deux à la fois, ça risque de me déchirer."
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:20
 translate french baip5_d98dba9e:
@@ -52,13 +52,13 @@ translate french baip5_ac9675af:
 translate french baip5_c8aef34b:
 
     # bai "As long as it wouldn't come between you and me."
-    bai "Tant que ça ne mettrait pas un frein à notre relation."
+    bai "Tant que ça s'interposerait pas entre nous."
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:28
 translate french baip5_7b17070f:
 
     # pc "I don't think it would."
-    pc "Je ne pense pas que ce serait le cas."
+    pc "Je crois pas que ça arrivera."
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:30
 translate french baip5_fabfbebe:
@@ -70,7 +70,7 @@ translate french baip5_fabfbebe:
 translate french baip5_84a45404:
 
     # bai "Or just being sandwiched between you and another guy in a cuddle pile."
-    bai "Ou juste d'être coincée entre toi et un autre mec dans un tas de câlins."
+    bai "Ou alors que je suis blotti en sandwich entre toi et un autre mec."
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:32
 translate french baip5_e177fd2f:
@@ -82,7 +82,7 @@ translate french baip5_e177fd2f:
 translate french baip5_4953f9a7:
 
     # bai "Well, I guess if it ever comes up, I'd be down for it."
-    bai "Bon, je suppose que si l'occasion se présente, je serais partant."
+    bai "Donc bah, j'imagine que si l'occasion se présente, je serais partant."
 
 # game/Scenes/Bai/BaiConversations/baip5.rpy:35
 translate french baip5_2c7480b4:

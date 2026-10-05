@@ -16,13 +16,13 @@ translate french baibeachdate_8ebfb187:
 translate french baibeachdate_64336c0b:
 
     # bai "Yeah, I sometimes come out here to run in the mornings."
-    bai "Ouais, je viens parfois ici pour courir le matin."
+    bai "Ouais, parfois je viens ici le matin pour courir."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:23
 translate french baibeachdate_5f0b57d2:
 
     # bai "But I've never been out here with a cute guy before."
-    bai "Mais je ne suis jamais venu ici avec un mec mignon avant."
+    bai "Mais j'étais encore jamais venu avec un mec mignon."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:29
 translate french baibeachdate_e914bd34:
@@ -52,13 +52,13 @@ translate french baibeachdate_39757b54:
 translate french baibeachdate_67fe8962:
 
     # "We swim around for a while. Bai gets really into it."
-    "On nage un moment. Bai s'y met à fond."
+    "On nage un moment. Bai s'amuse bien."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:36
 translate french baibeachdate_eaa7bafe:
 
     # "We try racing a bit, but even though I'm a good swimmer, Bai is way too fast for me to keep up with."
-    "On essaie de faire une petite course, mais même si je suis un bon nageur, Bai est bien trop rapide pour que je puisse le suivre."
+    "On essaie de faire une petite course, mais même si je nage bien, Bai est bien trop rapide pour que je puisse le suivre."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:39
 translate french baibeachdate_c4765999:
@@ -82,7 +82,7 @@ translate french baibeachdate_fb5239af:
 translate french baibeachdate_e0511e98:
 
     # bai "This was fun though, man. Maybe next time there will be more girls out here, you know?"
-    bai "C'était sympa quand même, mec. Peut-être qu'il y aura plus de filles ici la prochaine fois, tu vois ?"
+    bai "C'était sympa quand même. Peut-être qu'il y aura plus de filles ici la prochaine fois, tu vois ?"
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:51
 translate french baibeachdate_9291d328:
@@ -112,19 +112,19 @@ translate french baibeachdate_409aa835:
 translate french baibeachdate_7a029997:
 
     # bai "You make me feel so safe."
-    bai "Tu me fais me sentir tellement en sécurité."
+    bai "Je me sens tellement en sécurité avec toi."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:67
 translate french baibeachdate_fe07fc02:
 
     # pc "You're always safe with me."
-    pc "Tu es toujours en sécurité avec moi."
+    pc "Tu seras toujours en sécurité avec moi."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:72
 translate french baibeachdate_e1672a1f:
 
     # bai "I'm so happy that we found each other."
-    bai "Je suis tellement heureuse qu’on se soit trouvés."
+    bai "Je suis tellement heureux qu’on se soit trouvés."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:73
 translate french baibeachdate_afdaf298:
@@ -142,7 +142,7 @@ translate french baibeachdate_123df4e4:
 translate french baibeachdate_63409295:
 
     # bai "I'm really enjoying this moment."
-    bai "J’apprécie vraiment ce moment."
+    bai "Je veux profiter de ce moment."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:83
 translate french baibeachdate_67ce83d2:
@@ -172,7 +172,7 @@ translate french baibeachdate_b7437714:
 translate french baibeachdate_32755ff3:
 
     # bai "Okay. Well, I had a good time with you anyway."
-    bai "D'accord. Bon, j'ai passé un bon moment avec toi de toute façon."
+    bai "D'accord. C'était quand même un bon moment."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:96
 translate french baibeachdate_5d4a4d14:
@@ -190,7 +190,7 @@ translate french baibeachdate_1aff6c8c:
 translate french baibeachdate_0c0ee20a:
 
     # "He gets out and walks into his apartment building."
-    "Il sort et entre dans son immeuble."
+    "Il sort et rentre dans son immeuble."
 
 # game/Scenes/Bai/BaiDates/baibeachdate.rpy:101
 translate french baibeachdate_5b3fbfe7:

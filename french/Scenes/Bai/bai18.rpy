@@ -22,25 +22,25 @@ translate french bai18_d41d8cd9:
 translate french bai18_2db3da37:
 
     # gl "What's up, Twig?"
-    gl "Quoi de neuf, Twig ?"
+    gl "Ça va, l'allumette ?"
 
 # game/Scenes/Bai/bai18.rpy:25
 translate french bai18_0ce01813:
 
     # gl "Well, the boys are out at the movie theater with their aunt, so..."
-    gl "Eh bien, les garçons sont au cinéma avec leur tante, alors…"
+    gl "Les garçons sont au ciné avec leur tante, alors…"
 
 # game/Scenes/Bai/bai18.rpy:26
 translate french bai18_5c56169c:
 
     # gl "I was thinking about having another game night. Except maybe this time we just skip the game and get right to the fucking?"
-    gl "Je pensais organiser une autre soirée jeux. Sauf que cette fois, on pourrait peut-être sauter les jeux et passer direct à la baise ?"
+    gl "Je voulais faire une autre soirée jeux, mais peut-être ce coup-ci on saute les jeux et on passe direct à la baise ?"
 
 # game/Scenes/Bai/bai18.rpy:27
 translate french bai18_48c91eb6:
 
     # gl "Moose and Mal are already in."
-    gl "Moose et Mal sont déjà partants."
+    gl "Moose et Mal sont déjà chauds."
 
 # game/Scenes/Bai/bai18.rpy:28
 translate french bai18_f305127d:
@@ -52,55 +52,55 @@ translate french bai18_f305127d:
 translate french bai18_1354514c:
 
     # gl "Girl friend or guy friend?"
-    gl "Une copine ou un copain ?"
+    gl "Ami meuf ou mec ?"
 
 # game/Scenes/Bai/bai18.rpy:31
 translate french bai18_0fbcb5c8:
 
     # pc "A guy friend. A boyfriend."
-    pc "Un copain. Mon copain."
+    pc "Un mec. Mon mec. Il s'appelle Bai."
 
 # game/Scenes/Bai/bai18.rpy:33
 translate french bai18_a136f636:
 
     # gl "Oh yeah, Moose mentioned that they saw you out on a date with another guy. I didn't even know you were bi, [pcname]!"
-    gl "Ah ouais, Moose a dit qu’ils t’avaient vu en rendez-vous avec un autre mec. Je savais même pas que t’étais bi, [pcname] !"
+    gl "Ah ouais, Moose a dit qu’ils t’avaient vu en rendez-vous avec un mec. Je savais même pas que t’étais bi, [pcname] !"
 
 # game/Scenes/Bai/bai18.rpy:35
 translate french bai18_4847da67:
 
     # gl "Honestly, that's pretty hot. Yeah, bring him. He bi too?"
-    gl "Honnêtement, c'est plutôt excitant. Ouais, amène-le. Il est bi lui aussi ?"
+    gl "En vrai, ça m'excite. Ouais, amène-le. Il est bi aussi ?"
 
 # game/Scenes/Bai/bai18.rpy:36
 translate french bai18_735e505f:
 
     # pc "Yeah. And his name is Bai."
-    pc "Ouais. Et il s'appelle Bai."
+    pc "Ouais. Et il a des beaux bi-scotos."
 
 # game/Scenes/Bai/bai18.rpy:38
 translate french bai18_a816220c:
 
     # gl "Bullshit. That's silly. You're lying."
-    gl "N'importe quoi. C'est ridicule. Tu mens."
+    gl "Haha ! T'es grave ! Elle est nulle celle-là !"
 
 # game/Scenes/Bai/bai18.rpy:39
 translate french bai18_fea6130c:
 
     # pc "No bullshit."
-    pc "Pas du tout."
+    pc "C'est vrai, j'ai fait mieux."
 
 # game/Scenes/Bai/bai18.rpy:41
 translate french bai18_bfae2ec5:
 
     # gl "Life's weird sometimes, huh?"
-    gl "La vie est bizarre parfois, hein ?"
+    gl "Il en fait des meilleures, ton Bai ?"
 
 # game/Scenes/Bai/bai18.rpy:42
 translate french bai18_16358227:
 
     # pc "Truth."
-    pc "C'est vrai."
+    pc "Ça lui arrive."
 
 # game/Scenes/Bai/bai18.rpy:44
 translate french bai18_dcb0ad27:
@@ -118,7 +118,7 @@ translate french bai18_05d341a1:
 translate french bai18_7d997d18:
 
     # bai "I'm in. Come get me. I'll be ready in five."
-    bai "Je suis partant. Viens me chercher. Je serai prêt dans cinq minutes."
+    bai "Je suis partant. Viens me chercher. Je suis prêt dans cinq minutes."
 
 # game/Scenes/Bai/bai18.rpy:52
 translate french bai18_a85f39c7:
@@ -136,13 +136,13 @@ translate french bai18_58b72f49:
 translate french bai18_ccd96566:
 
     # pc "So everybody, this is my friend Bai. And Bai, this is Izzy. And you already met Moose and Mal."
-    pc "Bon, tout le monde, voici mon pote Bai. Et Bai, voici Izzy. Et tu as déjà rencontré Moose et Mal."
+    pc "Tout le monde, voici mon ami Bai. Et Bai, voici Izzy. Et tu as déjà rencontré Moose et Mal."
 
 # game/Scenes/Bai/bai18.rpy:60
 translate french bai18_1f085601:
 
     # gl "Nice to meet you Bai."
-    gl "Ravi de te rencontrer, Bai."
+    gl "Ravie de te rencontrer, Bai."
 
 # game/Scenes/Bai/bai18.rpy:61
 translate french bai18_0bad83c8:
@@ -154,7 +154,7 @@ translate french bai18_0bad83c8:
 translate french bai18_26618690:
 
     # mal "I was a little weird last time we met. Sorry about that."
-    mal "J'étais un peu bizarre la dernière fois qu'on s'est vus. Désolé pour ça."
+    mal "J'étais un peu bizarre la dernière fois. Désolé."
 
 # game/Scenes/Bai/bai18.rpy:63
 translate french bai18_de2a6791:
@@ -166,7 +166,7 @@ translate french bai18_de2a6791:
 translate french bai18_e7ab596e:
 
     # mal "Like, dudes can suck dick, I don't care. If you want to suck his dick, I won't even get grossed out and turn away or anything. It doesn't bother me."
-    mal "Genre, les mecs peuvent se sucer, je m'en fous. Si tu veux lui sucer la bite, ça ne me dégoûtera même pas et je ne détournerai pas le regard ou quoi que ce soit. Ça ne me dérange pas."
+    mal "Genre, les mecs peuvent se sucer, je m'en fous. Si tu veux lui sucer la bite, ça me dégoûtera même pas, je détournerai pas le regard ni rien. Ça me dérange pas."
 
 # game/Scenes/Bai/bai18.rpy:67
 translate french bai18_f2840d0d:
@@ -178,19 +178,19 @@ translate french bai18_f2840d0d:
 translate french bai18_e026b5df:
 
     # gl "We gotta be comfortable for this to be fun."
-    gl "On doit être à l'aise pour que ce soit sympa."
+    gl "On doit être à l'aise pour que ce soit fun."
 
 # game/Scenes/Bai/bai18.rpy:71
 translate french bai18_0838066d:
 
     # gl "It's going to be fun, I promise."
-    gl "Ça va être sympa, je te le promets."
+    gl "Ça va être fun, promis."
 
 # game/Scenes/Bai/bai18.rpy:72
 translate french bai18_d2fd5cae:
 
     # gl "You into girls too, or just guys?"
-    gl "Tu aimes aussi les filles, ou juste les mecs ?"
+    gl "T'es aussi branché filles, ou juste les mecs ?"
 
 # game/Scenes/Bai/bai18.rpy:73
 translate french bai18_32718b99:
@@ -202,7 +202,7 @@ translate french bai18_32718b99:
 translate french bai18_99830fcc:
 
     # gl "Are you into me?"
-    gl "Tu me trouves à ton goût ?"
+    gl "Je te plais ?"
 
 # game/Scenes/Bai/bai18.rpy:75
 translate french bai18_8ec2a728:
@@ -226,7 +226,7 @@ translate french bai18_96804e49:
 translate french bai18_56f1ce5b:
 
     # gl "Are you a top or a bottom?"
-    gl "Tu es actif ou passif ?"
+    gl "T'es plutôt actif ou passif ?"
 
 # game/Scenes/Bai/bai18.rpy:81
 translate french bai18_b08aeb78:
@@ -268,25 +268,25 @@ translate french bai18_297e02bf:
 translate french bai18_173d152e:
 
     # bai "If he's involved too, yes."
-    bai "S'il est de la partie aussi, oui."
+    bai "S'il est aussi dans le coup, oui."
 
 # game/Scenes/Bai/bai18.rpy:92
 translate french bai18_fd9aa307:
 
     # gl "Oh he'll be involved."
-    gl "Oh, il sera de la partie."
+    gl "Oh, il sera dans le coup."
 
 # game/Scenes/Bai/bai18.rpy:95
 translate french bai18_98c99139:
 
     # gl "Usually, when we do these group sessions, it's pretty much just use me. Any free hole, go for it."
-    gl "En général, quand on fait ces sessions en groupe, c'est surtout pour m'utiliser. N'importe quel trou libre, fonce."
+    gl "En général, quand on fait ces sessions de groupe, c'est surtout pour m'utiliser. N'importe quel trou libre, fonce."
 
 # game/Scenes/Bai/bai18.rpy:96
 translate french bai18_bb36215e:
 
     # gl "That's the way it is today too. Feel free to fuck me any way you want."
-    gl "C'est pareil aujourd'hui. N'hésite pas à me baiser comme tu veux."
+    gl "C'est pareil aujourd'hui. Hésite pas à me baiser comme tu veux."
 
 # game/Scenes/Bai/bai18.rpy:97
 translate french bai18_c41c93f4:
@@ -304,7 +304,7 @@ translate french bai18_87820a8e:
 translate french bai18_f2896cd4:
 
     # moose "What's up?"
-    moose "Quoi de neuf ?"
+    moose "Oh ouais."
 
 # game/Scenes/Bai/bai18.rpy:102
 translate french bai18_57812077:
@@ -322,7 +322,7 @@ translate french bai18_9f996f35:
 translate french bai18_45b85cca:
 
     # bai "Like you said... any free hole, go for it."
-    bai "Comme tu l’as dit… n’importe quel trou libre, fonce."
+    bai "C'est comme tu as dit… n’importe quel trou libre, fonce."
 
 # game/Scenes/Bai/bai18.rpy:109
 translate french bai18_b4fdd82a:
@@ -358,49 +358,49 @@ translate french bai18_70a7b630:
 translate french bai18_af018af6:
 
     # gl "What about you, Twig? Where are your limits?"
-    gl "Et toi, Twig ? Où sont tes limites ?"
+    gl "Et toi, l'allumette ? Où sont tes limites ?"
 
 # game/Scenes/Bai/bai18.rpy:122
 translate french bai18_f8742d27:
 
     # moose "Dang, man."
-    moose "Mince, mec."
+    moose "Rooooh."
 
 # game/Scenes/Bai/bai18.rpy:124
 translate french bai18_da6f4ec9:
 
     # moose "Got it."
-    moose "Je vois."
+    moose "Ça marche."
 
 # game/Scenes/Bai/bai18.rpy:128
 translate french bai18_da6f4ec9_1:
 
     # moose "Got it."
-    moose "Je vois."
+    moose "Ça marche."
 
 # game/Scenes/Bai/bai18.rpy:132
 translate french bai18_999d01b6:
 
     # moose "Aw, I see how it is."
-    moose "Ah, je vois comment ça se passe."
+    moose "Ah ouais, c'est comme ça ?"
 
 # game/Scenes/Bai/bai18.rpy:135
 translate french bai18_999d01b6_1:
 
     # moose "Aw, I see how it is."
-    moose "Ah, je vois comment ça se passe."
+    moose "Ah ouais, c'est comme ça ?"
 
 # game/Scenes/Bai/bai18.rpy:138
 translate french bai18_999d01b6_2:
 
     # moose "Aw, I see how it is."
-    moose "Ah, je vois comment ça se passe."
+    moose "Ah ouais, c'est comme ça ?"
 
 # game/Scenes/Bai/bai18.rpy:142
 translate french bai18_4746d2ee:
 
     # moose "Hell yeah."
-    moose "Putain, ouais."
+    moose "Ooooh, yes."
 
 # game/Scenes/Bai/bai18.rpy:148
 translate french bai18_891e1c86:
@@ -418,13 +418,13 @@ translate french bai18_c9560262:
 translate french bai18_33cc3487:
 
     # gl "And it's already rock hard."
-    gl "Et il est déjà dur comme du roc."
+    gl "Et c'est déjà dur comme du roc."
 
 # game/Scenes/Bai/bai18.rpy:153
 translate french bai18_7966268c:
 
     # gl "Yeah, that's a nice cock. So thick."
-    gl "Ouais, c'est une belle bite. Tellement épaisse."
+    gl "Ouais, c'est une belle bite. Bien épaisse."
 
 # game/Scenes/Bai/bai18.rpy:154
 translate french bai18_a6772ca3:
@@ -436,7 +436,7 @@ translate french bai18_a6772ca3:
 translate french bai18_044e2b44:
 
     # bai "Wow, that feels good. I don't want to be the only one with my cock out though."
-    bai "Wow, ça fait du bien. Mais je ne veux pas être le seul à avoir la bite à l'air."
+    bai "Wow, c'est bon. Mais je veux pas être le seul à avoir la bite à l'air."
 
 # game/Scenes/Bai/bai18.rpy:156
 translate french bai18_d9455da4:
@@ -466,13 +466,13 @@ translate french bai18_f0d86f27:
 translate french bai18_1326fb9f:
 
     # gl "Fuck yes, this is what I've been needing."
-    gl "Putain oui, c’est exactement ce dont j’avais besoin."
+    gl "Putain ouais, c’est pile ce qu'il me fallait."
 
 # game/Scenes/Bai/bai18.rpy:165
 translate french bai18_1ff7768a:
 
     # gl "This boy knows how to suck cock too, man. Look at him go."
-    gl "Ce mec sait aussi comment sucer une bite, mec. Regarde-le faire."
+    gl "Wow, lui aussi sait comment sucer une bite. Regarde-le."
 
 # game/Scenes/Bai/bai18.rpy:166
 translate french bai18_23649f7c:
@@ -490,7 +490,7 @@ translate french bai18_6a1f7cca:
 translate french bai18_1f0d792f:
 
     # mal "You have to leave some space for me to get in there man."
-    mal "Faut me laisser un peu de place pour que je puisse m'y mettre, mec."
+    mal "Faut me laisser un peu de place pour que je participe, mec."
 
 # game/Scenes/Bai/bai18.rpy:171
 translate french bai18_3605412e:
@@ -502,7 +502,7 @@ translate french bai18_3605412e:
 translate french bai18_f3973dd1:
 
     # mal "Man, this is bullshit."
-    mal "Mec, c'est n'importe quoi."
+    mal "Tu déconnes, mec."
 
 # game/Scenes/Bai/bai18.rpy:173
 translate french bai18_a167775f:
@@ -526,7 +526,7 @@ translate french bai18_fd6ddddc:
 translate french bai18_69d9bcde:
 
     # "Then Moose takes his turn with Bai as well."
-    "Puis Moose prend son tour avec Bai aussi."
+    "Moose aussi a son tour avec Bai."
 
 # game/Scenes/Bai/bai18.rpy:182
 translate french bai18_12714449:
@@ -568,13 +568,13 @@ translate french bai18_3b5748e9:
 translate french bai18_4f126c69:
 
     # mal "Man, this isn't fair."
-    mal "Mec, c’est pas juste."
+    mal "Putain, c’est pas juste."
 
 # game/Scenes/Bai/bai18.rpy:196
 translate french bai18_768b2071:
 
     # moose "Bitch, you complaining again?"
-    moose "Salope, tu te plains encore ?"
+    moose "Bordel, tu te plains encore ?"
 
 # game/Scenes/Bai/bai18.rpy:197
 translate french bai18_c490e4f5:
@@ -598,7 +598,7 @@ translate french bai18_b98eefd9:
 translate french bai18_363f7121:
 
     # "At one point, I'm on top of Bai, riding his dick and Izzy takes my cock into her mouth."
-    "À un moment donné, je suis au-dessus de Bai, chevauchant sa bite, et Izzy prend ma bite dans sa bouche."
+    "Puis je me retrouve au-dessus de Bai, chevauchant sa bite, et Izzy prend ma bite dans sa bouche."
 
 # game/Scenes/Bai/bai18.rpy:207
 translate french bai18_27a94285:
@@ -616,7 +616,7 @@ translate french bai18_f8f3fdaf:
 translate french bai18_27368d30:
 
     # "It's painful, but starts to feel really good as well. Especially when Izzy takes my cock into her mouth too."
-    "C'est douloureux, mais ça commence à faire vraiment du bien aussi. Surtout quand Izzy prend ma bite dans sa bouche elle aussi."
+    "C'est douloureux, mais ça commence à être vraiment bon aussi. Surtout quand Izzy prend aussi ma bite dans sa bouche."
 
 # game/Scenes/Bai/bai18.rpy:213
 translate french bai18_d5adc06d:
@@ -652,13 +652,13 @@ translate french bai18_2657ff9e:
 translate french bai18_f5f49c45:
 
     # gl "Yeah baby, give it to me."
-    gl "Ouais bébé, donne-le-moi."
+    gl "Ouais bébé, donne-moi tout ça."
 
 # game/Scenes/Bai/bai18.rpy:225
 translate french bai18_fe43709e:
 
     # mal "Aw man, some dripped on my face! Nasty!"
-    mal "Oh mec, y'en a qui a coulé sur mon visage ! Dégoûtant !"
+    mal "Oh mec, y'en a qui a coulé sur mon visage ! Dégueu !"
 
 # game/Scenes/Bai/bai18.rpy:226
 translate french bai18_b1abfaae:
@@ -682,7 +682,7 @@ translate french bai18_1f20e543:
 translate french bai18_d38d6425:
 
     # gl "See, you're fine. Still completely straight."
-    gl "Tu vois, t'es pas en danger. Toujours complètement hétéro."
+    gl "Tu vois, t'as pas changé. Toujours hétéro."
 
 # game/Scenes/Bai/bai18.rpy:234
 translate french bai18_c4a0dafe:
@@ -694,13 +694,13 @@ translate french bai18_c4a0dafe:
 translate french bai18_e9fe138b:
 
     # moose "Damn, that felt good."
-    moose "Putain, ça faisait du bien."
+    moose "Putain, c'était bon."
 
 # game/Scenes/Bai/bai18.rpy:236
 translate french bai18_4cd702b9:
 
     # bai "Hell yeah."
-    bai "Putain ouais."
+    bai "Bordel, ouais."
 
 # game/Scenes/Bai/bai18.rpy:237
 translate french bai18_4903df36:
@@ -712,7 +712,7 @@ translate french bai18_4903df36:
 translate french bai18_ef87bee7:
 
     # moose "Nah girl. You don't need it."
-    moose "Non, ma belle. T'en as pas besoin."
+    moose "Nan, ma belle. T'en as pas besoin."
 
 # game/Scenes/Bai/bai18.rpy:239
 translate french bai18_67cc6b5a:
@@ -724,19 +724,19 @@ translate french bai18_67cc6b5a:
 translate french bai18_bb98186f:
 
     # mal "I want some more chicks in here, man."
-    mal "Je veux d'autres nanas ici, mec."
+    mal "Je veux qu'on amène plus de nanas."
 
 # game/Scenes/Bai/bai18.rpy:243
 translate french bai18_55b8f7be:
 
     # moose "I don't know why you don't just let Bai suck your dick. He's pretty damn good at it. A mouth is a mouth, don't matter what they got between their legs."
-    moose "Je sais pas pourquoi tu laisses pas juste Bai te sucer la bite. Il est sacrément doué pour ça. Une bouche, c'est une bouche, peu importe ce qu'ils ont entre les jambes."
+    moose "Je sais pas pourquoi tu laisses pas juste Bai te sucer la bite. Il est super doué. Une bouche, c'est une bouche, peu importe ce qu'il y a entre les jambes."
 
 # game/Scenes/Bai/bai18.rpy:244
 translate french bai18_342db793:
 
     # mal "Nah. More girls. Why don't you bring some more girls over, [pcname]?"
-    mal "Non. Plus de filles. Pourquoi tu n'amènes pas d'autres filles, [pcname] ?"
+    mal "Non. Plus de meufs. Pourquoi t'amènerais pas d'autres meufs, [pcname] ?"
 
 # game/Scenes/Bai/bai18.rpy:247
 translate french bai18_b0fa36bc:
@@ -754,7 +754,7 @@ translate french bai18_49f13dde:
 translate french bai18_ee6f10ae:
 
     # gl "Haha, he ain't lying."
-    gl "Haha, il ment pas."
+    gl "Haha, il a raison."
 
 # game/Scenes/Bai/bai18.rpy:250
 translate french bai18_f074928d:
@@ -766,7 +766,7 @@ translate french bai18_f074928d:
 translate french bai18_4832d01e:
 
     # gl "Yeah, y'all gotta get out of here. The boys will be home in an hour and the whole place smells like sex."
-    gl "Ouais, vous devez tous vous tirer d'ici. Les gars rentrent dans une heure et tout l'appart sent le sexe."
+    gl "Ouais, vous devez tous vous tirer d'ici. Les garçons rentrent dans une heure et tout l'appart sent le sexe."
 
 # game/Scenes/Bai/bai18.rpy:255
 translate french bai18_efc6c54a:
@@ -778,13 +778,13 @@ translate french bai18_efc6c54a:
 translate french bai18_631ee29d:
 
     # bai "Thanks for bringing me, [pcname]. It was really fun."
-    bai "Merci de m'avoir amenée, [pcname]. C'était vraiment sympa."
+    bai "Merci de m'avoir amené, [pcname]. C'était vraiment sympa."
 
 # game/Scenes/Bai/bai18.rpy:259
 translate french bai18_4b5b336c:
 
     # bai "I think I need a nap now though. I'm worn out."
-    bai "Mais je crois que j'ai besoin d'une sieste maintenant. Je suis crevée."
+    bai "Mais je crois que j'ai besoin d'une sieste maintenant. Je suis crevé."
 
 # game/Scenes/Bai/bai18.rpy:260
 translate french bai18_4372b3f5:
@@ -796,7 +796,7 @@ translate french bai18_4372b3f5:
 translate french bai18_bb0fad0c:
 
     # pc "Yes. Yes he is."
-    pc "Oui. C'est vrai."
+    pc "Oui. Il l'est."
 
 # game/Scenes/Bai/bai18.rpy:263
 translate french bai18_8bba6833:
@@ -840,15 +840,15 @@ translate french strings:
 
     # game/Scenes/Bai/bai18.rpy:121
     old "I'm top only"
-    new "Je ne suis que actif"
+    new "Je suis que actif"
 
     # game/Scenes/Bai/bai18.rpy:123
     old "I'll suck, but ass is off-limits"
-    new "Je suce, mais le cul, c'est hors limites"
+    new "Je suce, mais pas touche au cul"
 
     # game/Scenes/Bai/bai18.rpy:127
     old "I'll bottom, but I don't want anything in my mouth"
-    new "Je me fais prendre, mais je ne veux rien dans la bouche"
+    new "OK pour me faire prendre, mais je veux rien dans la bouche"
 
     # game/Scenes/Bai/bai18.rpy:131
     old "I'll suck dick, but only Bai's"
@@ -856,13 +856,13 @@ translate french strings:
 
     # game/Scenes/Bai/bai18.rpy:134
     old "No mouth stuff, but I'll bottom for Bai only"
-    new "Pas de trucs avec la bouche, mais je me fais prendre, mais seulement par Bai"
+    new "Rien avec la bouche, mais Bai peut me prendre"
 
     # game/Scenes/Bai/bai18.rpy:137
     old "I'll suck and bottom, but only for Bai"
-    new "Je suce et je me fais prendre, mais seulement par Bai"
+    new "Je suce et je me fais prendre, mais seulement Bai"
 
     # game/Scenes/Bai/bai18.rpy:141
     old "All holes open, baby"
-    new "Tous les trous sont ouverts, bébé"
+    new "Tous les trous sont dispo, bébé"
 

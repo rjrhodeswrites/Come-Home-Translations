@@ -16,7 +16,7 @@ translate french gym_ef6cbc94:
 translate french gym_d0ea8332:
 
     # "She says that she works out in the afternoons. I should come back then."
-    "Elle dit qu'elle s'entraîne l'après-midi. Je devrais revenir à ce moment-là."
+    "Elle a dit qu'elle s'entraîne l'après-midi. Je devrais revenir à ce moment-là."
 
 # game/Locations/gym.rpy:45
 translate french gym_6ea3bd27:
@@ -58,7 +58,7 @@ translate french workoutsolo_43573581:
 translate french workoutsolo_0a1ce5ce:
 
     # "I head to the showers and clean off quickly, then wave goodbye to some of the other guys as I walk back out to my car."
-    "Je me dirige vers les douches et me rince rapidement, puis je fais un signe d'adieu à quelques-uns des autres gars en retournant vers ma voiture."
+    "Je me dirige vers les douches et me rince rapidement, puis je salue quelques-uns des autres gars en retournant vers ma voiture."
 
 # game/Locations/gym.rpy:71
 translate french workoutsolo_cdda925e:
@@ -76,7 +76,7 @@ translate french strings:
 
     # game/Locations/gym.rpy:51
     old "Work out solo"
-    new "M'entraîner tout seul"
+    new "M'entraîner en solo"
 
     # game/Locations/gym.rpy:75
     old "Work out with Tammy"

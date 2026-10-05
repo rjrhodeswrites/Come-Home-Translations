@@ -22,19 +22,19 @@ translate french bais2_3f2ca74b:
 translate french bais2_2f2fb1cb:
 
     # bai "Every day before work. I get up at 5AM every morning."
-    bai "Tous les jours avant le boulot. Je me lève à 5 h du matin tous les matins."
+    bai "Tous les jours avant le boulot. Je me lève à 5h tous les matins."
 
 # game/Scenes/Bai/BaiConversations/bais2.rpy:17
 translate french bais2_1f086284:
 
     # pc "Damn that's early."
-    pc "Mince, c'est tôt."
+    pc "La vache, c'est tôt."
 
 # game/Scenes/Bai/BaiConversations/bais2.rpy:18
 translate french bais2_fad979ea:
 
     # bai "It's not bad once you get used to it. I don't even think about it anymore."
-    bai "C'est pas si mal une fois qu'on s'y est habitué. J'y pense même plus."
+    bai "C'est pas si mal une fois qu'on s'y habitue. J'y pense même plus."
 
 # game/Scenes/Bai/BaiConversations/bais2.rpy:19
 translate french bais2_7b418273:
@@ -58,5 +58,5 @@ translate french bais2_db63b2c9:
 translate french bais2_814dda71:
 
     # bai "Thanks, [pcname]. I think so too."
-    bai "Merci, [pcname]. Je le pense aussi."
+    bai "Merci, [pcname]. Je crois aussi."
 

@@ -16,7 +16,7 @@ translate french adrianwelch17_d3b5a9d0:
 translate french adrianwelch17_c013dd48:
 
     # sst "Oh shit! We can't let her see us!"
-    sst "Oh merde ! On ne peut pas la laisser nous voir !"
+    sst "Oh merde ! Il faut pas qu'elle nous voie !"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:27
 translate french adrianwelch17_72676937:
@@ -34,7 +34,7 @@ translate french adrianwelch17_b33f03f0:
 translate french adrianwelch17_f1d0216e:
 
     # pc "Yep. She's coming this way."
-    pc "Ouais. Elle vient par là."
+    pc "Ouais. Elle vient par ici."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:30
 translate french adrianwelch17_7689680b:
@@ -52,13 +52,13 @@ translate french adrianwelch17_9bbbe9b2:
 translate french adrianwelch17_3c24b184:
 
     # gg "Oh um, hi Ms. Welch. What are you doing down there?"
-    gg "Oh euh, bonjour Mme Welch. Qu'est-ce que tu fais là-dessous ?"
+    gg "Oh euh, bonjour Mme Welch. Qu'est-ce que vous faites là-dessous ?"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:35
 translate french adrianwelch17_775c3e88:
 
     # sst "Oh, I just dropped my earring."
-    sst "Oh, j'ai juste fait tomber ma boucle d'oreille."
+    sst "Oh, j'ai fait tomber ma boucle d'oreille."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:36
 translate french adrianwelch17_7bf2a35f:
@@ -76,13 +76,13 @@ translate french adrianwelch17_9f64ab4d:
 translate french adrianwelch17_d4cc85fd:
 
     # sst "Yes, but not like a date or anything!"
-    sst "Oui, mais pas pour un rendez-vous galant ou quoi que ce soit !"
+    sst "Oui, mais pas pour un rendez-vous ou quoi que ce soit !"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:41
 translate french adrianwelch17_a49facad:
 
     # sst "Hahahahahahaha! That would be ridiculous."
-    sst "Hahahahahahaha ! Ce serait ridicule."
+    sst "Hahahahahahaha ! Ça serait ridicule."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:42
 translate french adrianwelch17_91310f7f:
@@ -148,7 +148,7 @@ translate french adrianwelch17_a274f640:
 translate french adrianwelch17_19f1059d:
 
     # sst "Oh um, that's not really appropriate for a teacher to hear..."
-    sst "Oh euh, ce n’est pas vraiment approprié pour une prof d’entendre ça…"
+    sst "Oh, euh, ce n’est pas vraiment approprié pour une prof d’entendre ça…"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:57
 translate french adrianwelch17_f3e85f59:
@@ -160,7 +160,7 @@ translate french adrianwelch17_f3e85f59:
 translate french adrianwelch17_cf63c87e:
 
     # gg "I'm just fucking with you, Ms. Welch!"
-    gg "Je te fais juste chier, Mme Welch !"
+    gg "Je vous fais marcher, Mme Welch !"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:61
 translate french adrianwelch17_0ffed73a:
@@ -178,13 +178,13 @@ translate french adrianwelch17_6de793c9:
 translate french adrianwelch17_e0c2bc47:
 
     # gg "It's fine, I'm not going to tell anybody."
-    gg "C'est bon, je ne le dirai à personne."
+    gg "C'est bon, je le dirai à personne."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:64
 translate french adrianwelch17_0bceaea1:
 
     # pc "She's not going to tell anybody."
-    pc "Elle ne le dira à personne."
+    pc "Elle le dira à personne."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:65
 translate french adrianwelch17_7896a107:
@@ -196,31 +196,31 @@ translate french adrianwelch17_7896a107:
 translate french adrianwelch17_eec75cf3:
 
     # sst "Okay, but you really cannot tell anybody, Adrian."
-    sst "D'accord, mais tu ne dois vraiment le dire à personne, Adrian."
+    sst "D'accord, mais tu dois vraiment le dire à personne, Adrian."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:69
 translate french adrianwelch17_b03624e0:
 
     # gg "Don't worry, my lips are sealed. I can keep a secret."
-    gg "Ne t'inquiète pas, je ne dirai rien. Je sais garder un secret."
+    gg "Vous en faites, je dirai rien. Je sais garder un secret."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:70
 translate french adrianwelch17_76b2bf4b:
 
     # sst "Good. Hopefully better than [pcname] can."
-    sst "Bien. Espérons que tu sois plus doué que [pcname]."
+    sst "Bien. Espérons que tu les gardes mieux que [pcname]."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:71
 translate french adrianwelch17_5f36c151:
 
     # gg "I think he was just hoping something like this would happen."
-    gg "Je pense qu'il espérait juste que quelque chose comme ça arrive."
+    gg "À mon avis, il espérait qu'un truc comme ça arrive."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:72
 translate french adrianwelch17_9a82e5d1:
 
     # sst "Something like what?"
-    sst "Quel genre de chose ?"
+    sst "Quel genre de truc ?"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:73
 translate french adrianwelch17_d83b6468:
@@ -244,7 +244,7 @@ translate french adrianwelch17_1c0b622d:
 translate french adrianwelch17_114b0240:
 
     # gg "Are you kidding? You're so hot. It'd be amazing."
-    gg "Tu plaisantes ? Tu es tellement sexy. Ce serait génial."
+    gg "Vous plaisantez ? Vous êtes tellement sexy. Ce serait génial."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:79
 translate french adrianwelch17_ad0d4225:
@@ -256,7 +256,7 @@ translate french adrianwelch17_ad0d4225:
 translate french adrianwelch17_0109abf9:
 
     # gg "Oh, shut up."
-    gg "Oh, tais-toi."
+    gg "Hmmm, merci."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:81
 translate french adrianwelch17_9eebb5bc:
@@ -274,13 +274,13 @@ translate french adrianwelch17_166d2573:
 translate french adrianwelch17_1bfe4ffe:
 
     # sst "I haven't gotten that treat yet."
-    sst "Je n’ai pas encore eu ce petit plaisir."
+    sst "J’ai pas encore eu ce petit plaisir."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:84
 translate french adrianwelch17_51bba52f:
 
     # gg "Oh you should."
-    gg "Oh, tu devrais."
+    gg "Oh, vous devriez."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:85
 translate french adrianwelch17_91341cdf:
@@ -310,7 +310,7 @@ translate french adrianwelch17_279cd3c1:
 translate french adrianwelch17_e808ea17:
 
     # sst "Damn, I'm such a slut."
-    sst "Merde, je suis une vraie salope."
+    sst "Bordel, je suis une vraie traînée."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:94
 translate french adrianwelch17_07452095:
@@ -358,7 +358,7 @@ translate french adrianwelch17_fc4c1821:
 translate french adrianwelch17_619112f4:
 
     # sst "Fuck, I'm so turned on right now."
-    sst "Putain, je suis tellement excité là."
+    sst "Putain, je suis tellement excitée."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:104
 translate french adrianwelch17_5e4c2f99:
@@ -400,7 +400,7 @@ translate french adrianwelch17_472d7391:
 translate french adrianwelch17_57fce638:
 
     # sst "It's so damn tasty."
-    sst "C'est tellement bon."
+    sst "Elle est délicieuse."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:115
 translate french adrianwelch17_2711afe6:
@@ -430,7 +430,7 @@ translate french adrianwelch17_78e67557:
 translate french adrianwelch17_eb6d88d1:
 
     # sst "I didn't think I could be more attracted to you."
-    sst "Je ne pensais pas pouvoir être encore plus attirée par toi."
+    sst "Je pensais pas que tu pouvais m'attirer encore plus."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:126
 translate french adrianwelch17_d4b5d95b:
@@ -460,7 +460,7 @@ translate french adrianwelch17_5e047749:
 translate french adrianwelch17_fa387da9:
 
     # sst "Your loss."
-    sst "C'est toi qui y perds."
+    sst "C'est toi qui vois."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:132
 translate french adrianwelch17_2b92092a:
@@ -478,13 +478,13 @@ translate french adrianwelch17_e9aa9938:
 translate french adrianwelch17_142dc900:
 
     # sst "Fuck, she's good at eating pussy too."
-    sst "Putain, elle est douée pour lécher des chattes aussi."
+    sst "Putain, elle est aussi douée pour lécher des chattes."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:138
 translate french adrianwelch17_e1b99333:
 
     # gg "Really?"
-    gg "Vraiment ?"
+    gg "Ah oui ?"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:140
 translate french adrianwelch17_bdd35892:
@@ -496,19 +496,19 @@ translate french adrianwelch17_bdd35892:
 translate french adrianwelch17_10ba9daa:
 
     # gg "I've never actually done it before."
-    gg "En fait, je ne l'ai jamais fait avant."
+    gg "En fait, je l'ai jamais fait avant."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:143
 translate french adrianwelch17_bea0d0e1:
 
     # sst "You're a natural. Just keep doing what you're doing."
-    sst "Tu es douée. Continue juste comme ça."
+    sst "Ça te vient tout seul. Continue comme ça."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:144
 translate french adrianwelch17_04a42a10:
 
     # sst "So, which one of us are you going to fuck first, [pcname]?"
-    sst "Alors, laquelle de nous vas-tu baiser en premier, [pcname] ?"
+    sst "Alors, laquelle de nous tu vas baiser en premier, [pcname] ?"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:152
 translate french fuckadrian17_236cdc2d:
@@ -586,7 +586,7 @@ translate french fucknora17_9f25cfed:
 translate french fucknora17_43b6a44a:
 
     # gg "Ugh, and she's sucking my dick so good."
-    gg "Ah, et elle me suce si bien."
+    gg "Ah, et elle me suce tellement bien."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:175
 translate french fucknora17_360c71b2:
@@ -610,7 +610,7 @@ translate french fucknora17_38cdf322:
 translate french fucknora17_b9c07940:
 
     # sst "Get over here and fuck her some too, baby."
-    sst "Viens ici et baise-la aussi, bébé."
+    sst "Viens par là et baise-la aussi, bébé."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:182
 translate french fucknora17_a74c9684:
@@ -658,13 +658,13 @@ translate french fucknora17_6cb87d7e:
 translate french fucknora17_22f885c5:
 
     # sst "It's so sexy when you just can't help yourself."
-    sst "C'est tellement sexy quand tu ne peux pas te retenir."
+    sst "C'est tellement sexy quand tu peux pas te retenir."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:196
 translate french fucknora17_001c29f4:
 
     # gg "You were making me feel too good."
-    gg "Tu me faisais trop de bien."
+    gg "Vous étiez trop douée."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:197
 translate french fucknora17_9101b867:
@@ -700,13 +700,13 @@ translate french fucknora17_6102653b:
 translate french fucknora17_18cdf4be:
 
     # sst "But it feels really fucking good."
-    sst "Mais ça fait vraiment trop de bien."
+    sst "Mais c'est vraiment bon."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:207
 translate french fucknora17_6e0d383b:
 
     # gg "You look so sexy, Ms. Welch."
-    gg "Tu es tellement sexy, Mme Welch."
+    gg "Vous êtes tellement sexy, Mme Welch."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:210
 translate french fucknora17_e3bdda50:
@@ -760,7 +760,7 @@ translate french fucknora17_454d92f2:
 translate french fucknora17_929aa39e:
 
     # gg "Yeah. Seeing you like this, I can't help it."
-    gg "Ouais. En te voyant comme ça, je ne peux pas m'en empêcher."
+    gg "Ouais. En vous voyant comme ça, je peux pas m'en empêcher."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:222
 translate french fucknora17_7b44c042:
@@ -808,7 +808,7 @@ translate french fucknora17_373676be:
 translate french fucknora17_b6412577:
 
     # sst "Fuuuck!"
-    sst "Putain !"
+    sst "Aaaaaah !"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:235
 translate french fucknora17_62780053:
@@ -826,7 +826,7 @@ translate french fucknora17_fd2d2743:
 translate french fucknora17_b4d797c8:
 
     # gg "Fuck, I'm about to cum again!"
-    gg "Putain, je vais jouir encore !"
+    gg "Putain, je vais encore jouir !"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:238
 translate french fucknora17_3f852f8d:
@@ -874,13 +874,13 @@ translate french fucknora17_2adbf44b:
 translate french fucknora17_71d292bd:
 
     # sst "It felt amazing. I've never been DP'd before."
-    sst "C'était incroyable. Je n'avais jamais fait de double pénétration avant."
+    sst "C'était incroyable. J'avais jamais fait de double pénétration avant."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:252
 translate french fucknora17_7b46b5b9:
 
     # gg "Really? That's so cool that I get to be your first."
-    gg "Vraiment ? C'est trop cool que je sois ta première."
+    gg "Vraiment ? C'est trop cool que je sois votre première."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:255
 translate french fucknora17_bbd5ba81:
@@ -892,13 +892,13 @@ translate french fucknora17_bbd5ba81:
 translate french fucknora17_fe3d6724:
 
     # gg "I can't. I told my mom I'd be home after the movie. And I have some studying to do."
-    gg "Je ne peux pas. J'ai dit à ma mère que je rentrerais après le film. Et j'ai des révisions à faire."
+    gg "Je peux pas. J'ai dit à ma mère que je rentrerais après le film. Et j'ai des révisions à faire."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:257
 translate french fucknora17_1d6d3470:
 
     # gg "Unless you want to just give me an A on the test? I'll eat your pussy in the morning."
-    gg "À moins que tu ne veuilles juste me donner un A à l'examen ? Je te lécherai la chatte demain matin."
+    gg "Ou alors vous me mettez directement 20 à l'examen ? Je vous lécherai la chatte demain matin."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:258
 translate french fucknora17_947146dc:
@@ -928,7 +928,7 @@ translate french fucknora17_67fdd1e7:
 translate french fucknora17_eb96a753:
 
     # gg "Teacher's pet."
-    gg "Le chouchou du prof."
+    gg "Chouchou du prof."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:265
 translate french fucknora17_61663d99:
@@ -952,7 +952,7 @@ translate french fucknora17_dbeb13b8:
 translate french fucknora17_c4759256:
 
     # sst "I'm glad. You're absolutely beautiful. Anybody would be lucky to be with you."
-    sst "Je suis contente. Tu es absolument magnifique. N’importe qui aurait de la chance d’être avec toi."
+    sst "Tant mieux. Tu es absolument magnifique. N’importe qui aurait de la chance d’être avec toi."
 
 # game/Scenes/Adrian/adrianwelch17.rpy:271
 translate french fucknora17_924ced68:
@@ -1084,7 +1084,7 @@ translate french fucknora17_7cbc097c:
 translate french fucknora17_3eee68cd:
 
     # pc "How about some coffee?"
-    pc "Un café, ça te dit ?"
+    pc "Un café, par exemple ?"
 
 # game/Scenes/Adrian/adrianwelch17.rpy:307
 translate french fucknora17_6bfd1ee8:

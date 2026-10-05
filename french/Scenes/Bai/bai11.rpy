@@ -34,7 +34,7 @@ translate french bai11_07920111:
 translate french bai11_93aa70de:
 
     # pc "I mean, yeah, if that's what you want."
-    pc "Je veux dire, ouais, si c'est ce que tu veux."
+    pc "Oui, si c'est ce que tu veux."
 
 # game/Scenes/Bai/bai11.rpy:18
 translate french bai11_c6e9d5fb:
@@ -52,7 +52,7 @@ translate french bai11_c01ba50c:
 translate french bai11_fcf981ac:
 
     # "He slides down between my legs and starts licking the tip of my cock."
-    "Il se glisse entre mes jambes et commence à lécher le bout de ma bite."
+    "Il se glisse entre mes jambes et commence à me lécher le bout de la bite."
 
 # game/Scenes/Bai/bai11.rpy:23
 translate french bai11_b4f7af1c:
@@ -76,7 +76,7 @@ translate french bai11_ff42d18a:
 translate french bai11_2c743de3:
 
     # "After a few minutes though, he stops and moves."
-    "Au bout de quelques minutes cependant, il s’arrête et bouge."
+    "Mais au bout de quelques minutes, il s’arrête et bouge."
 
 # game/Scenes/Bai/bai11.rpy:30
 translate french bai11_7eab217a:
@@ -94,7 +94,7 @@ translate french bai11_004a96d1:
 translate french bai11_13cc588a:
 
     # "I wrap my arms around him, pulling his back against my chest, my cock poking into him from behind."
-    "J’enroule mes bras autour de lui, attirant son dos contre ma poitrine, ma bite le pénétrant par derrière."
+    "J’enroule mes bras autour de lui, attirant son dos contre ma poitrine, ma bite le titillant par derrière."
 
 # game/Scenes/Bai/bai11.rpy:35
 translate french bai11_e340e858:
@@ -118,7 +118,7 @@ translate french bai11_1f199495:
 translate french bai11_f79f35ab:
 
     # pc "If it doesn't feel good, we'll stop."
-    pc "Si ça ne te fait pas plaisir, on s’arrêtera."
+    pc "Si ça ne te fait pas plaisir, on arrêtera."
 
 # game/Scenes/Bai/bai11.rpy:39
 translate french bai11_81a0df55:
@@ -160,7 +160,7 @@ translate french bai11_6cd6b164:
 translate french bai11_aad74e70:
 
     # bai "It does feel good."
-    bai "Ça fait du bien."
+    bai "C'est vrai que ça fait du bien."
 
 # game/Scenes/Bai/bai11.rpy:50
 translate french bai11_fd4aed33:
@@ -190,7 +190,7 @@ translate french bai11_73c71afa:
 translate french bai11_61c5e288:
 
     # pc "It's okay. We're just having fun here. No reason to be nervous."
-    pc "C’est bon. On s’amuse juste un peu. Y a pas de raison d’être nerveux."
+    pc "C’est bon. On ne fait que s'amuser. Y a pas de raison d’être nerveux."
 
 # game/Scenes/Bai/bai11.rpy:55
 translate french bai11_0b31d3f0:
@@ -202,7 +202,7 @@ translate french bai11_0b31d3f0:
 translate french bai11_a0e481a1:
 
     # "After a couple of minutes, he begins to relax more, and even starts moaning as I finger him."
-    "Au bout de quelques minutes, il commence à se détendre davantage, et se met même à gémir quand je le doigte."
+    "Au bout de quelques minutes, il commence à se détendre davantage, et se met même à gémir."
 
 # game/Scenes/Bai/bai11.rpy:57
 translate french bai11_94543112:
@@ -256,7 +256,7 @@ translate french bai11_4c0b3d7a:
 translate french bai11_6d162f4b:
 
     # bai "Oh shit."
-    bai "Oh merde."
+    bai "Oh putain."
 
 # game/Scenes/Bai/bai11.rpy:70
 translate french bai11_c5847b6b_1:
@@ -334,7 +334,7 @@ translate french bai11_f57ce488:
 translate french bai11_abf1fbc3:
 
     # bai "I've dreamed about this for so long."
-    bai "J'en rêve depuis si longtemps."
+    bai "J'en rêve depuis tellement longtemps."
 
 # game/Scenes/Bai/bai11.rpy:86
 translate french bai11_08d3ee98:
@@ -352,7 +352,7 @@ translate french bai11_8dcc4cea:
 translate french bai11_9bd64e57:
 
     # "I keep gently moving back and forth, focusing on making him feel good, cuddling with him while we fuck."
-    "Je continue à aller et venir doucement, en me concentrant pour lui faire du bien, en le câlinant pendant qu’on baise."
+    "Je continue à aller et venir doucement, je me concentre sur son plaisir, en le câlinant pendant qu’on baise."
 
 # game/Scenes/Bai/bai11.rpy:89
 translate french bai11_4a787d07:
@@ -478,13 +478,13 @@ translate french bai11_76c3ff3d:
 translate french bai11_b7e2f8e3:
 
     # bai "Oh fuuuuuck."
-    bai "Oh putain."
+    bai "Oh la vaaaache."
 
 # game/Scenes/Bai/bai11.rpy:116
 translate french bai11_b1971380:
 
     # bai "It's so deep inside of me. I can feel it. It's hot."
-    bai "C'est si profond en moi. Je le sens. C'est chaud."
+    bai "C'est tellement loin en moi. Je le sens. C'est chaud."
 
 # game/Scenes/Bai/bai11.rpy:117
 translate french bai11_9028d9f0:
@@ -508,31 +508,31 @@ translate french bai11_f1800c86:
 translate french bai11_1345f51a:
 
     # bai "Like, your cock has been inside of me for so long, I feel strangely empty when you pull it out."
-    bai "C'est comme si ta bite avait été en moi depuis si longtemps que je me sens étrangement vide quand tu la retires."
+    bai "En fait, ta bite avait été en moi tellement de temps, que je me sens étrangement vide quand tu la retires."
 
 # game/Scenes/Bai/bai11.rpy:125
 translate french bai11_f9f21209:
 
     # bai "God, I can't believe how great that was. I was not expecting it to feel that good."
-    bai "Mon Dieu, je n'arrive pas à croire à quel point c'était génial. Je ne m'attendais pas à ce que ce soit aussi bon."
+    bai "Mon Dieu, j'arrive pas à croire à quel point c'était génial. Je m'attendais pas à ce que ce soit aussi bon."
 
 # game/Scenes/Bai/bai11.rpy:126
 translate french bai11_160d0bc0:
 
     # pc "It didn't hurt?"
-    pc "Ça t'a fait mal ?"
+    pc "T'as pas eu mal ?"
 
 # game/Scenes/Bai/bai11.rpy:127
 translate french bai11_2dea955c:
 
     # bai "No, it did at first. And I think I'll probably be feeling it more later. But the good feelings far outweighed the bad."
-    bai "Non, ça m'a fait mal au début. Et je pense que je vais probablement le sentir davantage plus tard. Mais les bonnes sensations l'ont largement emporté sur les mauvaises."
+    bai "Si, au début. Et je pense que je le sentirai encore plus tout à l'heure. Mais les bonnes sensations l'emportent largement sur les mauvaises."
 
 # game/Scenes/Bai/bai11.rpy:128
 translate french bai11_2253faed:
 
     # bai "I even came without touching my dick? I didn't know that was possible."
-    bai "J'ai même joui sans toucher ma bite ? Je ne savais pas que c'était possible."
+    bai "J'ai même joui sans toucher ma bite ? Je savais pas que c'était possible."
 
 # game/Scenes/Bai/bai11.rpy:129
 translate french bai11_5e1b6042:
@@ -544,7 +544,7 @@ translate french bai11_5e1b6042:
 translate french bai11_bf9f6a42:
 
     # bai "Do you want to stay the night? I don't want you to stop holding me."
-    bai "Tu veux passer la nuit ici ? Je ne veux pas que tu arrêtes de me serrer dans tes bras."
+    bai "Tu veux passer la nuit ici ? Je veux que tu continues de me serrer dans tes bras."
 
 # game/Scenes/Bai/bai11.rpy:131
 translate french bai11_61f77a4c:
@@ -622,7 +622,7 @@ translate french bai11_ab34b566:
 translate french bai11_bcc2966a:
 
     # bai "Like, when I was dating before, I was never happy with girls, you know?"
-    bai "Genre, quand je sortais avec des filles avant, je n'étais jamais heureux avec elles, tu vois ?"
+    bai "Genre, quand je sortais avec des filles avant, j'étais jamais heureux avec elles, tu vois ?"
 
 # game/Scenes/Bai/bai11.rpy:150
 translate french bai11_cc63ae48:
@@ -646,7 +646,7 @@ translate french bai11_7aac201b:
 translate french bai11_ee0a6823:
 
     # bai "But now... wow. It's like my dreams literally came true. And now, I want more."
-    bai "Mais maintenant… waouh. C’est comme si mes rêves s’étaient littéralement réalisés. Et maintenant, j’en veux plus."
+    bai "Mais maintenant… waouh. C’est comme si mes rêves s’étaient littéralement réalisés. Et maintenant, j’en veux encore."
 
 # game/Scenes/Bai/bai11.rpy:156
 translate french bai11_e3dc3437:
@@ -676,7 +676,7 @@ translate french bai11_86953c47:
 translate french bai11_18325f53:
 
     # "We sit and chat for a while longer, but eventually he rolls over and we close our eyes, falling into a deep relaxation."
-    "On reste assis à discuter encore un moment, mais finalement il se retourne et on ferme les yeux, sombrant dans une profonde détente."
+    "On reste assis à discuter encore un moment, mais finalement il se retourne et on ferme les yeux."
 
 # game/Scenes/Bai/bai11.rpy:163
 translate french bai11_eb9a598b:
@@ -706,13 +706,13 @@ translate french bai11_6e9594b1:
 translate french bai11_b6b3e6f0:
 
     # "I take a look at my phone and see that it's a little after six. I'll need to get ready to go to school soon."
-    "Je jette un œil à mon téléphone et je vois qu’il est un peu plus de six heures. Je vais devoir me préparer pour aller à l’école bientôt."
+    "Je jette un œil à mon téléphone et je vois qu’il est un peu plus de six heures. Je vais bientôt devoir me préparer pour aller à la fac."
 
 # game/Scenes/Bai/bai11.rpy:175
 translate french bai11_0357a55a:
 
     # "I walk out of the bedroom and see Bai doing some sort of exercises in the living room."
-    "Je sors de la chambre et je vois Bai faire une sorte d’exercices dans le salon."
+    "Je sors de la chambre et je vois Bai faire des exercices dans le salon."
 
 # game/Scenes/Bai/bai11.rpy:176
 translate french bai11_fe0bdf4c:
@@ -724,19 +724,19 @@ translate french bai11_fe0bdf4c:
 translate french bai11_b61ba038:
 
     # bai "Oh hey, [pcname]. Good morning. I'm just doing my morning exercises."
-    bai "Oh salut, [pcname]. Bonjour. Je fais juste mes exercices matinaux."
+    bai "Ah, [pcname]. Bonjour. Je fais mes exercices matinaux."
 
 # game/Scenes/Bai/bai11.rpy:180
 translate french bai11_19701553:
 
     # bai "I didn't wake you did I?"
-    bai "Je ne t'ai pas réveillée, j'espère ?"
+    bai "Je t'ai pas réveillé, j'espère ?"
 
 # game/Scenes/Bai/bai11.rpy:181
 translate french bai11_deb5296b:
 
     # pc "No, I never even knew you left the bed."
-    pc "Non, je n'ai même pas remarqué que tu t'étais levé."
+    pc "Non, j'ai même pas remarqué que tu t'étais levé."
 
 # game/Scenes/Bai/bai11.rpy:182
 translate french bai11_8ba47b78:

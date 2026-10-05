@@ -28,13 +28,13 @@ translate french baiphone_dd5c2fa9:
 translate french baiphone_b6985f40:
 
     # "We finish talking and eventually hang up."
-    "On finit de parler et on raccroche finalement."
+    "On finit de parler, puis on raccroche."
 
 # game/Scenes/Bai/baiphone.rpy:32
 translate french baiphone_b6985f40_1:
 
     # "We finish talking and eventually hang up."
-    "On finit de parler et on raccroche finalement."
+    "On finit de parler, puis on raccroche."
 
 # game/Scenes/Bai/baiphone.rpy:42
 translate french baiphone_ba759b89:
@@ -100,7 +100,7 @@ translate french baiphone_58718e01:
 translate french baiphone_c4742eee:
 
     # bai "I'd love that. Let's do it."
-    bai "J'adorerais ça. Allons-y."
+    bai "Ouais. J'adorerais ça."
 
 # game/Scenes/Bai/baiphone.rpy:62
 translate french baiphone_3a508aad:
@@ -166,7 +166,7 @@ translate french strings:
 
     # game/Scenes/Bai/baiphone.rpy:30
     old "Just chat (NEW CONVOS)"
-    new "Juste discuter (NOUVELLES CONVERSATIONS)"
+    new "Discuter (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/baiphone.rpy:40
     old "Let's just be friends"
@@ -182,13 +182,13 @@ translate french strings:
 
     # game/Scenes/Bai/baiphone.rpy:75
     old "Go out? (NEW CONTENT)"
-    new "On sort ensemble ? (NOUVEAU CONTENU)"
+    new "On sort ? (NOUVEAU CONTENU)"
 
     # game/Scenes/Bai/baiphone.rpy:78
     old "Threesome with Adrian"
-    new "Partie à trois avec Adrian"
+    new "Plan à trois avec Adrian"
 
     # game/Scenes/Bai/baiphone.rpy:80
     old "Nevermind"
-    new "Laisse tomber"
+    new "C'est rien"
 

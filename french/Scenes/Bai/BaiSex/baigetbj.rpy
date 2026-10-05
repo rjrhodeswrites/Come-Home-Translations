@@ -4,13 +4,13 @@
 translate french baigetbj_fff3f70c:
 
     # pc "I was kind of thinking how good it feels when my dick is in your mouth?"
-    pc "Je me disais justement à quel point c'est bon quand ma bite est dans ta bouche ?"
+    pc "Je me disais justement que j'adore sentir ma bite dans ta bouche."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:12
 translate french baigetbj_1713877f:
 
     # bai "Oh yeah? That does sound pretty nice."
-    bai "Ah oui ? Ça a l'air plutôt sympa."
+    bai "Ah oui ? C'est vrai que ça doit être bien."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:18
 translate french baigetbj_5ac372d1:
@@ -46,7 +46,7 @@ translate french baigetbj_ff2d5e20:
 translate french baigetbj_971bf3bf:
 
     # "Then his tongue touches my balls, licking the underside of my sack and tracing a wide line upwards to the shaft."
-    "Puis sa langue touche mes couilles, léchant le dessous de mon scrotum et traçant une large ligne vers le haut jusqu’au corps de la bite."
+    "Puis sa langue touche mes couilles, léchant le dessous de mon scrotum et traçant une grande ligne vers le haut jusqu’à la bite."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:29
 translate french baigetbj_6376665a:
@@ -64,19 +64,19 @@ translate french baigetbj_214a9357:
 translate french baigetbj_82e8f5b3:
 
     # pc "I mean, I don't hate it or anything."
-    pc "Je veux dire, ça ne me dérange pas, ni rien."
+    pc "Oh, ça me dérange pas le moins du monde."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:32
 translate french baigetbj_7a288311:
 
     # bai "Oh yeah? But you want your dick in my mouth?"
-    bai "Ah oui ? Mais tu veux ta bite dans ma bouche ?"
+    bai "Mais tu préfèrerais que ta bite soit dans ma bouche ?"
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:33
 translate french baigetbj_82ba066c:
 
     # pc "That sounds fantastic."
-    pc "Ça a l’air fantastique."
+    pc "J'adore cette idée."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:39
 translate french baigetbj_25fefb66:
@@ -100,7 +100,7 @@ translate french baigetbj_797e4953:
 translate french baigetbj_f9bc07d5:
 
     # "He gives the tip a little suck and teasingly rubs his tongue on the underside of my crown."
-    "Il suce un peu le gland et frotte sa langue de manière taquine sur le dessous de mon gland."
+    "Il suce un peu le gland et frotte sa langue de façon aguichante sur le dessous de mon gland."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:43
 translate french baigetbj_ac2fc58a:
@@ -136,31 +136,31 @@ translate french baigetbj_805c50d9:
 translate french baigetbj_613ad34a:
 
     # "He starts bobbing his head up and down on the end of my cock, stroking the shaft with every movement."
-    "Il commence à bouger sa tête de haut en bas sur le bout de ma bite, caressant le manche à chaque mouvement."
+    "Il commence à bouger sa tête de haut en bas sur le bout de ma bite, caressant le membre à chaque mouvement."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:54
 translate french baigetbj_78afabfd:
 
     # "His mouth feels amazing, his tongue rubbing the soft underside of my dick every time he pulls away."
-    "Sa bouche est incroyable, sa langue frotte le dessous doux de ma bite à chaque fois qu'il s'éloigne."
+    "Sa bouche est incroyable, sa langue frotte le dessous de ma bite à chaque fois qu'il se retire."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:55
 translate french baigetbj_d1f0c4a3:
 
     # pc "God, you're so good at this."
-    pc "Mon Dieu, tu es tellement doué pour ça."
+    pc "La vache, tu es vraiment bon pour ça."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:61
 translate french baigetbj_8cffdbd1:
 
     # bai "You think so? I've always thought that I'd be pretty good at giving head, but I never really got a chance to test it until you."
-    bai "Tu crois ? J’ai toujours pensé que j’étais plutôt doué pour sucer, mais je n’avais jamais vraiment eu l’occasion de le tester avant toi."
+    bai "Tu crois ? J’ai toujours pensé que j’étais plutôt doué pour sucer, mais j’avais jamais vraiment eu l’occasion de tester avant toi."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:62
 translate french baigetbj_91ccd17d:
 
     # pc "Well, I can confirm. You're great at it."
-    pc "Eh bien, je peux le confirmer. Tu es génial."
+    pc "Eh bien, je peux confirmer. Tu es très doué."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:63
 translate french baigetbj_fefb88e2:
@@ -178,19 +178,19 @@ translate french baigetbj_674df7a9:
 translate french baigetbj_071f431b:
 
     # bai "I've been wanting to try this for a while. I sometimes practice on bananas and stuff."
-    bai "Ça fait un moment que j’ai envie d’essayer ça. Je m’entraîne parfois avec des bananes et d’autres trucs."
+    bai "Ça fait un moment que j’ai envie d’essayer ça. Je me suis un peu entraîné avec des bananes ou d’autres trucs."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:66
 translate french baigetbj_7f5b192e:
 
     # pc "Hah. Okay."
-    pc "Ha. D’accord."
+    pc "Haha. D’accord."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:67
 translate french baigetbj_d4ca7eb3:
 
     # bai "Okay. Here goes."
-    bai "D'accord. C'est parti."
+    bai "OK. C'est parti."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:72
 translate french baigetbj_d5c3dc1c:
@@ -208,13 +208,13 @@ translate french baigetbj_ffc4316e:
 translate french baigetbj_25a327e3:
 
     # pc "Wow, you {i}have{/i} been practicing."
-    pc "Wow, tu {i}t'es{/i} bien entraîné."
+    pc "Wow, tu t'es vraiment entraîné."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:75
 translate french baigetbj_4444d9a8:
 
     # "He doesn't reply. He's so focused on what he's doing, taking my cock slightly deeper every time he goes down, his throat widening."
-    "Il ne répond pas. Il est tellement concentré sur ce qu'il fait, enfonçant ma bite un peu plus profondément à chaque fois qu'il descend, sa gorge s'élargissant."
+    "Il ne répond pas. Il est très concentré sur ce qu'il fait, enfonçant ma bite un peu plus profondément à chaque fois qu'il descend, sa gorge s'élargissant."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:76
 translate french baigetbj_7afd6c98:
@@ -232,7 +232,7 @@ translate french baigetbj_ab13f229:
 translate french baigetbjcuminmouth_c7b65869:
 
     # "He pulls back only slightly, stroking my cock, lips and tongue moving over the tip, practically begging for my cum."
-    "Il se recule juste un peu, caressant ma bite, ses lèvres et sa langue glissant sur le bout, me suppliant presque de jouir."
+    "Il se retire juste un peu, caressant ma bite, ses lèvres et sa langue glissant sur le bout, me suppliant presque de jouir."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:95
 translate french baigetbjcuminmouth_ade97ae6:
@@ -292,13 +292,13 @@ translate french baigetbjcuminmouth_88acb3ef:
 translate french baigetbjcumonface_2621bf1c:
 
     # pc "I think it'd be super hot if I came all over your face."
-    pc "Je pense que ce serait super excitant si je jouissais sur ton visage."
+    pc "Ce serait super excitant que je jouisse sur ton visage."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:117
 translate french baigetbjcumonface_8d31d44a:
 
     # bai "Oh, okay."
-    bai "Oh, d’accord."
+    bai "Hmm, d’accord."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:123
 translate french baigetbjcumonface_ff1a34fd:
@@ -340,7 +340,7 @@ translate french baigetbjcumonface_2c3a536b:
 translate french baigetbjcumonface_24fe02bc:
 
     # bai "Haha! You're right, that was pretty hot."
-    bai "Haha ! T'as raison, c'était plutôt excitant."
+    bai "Haha ! T'avais raison, c'était plutôt chaud."
 
 # game/Scenes/Bai/BaiSex/baigetbj.rpy:138
 translate french baigetbjcumonface_c75a1526:

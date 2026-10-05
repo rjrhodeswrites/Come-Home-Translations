@@ -4,19 +4,19 @@
 translate french adrian0b_1a83f3a4:
 
     # gg "Sure, I'm just playing a game. I can pause it."
-    gg "Bien sûr, je suis juste en train de jouer. Je peux mettre le jeu en pause."
+    gg "Oui, je suis juste en train de jouer. Je peux mettre pause."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:14
 translate french adrian0b_51cba8b4:
 
     # gg "Text me your address and I'll head over right now."
-    gg "Envoie-moi ton adresse par SMS et j'arrive tout de suite."
+    gg "Envoie-moi ton adresse et j'arrive tout de suite."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:15
 translate french adrian0b_08551511:
 
     # pc "You got it."
-    pc "D'accord."
+    pc "Je te l'envoie."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:16
 translate french adrian0b_fc3a8142:
@@ -52,13 +52,13 @@ translate french adrian0b_e7f63749:
 translate french adrian0b_c876ef37:
 
     # gg "Hey. Nice house. You live here all by yourself?"
-    gg "Salut. Jolie maison. Tu vis ici toute seule ?"
+    gg "Salut. Jolie maison. Tu vis ici tout seul ?"
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:27
 translate french adrian0b_b37f8bf7:
 
     # pc "No, my [mother] and [sister] live here too."
-    pc "Non, mes [mother] et [sister] vivent ici aussi."
+    pc "Non, ma [mother] et ma [sister] vivent ici aussi."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:28
 translate french adrian0b_17acd33b:
@@ -94,7 +94,7 @@ translate french adrian0b_60860dd1:
 translate french adrian0b_6980cd20:
 
     # gg "Chill! I'm just kidding."
-    gg "Relaxe ! Je plaisante."
+    gg "Relax ! Je plaisante."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:38
 translate french adrian0b_9ad7d2ff:
@@ -136,7 +136,7 @@ translate french adrian0b_73f7e237:
 translate french adrian0b_2e32e5c5:
 
     # pc "Getting anywhere?"
-    pc "Ça avance ?"
+    pc "tu t'en sors ?"
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:50
 translate french adrian0b_0dfb0eef:
@@ -160,7 +160,7 @@ translate french adrian0b_d41d8cd9:
 translate french adrian0b_c81f714e:
 
     # gg "Just have to change this registry key."
-    gg "Il suffit de changer cette clé de registre."
+    gg "Plus qu'à changer cette clé de registre."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:58
 translate french adrian0b_d41d8cd9_1:
@@ -172,7 +172,7 @@ translate french adrian0b_d41d8cd9_1:
 translate french adrian0b_3ce63d82:
 
     # gg "This should let me remove the password."
-    gg "Ça devrait me permettre de supprimer le mot de passe."
+    gg "Comme ça je peux supprimer le mot de passe."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:61
 translate french adrian0b_d41d8cd9_2:
@@ -184,7 +184,7 @@ translate french adrian0b_d41d8cd9_2:
 translate french adrian0b_b0e950f4:
 
     # gg "And restart the computer. Crossing fingers that it boots into the OS now."
-    gg "Et de redémarrer l'ordinateur. Je croise les doigts pour qu'il démarre dans le système d'exploitation cette fois."
+    gg "Puis redémarrer l'ordinateur. Je croise les doigts pour qu'il démarre dans le système d'exploitation cette fois."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:66
 translate french adrian0b_d41d8cd9_3:
@@ -208,7 +208,7 @@ translate french adrian0b_76aeaa20:
 translate french adrian0b_87368b21:
 
     # gg "Yeah I did."
-    gg "Oui, j'ai réussi."
+    gg "Oh que oui."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:72
 translate french adrian0b_0f8b8b53:
@@ -220,7 +220,7 @@ translate french adrian0b_0f8b8b53:
 translate french adrian0b_7af8b448:
 
     # gg "Yeah I am."
-    gg "Oui, je le suis."
+    gg "Comme tu dis."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:74
 translate french adrian0b_56e1b85b:
@@ -232,7 +232,7 @@ translate french adrian0b_56e1b85b:
 translate french adrian0b_caf0b222:
 
     # pc "Thanks. You've been a huge help."
-    pc "Merci. Tu m'as été d'une grande aide."
+    pc "Merci. T'as été d'une grande aide."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:76
 translate french adrian0b_1c09e775:
@@ -274,7 +274,7 @@ translate french adrian0b_89ee1f12:
 translate french adrian0b_ffc439c3:
 
     # gg "I'll let myself out. I know the way. See you later, [pcname]."
-    gg "Je vais sortir toute seule. Je connais le chemin. À plus tard, [pcname]."
+    gg "Je sors par moi-même. Je connais le chemin. À plus tard, [pcname]."
 
 # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:86
 translate french adrian0b_918b9abb:
@@ -302,5 +302,5 @@ translate french strings:
 
     # game/Scenes/Adrian/0b Adrian Looks at Dad Laptop.rpy:3
     old "call her and ask her to come over to help with your dad's laptop in the evening or on weekends before night."
-    new "appelle-la et demande-lui de passer t'aider avec l'ordinateur portable de ton père ce soir ou ce week-end avant la tombée de la nuit."
+    new "appelle-la et demande-lui de passer t'aider avec l'ordinateur portable de ton père le soir ou le week-end avant la nuit."
 

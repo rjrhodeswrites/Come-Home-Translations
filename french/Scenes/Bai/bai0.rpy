@@ -10,7 +10,7 @@ translate french bai0_83c73565:
 translate french bai0_c5b78178:
 
     # bai "Hey there, welcome to Café Skyhill. I'm Bai."
-    bai "Salut, bienvenue au Café Skyhill. Je m'appelle Bai."
+    bai "Salut, bienvenue au Skyhill Café. Je m'appelle Bai."
 
 # game/Scenes/Bai/bai0.rpy:19
 translate french bai0_55b3e59a:
@@ -46,7 +46,7 @@ translate french bai0_382ad008:
 translate french bai0_cbbfd1c4:
 
     # bai "And no offense to Juliana, but I definitely make the better latte."
-    bai "Et sans vouloir offenser Juliana, mais je fais clairement un meilleur latte."
+    bai "Et sans vouloir offenser Juliana, je fais clairement un meilleur latte."
 
 # game/Scenes/Bai/bai0.rpy:26
 translate french bai0_1bf6e326:
@@ -58,7 +58,7 @@ translate french bai0_1bf6e326:
 translate french bai0_fdff6f74:
 
     # bai "Oh yeah?"
-    bai "Ah oui ?"
+    bai "Ah ouais ?"
 
 # game/Scenes/Bai/bai0.rpy:30
 translate french bai0_c417e350:
@@ -70,7 +70,7 @@ translate french bai0_c417e350:
 translate french bai0_c49fa91f:
 
     # bai "Well, okay then. Let me get something hot started for you here."
-    bai "Bon, d'accord alors. Je vais te préparer un truc chaud."
+    bai "Alors c'est parti. Je vais te préparer un truc chaud."
 
 # game/Scenes/Bai/bai0.rpy:35
 translate french bai0_1774929f:
@@ -82,13 +82,13 @@ translate french bai0_1774929f:
 translate french bai0_5ba5ebdf:
 
     # bai "Okay then, well I'll see you around."
-    bai "D'accord, eh bien, on se reverra."
+    bai "Très bien, alors à plus tard."
 
 translate french strings:
 
     # game/Scenes/Bai/bai0.rpy:2
     old "Bai works as a barrista at the Skyhill Cafe on weekday mornings."
-    new "Bai travaille comme barista au Café Skyhill les matins en semaine."
+    new "Bai travaille comme barista au Skyhill Café les matins en semaine."
 
     # game/Scenes/Bai/bai0.rpy:3
     old "Go there and order a drink from him."
@@ -96,7 +96,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai0.rpy:28
     old "Oh I'm definitely interested"
-    new "Oh, ça m'intéresse vraiment"
+    new "Oh oui, ça m'intéresse"
 
     # game/Scenes/Bai/bai0.rpy:34
     old "Yeah, I'll have a drink"

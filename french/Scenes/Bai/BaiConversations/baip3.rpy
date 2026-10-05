@@ -4,7 +4,7 @@
 translate french baip3_5031df23:
 
     # bai "Hm, probably muscles?"
-    bai "Hum, sûrement les muscles ?"
+    bai "Hum, je dirais les muscles ?"
 
 # game/Scenes/Bai/BaiConversations/baip3.rpy:14
 translate french baip3_b85341bd:
@@ -28,7 +28,7 @@ translate french baip3_1570840a:
 translate french baip3_08f01567:
 
     # bai "Yeah, I guess so."
-    bai "Ouais, je suppose."
+    bai "Ouais, je crois."
 
 # game/Scenes/Bai/BaiConversations/baip3.rpy:19
 translate french baip3_a5a03115:
@@ -40,7 +40,7 @@ translate french baip3_a5a03115:
 translate french baip3_9e13278a:
 
     # bai "Yeah. Same thing there. I'm into fit women with muscles."
-    bai "Ouais. C’est pareil. J’aime les femmes en forme avec des muscles."
+    bai "Ouais, pareil : j’aime les femmes en forme avec des muscles."
 
 # game/Scenes/Bai/BaiConversations/baip3.rpy:23
 translate french baip3_6720815c:

@@ -12,11 +12,11 @@ translate french strings:
 
     # game/Functions/help.rpy:11
     old "You need to go through all of your dad's stuff in your basement."
-    new "Tu dois trier toutes les affaires de ton père dans le sous-sol."
+    new "Tu dois fouiller toutes les affaires de ton père dans le sous-sol."
 
     # game/Functions/help.rpy:12
     old "Keep spending your spare time organizing all of his stuff."
-    new "Continue à passer ton temps libre à ranger toutes ses affaires."
+    new "Continue à passer ton temps libre à trier toutes ses affaires."
 
     # game/Functions/help.rpy:14
     old "You need to find a way to get into your dad's laptop."
@@ -104,5 +104,5 @@ translate french strings:
 
     # game/Functions/help.rpy:63
     old "You've advanced the main plot as much as you can. Focus on advancing the story for the characters you like."
-    new "Vous avez fait avancer l'intrigue principale autant que possible. Concentrez-vous sur l'évolution de l'histoire des personnages que vous appréciez."
+    new "Vous avez allé aussi loin que vous le pouvez dans l'intrigue principale. Concentrez-vous sur l'évolution de l'histoire des personnages que vous appréciez."
 

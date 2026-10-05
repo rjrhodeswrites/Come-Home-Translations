@@ -10,7 +10,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:18
     old "Where did you move here from?"
-    new "D’où viens-tu ?"
+    new "D’où tu viens ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:20
     old "What are you going to school for?"
@@ -22,7 +22,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:24
     old "Do you have any hobbies?"
-    new "Tu as des loisirs ?"
+    new "Tu as des passe-temps ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:26
     old "Have you had any serious girlfriends?"
@@ -30,7 +30,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:28
     old "Do you live by yourself?"
-    new "Tu vis tout seul ?"
+    new "Tu vis seul ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:30
     old "What were you like in high school?"
@@ -38,7 +38,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:32
     old "What is your family like?"
-    new "C'est comment ta famille ?"
+    new "Ta famille est comment ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:34
     old "Do you like to travel?"
@@ -46,7 +46,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:36
     old "What's the craziest thing you've ever done?"
-    new "C'est quoi la chose la plus folle que t'aies jamais faite ?"
+    new "C'est quoi la chose la plus dingue que t'aies jamais faite ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:38
     old "Propose a threesome with Tammy"

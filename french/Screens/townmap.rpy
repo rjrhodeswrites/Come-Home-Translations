@@ -28,7 +28,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:404
     old "Search Dad's Laptop"
-    new "Fouiller l'ordinateur portable de papa"
+    new "Fouiller l'ordinateur portable de Papa"
 
     # game/Screens/townmap.rpy:405
     old "E-mail Whitney"
@@ -48,7 +48,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:412
     old "Talk to a woman in the school cafe"
-    new "Parler à une femme à la cafétéria de l'école"
+    new "Parler à une femme à la cafétéria de la fac"
 
     # game/Screens/townmap.rpy:417
     old "Watch TV with Lisa"
@@ -80,7 +80,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:434
     old "Try the key in the basement"
-    new "Essayer la clé dans le sous-sol"
+    new "Essayer la clé au sous-sol"
 
     # game/Screens/townmap.rpy:435
     old "Tell Lisa about the safe"
@@ -104,7 +104,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:445
     old "Peek on Suzy"
-    new "Jeter un œil à Suzy"
+    new "Mater Suzy"
 
     # game/Screens/townmap.rpy:449
     old "Take Suzy and Tammy out"
@@ -140,7 +140,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:465
     old "Visit Tammy at Work"
-    new "Rendre visite à Tammy au travail"
+    new "Rendre visite à Tammy au café"
 
     # game/Screens/townmap.rpy:469
     old "MMA training with Tammy"
@@ -148,7 +148,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:471
     old "Meet the barista"
-    new "Rencontrer le barista"
+    new "Rencontrer la barista"
 
     # game/Screens/townmap.rpy:472
     old "Cheer up Suzy"
@@ -164,7 +164,7 @@ translate french strings:
 
     # game/Screens/townmap.rpy:478
     old "Visit Mari at work"
-    new "Rendre visite à Mari au travail"
+    new "Rendre visite à Mari au fast-food"
 
     # game/Screens/townmap.rpy:481
     old "Call Mari"
@@ -172,31 +172,31 @@ translate french strings:
 
     # game/Screens/townmap.rpy:484
     old "Visit Juliana at work"
-    new "Rendez visite à Juliana au travail"
+    new "Rendez visite à Juliana à la cafétéria"
 
     # game/Screens/townmap.rpy:486
     old "Get a drink at the school cafe"
-    new "Prenez un verre à la cafétéria de l'école"
+    new "Prendre un verre à la cafétéria de la fac"
 
     # game/Screens/townmap.rpy:489
     old "Call Juliana"
-    new "Appelez Juliana"
+    new "Appeler Juliana"
 
     # game/Screens/townmap.rpy:491
     old "Read Juliana's manuscript"
-    new "Lisez le manuscrit de Juliana"
+    new "Lire le manuscrit de Juliana"
 
     # game/Screens/townmap.rpy:495
     old "Go to the park"
-    new "Allez au parc"
+    new "Aller au parc"
 
     # game/Screens/townmap.rpy:496
     old "Hang out with Izzy in the park"
-    new "Passez du temps avec Izzy au parc"
+    new "Passer du temps avec Izzy au parc"
 
     # game/Screens/townmap.rpy:498
     old "Approach the gang in the park"
-    new "Abordez la bande au parc"
+    new "Aborder la bande au parc"
 
     # game/Screens/townmap.rpy:500
     old "Izzy's new job"
@@ -204,13 +204,13 @@ translate french strings:
 
     # game/Screens/townmap.rpy:501
     old "Visit Izzy at work"
-    new "Rendez visite à Izzy au travail"
+    new "Rendre visite à Izzy au fast-food"
 
     # game/Screens/townmap.rpy:504
     old "Call Kendra"
-    new "Appelez Kendra"
+    new "Appeler Kendra"
 
     # game/Screens/townmap.rpy:507
     old "Check out the skater girl again"
-    new "Regardez à nouveau la skateuse"
+    new "Retourner voir la skateuse"
 

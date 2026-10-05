@@ -4,7 +4,7 @@
 translate french bais8_d217cd50:
 
     # bai "Pretty traditional."
-    bai "Plutôt traditionnels."
+    bai "Ils sont plutôt traditionnels."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:14
 translate french bais8_0af84505:
@@ -16,7 +16,7 @@ translate french bais8_0af84505:
 translate french bais8_6f109caf:
 
     # bai "I have one older sister, who's a doctor, and a younger brother who qualified for a private school when he was 10 and graduated high school at age 15, a year before me."
-    bai "J'ai une grande sœur, qui est médecin, et un petit frère qui a été admis dans une école privée à 10 ans et a obtenu son bac à 15 ans, un an avant moi."
+    bai "J'ai une grande sœur, qui est médecin, et un petit frère qui a été admis dans un collège privé à 10 ans et était diplômé à 15 ans, un an avant moi."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:16
 translate french bais8_1cbbec02:
@@ -28,7 +28,7 @@ translate french bais8_1cbbec02:
 translate french bais8_0b766f52:
 
     # bai "It sort of is."
-    bai "C'est un peu le cas."
+    bai "Ouais, un peu."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:19
 translate french bais8_e3b5d935:
@@ -40,7 +40,7 @@ translate french bais8_e3b5d935:
 translate french bais8_c840f06f:
 
     # bai "And I'm losing, badly."
-    bai "Et je suis en train de perdre, et de loin."
+    bai "Et que je perds, de loin."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:22
 translate french bais8_721a2c39:
@@ -58,19 +58,19 @@ translate french bais8_a2a6fb65:
 translate french bais8_270bb5fd:
 
     # bai "You know. That I'm into guys."
-    bai "Tu sais bien. Le fait que j’aime les garçons."
+    bai "Tu sais bien. Le fait que j’aime les mecs."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:26
 translate french bais8_91b5dbc2:
 
     # pc "You don't think they would approve?"
-    pc "Tu ne penses pas qu’ils approuveraient ?"
+    pc "Tu penses qu’ils approuveraient pas ?"
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:27
 translate french bais8_8652bd37:
 
     # bai "I don't know for sure. Like I said, they're pretty traditional."
-    bai "Je n’en suis pas sûr. Comme je l’ai dit, ils sont assez traditionnels."
+    bai "J’en suis pas sûr. Je t'ai dit, ils sont assez traditionnels."
 
 # game/Scenes/Bai/BaiConversations/bais8.rpy:29
 translate french bais8_0ee24748:

@@ -10,13 +10,13 @@ translate french cafe_e43811ca:
 translate french cafe_675c09a8:
 
     # "When school starts on Monday it will be open all day every weekday."
-    "Quand l’école reprendra lundi, il sera ouvert toute la journée tous les jours de la semaine."
+    "À partir de la rentrée lundi, la fac sera ouverte toute la journée tous les jours de la semaine."
 
 # game/Locations/skyhillcafe.rpy:51
 translate french cafe_2aaa50c1:
 
     # "It is open all day every weekday."
-    "Il est ouvert toute la journée tous les jours de la semaine."
+    "Elle est ouverte toute la journée tous les jours de la semaine."
 
 # game/Locations/skyhillcafe.rpy:57
 translate french baiworking_b527cbbe:
@@ -88,7 +88,7 @@ translate french orderfromjuliana_7a0c1641:
 translate french orderfromjuliana_3080927e:
 
     # pc "Cool, I'll just hang around until you close up then."
-    pc "Cool, je vais juste traîner ici jusqu'à la fermeture alors."
+    pc "Cool, je vais attendre ici jusqu'à la fermeture alors."
 
 # game/Locations/skyhillcafe.rpy:117
 translate french orderfromjuliana_7c14906f:
@@ -160,7 +160,7 @@ translate french cafeordered_39720d89:
 translate french cafeordered_020a0264:
 
     # "I grab my coffee and head straight to class."
-    "Je prends mon café et me dirige directement vers la salle de cours."
+    "Je prends mon café et me dirige directement vers la fac."
 
 # game/Locations/skyhillcafe.rpy:153
 translate french cafeordered_74f8fab1:
@@ -178,7 +178,7 @@ translate french cafeordered_4b536f8e:
 translate french cafeordered_39b477df:
 
     # "I needed to make some new friends soon."
-    "Il fallait que je me fasse vite de nouveaux amis."
+    "Il faut que je me fasse vite de nouveaux amis."
 
 # game/Locations/skyhillcafe.rpy:158
 translate french cafeordered_d1b81efd:
@@ -202,7 +202,7 @@ translate french baicafeordered_17fac716:
 translate french baicafeordered_53cd5a25:
 
     # bai "Enjoy. Have a good day man, see you later."
-    bai "Bon appétit. Passe une bonne journée, mec, à plus tard."
+    bai "Profite. Passe une bonne journée, mec, à plus tard."
 
 # game/Locations/skyhillcafe.rpy:170
 translate french baicafeordered_020a0264:
@@ -226,7 +226,7 @@ translate french baicafeordered_4b536f8e:
 translate french baicafeordered_39b477df:
 
     # "I needed to make some new friends soon."
-    "Il fallait que je me fasse vite de nouveaux amis."
+    "Il faut que je me fasse vite de nouveaux amis."
 
 # game/Locations/skyhillcafe.rpy:178
 translate french baicafeordered_d1b81efd:
@@ -254,11 +254,11 @@ translate french strings:
 
     # game/Locations/skyhillcafe.rpy:74
     old "$2 - Coffee"
-    new "2 $ - Café"
+    new "2$ - Café"
 
     # game/Locations/skyhillcafe.rpy:76
     old "Nevermind. I don't want anything right now."
-    new "Peu importe. Je ne veux rien pour l’instant."
+    new "Non, en fait, je ne veux rien pour l’instant."
 
     # game/Locations/skyhillcafe.rpy:80
     old "Chat up somebody"

@@ -34,7 +34,7 @@ translate french baiq5_69b6dffa:
 translate french baiq5_2e6effe7:
 
     # bai "Honestly, I don't even mind if you keep seeing other people. As long as you come home to sleep with me."
-    bai "Honnêtement, ça ne me dérange même pas si tu continues à voir d'autres personnes. Tant que tu rentres à la maison pour dormir avec moi."
+    bai "Honnêtement, ça me dérange même pas si tu continues à voir d'autres personnes. Tant que tu rentres à la maison pour dormir avec moi."
 
 # game/Scenes/Bai/BaiConversations/baiq5.rpy:27
 translate french baiq5_2be7425b:
@@ -64,19 +64,19 @@ translate french baiq5_d3e6b1a8:
 translate french baiq5_3e39ede2:
 
     # bai "So... I've put myself out there."
-    bai "Alors... je me suis lancé."
+    bai "Bon... je me suis lancé."
 
 # game/Scenes/Bai/BaiConversations/baiq5.rpy:34
 translate french baiq5_14318bc1:
 
     # "He lets out a deep breath."
-    "Il pousse un profond soupir."
+    "Il expire profondément."
 
 # game/Scenes/Bai/BaiConversations/baiq5.rpy:36
 translate french baiq5_99cae703:
 
     # bai "What do you think?"
-    bai "Qu'en penses-tu ?"
+    bai "Qu'est-ce que t'en dis ?"
 
 # game/Scenes/Bai/BaiConversations/baiq5.rpy:37
 translate french baiq5_328ea626:
@@ -106,7 +106,7 @@ translate french baiq5_238a8ac5:
 translate french baiq5_2585f770:
 
     # bai "No problem! I don't mean to rush you or anything."
-    bai "Pas de souci ! Je ne veux pas te mettre la pression ni rien."
+    bai "Pas de souci ! Je veux pas te mettre la pression ni rien."
 
 # game/Scenes/Bai/BaiConversations/baiq5.rpy:44
 translate french baiq5_d61a3587:
@@ -124,7 +124,7 @@ translate french baiq5_08afcabd:
 translate french baiq5_6c16cd66:
 
     # pc "I think so too."
-    pc "Je le pense aussi."
+    pc "Je pense aussi."
 
 translate french strings:
 

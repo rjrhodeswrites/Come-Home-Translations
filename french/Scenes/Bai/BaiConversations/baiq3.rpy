@@ -34,7 +34,7 @@ translate french baiq3_dd23a536:
 translate french baiq3_a378c115:
 
     # bai "Wow, I put those feelings into you?"
-    bai "Wow, c'est moi qui t'ai donné ces sentiments ?"
+    bai "Wow, je t'ai donné ces sentiments ?"
 
 # game/Scenes/Bai/BaiConversations/baiq3.rpy:23
 translate french baiq3_9f00d552:
@@ -70,39 +70,39 @@ translate french baiq3_5919bd75:
 translate french baiq3_8fda37a5:
 
     # pc "Yeah, I've really only fantasized."
-    pc "Ouais, je n’ai vraiment fait que fantasmer."
+    pc "Ouais, j'ai surtout fantasmé jusque-là."
 
 # game/Scenes/Bai/BaiConversations/baiq3.rpy:33
 translate french baiq3_5d7c3768:
 
     # bai "Oh I've fantasized SO much."
-    bai "Oh, j’ai tellement fantasmé."
+    bai "Oh, j’ai TELLEMENT fantasmé."
 
 # game/Scenes/Bai/BaiConversations/baiq3.rpy:35
 translate french baiq3_946a19c2:
 
     # bai "I hope that soon I'll be able to turn some of those fantasies into realities."
-    bai "J’espère que bientôt, je pourrai transformer certains de ces fantasmes en réalité."
+    bai "J’espère que bientôt, je pourrai transformer certains de ces fantasmes en réalités."
 
 # game/Scenes/Bai/BaiConversations/baiq3.rpy:36
 translate french baiq3_e2b03193:
 
     # pc "I think you'll be able to soon."
-    pc "Je pense que tu vas bientôt pouvoir le faire."
+    pc "Je pense que bientôt, tu pourras."
 
 # game/Scenes/Bai/BaiConversations/baiq3.rpy:38
 translate french baiq3_73321933:
 
     # bai "Good. Can't wait."
-    bai "Bien. J’ai hâte."
+    bai "Cool. J’ai hâte."
 
 translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baiq3.rpy:20
     old "Not until you"
-    new "Pas avant que tu"
+    new "Pas avant toi"
 
     # game/Scenes/Bai/BaiConversations/baiq3.rpy:28
     old "Yeah I have"
-    new "Ouais, j’ai"
+    new "Ouais, ça m'est arrivé"
 

@@ -4,7 +4,7 @@
 translate french brandi7_159195bf:
 
     # "My phone starts buzzing in my pocket. Brandi is calling."
-    "Mon téléphone se met à vibrer dans ma poche. C'est Brandi qui m'appelle."
+    "Mon téléphone se met à vibrer dans ma poche. Un appel de Brandi."
 
 # game/Scenes/Brandi/brandi7.rpy:14
 translate french brandi7_bea5e8cb:
@@ -22,13 +22,13 @@ translate french brandi7_d41d8cd9:
 translate french brandi7_75679cc4:
 
     # fd "Hey, [pcname]. I was just wondering if you wanted to go to this new ice cream place with me?"
-    fd "Salut, [pcname]. Je me demandais juste si tu voulais venir avec moi dans ce nouveau glacier ?"
+    fd "Salut, [pcname]. Je me demandais juste si tu voulais venir avec moi au nouveau glacier ?"
 
 # game/Scenes/Brandi/brandi7.rpy:22
 translate french brandi7_d222f562:
 
     # fd "Okay, sure. It's kind of short notice."
-    fd "D'accord, bien sûr. C'est un peu à la dernière minute."
+    fd "D'accord, bien sûr. C'est un peu dernière minute."
 
 # game/Scenes/Brandi/brandi7.rpy:23
 translate french brandi7_c6e6ff38:
@@ -52,7 +52,7 @@ translate french brandi7_733d8765:
 translate french brandi7_38b111e9:
 
     # fd "Okay, I'll meet you there. The place is called Cream Parlour. It's over close to Jackson Burger in that little strip mall there. Do you know what I'm talking about?"
-    fd "D'accord, on se retrouve là-bas. L'endroit s'appelle Cream Parlour. C'est près de Jackson Burger, dans ce petit centre commercial là-bas. Tu vois de quoi je parle ?"
+    fd "D'accord, on se retrouve là-bas. Ça s'appelle Cream Parlour. C'est près de Jackson Burger, dans le petit centre commercial. Tu vois de quoi je parle ?"
 
 # game/Scenes/Brandi/brandi7.rpy:32
 translate french brandi7_04c7baf7:
@@ -70,7 +70,7 @@ translate french brandi7_869b3860:
 translate french brandi7_66d3a0c0:
 
     # "I drive around the block a few times, looking for this place before I spot Brandi's fiery red hair as she walks into the front door."
-    "Je fais le tour du pâté de maisons plusieurs fois, à la recherche de cet endroit, avant d’apercevoir les cheveux roux flamboyants de Brandi alors qu’elle franchit la porte d’entrée."
+    "Je fais le tour du pâté de maisons plusieurs fois, à la recherche du glacier, avant d’apercevoir les cheveux roux flamboyants de Brandi alors qu’elle franchit la porte d’entrée."
 
 # game/Scenes/Brandi/brandi7.rpy:38
 translate french brandi7_27134b8b:
@@ -268,7 +268,7 @@ translate french brandi7_ad822efd:
 translate french brandi7_f83e1eea:
 
     # fd "Oh, I got some of your cream on my lips?"
-    fd "Oh, j'ai un peu de ta glace sur les lèvres ?"
+    fd "Oh, j'ai un peu de ta crème sur les lèvres ?"
 
 # game/Scenes/Brandi/brandi7.rpy:88
 translate french brandi7_c417e350:
@@ -280,7 +280,7 @@ translate french brandi7_c417e350:
 translate french brandi7_80f63c56:
 
     # fd "Can't let that go to waste."
-    fd "Je ne vais pas laisser ça se perdre."
+    fd "Je vais pas laisser ça se perdre."
 
 # game/Scenes/Brandi/brandi7.rpy:94
 translate french brandi7_2e949ac6:
@@ -292,13 +292,13 @@ translate french brandi7_2e949ac6:
 translate french brandi7_8d458a10:
 
     # fd "All right chat, give us a topic of conversation."
-    fd "Bon, les amis, donnez-nous un sujet de conversation."
+    fd "Bon, le chat, donnez-nous un sujet de conversation."
 
 # game/Scenes/Brandi/brandi7.rpy:98
 translate french brandi7_baa02316:
 
     # fd "Oh come on, don't be gross."
-    fd "Oh allez, ne sois pas dégoûtant."
+    fd "Oh allez, soyez pas dégoûtants."
 
 # game/Scenes/Brandi/brandi7.rpy:99
 translate french brandi7_d0d5ac3c:
@@ -316,7 +316,7 @@ translate french brandi7_7b894599:
 translate french brandi7_6d6161a9:
 
     # pc "Well, I actually spent the last three years living in Brazil. So that was pretty cool."
-    pc "Eh bien, j'ai en fait passé les trois dernières années au Brésil. C'était plutôt cool."
+    pc "Eh bien, figurez-vous que j'ai passé les trois dernières années au Brésil. C'était plutôt cool."
 
 # game/Scenes/Brandi/brandi7.rpy:104
 translate french brandi7_a6f52c72:
@@ -418,7 +418,7 @@ translate french brandi7_bfb572cd:
 translate french brandi7_a816a12c:
 
     # "Then she looks at me and smiles. God, I'm so hard right now."
-    "Puis elle me regarde et sourit. Bon sang, je bande tellement en ce moment."
+    "Puis elle me regarde et sourit. Bon sang, je bande tellement, là."
 
 # game/Scenes/Brandi/brandi7.rpy:129
 translate french brandi7_9433bc97:
@@ -436,7 +436,7 @@ translate french brandi7_aa82e575:
 translate french brandi7_8711297d:
 
     # fd "You okay over there, [pcname]?"
-    fd "Ça va, là-bas, [pcname] ?"
+    fd "Tout va bien, [pcname] ?"
 
 # game/Scenes/Brandi/brandi7.rpy:134
 translate french brandi7_36d337e5:
@@ -484,7 +484,7 @@ translate french brandi7_707c0e49:
 translate french brandi7_30655a95:
 
     # pc "Yeah, you do."
-    pc "Ouais, c'est vrai."
+    pc "Ouais, c'est sûr."
 
 # game/Scenes/Brandi/brandi7.rpy:148
 translate french brandi7_4e38c625:
@@ -580,13 +580,13 @@ translate french brandi7_8cebcc25:
 translate french brandi7_71a8f6e9:
 
     # "Man, she's so hot. I'm not sure about the whole internet audience thing, but she's so hot it might be worth the hassle."
-    "Mince, elle est trop canon. Je ne suis pas sûr de tout ce truc avec le public sur Internet, mais elle est tellement canon que ça vaut peut-être le coup."
+    "Mince, elle est trop canon. Je ne suis pas sûr pour tout le côté "public sur Internet", mais elle est tellement canon que ça vaut peut-être le coup."
 
 translate french strings:
 
     # game/Scenes/Brandi/brandi7.rpy:1
     old "Have a conversation with Brandi on the phone"
-    new "Avoir une conversation avec Brandi au téléphone"
+    new "Aie une conversation avec Brandi au téléphone."
 
     # game/Scenes/Brandi/brandi7.rpy:2
     old "Then, a few days after your meal together at Luigi's, she will call you and invite you out in the evening."

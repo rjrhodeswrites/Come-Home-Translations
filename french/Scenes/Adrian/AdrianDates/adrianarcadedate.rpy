@@ -4,13 +4,13 @@
 translate french adrianarcadestartdate_93cbf6b1:
 
     # "I drive over to Adrian's house to pick her up, then she gives me directions to get to this arcade she wants to visit."
-    "Je me rends en voiture chez Adrian pour la chercher, puis elle m’indique le chemin pour aller à la salle d’arcade où elle veut aller."
+    "Je me rends en voiture chez Adrian pour aller la chercher, puis elle m’indique le chemin pour aller à la salle d’arcade où elle veut aller."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:25
 translate french adrianarcadestartdate_ef349499:
 
     # "I drive over to Adrian's house and pick her up, then we head out to the arcade."
-    "Je me rends en voiture chez Adrian pour la chercher, puis nous partons pour la salle d’arcade."
+    "Je me rends en voiture chez Adrian pour aller la chercher, puis nous partons pour la salle d’arcade."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:30
 translate french adrianarcadestartdate_049af941:
@@ -28,7 +28,7 @@ translate french adrianarcadestartdate_ca89a42d:
 translate french adrianarcadestartdate_1b8393bf:
 
     # pc "Is this like the business you want to start?"
-    pc "C’est le genre d’activité que tu veux lancer ?"
+    pc "C’est le genre d’affaire que tu veux lancer ?"
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:33
 translate french adrianarcadestartdate_cb319d99:
@@ -40,7 +40,7 @@ translate french adrianarcadestartdate_cb319d99:
 translate french adrianarcadestartdate_1dc6627f:
 
     # gg "These are all old machines, pretty beat up too. I love them, but I doubt their business is booming here."
-    gg "Ce ne sont que de vieilles machines, assez abîmées en plus. Je les adore, mais je doute que les affaires marchent très fort ici."
+    gg "C'est toutes des vieilles machines, assez abîmées en plus. Je les adore, mais je doute que les affaires marchent très fort ici."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:35
 translate french adrianarcadestartdate_b342ddbc:
@@ -76,19 +76,19 @@ translate french adrianarcadestartdate_aa98635a:
 translate french adrianarcadestartdate_b0953d82:
 
     # gg "That was fun. You're pretty good at these old games."
-    gg "C'était sympa. Tu es plutôt douée pour ces vieux jeux."
+    gg "C'était sympa. Tu es plutôt doué pour ces vieux jeux."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:61
 translate french adrianarcadestartdate_98d42c74:
 
     # pc "Thanks! I used to play these types of games with my dad as a kid all the time."
-    pc "Merci ! Quand j'étais petite, je jouais tout le temps à ce genre de jeux avec mon père."
+    pc "Merci ! Quand j'étais petit, je jouais tout le temps à ce genre de jeux avec mon père."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:62
 translate french adrianarcadestartdate_fb8d8dab:
 
     # "After we get our fill, playing most of the games in the place several times, we're both ready to leave."
-    "Après nous être bien amusés, en jouant plusieurs fois à la plupart des jeux de la salle, nous sommes tous les deux prêts à partir."
+    "On s'amuse bien, on joue plusieurs fois à la plupart des jeux de la salle, et puis on est tous les deux prêts à partir."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:66
 translate french adrianarcadestartdate_96accbe9:
@@ -118,7 +118,7 @@ translate french adrianarcadestartdate_57656827:
 translate french adrianarcadestartdate_82ba066c:
 
     # pc "That sounds fantastic."
-    pc "Ça a l'air génial."
+    pc "C'est un super plan."
 
 # game/Scenes/Adrian/AdrianDates/adrianarcadedate.rpy:79
 translate french adrianarcadestartdate_05218083:

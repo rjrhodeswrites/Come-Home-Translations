@@ -10,13 +10,13 @@ translate french baiq2_0e803398:
 translate french baiq2_0d8a5569:
 
     # pc "You have to be able to get along, through the good and the bad."
-    pc "Il faut qu’on s’entende bien, dans les bons comme dans les mauvais moments."
+    pc "Il faut qu’on s’entende bien, dans les bons moments et les mauvais."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:17
 translate french baiq2_ffbca328:
 
     # pc "Somebody who makes me a better person and maybe makes up for some of the areas where I'm lacking."
-    pc "Quelqu’un qui me rende meilleur et qui compense peut-être mes lacunes."
+    pc "Quelqu’un qui me rende meilleur et peut-être qui compense mes lacunes."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:18
 translate french baiq2_e2d02c5c:
@@ -58,19 +58,19 @@ translate french baiq2_a7c19842:
 translate french baiq2_b889c0ee:
 
     # pc "You know when it happens. Just a feeling you get when you're with the right person."
-    pc "Tu sais quand ça arrive. C'est juste un sentiment que tu ressens quand tu es avec la bonne personne."
+    pc "Ça vient comme ça. C'est juste un sentiment qu'on a quand on est avec la bonne personne."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:31
 translate french baiq2_fa883ee7:
 
     # pc "I can't explain it. It just feels right. Even if everything else seems wrong, you know you're in love and you always will be."
-    pc "Je ne peux pas l'expliquer. Ça semble juste parfait. Même si tout le reste semble aller de travers, tu sais que tu es amoureux et que tu le seras toujours."
+    pc "Je peux pas l'expliquer. C'est quand c'est parfait. Même si tout le reste semble aller de travers, tu sais que tu es amoureux et que tu le seras toujours."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:33
 translate french baiq2_272c44d6:
 
     # bai "Man, I've never felt that way before."
-    bai "Mec, je n'ai jamais ressenti ça avant."
+    bai "Mec, j'ai jamais ressenti ça avant."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:34
 translate french baiq2_b5ecc61e:
@@ -82,7 +82,7 @@ translate french baiq2_b5ecc61e:
 translate french baiq2_9fea44b5:
 
     # pc "You will man. I'm sure of it."
-    pc "Tu le ressentiras, mec. J'en suis sûr."
+    pc "Tu le ressentiras. J'en suis sûr."
 
 # game/Scenes/Bai/BaiConversations/baiq2.rpy:37
 translate french baiq2_badd9121:

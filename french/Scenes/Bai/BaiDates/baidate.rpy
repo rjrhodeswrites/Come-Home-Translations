@@ -52,13 +52,13 @@ translate french baidate_437bb058_7:
 translate french baienddate_66815bb9:
 
     # bai "That was fun, man. Always enjoy hanging out with you."
-    bai "C'était sympa, mec. J'adore passer du temps avec toi."
+    bai "C'était sympa. Je passe toujours du bon temps avec toi."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:50
 translate french baienddate_7cc90c84:
 
     # bai "Let's do it again sometime."
-    bai "On recommence un de ces jours."
+    bai "On remet ça un de ces jours."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:51
 translate french baienddate_8e54c50f:
@@ -70,7 +70,7 @@ translate french baienddate_8e54c50f:
 translate french baienddate_929ef120:
 
     # bai "Alright man, see you around."
-    bai "D'accord mec, à plus."
+    bai "Super, à plus."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:56
 translate french baienddate_e70e2ced:
@@ -82,7 +82,7 @@ translate french baienddate_e70e2ced:
 translate french baienddate_4a11d772:
 
     # bai "Thanks for taking me out, [pcname]."
-    bai "Merci de m'avoir invitée, [pcname]."
+    bai "Merci de m'avoir invité, [pcname]."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:65
 translate french baienddate_17764b2d:
@@ -100,7 +100,7 @@ translate french baienddate_03eaad50:
 translate french baienddate_4924fbc9:
 
     # "He stands close to me, looking in my eyes expectantly. Thinking about something, but seemingly too afraid to do it."
-    "Il se tient près de moi, me regardant dans les yeux avec impatience. Il semble réfléchir à quelque chose, mais a apparemment trop peur de le faire."
+    "Il se tient près de moi, me regardant dans les yeux avec impatience. Je crois qu'il réfléchit à quelque chose, mais qu'il a trop peur de le faire."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:72
 translate french baienddate_18491609:
@@ -250,57 +250,57 @@ translate french baidateleave_a9d8a21a:
 translate french baidateleave_07771937:
 
     # "Hopefully after a couple more dates, we'll get more comfortable with each other and our relationship."
-    "J'espère qu'après quelques rendez-vous supplémentaires, on sera plus à l'aise l'un avec l'autre et avec notre relation."
+    "J'espère qu'après quelques rendez-vous de plus, on sera plus à l'aise l'un avec l'autre et avec notre relation."
 
 translate french strings:
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:18
     old "The Park"
-    new "Le parc"
+    new "Au parc"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:21
     old "The Park (NEW)"
-    new "Le parc (NOUVEAU)"
+    new "Au parc (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:24
     old "The Park (NEW SEX CONTENT)"
-    new "Le parc (NOUVEAU CONTENU SEXUEL)"
+    new "Au parc (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:27
     old "The Park (NEW CONVERSATIONS)"
-    new "Le parc (NOUVELLES CONVERSATIONS)"
+    new "Au parc (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:30
     old "The Grotto"
-    new "La grotte"
+    new "Au Grotto"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:32
     old "The Grotto (NEW)"
-    new "La grotte (NOUVEAU)"
+    new "Au Grotto (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:34
     old "The Grotto (NEW SEX CONTENT)"
-    new "La grotte (NOUVEAU CONTENU SEXUEL)"
+    new "Au Grotto (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:36
     old "The Grotto (NEW CONVERSATIONS)"
-    new "La grotte (NOUVELLES CONVERSATIONS)"
+    new "Au Grotto (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:38
     old "The Beach"
-    new "La plage"
+    new "À la plage"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:40
     old "The Beach (NEW)"
-    new "La plage (NOUVEAU)"
+    new "À la plage (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:42
     old "The Beach (NEW SEX CONTENT)"
-    new "La plage (NOUVEAU CONTENU SEXUEL)"
+    new "À la plage (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:44
     old "The Beach (NEW CONVERSATIONS)"
-    new "La plage (NOUVELLES CONVERSATIONS)"
+    new "À la plage (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:70
     old "Kiss him"

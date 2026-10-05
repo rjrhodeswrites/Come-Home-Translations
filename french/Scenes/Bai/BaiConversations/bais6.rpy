@@ -10,13 +10,13 @@ translate french bais6_dac332f8:
 translate french bais6_9983df10:
 
     # bai "The dorms were full and I wasn't able to get a room in time."
-    bai "Les résidences étaient pleines et je n’ai pas pu avoir de chambre à temps."
+    bai "Les résidences étaient pleines et j’ai pas pu avoir de chambre."
 
 # game/Scenes/Bai/BaiConversations/bais6.rpy:15
 translate french bais6_229f9247:
 
     # bai "But I was able to use my student loan money along with the money I make at the café and get a little apartment."
-    bai "Mais j’ai pu utiliser l’argent de mon prêt étudiant avec ce que je gagne au café pour trouver un petit appart."
+    bai "Mais j’ai pu utiliser l’argent de mon prêt étudiant et ce que je gagne au café pour trouver un petit appart."
 
 # game/Scenes/Bai/BaiConversations/bais6.rpy:16
 translate french bais6_14479e85:
@@ -40,7 +40,7 @@ translate french bais6_d0fa7c2f:
 translate french bais6_31a827cb:
 
     # bai "I don't have to hide anything."
-    bai "Je n’ai rien à cacher."
+    bai "J’ai rien à cacher."
 
 # game/Scenes/Bai/BaiConversations/bais6.rpy:21
 translate french bais6_7d3b21b7:

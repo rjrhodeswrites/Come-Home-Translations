@@ -4,7 +4,7 @@
 translate french adriangivehj_2946780a:
 
     # "I strip down to my boxers and sit on her bed, while she takes off all her clothes and sits in front of me between my legs."
-    "Je me déshabille jusqu’à mes boxers et m’assois sur son lit, tandis qu’elle enlève tous ses vêtements et s’assoit devant moi, entre mes jambes."
+    "J'enlève tout à part le caleçon et m’assois sur son lit, tandis qu’elle enlève tous ses vêtements et s’assoit devant moi, entre mes jambes."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:21
 translate french adriangivehj_251508b8:
@@ -16,13 +16,13 @@ translate french adriangivehj_251508b8:
 translate french adriangivehj_9d7c39f8:
 
     # gg "You sure you don't want me to just take care of you? I don't mind."
-    gg "Tu es sûre que tu ne veux pas que je m’occupe juste de toi ? Ça ne me dérange pas."
+    gg "Tu es sûre que tu ne veux pas que je m’occupe juste de toi ? Ça me dérange pas."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:23
 translate french adriangivehj_d358b384:
 
     # pc "No, it's not about me. I want to make you feel good."
-    pc "Non, ce n’est pas moi qui compte. Je veux te faire du bien."
+    pc "Non, c’est pour moi qu'on fait ça. Je veux te faire du bien."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:26
 translate french adriangivehj_ca09574a:
@@ -40,7 +40,7 @@ translate french adriangivehj_f882110f:
 translate french adriangivehj_7306f199:
 
     # gg "Well, you're off to a good start. It feels so good having your hand on me."
-    gg "Eh bien, tu commences bien. C'est tellement bon de sentir ta main sur moi."
+    gg "Eh ben, tu commences bien. C'est tellement bon de sentir ta main sur moi."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:31
 translate french adriangivehj_be215acf:
@@ -64,7 +64,7 @@ translate french adriangivehj_77a80af7:
 translate french adriangivehj_52040e9d:
 
     # gg "You make me feel like I am."
-    gg "Tu me donnes l'impression de l'être."
+    gg "Tu me donnes le sentiment de l'être."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:38
 translate french adriangivehj_a4586cb2:
@@ -166,7 +166,7 @@ translate french adriangivehj_fc3f7a01:
 translate french adriangivehj_458213ff:
 
     # gg "This feels fucking amazing, and as much as I don't want to stop, I'm pretty sure my mom is going to be home any minute."
-    gg "C’est incroyablement bon, et même si je ne veux pas m’arrêter, je suis presque sûr que ma mère va rentrer d’une minute à l’autre."
+    gg "C’est incroyablement bon, et même si je ne veux pas m’arrêter, je suis presque sûre que ma mère va rentrer d’une minute à l’autre."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:58
 translate french adriangivehj_67f1bd5e:
@@ -184,7 +184,7 @@ translate french adriangivehj_f09dec73:
 translate french adriangivehj_b579528b:
 
     # gg "You almost did a couple of times. I was surprised. It's been a while."
-    gg "Tu as failli y arriver plusieurs fois. J’ai été surpris. Ça fait un moment."
+    gg "C'était pas loin plusieurs fois. J’ai été surprise. Ça fait un moment."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:61
 translate french adriangivehj_52ca3236:
@@ -202,7 +202,7 @@ translate french adriangivehj_388400db:
 translate french adriangivehj_cdb18f40:
 
     # "We lean in and kiss again. I rub my hand from base to head of her dick again, feeling a slight wetness of precum on her tip."
-    "On se penche l’un vers l’autre et on s’embrasse à nouveau. Je frotte à nouveau ma main de la base jusqu’au gland de sa bite, sentant une légère humidité de liquide pré-éjaculatoire sur son bout."
+    "On se penche l’un vers l’autre et on s’embrasse à nouveau. Je frotte à nouveau ma main de la base jusqu’au gland de sa bite, et je sens une légère humidité sur son bout."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:66
 translate french adriangivehj_41c30e7f:
@@ -244,7 +244,7 @@ translate french adriangivehjcum_9290b639:
 translate french adriangivehjcum_02989845:
 
     # gg "Thanks, [pcname]. Thanks for making me feel so good all the time."
-    gg "Merci, [pcname]. Merci de me faire du bien tout le temps."
+    gg "Merci, [pcname]. Merci de me faire du bien à chaque fois."
 
 # game/Scenes/Adrian/AdrianSex/adriangivehj.rpy:112
 translate french adriangivehjcum_c9d9969a:

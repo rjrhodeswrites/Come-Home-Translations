@@ -46,13 +46,13 @@ translate french bai2_e61255db:
 translate french bai2_67224ed1:
 
     # bai "Just stuff mostly."
-    bai "Juste à des trucs, surtout."
+    bai "Euh, surtout à des trucs."
 
 # game/Scenes/Bai/bai2.rpy:24
 translate french bai2_19828c08:
 
     # pc "You're going to have to be a little more specific than that or this conversation isn't going to go anywhere."
-    pc "Tu vas devoir être un peu plus précis que ça, sinon cette conversation ne mènera nulle part."
+    pc "Tu vas devoir être un peu plus précis, ou cette conversation ne mènera nulle part."
 
 # game/Scenes/Bai/bai2.rpy:25
 translate french bai2_64de84cd:
@@ -106,7 +106,7 @@ translate french bai2_bde64ebd:
 translate french bai2_0fe323b5:
 
     # pc "Sorry, man. Chicks only for me."
-    pc "Désolé, mec. Je ne m'intéresse qu'aux filles."
+    pc "Désolé, mec. Je m'intéresse qu'aux filles."
 
 # game/Scenes/Bai/bai2.rpy:38
 translate french bai2_83d8b883:
@@ -136,7 +136,7 @@ translate french bai2_e26b3f90:
 translate french bai2_b66cc0ac:
 
     # bai "Really? I thought maybe we had a thing, but I wasn't sure."
-    bai "Vraiment ? Je pensais qu'il y avait peut-être quelque chose entre nous, mais je n'étais pas sûr."
+    bai "Vraiment ? Je pensais qu'il y avait peut-être quelque chose entre nous, mais j'étais pas sûr."
 
 # game/Scenes/Bai/bai2.rpy:49
 translate french bai2_f39ae0a2:
@@ -148,7 +148,7 @@ translate french bai2_f39ae0a2:
 translate french bai2_99a03550:
 
     # bai "That makes me so happy."
-    bai "Ça me rend tellement heureux."
+    bai "Oh, je suis tellement content."
 
 # game/Scenes/Bai/bai2.rpy:55
 translate french bai2_99b1838b:
@@ -160,7 +160,7 @@ translate french bai2_99b1838b:
 translate french bai2_39757b54:
 
     # pc "Yeah, let's do it."
-    pc "Ouais, allons-y."
+    pc "Ouais, je veux bien."
 
 # game/Scenes/Bai/bai2.rpy:57
 translate french bai2_8c98f2da:
@@ -196,7 +196,7 @@ translate french bai2_c0a43543:
 translate french bai2_27247fe1:
 
     # bai "Gotta say, that hurts man."
-    bai "Faut dire que ça fait mal, mec."
+    bai "Hé bah, elle fait mal, celle-là."
 
 # game/Scenes/Bai/bai2.rpy:65
 translate french bai2_c31c7975:
@@ -226,7 +226,7 @@ translate french bai2_46106a33:
 translate french bai2_14a17911:
 
     # "He hangs up. I guess that didn't go so well."
-    "Il raccroche. Je suppose que ça ne s'est pas très bien passé."
+    "Il raccroche. ON dirait que ça ne s'est pas très bien passé."
 
 # game/Scenes/Bai/bai2.rpy:71
 translate french bai2_a0d6f0f3:
@@ -282,7 +282,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai2.rpy:45
     old "Yeah, I am"
-    new "Ouais, je suis là"
+    new "Ouais, je le suis"
 
     # game/Scenes/Bai/bai2.rpy:51
     old "Yeah"

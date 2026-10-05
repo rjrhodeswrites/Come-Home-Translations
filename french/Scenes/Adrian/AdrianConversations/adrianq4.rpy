@@ -28,7 +28,7 @@ translate french adrianq4_ebb9dd21:
 translate french adrianq4_a71dd45c:
 
     # pc "Your genitals don't matter to me, Adrian. I thought you'd know that by now."
-    pc "Tes parties génitales m’importent peu, Adrian. Je pensais que tu le savais déjà."
+    pc "Je m'en fiche de tes parties génitales, Adrian. Je pensais que c'était clair."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:24
 translate french adrianq4_41a2edf2:
@@ -40,7 +40,7 @@ translate french adrianq4_41a2edf2:
 translate french adrianq4_fcad893d:
 
     # pc "You're gorgeous, you're smart, you're sweet, and you're sexy as hell."
-    pc "Tu es magnifique, tu es intelligent, tu es adorable, et tu es sexy en diable."
+    pc "Tu es magnifique, tu es intelligente, tu es adorable, et tu es super sexy."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:26
 translate french adrianq4_c42c1e8b:
@@ -58,19 +58,19 @@ translate french adrianq4_5a44fda4:
 translate french adrianq4_07c27673:
 
     # gg "Wow... um... I don't know what to say."
-    gg "Ouah... euh... je ne sais pas quoi dire."
+    gg "Ouah... euh... je sais pas quoi dire."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:30
 translate french adrianq4_a7200537:
 
     # gg "I just love you. Like... a lot."
-    gg "Je t'aime, tout simplement. Genre... énormément."
+    gg "Je t'aime. Genre... énormément."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:32
 translate french adrianq4_4ab41931:
 
     # gg "Sometimes I feel like I won the fucking lottery when I sat next to you in Ms. Welch's class."
-    gg "Parfois, j'ai l'impression d'avoir gagné le gros lot quand je me suis assise à côté de toi dans la classe de Mme Welch."
+    gg "Parfois, j'ai l'impression d'avoir touché le gros lot quand je me suis assise à côté de toi dans la classe de Mme Welch."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:33
 translate french adrianq4_a3f9db89:
@@ -88,7 +88,7 @@ translate french adrianq4_480afdd5:
 translate french adrianq4_f450824d:
 
     # pc "I'm not sure I'm the marriage type, but that has nothing to do with you being trans."
-    pc "Je ne suis pas sûre d'être du genre à me marier, mais ça n'a rien à voir avec le fait que tu sois trans."
+    pc "Je ne suis pas sûr d'être du genre à me marier, mais ça n'a rien à voir avec le fait que tu sois trans."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:40
 translate french adrianq4_d6544f63:
@@ -112,7 +112,7 @@ translate french adrianq4_0d9df715:
 translate french adrianq4_dc8ffaa9:
 
     # pc "I'm here for you Adrian. I don't know about forever, but at least for now, I'm here."
-    pc "Je suis là pour toi, Adrian. Je ne sais pas pour toujours, mais au moins pour l'instant, je suis là."
+    pc "Je suis là pour toi, Adrian. Pour toujours, je sais pas, mais au moins pour l'instant, je suis là."
 
 # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:46
 translate french adrianq4_d7ad60da:
@@ -124,13 +124,13 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:4
     old "She will only ask this question after the scene where she gets her motorcycle."
-    new "Elle ne posera cette question qu’après la scène où elle récupère sa moto."
+    new "Elle ne posera cette question qu’après la scène où sa cousine lui donne sa moto."
 
     # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:20
     old "Yes, I would"
-    new "Oui, je le ferais."
+    new "Oui, je t'épouserais"
 
     # game/Scenes/Adrian/AdrianConversations/adrianq4.rpy:36
     old "I'm not interested in marriage"
-    new "Le mariage ne m’intéresse pas."
+    new "Le mariage ne m’intéresse pas"
 

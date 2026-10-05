@@ -22,7 +22,7 @@ translate french adriancum_97734a48:
 translate french adriancum_a81c7ee0:
 
     # "She continues grinding her ass on my cock, squeezing and milking me until I'm about to cum too."
-    "Elle continue de frotter son cul contre ma bite, me serrant et me traillant jusqu'à ce que je sois sur le point de jouir moi aussi."
+    "Elle continue de frotter son cul contre ma bite, me serrant et me trayant jusqu'à ce que je sois sur le point de jouir moi aussi."
 
 # game/Scenes/Adrian/AdrianSex/adriancum.rpy:53
 translate french adriancum_4b878b4e:
@@ -46,7 +46,7 @@ translate french adriancum_c3f3cdf9:
 translate french adriancum_b654e5b9:
 
     # gg "That's so fucking hot."
-    gg "C'est tellement excitant."
+    gg "C'est tellement chaud."
 
 # game/Scenes/Adrian/AdrianSex/adriancum.rpy:61
 translate french adriancum_7b295b74:
@@ -76,7 +76,7 @@ translate french adriancum_afda8d8e:
 translate french adriancum_3f9c1c53:
 
     # gg "Good. I like riding your cock. I want to do more of that, for sure."
-    gg "Bien. J’aime chevaucher ta bite. Je veux recommencer, c’est sûr."
+    gg "Bien. J’aime chevaucher ta bite. Il faudra que je le refasse."
 
 # game/Scenes/Adrian/AdrianSex/adriancum.rpy:75
 translate french adriancum_7106d6b4:
@@ -130,7 +130,7 @@ translate french adriancum_d2a15faf:
 translate french adriancum_e039ea53:
 
     # gg "You are incredible. I can't believe how good you make me feel."
-    gg "Tu es incroyable. Je n'arrive pas à croire à quel point tu me fais du bien."
+    gg "Tu es incroyable. J'en reviens pas à quel point c'est bon."
 
 # game/Scenes/Adrian/AdrianSex/adriancum.rpy:112
 translate french adriancum_c49e000d_1:
@@ -142,7 +142,7 @@ translate french strings:
 
     # game/Scenes/Adrian/AdrianSex/adriancum.rpy:23
     old "Where do you want to cum?"
-    new "Où tu veux que je jouisse ?"
+    new "Où veux-tu jouir ?"
 
     # game/Scenes/Adrian/AdrianSex/adriancum.rpy:25
     old "In her mouth"

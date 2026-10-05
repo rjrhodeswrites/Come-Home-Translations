@@ -4,13 +4,13 @@
 translate french baifrotting_491cfa2f:
 
     # "I roll him over and start kissing his lips as he squirms underneath me, obviously wanting more."
-    "Je le retourne et commence à l'embrasser sur les lèvres alors qu'il se tortille sous moi, en redemandant clairement."
+    "Je le retourne et commence à l'embrasser sur les lèvres alors qu'il se tortille sous moi. Il est clair qu'il en redemande."
 
 # game/Scenes/Bai/BaiSex/baifrotting.rpy:15
 translate french baifrotting_3144de41:
 
     # pc "There is one thing that I've always wanted to try."
-    pc "Il y a une chose que j’ai toujours voulu essayer."
+    pc "Il y a un truc que j’ai toujours voulu essayer."
 
 # game/Scenes/Bai/BaiSex/baifrotting.rpy:16
 translate french baifrotting_7993f9dc:
@@ -82,7 +82,7 @@ translate french baifrotting_71356666:
 translate french baifrotting_ff64f082:
 
     # pc "Yeah, it does."
-    pc "Ouais, c’est vrai."
+    pc "Oh que oui."
 
 # game/Scenes/Bai/BaiSex/baifrotting.rpy:49
 translate french baifrotting_3dabb9f2:

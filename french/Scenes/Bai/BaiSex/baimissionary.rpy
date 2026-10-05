@@ -34,7 +34,7 @@ translate french baimissionary_9864a1a3:
 translate french baimissionary_0c7a618f:
 
     # pc "I can tell."
-    pc "Je le vois bien."
+    pc "Je vois ça."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:27
 translate french baimissionary_417164f6:
@@ -58,7 +58,7 @@ translate french baimissionary_73ddc420:
 translate french baimissionary_59fec489:
 
     # bai "Damn, that feels good."
-    bai "Merde, ça fait du bien."
+    bai "Oooh, c'est bon."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:41
 translate french baimissionary_6a35cb88:
@@ -70,7 +70,7 @@ translate french baimissionary_6a35cb88:
 translate french baimissionary_64269bf1:
 
     # pc "How does that feel?"
-    pc "Ça te fait quoi ?"
+    pc "Qu'est-ce que ça te fait ?"
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:43
 translate french baimissionary_170c3242:
@@ -82,7 +82,7 @@ translate french baimissionary_170c3242:
 translate french baimissionary_9b8941de:
 
     # bai "I'll just lie here and look pretty and let you do all the work then."
-    bai "Je vais juste rester allongé ici, faire le beau, et te laisser faire tout le travail alors."
+    bai "J'ai plus qu'à rester allongé là, faire le beau, et te laisser faire tout le travail."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:45
 translate french baimissionary_7260e161:
@@ -94,7 +94,7 @@ translate french baimissionary_7260e161:
 translate french baimissionary_0305dc51:
 
     # "His ass squeezes me all the way up my shaft, his cock leaking precum down my hand."
-    "Son cul me serre sur toute la longueur de ma queue, sa bite coulant du liquide pré-éjaculatoire sur ma main."
+    "Son cul me serre sur toute la longueur de ma queue, et du liquide pré-éjaculatoire coule de sa bite sur ma main."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:47
 translate french baimissionary_db91e2e8:
@@ -154,7 +154,7 @@ translate french baimissionary_a5573473:
 translate french baimissionary_22324455:
 
     # bai "I was joking a bit earlier about us getting romantic, but this really did feel romantic to me."
-    bai "Je plaisantais un peu tout à l’heure en disant qu’on allait devenir romantiques, mais ça m’a vraiment semblé romantique."
+    bai "Je plaisantais tout à l’heure, mais j'ai vraiment trouvé ça romantique."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:77
 translate french baimissionary_b8d4189c:
@@ -214,7 +214,7 @@ translate french baimissionary_24dd99bb:
 translate french baimissionary_22324455_1:
 
     # bai "I was joking a bit earlier about us getting romantic, but this really did feel romantic to me."
-    bai "Je plaisantais tout à l’heure en disant qu’on devenait romantiques, mais ça m’a vraiment semblé romantique."
+    bai "Je plaisantais tout à l’heure, mais j'ai vraiment trouvé ça romantique."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:105
 translate french baimissionary_b8d4189c_1:
@@ -232,7 +232,7 @@ translate french baimissionary_e35b5874_1:
 translate french baimissionary_0deb79ec:
 
     # bai "Wow, I'm a bit of a mess here."
-    bai "Ouah, je suis un peu dans un état."
+    bai "Ouah, je suis dans un état..."
 
 # game/Scenes/Bai/BaiSex/baimissionary.rpy:108
 translate french baimissionary_91b96f42:
@@ -254,7 +254,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiSex/baimissionary.rpy:5
     old "Choose Missionary sex with him then."
-    new "Choisis alors la position du missionnaire avec lui."
+    new "Choisis la position du missionnaire avec lui."
 
     # game/Scenes/Bai/BaiSex/baimissionary.rpy:55
     old "Pull out"
@@ -262,5 +262,5 @@ translate french strings:
 
     # game/Scenes/Bai/BaiSex/baimissionary.rpy:81
     old "Cum inside"
-    new "Éjaculer à l'intérieur"
+    new "Jouir à l'intérieur"
 

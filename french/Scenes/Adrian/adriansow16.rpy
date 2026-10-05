@@ -22,7 +22,7 @@ translate french adriansow16_6ced8a2b:
 translate french adriansow16_ed5dd4b4:
 
     # gg "We wiped the floor with that guy."
-    gg "On a fait un malheur avec ce type."
+    gg "On lui a mis une raclée, à celui-là."
 
 # game/Scenes/Adrian/adriansow16.rpy:21
 translate french adriansow16_7473609f:
@@ -46,13 +46,13 @@ translate french adriansow16_a1c9a006:
 translate french adriansow16_795adff2:
 
     # pc "Maybe we could get it identified back in town."
-    pc "On pourrait peut-être la faire identifier en ville."
+    pc "On peut peut-être la faire identifier en ville."
 
 # game/Scenes/Adrian/adriansow16.rpy:27
 translate french adriansow16_1ed45963:
 
     # gg "What's the fun of that? I'll just drink it and see what happens."
-    gg "Où est le plaisir là-dedans ? Je vais juste la boire et voir ce qui se passe."
+    gg "C'est pas marrant, ça ! Je vais juste la boire et voir ce qui se passe."
 
 # game/Scenes/Adrian/adriansow16.rpy:30
 translate french adriansow16_d2dacbaa:
@@ -70,7 +70,7 @@ translate french adriansow16_6409c7d4:
 translate french adriansow16_43083f2c:
 
     # pc "How do you know what it--"
-    pc "Comment tu sais ce que ça..."
+    pc "Comment tu sais quel goût ça..."
 
 # game/Scenes/Adrian/adriansow16.rpy:35
 translate french adriansow16_15ee15cc:
@@ -106,13 +106,13 @@ translate french adriansow16_b9f138da:
 translate french adriansow16_7700a784:
 
     # gg "I think it only lasts an hour or so. It makes your magic stronger, but one big hit and I'm dead."
-    gg "Je crois que ça ne dure qu'une heure environ. Ça renforce ta magie, mais un seul coup bien placé et je suis morte."
+    gg "Je crois que ça dure à peu près une heure. Ça renforce la magie, mais un seul coup bien placé et je suis morte."
 
 # game/Scenes/Adrian/adriansow16.rpy:43
 translate french adriansow16_c6dd29f3:
 
     # gg "I don't really want to try to fight like this."
-    gg "Je n'ai pas vraiment envie d'essayer de me battre comme ça."
+    gg "J'ai pas très envie d'essayer de me battre comme ça."
 
 # game/Scenes/Adrian/adriansow16.rpy:44
 translate french adriansow16_3c4d88aa:
@@ -154,13 +154,13 @@ translate french adriansow16_4f0d973e_1:
 translate french adriansow16_048528f4:
 
     # pc "You do look pretty cute like that."
-    pc "T'es plutôt mignon comme ça."
+    pc "T'es plutôt mignonne comme ça."
 
 # game/Scenes/Adrian/adriansow16.rpy:64
 translate french adriansow16_44235a60:
 
     # gg "Oh yeah? What do you want to do with me?"
-    gg "Ah oui ? Qu'est-ce que tu veux faire avec moi ?"
+    gg "Ah oui ? Qu'est-ce que tu veux faire de moi ?"
 
 # game/Scenes/Adrian/adriansow16.rpy:67
 translate french adriansow16_8756961c:
@@ -172,7 +172,7 @@ translate french adriansow16_8756961c:
 translate french adriansow16_faeb83b7:
 
     # pc "Well, first of all..."
-    pc "Eh bien, tout d'abord..."
+    pc "Eh ben, pour commencer..."
 
 # game/Scenes/Adrian/adriansow16.rpy:71
 translate french adriansow16_41bcc5f6:
@@ -184,7 +184,7 @@ translate french adriansow16_41bcc5f6:
 translate french adriansow16_d82aeadb:
 
     # pc "Oh weird, it does tell you in the window down here what things smell and taste like, huh?"
-    pc "Oh bizarre, ça t'indique dans la fenêtre là-dessous l'odeur et le goût des choses, hein ?"
+    pc "Oh bizarre, ça t'indique dans la fenêtre en bas l'odeur et le goût des choses, hein ?"
 
 # game/Scenes/Adrian/adriansow16.rpy:73
 translate french adriansow16_11b003e9:
@@ -196,7 +196,7 @@ translate french adriansow16_11b003e9:
 translate french adriansow16_60a9f084:
 
     # pc "Apparently fairy pussy tastes like brown sugar and kiwi."
-    pc "Apparemment, la chatte d'une fée a le goût du sucre brun et du kiwi."
+    pc "Apparemment, la chatte d'une fée a un goût de sucre brun et de kiwi."
 
 # game/Scenes/Adrian/adriansow16.rpy:75
 translate french adriansow16_f57ce213:
@@ -226,7 +226,7 @@ translate french adriansow16_04caa302:
 translate french adriansow16_379105fa:
 
     # "With my finger, I stretch her tiny pussy open impossibly wide."
-    "Avec mon doigt, j'écarte sa petite chatte jusqu'à l'ouvrir de manière incroyablement large."
+    "Avec mon doigt, j'écarte sa petite chatte jusqu'à une largeur impossible."
 
 # game/Scenes/Adrian/adriansow16.rpy:85
 translate french adriansow16_606a2beb:
@@ -238,7 +238,7 @@ translate french adriansow16_606a2beb:
 translate french adriansow16_39ec0db8:
 
     # pc "It's kinda dumb though, huh? Like how is my finger even fitting inside you. Do you not have internal organs?"
-    pc "C'est un peu débile quand même, hein ? Comment mon doigt peut-il même rentrer en toi ? Tu n'as pas d'organes internes ?"
+    pc "C'est un peu débile quand même, hein ? Comment mon doigt peut rentrer en toi ? Tu n'as pas d'organes internes ?"
 
 # game/Scenes/Adrian/adriansow16.rpy:87
 translate french adriansow16_3694ae2a:
@@ -268,7 +268,7 @@ translate french adriansow16_4c5bf258:
 translate french adriansow16_877ec67b:
 
     # pc "Right. Sorry."
-    pc "D'accord. Désolé."
+    pc "Oui. Désolé."
 
 # game/Scenes/Adrian/adriansow16.rpy:96
 translate french adriansow16_1786cb8e:
@@ -292,7 +292,7 @@ translate french adriansow16_6b9da974:
 translate french adriansow16_c1094a8e:
 
     # pc "I mean, that feels pretty good just doing that."
-    pc "Je veux dire, ça fait déjà plutôt du bien rien que de faire ça."
+    pc "Je veux dire, c'est déjà plutôt agréable rien que de faire ça."
 
 # game/Scenes/Adrian/adriansow16.rpy:102
 translate french adriansow16_b00c5f11:
@@ -334,7 +334,7 @@ translate french adriansow16_2d790a39:
 translate french adriansow16_4513df72:
 
     # pc "Oh, right."
-    pc "Oh, c'est vrai."
+    pc "Oh, oui."
 
 # game/Scenes/Adrian/adriansow16.rpy:112
 translate french adriansow16_b125e3bc:
@@ -382,7 +382,7 @@ translate french adriansow16_cb443a46:
 translate french adriansow16_2faea368:
 
     # gg "Um, can you get me down from here?"
-    gg "Euh, tu peux m’aider à descendre d’ici ?"
+    gg "Euh, tu peux m’aider à descendre de là ?"
 
 # game/Scenes/Adrian/adriansow16.rpy:128
 translate french adriansow16_1cdfc0ea:
@@ -394,7 +394,7 @@ translate french adriansow16_1cdfc0ea:
 translate french adriansow16_303e2001:
 
     # gg "[pcname]! No fair!"
-    gg "[pcname]! C’est pas juste !"
+    gg "[pcname] ! C’est pas juste !"
 
 # game/Scenes/Adrian/adriansow16.rpy:132
 translate french adriansow16_cf6fe6f8:
@@ -456,5 +456,5 @@ translate french strings:
 
     # game/Scenes/Adrian/adriansow16.rpy:59
     old "No, I'm not into that, Adrian"
-    new "Non, ça ne m'intéresse pas, Adrian"
+    new "Non, c'est pas mon truc, Adrian"
 

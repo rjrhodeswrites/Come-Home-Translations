@@ -10,7 +10,7 @@ translate french bai69_327f7616:
 translate french bai69_b3d8c3df:
 
     # "He lies on his side next to me and takes my cock into his mouth."
-    "Il s'allonge sur le côté à côté de moi et prend ma bite dans sa bouche."
+    "Il s'allonge sur le côté près de moi et prend ma bite dans sa bouche."
 
 # game/Scenes/Bai/BaiSex/bai69.rpy:17
 translate french bai69_7514f361:
@@ -58,7 +58,7 @@ translate french bai69_2bfb1426:
 translate french bai69_da345407:
 
     # pc "You think this is some kind of competition?"
-    pc "Tu crois que c'est une sorte de compétition ?"
+    pc "Tu crois que c'est une compétition ?"
 
 # game/Scenes/Bai/BaiSex/bai69.rpy:30
 translate french bai69_95cb5ca7:
@@ -88,7 +88,7 @@ translate french bai69_64e4662c:
 translate french bai69_22a56090:
 
     # "I try not to think about how amazing it feels and focus on making him feel good instead, taking his dick deep and rubbing my tongue against it."
-    "J'essaie de ne pas penser à quel point c'est incroyable et de me concentrer plutôt sur son plaisir, en prenant sa bite au fond de ma bouche et en la frottant avec ma langue."
+    "J'essaie de ne pas penser à quel point il est incroyable et de me concentrer plutôt sur son plaisir, en prenant sa bite au fond de ma bouche et en la frottant avec ma langue."
 
 # game/Scenes/Bai/BaiSex/bai69.rpy:40
 translate french bai69_6766090f:
@@ -100,7 +100,7 @@ translate french bai69_6766090f:
 translate french bai69_083ff33a:
 
     # "Precum is flowing out of his dick now, delicious and sweet, and he moans loudly, the noise muffled as my cock stuffs his mouth. I know he's going to cum soon."
-    "Du liquide pré-éjaculatoire coule maintenant de sa bite, délicieux et sucré, et il gémit bruyamment, le son étouffé par ma bite qui lui remplit la bouche. Je sais qu'il va jouir bientôt."
+    "Du liquide pré-éjaculatoire coule maintenant de sa bite, délicieux et doux, et il gémit bruyamment, le son étouffé par ma bite qui lui remplit la bouche. Je sais qu'il va jouir bientôt."
 
 # game/Scenes/Bai/BaiSex/bai69.rpy:42
 translate french bai69_deb7683c:
@@ -182,5 +182,5 @@ translate french strings:
 
     # game/Scenes/Bai/BaiSex/bai69.rpy:3
     old "Choose to 69 with him then."
-    new "Choisis de faire un 69 avec lui alors."
+    new "Choisis de faire un 69 avec lui."
 

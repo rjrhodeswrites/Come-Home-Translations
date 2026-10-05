@@ -18,11 +18,11 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baipersonal.rpy:10
     old "What's your biggest turn-on?"
-    new "Qu'est-ce qui t'excite le plus ?"
+    new "Qu'est-ce qui t'exciterait le plus ?"
 
     # game/Scenes/Bai/BaiConversations/baipersonal.rpy:12
     old "Do your siblings know you're into guys?"
-    new "Tes frères et sœurs savent-ils que tu aimes les mecs ?"
+    new "Tes frères et sœurs savent que tu aimes les mecs ?"
 
     # game/Scenes/Bai/BaiConversations/baipersonal.rpy:14
     old "Would you have a threesome with another guy?"
@@ -30,5 +30,5 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baipersonal.rpy:16
     old "Just chit-chat"
-    new "Juste une petite discussion"
+    new "Papoter"
 
