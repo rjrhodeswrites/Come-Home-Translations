@@ -4,7 +4,7 @@
 translate french work_97d9ea43:
 
     # "I have a little time before work starts. How should I spend it?"
-    "J'ai un peu de temps avant que le travail commence. Comment devrais-je l'occuper ?"
+    "J'ai un peu de temps avant que le travail ne commence. Comment devrais-je l'occuper ?"
 
 translate french strings:
 
