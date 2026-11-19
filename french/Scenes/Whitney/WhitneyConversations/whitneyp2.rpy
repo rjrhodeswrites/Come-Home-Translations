@@ -94,7 +94,7 @@ translate french whitneyp2_89b9a4e3:
 translate french whitneyp2_8355ffdc:
 
     # pc "You're gorgeous and your heritage is part of you and I just want to know all of you better."
-    pc "Tu es magnifique, et ton héritage fait partie de toi, et je veux juste mieux te connaître dans ton ensemble."
+    pc "Tu es magnifique, ton héritage fait partie de toi et je veux juste mieux te connaître dans ton ensemble."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:32
 translate french whitneyp2_6716b8de:
