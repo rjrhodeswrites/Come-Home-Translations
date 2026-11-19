@@ -4,7 +4,7 @@
 translate french whitneyq1_f3e321a1:
 
     # wt "Did you get along with your dad?"
-    wt "Vous entendiez-vous bien avec votre père ?"
+    wt "Tu t'entendais bien avec ton père ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:13
 translate french whitneyq1_b6dc01f0:
@@ -16,13 +16,13 @@ translate french whitneyq1_b6dc01f0:
 translate french whitneyq1_847f8a3e:
 
     # pc "After my mom died, Dad was all I had and I was all he had."
-    pc "Après la mort de ma mère, papa était tout ce que j’avais, et j’étais tout ce qu’il avait."
+    pc "Après la mort de ma mère, Papa était tout ce que j’avais et j’étais tout ce qu’il avait."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:16
 translate french whitneyq1_a026c59b:
 
     # pc "So we did everything together. We would go on little trips, vacations, see all the things we could."
-    pc "Alors on faisait tout ensemble. On partait en petite escapade, en vacances, on découvrait tout ce qu’on pouvait."
+    pc "Alors on faisait tout ensemble. On partait en petites escapades, en vacances, on découvrait tout ce qu’on pouvait."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:17
 translate french whitneyq1_ab7a70cd:
@@ -76,31 +76,31 @@ translate french whitneyq1_911bbedc:
 translate french whitneyq1_2ab75d25:
 
     # pc "I get it now. He'd been lonely for so long. I don't know how he did it."
-    pc "Je comprends maintenant. Il s’était senti seul pendant si longtemps. Je ne sais pas comment il a fait."
+    pc "Je le comprends maintenant. Il s’était senti seul pendant si longtemps. Je ne sais pas comment il a fait."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:29
 translate french whitneyq1_4ebfb2c5:
 
     # pc "But at the time, I felt abandoned. First by Mom. Then by him."
-    pc "Mais à l’époque, je me suis sentie abandonnée. D’abord par maman. Puis par lui."
+    pc "Mais à l’époque, je me suis senti abandonné. D’abord par Maman. Puis par lui."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:30
 translate french whitneyq1_be2f5876:
 
     # pc "And I left before we figured things out. And now he's gone."
-    pc "Et je suis partie avant qu’on ait pu régler les choses. Et maintenant, il est parti."
+    pc "Et je suis parti avant qu’on ait pu régler les choses. Et maintenant, c'est lui qui il est parti."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:31
 translate french whitneyq1_cbbd9e6e:
 
     # pc "Who knows if I'll ever be able to talk to him again?"
-    pc "Qui sait si je pourrai un jour lui parler à nouveau ?"
+    pc "Qui sait si je pourrai un jour lui parler à nouveau."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:33
 translate french whitneyq1_f715e566:
 
     # wt "You will. I'll make sure of it."
-    wt "Tu le pourras. Je m’en assurerai."
+    wt "Tu pourras lui parler à nouveau. Je m’en assurerai."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:34
 translate french whitneyq1_c9a6c3ed:
