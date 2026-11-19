@@ -16,7 +16,7 @@ translate french whitneyp4_58a22f7d:
 translate french whitneyp4_3f716864:
 
     # wt "Okay, well this might sound a little weird, but I want to be on top."
-    wt "Bon, ça va peut-être paraître un peu bizarre, mais je veux être au-dessus."
+    wt "Bon, ça va peut-être te paraître un peu bizarre, mais je veux être au-dessus."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp4.rpy:18
 translate french whitneyp4_97437ae4:
@@ -28,7 +28,7 @@ translate french whitneyp4_97437ae4:
 translate french whitneyp4_f26cfb8f:
 
     # wt "But since my legs don't work, I can't even hold myself up, much less bounce up and down on your penis like I'd want to."
-    wt "Mais comme mes jambes ne fonctionnent pas, je ne peux même pas me tenir debout, encore moins rebondir de haut en bas sur ton pénis comme j'aimerais le faire."
+    wt "Mais comme mes jambes ne fonctionnent pas, je ne peux même pas me tenir debout, encore moins bouger de haut en bas sur ton pénis comme j'aimerais le faire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp4.rpy:21
 translate french whitneyp4_65819419:
