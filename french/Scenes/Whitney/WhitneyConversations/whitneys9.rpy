@@ -10,7 +10,7 @@ translate french whitneys9_5d131cfa:
 translate french whitneys9_3f7d0a10:
 
     # pc "You've never thought about what your favorite food is?"
-    pc "Tu ne t’es jamais demandé quel était ton plat préféré ?"
+    pc "Tu ne t’es jamais demandée quel était ton plat préféré ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:17
 translate french whitneys9_d31dda29:
@@ -40,19 +40,19 @@ translate french whitneys9_910a19e8:
 translate french whitneys9_a3d0cee6:
 
     # wt "I also enjoy eating crunchy things while I'm working out a problem. It's a bad habit."
-    wt "J'aime aussi manger des choses croquantes quand je réfléchis à un problème. C'est une mauvaise habitude."
+    wt "J'aime aussi manger des choses croustillantes quand je réfléchis à un problème. C'est une mauvaise habitude."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:26
 translate french whitneys9_cfd4d23d:
 
     # pc "What kind of crunchy things?"
-    pc "Quel genre de choses croquantes ?"
+    pc "Quel genre de choses croustillantes ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:28
 translate french whitneys9_4ff7f67e:
 
     # wt "Pita chips, most of the time, but anything salty and crunchy will do."
-    wt "Des chips de pita, la plupart du temps, mais n'importe quoi de salé et de croquant fera l'affaire."
+    wt "Des chips de pita, la plupart du temps, mais n'importe quoi de salé et de croustillant fera l'affaire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:30
 translate french whitneys9_de0153a9:
@@ -64,7 +64,7 @@ translate french whitneys9_de0153a9:
 translate french whitneys9_35497163:
 
     # wt "I'm glad to have solved that question."
-    wt "Je suis content d'avoir résolu cette question."
+    wt "Je suis contente d'avoir résolu cette question."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:33
 translate french whitneys9_d7daf6b1:
@@ -100,5 +100,5 @@ translate french whitneys9_adf722a1:
 translate french whitneys9_1f1b91a6:
 
     # wt "Sure, I would like that. I'd be happy to try any new foods with you."
-    wt "Bien sûr, ça me ferait plaisir. Je serais ravi d’essayer de nouveaux plats avec toi."
+    wt "Bien sûr, ça me ferait plaisir. Je serais ravie d’essayer de nouveaux plats avec toi."
 
