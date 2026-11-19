@@ -4,7 +4,7 @@
 translate french whitneyp1_bf449e7e:
 
     # pc "Sorry if that's rude or anything. I know you're not supposed to ask a woman how old she is, but I was just wondering."
-    pc "Désolé si c'est impoli ou quoi que ce soit. Je sais qu'on n'est pas censé demander son âge à une femme, mais je me posais juste la question."
+    pc "Désolé, je sais que ce n'est pas élégant et qu'on n'est pas censé demander son âge à une femme, mais je me posais juste la question."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:14
 translate french whitneyp1_87660d67:
@@ -22,7 +22,7 @@ translate french whitneyp1_2c1a5690:
 translate french whitneyp1_6aa82862:
 
     # pc "I wasn't sure, because you look my age, but you sound and act like you're older. More mature."
-    pc "Je n'étais pas sûr, parce que tu as l'air d'avoir mon âge, mais tu parles et tu agis comme si tu étais plus âgée. Plus mature."
+    pc "Je n'en étais pas sûr, parce que tu as l'air d'avoir mon âge mais que tu parles et tu agis comme si tu étais plus âgée. Plus mature."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:18
 translate french whitneyp1_a239d5d7:
@@ -46,7 +46,7 @@ translate french whitneyp1_b6ed6f4b:
 translate french whitneyp1_dbe0d848:
 
     # wt "Like, just being alive doesn't mean anything."
-    wt "Le simple fait d’être en vie ne veut rien dire."
+    wt "Comme si le simple fait d’être en vie ne voulait rien dire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:24
 translate french whitneyp1_27ce3f09:
@@ -76,7 +76,7 @@ translate french whitneyp1_3336e78d:
 translate french whitneyp1_05d9f799:
 
     # wt "Nothing that's going to help people, I don't think."
-    wt "Rien qui va aider les gens, je ne pense pas."
+    wt "Rien qui va aider les gens, je pense."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:31
 translate french whitneyp1_337cb7fb:
