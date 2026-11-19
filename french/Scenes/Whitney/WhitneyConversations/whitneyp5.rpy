@@ -40,7 +40,7 @@ translate french whitneyp5_031c731c:
 translate french whitneyp5_5e6cc221:
 
     # wt "Well, I probably could, but I do not have the time to devote to a project like that."
-    wt "Eh bien, je le pourrais probablement, mais je n’ai pas le temps de me consacrer à un projet comme celui-là."
+    wt "En fait, je le pourrais probablement, mais je n’ai pas le temps de me consacrer à un projet comme celui-là."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp5.rpy:24
 translate french whitneyp5_9ab685cf:
@@ -94,7 +94,7 @@ translate french whitneyp5_bfd42d1e:
 translate french whitneyp5_bf14b6c8:
 
     # wt "Would you like me to instead divert my time towards making a sex toy that has feelings?"
-    wt "Préféreriez-vous que je consacre plutôt mon temps à créer un sextoy doté de sentiments ?"
+    wt "Préférerais-tu que je consacre plutôt mon temps à créer un sextoy doté de sentiments ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp5.rpy:37
 translate french whitneyp5_b5702645:
