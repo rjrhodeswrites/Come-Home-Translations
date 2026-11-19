@@ -16,7 +16,7 @@ translate french whitneyq3_93fc5acb:
 translate french whitneyq3_b4a723c0:
 
     # wt "So what are we doing then?"
-    wt "Alors, qu'est-ce qu'on fait, dans ce cas ?"
+    wt "Alors, qu'est-ce qu'on fait dans ce cas ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:19
 translate french whitneyq3_cd06bb32:
