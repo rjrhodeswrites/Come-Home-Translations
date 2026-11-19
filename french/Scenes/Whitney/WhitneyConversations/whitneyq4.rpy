@@ -158,5 +158,5 @@ translate french strings:
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:31
     old "I'm terrified"
-    new "Je suis terrifiée."
+    new "Je suis terrifié."
 
