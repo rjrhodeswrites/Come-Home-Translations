@@ -46,7 +46,7 @@ translate french whitneyq2_fbb4f39e:
 translate french whitneyq2_2b6961ab:
 
     # wt "Curing sickness, solving world hunger, restoring the Earth's environment, instant teleportation, interstellar travel, eternal life."
-    wt "Guérir les maladies, résoudre la faim dans le monde, restaurer l’environnement de la Terre, la téléportation instantanée, les voyages interstellaires, la vie éternelle."
+    wt "Guérir les maladies, résoudre la faim dans le monde, restaurer l’environnement de la Terre, la téléportation instantanée, les voyages interstellaires, la vie éternelle..."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:24
 translate french whitneyq2_8d5d4423:
@@ -58,13 +58,13 @@ translate french whitneyq2_8d5d4423:
 translate french whitneyq2_c320ba54:
 
     # wt "I think so."
-    wt "Je crois bien."
+    wt "En effet."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:32
 translate french whitneyq2_f9fc9074:
 
     # wt "I'm not mad."
-    wt "Je ne suis pas fou."
+    wt "Je ne suis pas folle."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:33
 translate french whitneyq2_5ae98453:
@@ -88,7 +88,7 @@ translate french whitneyq2_453ab0ca:
 translate french whitneyq2_62d418b5:
 
     # wt "I'm glad."
-    wt "J’en suis ravi."
+    wt "J’en serais ravie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:41
 translate french whitneyq2_214e8d99:
