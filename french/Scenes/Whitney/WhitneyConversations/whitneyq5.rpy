@@ -94,7 +94,7 @@ translate french whitneyq5_87af29c5:
 translate french whitneyq5_ac897f1d:
 
     # wt "You are welcome to come work for me in the lab, of course."
-    wt "Tu es bien sûr la bienvenue pour venir travailler pour moi au laboratoire."
+    wt "Tu es bien sûr le bienvenu pour venir travailler pour moi au laboratoire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:37
 translate french whitneyq5_ede37c91:
@@ -106,7 +106,7 @@ translate french whitneyq5_ede37c91:
 translate french whitneyq5_047d2aa0:
 
     # wt "But I hoped that you might move in as well."
-    wt "Mais j’espérais que tu emménagerais aussi chez moi."
+    wt "Mais j’espére que tu emménageras aussi chez moi."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:40
 translate french whitneyq5_f2d0fed6:
