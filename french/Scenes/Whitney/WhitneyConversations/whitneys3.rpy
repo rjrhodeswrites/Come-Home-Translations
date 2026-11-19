@@ -4,7 +4,7 @@
 translate french whitneys3_c67f6ad3:
 
     # wt "I have my abba and my brother."
-    wt "J’ai ma mère et mon frère."
+    wt "J’ai mon père et mon frère."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys3.rpy:15
 translate french whitneys3_ba303877:
