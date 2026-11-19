@@ -94,7 +94,7 @@ translate french whitneys7_08a9d3a9:
 translate french whitneys7_35066eb3:
 
     # wt "I'm not permitted to talk about them specifically, but yes, I have made some contributions that are already helping the world and I will continue to do so."
-    wt "Je ne suis pas autorisé à en parler en détail, mais oui, j'ai apporté des contributions qui aident déjà le monde et je continuerai à le faire."
+    wt "Je ne suis pas autorisée à en parler en détail, mais oui, j'ai apporté des contributions qui aident déjà le monde et je continuerai à le faire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:39
 translate french whitneys7_e9937d74:
