@@ -10,7 +10,7 @@ translate french whitneyp3_72fff9f6:
 translate french whitneyp3_51c77b80:
 
     # pc "Sorry. I didn't mean to be insensitive. I just want to learn more about you."
-    pc "Désolé. Je ne voulais pas être insensible. Je veux juste en savoir plus sur toi."
+    pc "Désolé. Je ne voulais pas être intrusif. Je veux juste en savoir plus sur toi."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:15
 translate french whitneyp3_34b95502:
@@ -52,7 +52,7 @@ translate french whitneyp3_1ccc9d1c:
 translate french whitneyp3_f12c8f1b:
 
     # wt "Not unless I ask, please."
-    wt "Sauf si je te le demande, s'il te plaît."
+    wt "Non, sauf si je te le demande, s'il te plaît."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:25
 translate french whitneyp3_df2e120b:
@@ -82,7 +82,7 @@ translate french whitneyp3_ee4a5370:
 translate french whitneyp3_b163a498:
 
     # pc "Okay. I don't mind helping though."
-    pc "D’accord. Ça ne me dérange pas de t’aider quand même."
+    pc "D’accord. Ça ne me dérange pas de t’aider de toute façon."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:31
 translate french whitneyp3_b843b534:
@@ -100,7 +100,7 @@ translate french whitneyp3_34b44705:
 translate french whitneyp3_c5e562fd:
 
     # wt "Other than all of that, there's also the internal problems caused by being paralyzed, that I have to deal with all the time."
-    wt "En plus de tout ça, il y a aussi les problèmes internes liés à la paralysie, auxquels je dois faire face tout le temps."
+    wt "En plus de tout ça, il y a aussi les problèmes internes liés à la paralysie auxquels je dois faire face tout le temps."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:35
 translate french whitneyp3_a2da784a:
@@ -118,7 +118,7 @@ translate french whitneyp3_d6bfe391:
 translate french whitneyp3_3c3812c2:
 
     # wt "It is. But generally, people are just trying to be friendly. It just confuses them when they interact with a disabled person."
-    wt "Ça l’est. Mais en général, les gens essaient juste d’être aimables. Ça les déconcerte simplement quand ils interagissent avec une personne handicapée."
+    wt "En effet. Mais en général, les gens essaient juste d’être aimables. Ça les déconcerte simplement quand ils interagissent avec une personne handicapée."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:39
 translate french whitneyp3_d1f94eba:
