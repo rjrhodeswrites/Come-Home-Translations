@@ -76,7 +76,7 @@ translate french whitney11_30016550:
 translate french whitney11_a1b2b246:
 
     # "I wonder what she could want to do this evening?"
-    "Je me demande ce qu'elle a bien pu me proposer de faire ce soir ?"
+    "Je me demande ce qu'elle pourrait me proposer de faire ce soir ?"
 
 # game/Scenes/Whitney/whitney11.rpy:43
 translate french whitney11_c1a188d7:
@@ -238,7 +238,7 @@ translate french whitney11_35743d5e:
 translate french whitney11_9dddc1b8:
 
     # "We take her van out to the restaurant, which is on the outskirts of town, in a cave on the lakeside."
-    "On prend sa camionnette pour aller au restaurant, qui se trouve à la périphérie de la ville, dans une grotte au bord du lac."
+    "On prend son van pour aller au restaurant, qui se trouve à la périphérie de la ville, dans une grotte au bord du lac."
 
 # game/Scenes/Whitney/whitney11.rpy:86
 translate french whitney11_4ccb765f:
@@ -250,13 +250,13 @@ translate french whitney11_4ccb765f:
 translate french whitney11_ef339290:
 
     # pc "It really is. I didn't even know this place was here."
-    pc "Vraiment. Je ne savais même pas que cet endroit existait."
+    pc "C'est vraiment magnifique. Je ne savais même pas que cet endroit existait."
 
 # game/Scenes/Whitney/whitney11.rpy:89
 translate french whitney11_ec31c556:
 
     # "We take her van out to the restaurant, which I realize halfway there is The Grotto that I took Suzy and Tammy to."
-    "On prend sa camionnette pour aller au restaurant, et je me rends compte à mi-chemin que c'est The Grotto, où j'avais emmené Suzy et Tammy."
+    "On prend son van pour aller au restaurant, et je me rends compte à mi-chemin que c'est The Grotto, où j'avais emmené Suzy et Tammy."
 
 # game/Scenes/Whitney/whitney11.rpy:90
 translate french whitney11_4ccb765f_1:
@@ -268,7 +268,7 @@ translate french whitney11_4ccb765f_1:
 translate french whitney11_e0b8afad:
 
     # pc "It really is. I actually went out here on a date not too long ago."
-    pc "C'est vrai. En fait, je suis venue ici pour un rendez-vous galant il n'y a pas si longtemps."
+    pc "C'est vrai. En fait, je suis venu ici pour un rendez-vous galant il n'y a pas si longtemps."
 
 # game/Scenes/Whitney/whitney11.rpy:92
 translate french whitney11_dd37d86a:
@@ -322,7 +322,7 @@ translate french whitney11_b04ab1d2:
 translate french whitney11_05f06085:
 
     # "Low music plays in the background, there's a light breeze, and the sound of the waves on the lake below makes everything so romantic."
-    "Une musique douce joue en fond sonore, il y a une légère brise, et le bruit des vagues sur le lac en contrebas rend l'atmosphère tellement romantique."
+    "Une musique douce joue en fond sonore, il y a une légère brise et le bruit des vagues sur le lac en contrebas rend l'atmosphère tellement romantique."
 
 # game/Scenes/Whitney/whitney11.rpy:109
 translate french whitney11_2ed5bfb2:
@@ -418,7 +418,7 @@ translate french whitney11_fa829acb:
 translate french whitney11_2cd33def:
 
     # pc "Absolutely."
-    pc "Absolument."
+    pc "Bien sûr."
 
 # game/Scenes/Whitney/whitney11.rpy:131
 translate french whitney11_d8ca5113:
@@ -808,7 +808,7 @@ translate french whitney11_0a9c51cd:
 translate french whitney11_e9a40221:
 
     # wt "I think it {i}mostly{/i} stayed out of my hair at least."
-    wt "Je crois que ça {i}s'est surtout{/i} évité mes cheveux, au moins."
+    wt "Au moins, je pense que ça {i}plutôt{/i} évité mes cheveux."
 
 # game/Scenes/Whitney/whitney11.rpy:220
 translate french whitney11_49848961:
@@ -820,7 +820,7 @@ translate french whitney11_49848961:
 translate french whitney11_02e84739:
 
     # wt "I am a mess. You stay here, I'll be right back."
-    wt "Je suis dans un état. Reste ici, je reviens tout de suite."
+    wt "Je suis dans un de ces états... Reste ici, je reviens tout de suite."
 
 # game/Scenes/Whitney/whitney11.rpy:224
 translate french whitney11_6815bce3:
@@ -850,7 +850,7 @@ translate french whitney11_5ef47e3d:
 translate french whitney11_b0448573:
 
     # pc "Oh, yeah it did. Definitely."
-    pc "Oh, oui, carrément."
+    pc "Oh, oui, vraiment."
 
 # game/Scenes/Whitney/whitney11.rpy:231
 translate french whitney11_1830b850:
@@ -862,7 +862,7 @@ translate french whitney11_1830b850:
 translate french whitney11_5d56bec3:
 
     # wt "I don't think I'm quite ready for that yet."
-    wt "Je ne pense pas être tout à fait prêt pour ça."
+    wt "Je ne pense pas être tout à fait prête pour ça."
 
 # game/Scenes/Whitney/whitney11.rpy:235
 translate french whitney11_6052589c:
@@ -910,7 +910,7 @@ translate french whitney11_aef6b4ac:
 translate french whitney11_925815b4:
 
     # wt "And I'm looking forward to progressing further with you sexually in the future."
-    wt "Et j’ai hâte d’aller plus loin avec toi sexuellement à l’avenir."
+    wt "Et j’ai hâte d’aller plus loin avec toi, sexuellement, à l’avenir."
 
 # game/Scenes/Whitney/whitney11.rpy:243
 translate french whitney11_5e3651f8:
