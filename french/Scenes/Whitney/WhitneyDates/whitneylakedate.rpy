@@ -188,5 +188,5 @@ translate french strings:
 
     # game/Scenes/Whitney/WhitneyDates/whitneylakedate.rpy:3
     old "You will also need to ask Whitney if she can swim. Then you can invite her out to the lake in the evening for a date by calling her on the phone."
-    new "Tu devras également demander à Whitney si elle sait nager. Vous pourrez alors l'inviter au lac le soir pour un rendez-vous en l'appelant au téléphone."
+    new "Tu devras également demander à Whitney si elle sait nager. Tu pourras alors l'inviter au lac le soir pour un rendez-vous en l'appelant au téléphone."
 
