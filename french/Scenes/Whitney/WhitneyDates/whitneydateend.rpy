@@ -10,7 +10,7 @@ translate french whitneydateend_5d3b4f3f:
 translate french whitneydateend_72df6614:
 
     # wt "Great. I was hoping you would."
-    wt "Super. J'espérais que tu le ferais."
+    wt "Super. J'espérais que tu viendrais."
 
 # game/Scenes/Whitney/WhitneyDates/whitneydateend.rpy:9
 translate french whitneydateend_e622f823:
