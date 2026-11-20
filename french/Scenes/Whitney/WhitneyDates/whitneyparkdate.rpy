@@ -22,13 +22,13 @@ translate french whitneyparkstartdate_c7d49adf:
 translate french whitneyparkstartdate_1afd758f:
 
     # "Then I lean over and kiss her and we start making out."
-    "Puis je me penche vers elle pour l'embrasser et nous commençons à nous embrasser."
+    "Puis je me penche vers elle pour lui donner un baiser et nous commençons à nous embrasser."
 
 # game/Scenes/Whitney/WhitneyDates/whitneyparkdate.rpy:46
 translate french whitneyparkstartdate_6e33dba8:
 
     # "She's inexperienced, but she's really into it. She kisses with passion and desire. I can tell she wants more."
-    "Elle manque d'expérience, mais elle est vraiment à fond. Elle m'embrasse avec passion et désir. Je vois bien qu'elle en veut plus."
+    "Elle manque d'expérience, mais elle y met tout son coeur. Elle m'embrasse avec passion et désir. Je vois bien qu'elle en veut plus."
 
 # game/Scenes/Whitney/WhitneyDates/whitneyparkdate.rpy:47
 translate french whitneyparkstartdate_af7c35f8:
