@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 translate french strings:
 
@@ -88,7 +88,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:167
     old "Self-Voicing Volume Drop"
-    new "Baisse du volume de la lecture vocale"
+    new "Baisse du volume pendant la lecture vocale"
 
     # renpy/common/00accessibility.rpy:180
     old "Mono Audio"
@@ -136,7 +136,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:267
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Menu d'accessibilité. Utilisez les flèches haut et bas pour naviguer, et la touche Entrée pour activer les boutons et les barres."
+    new "Menu d'accessibilité. Utilisez les flèches haut et bas pour naviguer et la touche Entrée pour activer les boutons et les barres."
 
     # renpy/common/00accessibility.rpy:288
     old "Self-Voicing and Audio"
@@ -152,7 +152,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:306
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Les options de ce menu visent à améliorer l'accessibilité. Elles peuvent ne pas fonctionner avec tous les jeux, et certaines combinaisons d'options peuvent rendre le jeu injouable. Il ne s'agit pas d'un problème lié au jeu ou au moteur. Pour obtenir les meilleurs résultats lors du changement de police, essayez de conserver la taille de texte d'origine."
+    new "Les options de ce menu visent à améliorer l'accessibilité. Elles peuvent ne pas fonctionner avec tous les jeux et certaines combinaisons d'options peuvent rendre le jeu injouable. Il ne s'agit pas d'un problème lié au jeu ou au moteur. Pour obtenir les meilleurs résultats lors du changement de police, essayez de conserver la taille de texte d'origine."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -308,11 +308,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
-    new "%b %j, %H:%M"
+    new "%d %b, %H:%M"
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "Sauvegarder l'emplacement %s : [text]"
+    new "Sauvegarder dans l'emplacement %s : [text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
@@ -324,15 +324,15 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"
-    new "Remplissage automatique de la page"
+    new "Page des sauvegardes automatiques"
 
     # renpy/common/00action_file.rpy:615
     old "File page quick"
-    new "Remplissage rapide de la page"
+    new "Page des sauvegardes rapides"
 
     # renpy/common/00action_file.rpy:617
     old "File page [text]"
-    new "Remplir la page [text]"
+    new "Page de sauvegarde [text]"
 
     # renpy/common/00action_file.rpy:675
     old "Page {}"
@@ -348,11 +348,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
-    new "Page de fichier suivante."
+    new "Page de sauvegarde suivante."
 
     # renpy/common/00action_file.rpy:888
     old "Previous file page."
-    new "Page de fichier précédente."
+    new "Page de sauvegarde précédente."
 
     # renpy/common/00action_file.rpy:949
     old "Quick save complete."
@@ -468,7 +468,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1800
     old "Click to set, right click to add to behind list."
-    new "Cliquez pour définir, cliquez avec le bouton droit pour ajouter à la liste « Derrière »."
+    new "Clic gauche pour définir, clic droit pour ajouter à la liste « Derrière »."
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
@@ -524,11 +524,11 @@ translate french strings:
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr de vouloir terminer le replay ?"
+    new "Êtes-vous sûr de vouloir quitter la relecture de la scène ?"
 
     # renpy/common/00gui.rpy:456
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sûr de vouloir commencer à sauter des passages ?"
+    new "Êtes-vous sûr de vouloir lancer l'avance rapide ?"
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
@@ -556,11 +556,11 @@ translate french strings:
 
     # renpy/common/00library.rpy:257
     old "Skip Mode"
-    new "Mode Saut"
+    new "Mode avance rapide"
 
     # renpy/common/00library.rpy:344
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Ce programme contient des logiciels libres sous plusieurs licences, notamment la licence MIT et la licence publique générale limitée GNU. Une liste complète des logiciels, comprenant des liens vers le code source complet, est disponible {a=https://www.renpy.org/l/license}ici{/a}."
+    new "Ce programme contient des logiciels libres sous plusieurs licences, notamment la licence MIT et la licence publique générale amoindrie GNU (LGPL). Une liste complète des logiciels, comprenant des liens vers le code source complet, est disponible {a=https://www.renpy.org/l/license}ici{/a}."
 
     # renpy/common/00preferences.rpy:295
     old "display"
@@ -596,19 +596,19 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:359
     old "skip"
-    new "ignorer"
+    new "avance rapide"
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen [text]"
-    new "ignorer ce qui n'a pas été vu [text]"
+    new "avance rapide sur le [text] non lu"
 
     # renpy/common/00preferences.rpy:367
     old "skip unseen text"
-    new "ignorer le texte non lu"
+    new "avance rapide sur le texte non lu"
 
     # renpy/common/00preferences.rpy:369
     old "begin skipping"
-    new "commencer à ignorer"
+    new "lancer l'avance rapide"
 
     # renpy/common/00preferences.rpy:373
     old "after choices"
@@ -616,11 +616,11 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:380
     old "skip after choices"
-    new "passer après les choix"
+    new "avance rapide après les choix"
 
     # renpy/common/00preferences.rpy:382
     old "auto-forward time"
-    new "avance automatique dans le temps"
+    new "délai d'avance automatique"
 
     # renpy/common/00preferences.rpy:396
     old "auto-forward"
@@ -632,7 +632,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:406
     old "auto-forward after click"
-    new "avancer automatiquement après un clic"
+    new "maintenir l'avance auto après un clic"
 
     # renpy/common/00preferences.rpy:415
     old "automatic move"
@@ -644,7 +644,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:433
     old "voice sustain"
-    new "maintien de la voix"
+    new "continuer la voix au clic"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing"
@@ -660,7 +660,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:451
     old "self voicing volume drop"
-    new "baisser le volume de la lecture vocale automatique"
+    new "baisse du volume des autres sons pendant la lecture vocale"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing"
@@ -688,11 +688,11 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:477
     old "emphasize audio"
-    new "mettre l'audio en avant"
+    new "priorité aux voix"
 
     # renpy/common/00preferences.rpy:486
     old "rollback side"
-    new "côté de rollback"
+    new "côté du retour en arrière"
 
     # renpy/common/00preferences.rpy:496
     old "gl powersave"
@@ -700,11 +700,11 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:502
     old "gl framerate"
-    new "fréquence d'images gl"
+    new "fréquence d'images GL"
 
     # renpy/common/00preferences.rpy:505
     old "gl tearing"
-    new "tearing gl"
+    new "tearing GL"
 
     # renpy/common/00preferences.rpy:508
     old "font transform"
@@ -736,11 +736,11 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:551
     old "audio when minimized"
-    new "audio en mode minimisé"
+    new "audio quand la fenêtre est réduite"
 
     # renpy/common/00preferences.rpy:560
     old "audio when unfocused"
-    new "audio hors focus"
+    new "audio en arrière-plan"
 
     # renpy/common/00preferences.rpy:569
     old "web cache preload"
@@ -776,7 +776,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:634
     old "sound volume"
-    new "volume sonore"
+    new "volume des effets sonores"
 
     # renpy/common/00preferences.rpy:635
     old "voice volume"
@@ -792,7 +792,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:638
     old "mute sound"
-    new "couper le son"
+    new "couper les effets sonores"
 
     # renpy/common/00preferences.rpy:639
     old "mute voice"
@@ -836,7 +836,7 @@ translate french strings:
 
     # renpy/common/00sync.rpy:186
     old "The Ren'Py Sync server timed out."
-    new "Le serveur Ren'Py Sync a expiré."
+    new "Le délai de connexion au serveur Ren'Py Sync a expiré."
 
     # renpy/common/00sync.rpy:188
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
@@ -844,15 +844,15 @@ translate french strings:
 
     # renpy/common/00sync.rpy:204
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "Le serveur Ren'Py Sync ne dispose pas d'une copie de cette synchronisation. L'ID de synchronisation est peut-être invalide ou a expiré."
+    new "Le serveur Ren'Py Sync ne dispose pas d'une copie de cette synchronisation. L'identifiant de synchronisation est peut-être invalide, ou la synchronisation a peut-être expiré."
 
     # renpy/common/00sync.rpy:305
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Veuillez saisir l'ID de synchronisation que vous avez généré.\nNe saisissez jamais un ID de synchronisation que vous n'avez pas créé vous-même."
+    new "Veuillez saisir l'identifiant de synchronisation que vous avez généré.\nNe saisissez jamais un identifiant de synchronisation que vous n'avez pas créé vous-même."
 
     # renpy/common/00sync.rpy:324
     old "The sync ID is not in the correct format."
-    new "L'ID de synchronisation n'est pas au format correct."
+    new "L'identifiant de synchronisation n'est pas au bon format."
 
     # renpy/common/00sync.rpy:344
     old "The sync could not be decrypted."
@@ -868,7 +868,7 @@ translate french strings:
 
     # renpy/common/00sync.rpy:425
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Cela permettra de télécharger vos sauvegardes vers le {a=https://sync.renpy.org}serveur Ren'Py Sync{/a}.\nVoulez-vous continuer ?"
+    new "Vos sauvegardes vont être envoyées vers le {a=https://sync.renpy.org}serveur Ren'Py Sync{/a}.\nVoulez-vous continuer ?"
 
     # renpy/common/00sync.rpy:433
     old "Yes"
@@ -896,7 +896,7 @@ translate french strings:
 
     # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Vous pouvez utiliser cet identifiant pour télécharger votre sauvegarde sur un autre appareil.\nCette synchronisation expirera dans une heure.\nRen'Py Sync est pris en charge par les {a=https://www.renpy.org/sponsors.html}sponsors de Ren'Py{/a}."
+    new "Vous pouvez utiliser cet identifiant pour télécharger votre sauvegarde sur un autre appareil.\nCette synchronisation expirera dans une heure.\nRen'Py Sync est financé par les {a=https://www.renpy.org/sponsors.html}sponsors de Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:511
     old "Continue"
@@ -920,7 +920,7 @@ translate french strings:
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "Contacte l'App Store\nVeuillez patienter..."
+    new "Connexion à l'App Store\nVeuillez patienter..."
 
     # renpy/common/00updater.rpy:415
     old "No update methods found."
@@ -932,7 +932,7 @@ translate french strings:
 
     # renpy/common/00updater.rpy:465
     old "File list digest does not match."
-    new "Le résumé de la liste des fichiers ne correspond pas."
+    new "L'empreinte de la liste des fichiers ne correspond pas."
 
     # renpy/common/00updater.rpy:675
     old "An error is being simulated."
@@ -960,7 +960,7 @@ translate french strings:
 
     # renpy/common/00updater.rpy:1307
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "Le fichier de mise à jour ne possède pas le résumé correct ; il est peut-être corrompu."
+    new "Le fichier de mise à jour n'a pas la bonne empreinte ; il est peut-être corrompu."
 
     # renpy/common/00updater.rpy:1457
     old "While unpacking {}, unknown type {}."
@@ -1000,7 +1000,7 @@ translate french strings:
 
     # renpy/common/00updater.rpy:1949
     old "Finishing up."
-    new "Fin de l'opération."
+    new "Finalisation."
 
     # renpy/common/00updater.rpy:1951
     old "The updates have been installed. The program will restart."
@@ -1044,7 +1044,7 @@ translate french strings:
 
     # renpy/common/00gallery.rpy:676
     old "Image [index] of [count] locked."
-    new "Image [index] de [count] verrouillée."
+    new "Image [index] sur [count] verrouillée."
 
     # renpy/common/00gallery.rpy:696
     old "prev"
@@ -1064,7 +1064,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new "Rendu"
+    new "Moteur de rendu"
 
     # renpy/common/00gltest.rpy:91
     old "Automatically Choose"
@@ -1084,7 +1084,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:112
     old "Enable (No Blocklist)"
-    new "Activer (pas de liste de blocage)"
+    new "Activer (sans liste de blocage)"
 
     # renpy/common/00gltest.rpy:135
     old "Powersave"
@@ -1124,7 +1124,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:214
     old "This game requires use of GL2 that can't be initialised."
-    new "Ce jeu nécessite un usage de GL2 qui ne peut pas être initialisé."
+    new "Ce jeu nécessite GL2, qui n'a pas pu être initialisé."
 
     # renpy/common/00gltest.rpy:216
     old "This computer has a problem displaying graphics: [problem]."
@@ -1144,11 +1144,11 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:234
     old "Continue, Show this warning again"
-    new "Continuer, Afficher à nouveau cet avertissement"
+    new "Continuer et afficher de nouveau cet avertissement"
 
     # renpy/common/00gltest.rpy:238
     old "Continue, Don't show warning again"
-    new "Continuer, Ne plus afficher cet avertissement"
+    new "Continuer et ne plus afficher cet avertissement"
 
     # renpy/common/00gltest.rpy:246
     old "Change render options"
@@ -1156,7 +1156,7 @@ translate french strings:
 
     # renpy/common/00gamepad.rpy:33
     old "Select Gamepad to Calibrate"
-    new "Sélectionner une manette pour calibrer"
+    new "Sélectionnez la manette à calibrer"
 
     # renpy/common/00gamepad.rpy:36
     old "No Gamepads Available"
@@ -1168,11 +1168,11 @@ translate french strings:
 
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
-    new "Appuyez sur ou déplacez le « [control!s] » [kind]."
+    new "Appuyez sur ou déplacez la commande « [control!s] » ([kind])."
 
     # renpy/common/00gamepad.rpy:70
     old "Skip (A)"
-    new "Ignorer (A)"
+    new "Passer (A)"
 
     # renpy/common/00gamepad.rpy:73
     old "Back (B)"
