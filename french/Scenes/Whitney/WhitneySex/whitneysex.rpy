@@ -10,7 +10,7 @@ translate french whitneysex_fb85f717:
 translate french whitneysex_39eedc82:
 
     # wt "I have to admit... I'm feeling rather turned on right now."
-    wt "Je dois avouer... que je me sens plutôt excité en ce moment."
+    wt "Je dois avouer... que je me sens plutôt excitée en ce moment."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:11
 translate french whitneysex_f7acee68:
@@ -40,13 +40,13 @@ translate french whitneysex_07b7c26c:
 translate french whitneysex_67271ebe:
 
     # pc "You don't have to apologize for stripping for me."
-    pc "Tu n'as pas à t'excuser de te déshabiller pour moi."
+    pc "Tu n'as pas à t'excuser de faire un strip tease pour moi."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:19
 translate french whitneysex_40b72a8d:
 
     # wt "Haha, stripping. Could you imagine me on one of those poles?"
-    wt "Haha, me déshabiller. Tu m'imagines sur une de ces barres ?"
+    wt "Haha, faire un strip tease. Tu m'imagines sur une de ces barres ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:20
 translate french whitneysex_c898f596:
@@ -82,7 +82,7 @@ translate french whitneysexend_2a440379:
 translate french whitneysexend_945f9fdf:
 
     # wt "Well, I guess this is goodbye for now. I had a great time."
-    wt "Bon, je suppose que c'est un au revoir pour l'instant. J'ai passé un super moment."
+    wt "Bon, on dirait bien qu'on doit se dire au revoir pour l'instant. J'ai passé un super moment."
 
 # game/Scenes/Whitney/WhitneySex/whitneysex.rpy:59
 translate french whitneysexend_e2b5cf33:
