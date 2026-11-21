@@ -166,7 +166,7 @@ translate french whitney16_2681ebe7:
 translate french whitney16_4492000b:
 
     # pc "Yeah, I'd say so!"
-    pc "Ouais, je dirais bien !"
+    pc "Ouais, je pense aussi !"
 
 # game/Scenes/Whitney/whitney16.rpy:59
 translate french whitney16_2551790c:
@@ -190,7 +190,7 @@ translate french whitney16_9edb80ec:
 translate french whitney16_b679ea6d:
 
     # wt "It's just finding out how to do this in a way that we can bring you back in one piece."
-    wt "Il suffit de trouver comment faire pour te ramener d’un seul tenant."
+    wt "Il suffit de trouver comment faire pour te ramener en une seule pièce."
 
 # game/Scenes/Whitney/whitney16.rpy:65
 translate french whitney16_19874614:
@@ -238,11 +238,11 @@ translate french whitney16_0ee8d1bf:
 translate french whitney16_97666c57:
 
     # "Fuck, I hope Dad is okay."
-    "Putain, j'espère que papa va bien."
+    "Putain, j'espère que Papa va bien."
 
 translate french strings:
 
     # game/Scenes/Whitney/whitney16.rpy:5
     old "A week after the jewelry store robbery, Whitney will call you on an afternoon on the weekend."
-    new "Une semaine après le braquage de la bijouterie, Whitney t'appellera un après-midi du week-end."
+    new "Une semaine après le braquage de la bijouterie, Whitney t'appellera un après-midi durant le week-end."
 
