@@ -8,7 +8,7 @@ translate french strings:
 
     # game/image_viewer.rpy:14
     old "Tab: completion"
-    new "Onglet : complétion"
+    new "Tab : auto-complétion"
 
     # game/image_viewer.rpy:23
     old "clipboard"
