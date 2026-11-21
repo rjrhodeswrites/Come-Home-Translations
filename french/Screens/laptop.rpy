@@ -52,7 +52,7 @@ translate french buykendraboard_7de0f2fd:
 translate french buykendraboard_8567cba3:
 
     # "But I have the money I guess, and it'd make her happy."
-    "Mais j'ai l'argent, je suppose, et ça lui ferait plaisir."
+    "Mais je pense que j'ai l'argent, et ça lui ferait plaisir."
 
 # game/Screens/laptop.rpy:58
 translate french buykendraboard_8acc8dc3:
@@ -76,13 +76,13 @@ translate french studyenglish_079e5bf3:
 translate french studyenglish_3f99fe4b:
 
     # "I rush downstairs and out to the car, then drive across town to get to class on time."
-    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure en cours."
+    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure aux cours."
 
 # game/Screens/laptop.rpy:82
 translate french studyenglish_5471bfe1:
 
     # "Then it's time to get ready for bed."
-    "Ensuite, il est temps de se préparer pour aller se coucher."
+    "Ensuite, il est temps de me préparer pour aller me coucher."
 
 # game/Screens/laptop.rpy:92
 translate french studyss_079e5bf3:
@@ -94,13 +94,13 @@ translate french studyss_079e5bf3:
 translate french studyss_3f99fe4b:
 
     # "I rush downstairs and out to the car, then drive across town to get to class on time."
-    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure en cours."
+    "Je me précipite en bas vers la voiture, puis je traverse la ville pour arriver à l'heure aux cours."
 
 # game/Screens/laptop.rpy:96
 translate french studyss_5471bfe1:
 
     # "Then it's time to get ready for bed."
-    "Ensuite, c'est l'heure de se préparer à aller se coucher."
+    "Ensuite, c'est l'heure de me préparer à aller me coucher."
 
 # game/Screens/laptop.rpy:104
 translate french soulsofwar_fe5805a7:
@@ -154,5 +154,5 @@ translate french strings:
 
     # game/Screens/laptop.rpy:45
     old "There's nothing I want to buy right now."
-    new "Je n'ai rien envie d'acheter pour le moment."
+    new "Il n'y a rien que j'aie envie d'acheter pour le moment."
 
