@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/whitney8.rpy:11
 translate french whitney8_9853ab00:
@@ -22,19 +22,19 @@ translate french whitney8_371e922c:
 translate french whitney8_cf39ea68:
 
     # wt "I'd like you to come out to my lab today and bring the hoop with you."
-    wt "J'aimerais que tu viennes à mon laboratoire aujourd'hui et que tu apportes le cerceau avec toi."
+    wt "J'aimerais que vous veniez à mon laboratoire aujourd'hui et que vous apportiez le cerceau avec vous."
 
 # game/Scenes/Whitney/whitney8.rpy:18
 translate french whitney8_8d1327d7:
 
     # wt "I'm ready to start doing some tests on it, so hopefully we can replicate your father's experiment and get him back."
-    wt "Je suis prête à commencer à faire des tests dessus, donc j'espère qu'on pourra reproduire l'expérience de ton père et le ramener."
+    wt "Je suis prête à commencer à faire des tests dessus, donc j'espère qu'on pourra reproduire l'expérience de votre père et le ramener."
 
 # game/Scenes/Whitney/whitney8.rpy:19
 translate french whitney8_b764178b:
 
     # pc "Okay, where is your lab?"
-    pc "D'accord, où se trouve ton laboratoire ?"
+    pc "D'accord, où se trouve votre laboratoire ?"
 
 # game/Scenes/Whitney/whitney8.rpy:22
 translate french whitney8_c1a287ab:
@@ -70,7 +70,7 @@ translate french whitney8_0081cc36:
 translate french whitney8_a385c5c3:
 
     # wt "Go through the door and to the right."
-    wt "Passe la porte et tourne à droite."
+    wt "Passez la porte et tournez à droite."
 
 # game/Scenes/Whitney/whitney8.rpy:32
 translate french whitney8_e5f3a53a:
@@ -88,7 +88,7 @@ translate french whitney8_8c6e41ff:
 translate french whitney8_b8ea1cfd:
 
     # wt "Yes that door. It is unlocked. Take the hall to the right. The door is labeled."
-    wt "Oui, cette porte. Elle n’est pas verrouillée. Prends le couloir à droite. La porte est indiquée."
+    wt "Oui, cette porte. Elle n’est pas verrouillée. Prenez le couloir à droite. La porte est indiquée."
 
 # game/Scenes/Whitney/whitney8.rpy:37
 translate french whitney8_63023601:
@@ -124,25 +124,25 @@ translate french whitney8_c8e63656:
 translate french whitney8_47d1da62:
 
     # wt "Hey there, [pcname]. I hope you found the place okay."
-    wt "Salut, [pcname]. J’espère que tu as trouvé l’endroit sans problème."
+    wt "Bonjour, [pcname]. J’espère que vous avez trouvé l’endroit sans problème."
 
 # game/Scenes/Whitney/whitney8.rpy:48
 translate french whitney8_3a839832:
 
     # pc "Yeah, your instructions were very clear. This is all your house?"
-    pc "Oui, tes instructions étaient très claires. Tout ça, c'est ta maison ?"
+    pc "Oui, vos instructions étaient très claires. Tout ça, c'est votre maison ?"
 
 # game/Scenes/Whitney/whitney8.rpy:50
 translate french whitney8_89ef433b:
 
     # wt "Well, this is the laboratory, but if you mean the whole estate - yes, it is mine."
-    wt "Eh bien, c'est le laboratoire, mais si tu parles de l'ensemble du domaine, oui, c'est le mien."
+    wt "Eh bien, c'est le laboratoire, mais si vous parlez de l'ensemble du domaine, oui, c'est le mien."
 
 # game/Scenes/Whitney/whitney8.rpy:51
 translate french whitney8_63dbdd85:
 
     # wt "Bring the hoop over here and let's take a look at it."
-    wt "Apporte le cerceau par ici et regardons-le de plus près."
+    wt "Apportez le cerceau par ici et regardons-le de plus près."
 
 # game/Scenes/Whitney/whitney8.rpy:54
 translate french whitney8_90255794:
@@ -154,7 +154,7 @@ translate french whitney8_90255794:
 translate french whitney8_5898a369:
 
     # wt "Wait, what is this?"
-    wt "Attends, c'est quoi ça ?"
+    wt "Attendez, c'est quoi, ça ?"
 
 # game/Scenes/Whitney/whitney8.rpy:56
 translate french whitney8_80491124:
@@ -166,7 +166,7 @@ translate french whitney8_80491124:
 translate french whitney8_7438caab:
 
     # wt "This is not the hoop that I made for your father."
-    wt "Ce n'est pas le cerceau que j'ai fabriqué pour ton père."
+    wt "Ce n'est pas le cerceau que j'ai fabriqué pour votre père."
 
 # game/Scenes/Whitney/whitney8.rpy:60
 translate french whitney8_6b348789:
@@ -184,7 +184,7 @@ translate french whitney8_1798e0e8:
 translate french whitney8_9167c132:
 
     # wt "It seems like he might have made this one himself, based on my designs."
-    wt "Il semble qu'il l'ait peut-être fabriqué lui-même, d'après mes plans."
+    wt "On dirait qu'il l'a peut-être fabriqué lui-même, d'après mes plans."
 
 # game/Scenes/Whitney/whitney8.rpy:63
 translate french whitney8_238623a7:
@@ -244,7 +244,7 @@ translate french whitney8_78fb6f94:
 translate french whitney8_44a25a7e:
 
     # wt "Which means your father definitely used this hoop, and it seemed to work."
-    wt "Ce qui signifie que ton père a bel et bien utilisé ce cerceau, et qu’il semblait fonctionner."
+    wt "Ce qui signifie que votre père a bel et bien utilisé ce cerceau, et qu’il semblait fonctionner."
 
 # game/Scenes/Whitney/whitney8.rpy:75
 translate french whitney8_4d47a3d4:
@@ -280,7 +280,7 @@ translate french whitney8_d37d2d91:
 translate french whitney8_4291afda:
 
     # pc "So you can't get anything from it?"
-    pc "Tu ne peux donc rien en tirer ?"
+    pc "Vous ne pouvez donc rien en tirer ?"
 
 # game/Scenes/Whitney/whitney8.rpy:83
 translate french whitney8_00f46efa:
@@ -298,7 +298,7 @@ translate french whitney8_01905d70:
 translate french whitney8_943d8aea:
 
     # wt "Give me some time though and I'll be able to tell you where your dad went."
-    wt "Donne-moi un peu de temps et je pourrai te dire où est parti ton père."
+    wt "Donnez-moi un peu de temps et je pourrai vous dire où est parti votre père."
 
 # game/Scenes/Whitney/whitney8.rpy:88
 translate french whitney8_7ef52d77:
@@ -310,19 +310,19 @@ translate french whitney8_7ef52d77:
 translate french whitney8_68edfea2:
 
     # wt "There's nothing else for you to do here now. I'll give you a call once I know something more."
-    wt "Tu n'as plus rien à faire ici maintenant. Je t'appellerai dès que j'en saurai plus."
+    wt "Vous n'avez plus rien à faire ici pour l'instant. Je vous appellerai dès que j'en saurai plus."
 
 # game/Scenes/Whitney/whitney8.rpy:93
 translate french whitney8_ca67bf02:
 
     # wt "I promise I'll call you soon with whatever information I find."
-    wt "Je te promets de t'appeler bientôt pour te donner toutes les informations que j'aurai trouvées."
+    wt "Je vous promets de vous appeler bientôt pour vous donner toutes les informations que j'aurai trouvées."
 
 # game/Scenes/Whitney/whitney8.rpy:94
 translate french whitney8_ba67f62a:
 
     # wt "In the meantime, just try to be patient and stay hopeful, okay?"
-    wt "En attendant, essaie juste d'être patiente et de garder espoir, d'accord ?"
+    wt "En attendant, essayez juste d'être patient et de garder espoir, d'accord ?"
 
 # game/Scenes/Whitney/whitney8.rpy:95
 translate french whitney8_a888ee9a:
@@ -370,13 +370,13 @@ translate french whitney8b_bea5e8cb:
 translate french whitney8b_f60f17fc:
 
     # wt "Hello, [pcname]. I wanted to let you know that I've gone through and repaired most of the corrupted data on the chip."
-    wt "Allô, [pcname]. Je voulais te dire que j’ai passé en revue et réparé la plupart des données corrompues sur la puce."
+    wt "Bonjour, [pcname]. Je voulais vous dire que j’ai passé en revue et réparé la plupart des données corrompues sur la puce."
 
 # game/Scenes/Whitney/whitney8.rpy:118
 translate french whitney8b_a26884b5:
 
     # wt "I believe that I've identified the destination that your father was sent to."
-    wt "Je crois avoir identifié la destination vers laquelle ton père a été envoyé."
+    wt "Je crois avoir identifié la destination vers laquelle votre père a été envoyé."
 
 # game/Scenes/Whitney/whitney8.rpy:119
 translate french whitney8b_51b4a66e:
@@ -394,7 +394,7 @@ translate french whitney8b_55231eaf:
 translate french whitney8b_5bb78b12:
 
     # pc "Wait, what?"
-    pc "Attends, quoi ?"
+    pc "Attendez, quoi ?"
 
 # game/Scenes/Whitney/whitney8.rpy:123
 translate french whitney8b_2f36447e:
@@ -418,19 +418,19 @@ translate french whitney8b_84389a6c:
 translate french whitney8b_06785652:
 
     # wt "Hold on a moment. I told you I wasn't going to help with this unless we were sure that it was safe."
-    wt "Attends un instant. Je t’ai dit que je ne t’aiderais pas à moins d’être sûr que c’était sans danger."
+    wt "Attendez un instant. Je vous ai dit que je ne vous aiderais pas tant que nous ne serions pas sûrs que c’était sans danger."
 
 # game/Scenes/Whitney/whitney8.rpy:128
 translate french whitney8b_56ef83aa:
 
     # wt "Right now I am positive that it's not safe."
-    wt "Pour l'instant, je suis certain que ce n'est pas sans danger."
+    wt "Pour l'instant, je suis certaine que c'est dangereux."
 
 # game/Scenes/Whitney/whitney8.rpy:129
 translate french whitney8b_eff2f8b9:
 
     # wt "Also, there's something else. I don't think your father intended to go to this destination."
-    wt "Et puis, il y a autre chose. Je ne pense pas que ton père avait l'intention d'aller à cette destination."
+    wt "Et puis, il y a autre chose. Je ne pense pas que votre père ait eu l'intention d'aller à cette destination."
 
 # game/Scenes/Whitney/whitney8.rpy:130
 translate french whitney8b_a2a6fb65:
@@ -478,7 +478,7 @@ translate french whitney8b_a99ca9b8:
 translate french whitney8b_4e8b893c:
 
     # wt "Give me a few more days. I'll call you again with an update soon."
-    wt "Donne-moi encore quelques jours. Je te rappellerai bientôt pour te tenir au courant."
+    wt "Donnez-moi encore quelques jours. Je vous rappellerai bientôt pour vous tenir au courant."
 
 # game/Scenes/Whitney/whitney8.rpy:140
 translate french whitney8b_46e89e6b:
@@ -520,13 +520,13 @@ translate french whitney8c_bea5e8cb:
 translate french whitney8c_58e0c9ab:
 
     # wt "Good morning, [pcname]. I've reached a point in my research where I need your assistance."
-    wt "Bonjour, [pcname]. J'en suis arrivée à un stade de mes recherches où j'ai besoin de ton aide."
+    wt "Bonjour, [pcname]. J'en suis arrivée à un stade de mes recherches où j'ai besoin de votre aide."
 
 # game/Scenes/Whitney/whitney8.rpy:162
 translate french whitney8c_801e2e5b:
 
     # wt "Could you come out to my lab again?"
-    wt "Pourrais-tu revenir à mon laboratoire ?"
+    wt "Pourriez-vous revenir à mon laboratoire ?"
 
 # game/Scenes/Whitney/whitney8.rpy:163
 translate french whitney8c_f1d0c30d:
@@ -538,7 +538,7 @@ translate french whitney8c_f1d0c30d:
 translate french whitney8c_864d47fe:
 
     # wt "Thank you. Just go straight to the lab again."
-    wt "Merci. Va directement au laboratoire."
+    wt "Merci. Allez directement au laboratoire."
 
 # game/Scenes/Whitney/whitney8.rpy:166
 translate french whitney8c_2c0a751f:
@@ -580,25 +580,25 @@ translate french whitney8c_221b7409:
 translate french whitney8c_06002bcd:
 
     # wt "I need you to take your clothes off and lie on the table over there please."
-    wt "J'ai besoin que tu te déshabilles et que tu t'allonges sur la table là-bas, s'il te plaît."
+    wt "J'ai besoin que vous vous déshabilliez et que vous vous allongiez sur la table là-bas, s'il vous plaît."
 
 # game/Scenes/Whitney/whitney8.rpy:181
 translate french whitney8c_5bb78b12:
 
     # pc "Wait, what?"
-    pc "Attends, quoi ?"
+    pc "Attendez, quoi ?"
 
 # game/Scenes/Whitney/whitney8.rpy:183
 translate french whitney8c_0a7d798d:
 
     # wt "I need to get all of your vitals and measurements and it would make things easier without all your clothes in the way."
-    wt "Je dois prendre toutes tes constantes et tes mensurations, et ce serait plus facile sans tes vêtements qui me gênent."
+    wt "Je dois prendre toutes vos constantes et vos mensurations, et ce serait plus facile sans vos vêtements qui me gênent."
 
 # game/Scenes/Whitney/whitney8.rpy:184
 translate french whitney8c_21af9c33:
 
     # wt "You can keep your underwear on. I have no need of anything down there."
-    wt "Tu peux garder tes sous-vêtements. Je n'ai besoin de rien là-dessous."
+    wt "Vous pouvez garder vos sous-vêtements. Je n'ai besoin de rien là-dessous."
 
 # game/Scenes/Whitney/whitney8.rpy:185
 translate french whitney8c_45e80a89:
@@ -622,13 +622,13 @@ translate french whitney8c_e78ac241:
 translate french whitney8c_0389d7fb:
 
     # pc "What is this thing?"
-    pc "C'est quoi ce truc ?"
+    pc "C'est quoi, ce truc ?"
 
 # game/Scenes/Whitney/whitney8.rpy:191
 translate french whitney8c_c66baa47:
 
     # wt "It's sort of like a CAT scan. It's going to measure your brain patterns so that we can store them in the hoop."
-    wt "C'est un peu comme un scanner. Ça va mesurer tes ondes cérébrales pour qu'on puisse les stocker dans le cerceau."
+    wt "C'est un peu comme un scanner. Ça va mesurer vos ondes cérébrales pour qu'on puisse les stocker dans le cerceau."
 
 # game/Scenes/Whitney/whitney8.rpy:192
 translate french whitney8c_c2eb693e:
@@ -646,13 +646,13 @@ translate french whitney8c_48b9eb7c:
 translate french whitney8c_85b1d295:
 
     # "She spends the next half hour examining me in a very scientific way, obviously not feeling the awkwardness."
-    "Elle passe la demi-heure suivante à m’examiner de manière très scientifique, sans manifestement ressentir la gêne."
+    "Elle passe la demi-heure suivante à m’examiner de manière très scientifique, visiblement sans ressentir la moindre gêne."
 
 # game/Scenes/Whitney/whitney8.rpy:195
 translate french whitney8c_be8b4783:
 
     # "She takes my blood pressure, a blood sample, swabs my mouth, and asks me for my entire medical history."
-    "Elle prend ma tension artérielle, un échantillon de sang, prélève un échantillon dans ma bouche et me demande tous mes antécédents médicaux."
+    "Elle prend ma tension artérielle, fait une prise de sang, un prélèvement dans ma bouche et me demande tous mes antécédents médicaux."
 
 # game/Scenes/Whitney/whitney8.rpy:198
 translate french whitney8c_a8560158:
@@ -664,13 +664,13 @@ translate french whitney8c_a8560158:
 translate french whitney8c_e04a7994:
 
     # wt "Your body is in great condition physically."
-    wt "Ton corps est en excellente condition physique."
+    wt "Votre corps est en excellente condition physique."
 
 # game/Scenes/Whitney/whitney8.rpy:200
 translate french whitney8c_e8f490d9:
 
     # wt "I believe you could make the transition."
-    wt "Je pense que tu pourrais faire la transition."
+    wt "Je pense que vous pourriez faire la transition."
 
 # game/Scenes/Whitney/whitney8.rpy:201
 translate french whitney8c_91eec677:
@@ -700,7 +700,7 @@ translate french whitney8c_42085f5f:
 translate french whitney8c_ecc33c25:
 
     # wt "We'll take every precaution possible before we do it. I want to make sure you're safe."
-    wt "On prendra toutes les précautions possibles avant de le faire. Je veux m'assurer que vous ne courrez aucun danger."
+    wt "On prendra toutes les précautions possibles avant de le faire. Je veux m'assurer que vous ne courez aucun danger."
 
 # game/Scenes/Whitney/whitney8.rpy:206
 translate french whitney8c_fdc5f0f0:
@@ -712,7 +712,7 @@ translate french whitney8c_fdc5f0f0:
 translate french whitney8c_c53f513a:
 
     # wt "Okay, you can put your clothes on now."
-    wt "Bon, tu peux te rhabiller maintenant."
+    wt "Bon, vous pouvez vous rhabiller maintenant."
 
 # game/Scenes/Whitney/whitney8.rpy:210
 translate french whitney8c_c637416c:
@@ -730,37 +730,37 @@ translate french whitney8c_76970b11:
 translate french whitney8c_87e35479:
 
     # wt "Thanks for your help today. I know it was a bit awkward for you, but the data I gathered will help us immensely."
-    wt "Merci pour ton aide aujourd’hui. Je sais que c’était un peu gênant pour toi, mais les données que j’ai recueillies nous seront d’une aide précieuse."
+    wt "Merci pour votre aide aujourd’hui. Je sais que c’était un peu gênant pour vous, mais les données que j’ai recueillies nous seront d’une aide précieuse."
 
 # game/Scenes/Whitney/whitney8.rpy:216
 translate french whitney8c_b3957c4b:
 
     # wt "I'll use it to configure the hoop to your particular physiology."
-    wt "Je vais m'en servir pour adapter le cerceau à ta morphologie."
+    wt "Je vais m'en servir pour adapter le cerceau à votre physiologie."
 
 # game/Scenes/Whitney/whitney8.rpy:217
 translate french whitney8c_1a8be2aa:
 
     # wt "Then my study will shift into finding a way for you to get back home once you have transitioned through the hoop."
-    wt "Ensuite, je vais me concentrer sur la recherche d'un moyen pour que tu puisses rentrer chez toi une fois que tu auras franchi le cerceau."
+    wt "Ensuite, je vais me concentrer sur la recherche d'un moyen pour que vous puissiez rentrer chez vous une fois que vous aurez franchi le cerceau."
 
 # game/Scenes/Whitney/whitney8.rpy:218
 translate french whitney8c_7b45e859:
 
     # wt "Meanwhile, you must play the waiting game again. I'll let you know if I discover anything new or need you for anything else."
-    wt "En attendant, tu vas devoir encore patienter. Je te tiendrai au courant si je découvre quelque chose de nouveau ou si j'ai besoin de toi pour quoi que ce soit d'autre."
+    wt "En attendant, vous allez devoir encore patienter. Je vous tiendrai au courant si je découvre quelque chose de nouveau ou si j'ai besoin de vous pour quoi que ce soit d'autre."
 
 # game/Scenes/Whitney/whitney8.rpy:219
 translate french whitney8c_1cb92faa:
 
     # wt "You may not hear from me for a while, but trust that I'm working on this."
-    wt "Tu n'auras peut-être pas de mes nouvelles pendant un moment, mais sois sûr que je travaille là-dessus."
+    wt "Vous n'aurez peut-être pas de mes nouvelles pendant un moment, mais soyez sûr que je travaille là-dessus."
 
 # game/Scenes/Whitney/whitney8.rpy:220
 translate french whitney8c_3cf430d2:
 
     # pc "Okay. Thank you Whitney. I'm glad you're here to help me with this."
-    pc "D'accord. Merci Whitney. Je suis content que tu sois là pour m'aider."
+    pc "D'accord. Merci, Whitney. Je suis content que vous soyez là pour m'aider."
 
 # game/Scenes/Whitney/whitney8.rpy:222
 translate french whitney8c_aabc7829:
@@ -772,7 +772,7 @@ translate french whitney8c_aabc7829:
 translate french whitney8c_26af9036:
 
     # pc "Well, just know that I don't blame you."
-    pc "Eh bien, sache simplement que je ne t'en veux pas."
+    pc "Eh bien, sachez simplement que je ne vous en veux pas."
 
 # game/Scenes/Whitney/whitney8.rpy:225
 translate french whitney8c_070d2d8b:
@@ -802,9 +802,8 @@ translate french strings:
 
     # game/Scenes/Whitney/whitney8.rpy:4
     old "After you meet Whitney in the park, you can call her and talk to her. Ask her if she lives in Skyhill."
-    new "Après avoir rencontré Whitney au parc, tu peux l'appeler et lui parler. Demande-lui si elle habite à Skyhill."
+    new "Après avoir rencontré Whitney au parc, tu pourras l'appeler et lui parler. Demande-lui si elle habite à Skyhill."
 
     # game/Scenes/Whitney/whitney8.rpy:5
     old "Then, a few days later, she will call you and ask you to come to her lab. She'll call you a couple more times over the next few days."
-    new "Puis, quelques jours plus tard, elle t'appellera et te demandera de venir à son laboratoire. Elle t'appellera encore deux ou trois fois au cours des prochains jours."
-
+    new "Puis, quelques jours plus tard, elle t'appellera et te demandera de venir à son laboratoire. Elle t'appellera encore deux ou trois fois au cours des jours suivants."
