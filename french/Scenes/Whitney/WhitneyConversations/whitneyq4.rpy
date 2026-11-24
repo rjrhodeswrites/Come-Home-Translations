@@ -28,13 +28,13 @@ translate french whitneyq4_1968b38a:
 translate french whitneyq4_82298393:
 
     # wt "It will be time soon, I think. I am almost ready."
-    wt "Ce moment arrivera bientôt, je pense. Je suis presque prêt."
+    wt "Ce moment arrivera bientôt, je pense. Je suis presque prête."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:22
 translate french whitneyq4_1a57731c:
 
     # wt "I might be more nervous about it than you are."
-    wt "Je suis peut-être plus nerveux que toi à ce sujet."
+    wt "Je suis peut-être plus nerveuse que toi à ce sujet."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:25
 translate french whitneyq4_808f0c76:
@@ -58,7 +58,7 @@ translate french whitneyq4_3854f192:
 translate french whitneyq4_340495cb:
 
     # wt "I am a little worried, as well."
-    wt "Je suis un peu inquiet, moi aussi."
+    wt "Je suis un peu inquiete, moi aussi."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:30
 translate french whitneyq4_2a4d084d:
@@ -142,7 +142,7 @@ translate french whitneyq4_f4d9a84f:
 translate french whitneyq4_3d91f7b3:
 
     # wt "I'm sorry, that was not my intention."
-    wt "Je suis désolé, ce n'était pas mon intention."
+    wt "Je suis désolée, ce n'était pas mon intention."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:52
 translate french whitneyq4_2acedf3a:
