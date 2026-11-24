@@ -8,7 +8,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:2
     old "You can have personal conversations during any date with her."
-    new "Vous pouvez avoir des conversations personnelles lors de n'importe quel rendez-vous avec elle."
+    new "Tu peux avoir des conversations personnelles lors de n'importe quel rendez-vous avec elle."
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:3
     old "This is a surface conversation with Adrian."
@@ -16,7 +16,7 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:4
     old "You can have these on the phone once she gives you her number."
-    new "Vous pouvez avoir ce genre de conversations au téléphone une fois qu'elle vous a donné son numéro."
+    new "Tu peux avoir ce genre de conversations au téléphone une fois qu'elle t'a donné son numéro."
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:5
     old "This is a question that Adrian will ask."
@@ -24,5 +24,5 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:6
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
-    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, allez à d'autres rendez-vous avec elle."
+    new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer,  apprends à mieux la connaître au fil de vos rendez-vous."
 
