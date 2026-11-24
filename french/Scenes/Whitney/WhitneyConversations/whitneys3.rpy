@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys3.rpy:14
 translate french whitneys3_c67f6ad3:
 
     # wt "I have my abba and my brother."
-    wt "J’ai ma mère et mon frère."
+    wt "J’ai mon Abba et mon frère."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys3.rpy:15
 translate french whitneys3_ba303877:
@@ -41,4 +41,3 @@ translate french whitneys3_a7873751:
 
     # wt "Me and my family still FaceTime nearly every night though. They're both great."
     wt "Ma famille et moi, on se voit quand même sur FaceTime presque tous les soirs. Ils sont tous les deux géniaux."
-
