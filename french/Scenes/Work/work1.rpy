@@ -16,13 +16,13 @@ translate french work1_05636015:
 translate french work1_c5e6ce57:
 
     # bs "You've done good work. I'm glad I decided to hire you, even though you seemed a little dense at first."
-    bs "Tu as fait du bon travail. Je suis contente d'avoir décidé de t'embaucher, même si tu semblais un peu lent au début."
+    bs "Tu as fait du bon travail. Je suis contente d'avoir décidé de t'embaucher, même si tu semblais un peu lent à la détente au début."
 
 # game/Scenes/Work/work1.rpy:8
 translate french work1_d4d85540:
 
     # bs "I hope you'll stick around, because this week has been good."
-    bs "J'espère que tu resteras, car cette semaine s'est bien passée."
+    bs "Cette semaine s'est bien passée alors j'espère que tu resteras."
 
 # game/Scenes/Work/work1.rpy:10
 translate french work1_208ce8ca:
@@ -40,7 +40,7 @@ translate french work1_f9dc9fe0:
 translate french work1_63dc4511:
 
     # bs "After this check, the rest will be deposited directly to your bank account."
-    bs "Après ce chèque, le reste sera versé directement sur ton compte bancaire."
+    bs "Le solde sera versé directement sur ton compte bancaire."
 
 # game/Scenes/Work/work1.rpy:14
 translate french work1_95914f27:
