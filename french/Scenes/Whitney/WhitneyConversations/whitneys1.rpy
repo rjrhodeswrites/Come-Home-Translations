@@ -58,7 +58,7 @@ translate french whitneys1_3186ca77:
 translate french whitneys1_38f36d99:
 
     # wt "I'm pretty sure it is."
-    wt "J’en suis presque sûr."
+    wt "J’en suis presque sûre."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys1.rpy:27
 translate french whitneys1_e4aa8ba6:
