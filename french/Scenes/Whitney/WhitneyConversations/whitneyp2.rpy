@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:11
 translate french whitneyp2_bae05aac:
 
     # pc "Have you been in any serious relationships?"
-    pc "As-tu déjà eu des relations sérieuses ?"
+    pc "Avez-vous déjà eu des relations sérieuses ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:13
 translate french whitneyp2_78e2f8e0:
@@ -34,13 +34,13 @@ translate french whitneyp2_508f572f:
 translate french whitneyp2_4db1f03d:
 
     # pc "Wow, that's awful that you've had to deal with that."
-    pc "Ouah, c’est terrible que tu aies dû faire face à ça."
+    pc "Ouah, c’est terrible que vous ayez dû faire face à ça."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:20
 translate french whitneyp2_be216c9a:
 
     # pc "You've found someone now though."
-    pc "Mais tu as trouvé quelqu’un maintenant."
+    pc "Mais vous avez trouvé quelqu’un maintenant."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:22
 translate french whitneyp2_4ba6c3d4:
@@ -64,19 +64,19 @@ translate french whitneyp2_fe49dae1:
 translate french whitneyp2_d652a04e:
 
     # pc "Your condition seems to be something that you have figured out. It hasn't gotten in the way of anything so far."
-    pc "Tu sembles avoir pris ta condition en main. Ça ne t'a gênée en rien jusqu'à présent."
+    pc "Vous semblez avoir trouvé comment gérer votre état. Ça ne vous a gênée en rien jusqu'à présent."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:26
 translate french whitneyp2_b96fd4a3:
 
     # pc "And if it does, so what? We'll figure it out. You're worth it."
-    pc "Et si ça devait arriver, et alors ? On trouverait une solution. Tu en vaux la peine."
+    pc "Et si ça devait arriver, et alors ? On trouverait une solution. Vous en valez la peine."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:28
 translate french whitneyp2_4328ecd9:
 
     # pc "As far as your intelligence, I realize that you're smarter than me, and I find that extremely alluring."
-    pc "Quant à ton intelligence, je me rends compte que tu es plus intelligente que moi, et je trouve ça extrêmement séduisant."
+    pc "Quant à votre intelligence, je me rends compte que vous êtes plus intelligente que moi, et je trouve ça extrêmement séduisant."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:29
 translate french whitneyp2_dbced6c5:
@@ -88,13 +88,13 @@ translate french whitneyp2_dbced6c5:
 translate french whitneyp2_89b9a4e3:
 
     # pc "And you being Pakistani - I'm not racist."
-    pc "Et le fait que tu sois pakistanaise... Je ne suis pas raciste."
+    pc "Et le fait que vous soyez pakistanaise... Je ne suis pas raciste."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:31
 translate french whitneyp2_8355ffdc:
 
     # pc "You're gorgeous and your heritage is part of you and I just want to know all of you better."
-    pc "Tu es magnifique, et ton héritage fait partie de toi, et je veux juste mieux te connaître dans ton ensemble."
+    pc "Vous êtes magnifique, vos origines font partie de vous, et je veux juste mieux vous connaître, tout entière."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp2.rpy:32
 translate french whitneyp2_6716b8de:
@@ -125,4 +125,3 @@ translate french whitneyp2_03eaad50:
 
     # pc "Me too."
     pc "Moi aussi."
-
