@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:13
 translate french whitneyq5_7e5aeb6c:
@@ -10,7 +10,7 @@ translate french whitneyq5_7e5aeb6c:
 translate french whitneyq5_70c08ce4:
 
     # pc "Uh, okay. What's up?"
-    pc "Euh, d’accord. Qu’y a-t-il ?"
+    pc "Euh, d’accord. Qu’est-ce qu’il y a ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:16
 translate french whitneyq5_8726d7a4:
@@ -46,7 +46,7 @@ translate french whitneyq5_19e078cc:
 translate french whitneyq5_36623c8c:
 
     # wt "So, soon, I would like you to stop seeing those other people and become monogamous with me."
-    wt "Donc, bientôt, j'aimerais que tu arrêtes de voir ces autres personnes et que tu deviennes monogame avec moi."
+    wt "Donc, bientôt, j'aimerais que tu arrêtes de voir ces autres personnes et que tu sois exclusif avec moi."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:25
 translate french whitneyq5_8dcb7c09:
@@ -58,7 +58,7 @@ translate french whitneyq5_8dcb7c09:
 translate french whitneyq5_5156766b:
 
     # wt "I just want you and me."
-    wt "Je veux juste toi et moi."
+    wt "Je veux juste nous deux."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:28
 translate french whitneyq5_43700f9c:
@@ -94,7 +94,7 @@ translate french whitneyq5_87af29c5:
 translate french whitneyq5_ac897f1d:
 
     # wt "You are welcome to come work for me in the lab, of course."
-    wt "Tu es bien sûr la bienvenue pour venir travailler pour moi au laboratoire."
+    wt "Tu es bien sûr le bienvenu pour venir travailler pour moi au laboratoire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:37
 translate french whitneyq5_ede37c91:
@@ -158,5 +158,5 @@ translate french strings:
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq5.rpy:3
     old "then she will have this conversation with you automatically on a date."
-    new "ensuite elle aura automatiquement cette conversation avec toi lors d'un rendez-vous."
+    new "elle aura alors automatiquement cette conversation avec toi lors d'un rendez-vous."
 
