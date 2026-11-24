@@ -28,7 +28,7 @@ translate french workdressbetter_9917bac8:
 translate french workdressbetter_a6b99445:
 
     # bs "You look like a fanny-pack wearing vacation dad."
-    bs "On dirait un papa en vacances avec un sac banane."
+    bs "On dirait un beauf en vacances avec un sac banane."
 
 # game/Scenes/Work/workdressbetter.rpy:11
 translate french workdressbetter_f1daf0fc:
@@ -40,7 +40,7 @@ translate french workdressbetter_f1daf0fc:
 translate french workdressbetter_630696d3:
 
     # bs "Well I don't. You need to start dressing better at work. Immediately."
-    bs "Eh bien moi, non. Tu dois commencer à mieux t'habiller au travail. Immédiatement."
+    bs "Eh bien moi pas. Tu dois commencer à mieux t'habiller au travail. Immédiatement."
 
 # game/Scenes/Work/workdressbetter.rpy:13
 translate french workdressbetter_4af2b761:
