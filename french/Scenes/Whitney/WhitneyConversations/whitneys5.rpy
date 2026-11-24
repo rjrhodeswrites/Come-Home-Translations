@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys5.rpy:14
 translate french whitneys5_a4d3dc17:
@@ -76,7 +76,7 @@ translate french whitneys5_afda4767:
 translate french whitneys5_cd47a419:
 
     # wt "I took care of that goldfish until it died of natural causes and afterwards I told myself that I would not get another pet."
-    wt "Je me suis occupé de ce poisson rouge jusqu'à ce qu'il meure de causes naturelles, et après ça, je me suis dit que je ne prendrais plus d'animal de compagnie."
+    wt "Je me suis occupée de ce poisson rouge jusqu'à ce qu'il meure de mort naturelle, et après ça, je me suis dit que je ne prendrais plus d'animal de compagnie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys5.rpy:35
 translate french whitneys5_28d808e3:
@@ -88,7 +88,7 @@ translate french whitneys5_28d808e3:
 translate french whitneys5_8ede3bdd:
 
     # wt "I fed him and changed his water, but I don't think he was very happy."
-    wt "Je le nourrissais et je changeais son eau, mais je ne pense pas qu'il était très heureux."
+    wt "Je le nourrissais et je changeais son eau, mais je ne pense pas qu'il ait été très heureux."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys5.rpy:37
 translate french whitneys5_c4c99407:
@@ -154,11 +154,10 @@ translate french whitneys5_b196f885:
 translate french whitneys5_12e51222:
 
     # pc "I still like dogs though."
-    pc "Mais j'aime toujours les chiens."
+    pc "Mais moi, j'aime quand même bien les chiens."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys5.rpy:52
 translate french whitneys5_a6d56fc5:
 
     # wt "Me too. They are very cute."
     wt "Moi aussi. Ils sont très mignons."
-
