@@ -18,3 +18,15 @@ translate russian strings:
     old "This is a question that Gertrude will ask."
     new "Это вопрос, который задаст Гертруда."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "Встреча за пределами офиса"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "Секс с учителями"
+

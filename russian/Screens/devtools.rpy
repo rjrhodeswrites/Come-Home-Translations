@@ -30,3 +30,175 @@ translate russian strings:
     old "Portal Companion"
     new "Портальный компаньон"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/devtools.rpy:29
+    old "None"
+    new "Нет"
+
+    # game/Screens/devtools.rpy:99
+    old "Lisa (OFF)"
+    new "Лиза (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:101
+    old "LISA (ON)"
+    new "ЛИЗА (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:103
+    old "Suzy (OFF)"
+    new "Сьюзи (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:105
+    old "SUZY (ON)"
+    new "СЮЗИ (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:107
+    old "Dana (OFF)"
+    new "Дана (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:109
+    old "DANA (ON)"
+    new "ДАНА (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:111
+    old "Jamie (OFF)"
+    new "Джейми (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:113
+    old "JAMIE (ON)"
+    new "ДЖЕЙМИ (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:115
+    old "Tammy (OFF)"
+    new "Тэмми (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:117
+    old "TAMMY (ON)"
+    new "ТЭММИ (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:121
+    old "Mari (OFF)"
+    new "Мари (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:123
+    old "MARI (ON)"
+    new "МАРИ (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:125
+    old "Juliana (OFF)"
+    new "Джулиана (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:127
+    old "JULIANA (ON)"
+    new "ДЖУЛИАНА (ВКЛ.)"
+
+    # game/Screens/devtools.rpy:129
+    old "Izzy (OFF)"
+    new "Иззи (ВЫКЛ.)"
+
+    # game/Screens/devtools.rpy:131
+    old "IZZY (ON)"
+    new "ИЗЗИ (ON)"
+
+    # game/Screens/devtools.rpy:133
+    old "Kendra (OFF)"
+    new "Кендра (OFF)"
+
+    # game/Screens/devtools.rpy:135
+    old "KENDRA (ON)"
+    new "КЕНДРА (ON)"
+
+    # game/Screens/devtools.rpy:137
+    old "Adrian (OFF)"
+    new "Адриан (OFF)"
+
+    # game/Screens/devtools.rpy:139
+    old "ADRIAN (ON)"
+    new "АДРИАН (ON)"
+
+    # game/Screens/devtools.rpy:143
+    old "Gertrude (OFF)"
+    new "Гертруда (OFF)"
+
+    # game/Screens/devtools.rpy:145
+    old "GERTRUDE (ON)"
+    new "ГЕРТРУДА (ON)"
+
+    # game/Screens/devtools.rpy:147
+    old "Ms. Welch (OFF)"
+    new "Мисс Уэлч (OFF)"
+
+    # game/Screens/devtools.rpy:149
+    old "MS. WELCH (ON)"
+    new "МИСС УЭЛЧ (ON)"
+
+    # game/Screens/devtools.rpy:151
+    old "Mrs. McGee (OFF)"
+    new "Миссис Макги (OFF)"
+
+    # game/Screens/devtools.rpy:153
+    old "MRS. MCGEE (ON)"
+    new "МИССИС МАКГИ (ON)"
+
+    # game/Screens/devtools.rpy:155
+    old "Mrs. Mills (OFF)"
+    new "Миссис Миллс (OFF)"
+
+    # game/Screens/devtools.rpy:157
+    old "MRS. MILLS (ON)"
+    new "МИССИС МИЛЛС (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:159
+    old "Brandi (OFF)"
+    new "Брэнди (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:161
+    old "BRANDI (ON)"
+    new "БРЭНДИ (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:165
+    old "Reba (OFF)"
+    new "Реба (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:167
+    old "REBA (ON)"
+    new "РЕБА (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:169
+    old "Whitney (OFF)"
+    new "Уитни (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:171
+    old "WHITNEY (ON)"
+    new "УИТНИ (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:173
+    old "Bai (OFF)"
+    new "Бай (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:175
+    old "BAI (ON)"
+    new "БАЙ (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:177
+    old "Jez (OFF)"
+    new "Джез (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:179
+    old "JEZ (ON)"
+    new "ДЖЕЗ (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:181
+    old "Mi-Cha (OFF)"
+    new "Ми-Ча (ВНЕ ЭФИРА)"
+
+    # game/Screens/devtools.rpy:183
+    old "MI-CHA (ON)"
+    new "МИ-ЧА (В ЭФИРЕ)"
+
+    # game/Screens/devtools.rpy:198
+    old "Suzy/Tammy"
+    new "Сьюзи/Тэмми"
+

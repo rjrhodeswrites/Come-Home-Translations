@@ -116,3 +116,11 @@ translate german strings:
     old "Of course"
     new "Natürlich"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate german brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    "Sie kocht ein schnelles Frühstück und wir essen zusammen, bevor wir beide unsere getrennten Wege gehen müssen."
+

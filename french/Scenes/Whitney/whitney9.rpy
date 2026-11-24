@@ -430,7 +430,7 @@ translate french whitney9_7b4fb4aa:
 translate french whitney9_0d00797d:
  
     # fr "Who's your date today?"
-    fr "C'est qui, votre rendez-vous, aujourd'hui ?"
+    fr "Qui est ton rendez-vous, aujourd'hui ?"
  
 # game/Scenes/Whitney/whitney9.rpy:132
 translate french whitney9_8164244b:
@@ -460,7 +460,7 @@ translate french whitney9_d41d8cd9_1:
 translate french whitney9_61a7b208:
  
     # gl "What's up, Twig? Who's your date?"
-    gl "Quoi de neuf, Twig ? C'est qui, votre rendez-vous ?"
+    gl "Quoi de neuf, Twig ? C'est qui, ton rendez-vous ?"
  
 # game/Scenes/Whitney/whitney9.rpy:141
 translate french whitney9_8164244b_1:

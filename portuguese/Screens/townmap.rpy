@@ -214,3 +214,127 @@ translate portuguese strings:
     old "Check out the skater girl again"
     new "Dá uma olhadela na skatista outra vez"
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/townmap.rpy:263
+    old "S"
+    new "S"
+
+    # game/Screens/townmap.rpy:264
+    old "M"
+    new "M"
+
+    # game/Screens/townmap.rpy:265
+    old "T"
+    new "T"
+
+    # game/Screens/townmap.rpy:266
+    old "W"
+    new "W"
+
+    # game/Screens/townmap.rpy:268
+    old "F"
+    new "F"
+
+    # game/Screens/townmap.rpy:508
+    old "Buy Kendra a new skateboard"
+    new "Comprar um novo skate para a Kendra"
+
+    # game/Screens/townmap.rpy:509
+    old "Give Kendra the new board"
+    new "Dar o novo skate à Kendra"
+
+    # game/Screens/townmap.rpy:510
+    old "Visit Kendra at the park"
+    new "Visitar a Kendra no parque"
+
+    # game/Screens/townmap.rpy:513
+    old "Call Nora"
+    new "Ligar à Nora"
+
+    # game/Screens/townmap.rpy:515
+    old "Do social studies homework"
+    new "Fazer os trabalhos de casa de Ciências Sociais"
+
+    # game/Screens/townmap.rpy:517
+    old "Call Mrs. McGee"
+    new "Ligar à Sra. McGee"
+
+    # game/Screens/townmap.rpy:519
+    old "Go to Java Lava"
+    new "Ir ao Java Lava"
+
+    # game/Screens/townmap.rpy:520
+    old "Do english homework"
+    new "Fazer os trabalhos de casa de Inglês"
+
+    # game/Screens/townmap.rpy:522
+    old "Call Brandi"
+    new "Ligar à Brandi"
+
+    # game/Screens/townmap.rpy:524
+    old "Meet the food vlogger"
+    new "Conhecer a vlogger de culinária"
+
+    # game/Screens/townmap.rpy:525
+    old "Check out Brandi's livestream"
+    new "Ver a transmissão em direto da Brandi"
+
+    # game/Screens/townmap.rpy:526
+    old "Watch Brandi's livestream"
+    new "Ver a transmissão em direto da Branditransmissão ao vivo da Brandi"
+
+    # game/Screens/townmap.rpy:529
+    old "Call Adrian"
+    new "Liga ao Adrian"
+
+    # game/Screens/townmap.rpy:531
+    old "Bump into Adrian at the supermarket"
+    new "Encontra o Adrian no supermercado"
+
+    # game/Screens/townmap.rpy:532
+    old "Play Souls of War with Adrian"
+    new "Joga «Souls of War» com o Adrian"
+
+    # game/Screens/townmap.rpy:535
+    old "Call Reba"
+    new "Liga à Reba"
+
+    # game/Screens/townmap.rpy:538
+    old "Call Whitney"
+    new "Liga à Whitney"
+
+    # game/Screens/townmap.rpy:542
+    old "Call Bai"
+    new "Liga à Bai"
+
+    # game/Screens/townmap.rpy:545
+    old "Visit Bai at work"
+    new "Visita a Bai no trabalho"
+
+    # game/Screens/townmap.rpy:548
+    old "Call Detective Rodriguez"
+    new "Liga ao detetive Rodriguez"
+
+    # game/Screens/townmap.rpy:549
+    old "Call Jez"
+    new "Liga ao Jez"
+
+    # game/Screens/townmap.rpy:552
+    old "Visit the school councelor"
+    new "Visita o orientador escolar"
+
+    # game/Screens/townmap.rpy:553
+    old "Visit Gertrude"
+    new "Visita a Gertrude"
+
+    # game/Screens/townmap.rpy:557
+    old "Call Mi-Cha"
+    new "Liga à Mi-Cha"
+
+    # game/Screens/townmap.rpy:559
+    old "Visit Mi-Cha"
+    new "Visita a Mi-Cha"
+

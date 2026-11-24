@@ -1484,3 +1484,11 @@ translate german strings:
     old "Do you want to take this relationship further?"
     new "Willst du diese Beziehung weiterführen?"
 
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate german mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "Jeder Stoß sendet Impulse durch meinen Körper, und jedes Mal zittert sie vor derselben Lust, die ich empfinde."
+

@@ -1296,3 +1296,11 @@ translate russian strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "Нам нужно прекратить (НАВСЕГДА ЗАКАНЧИВАЕТ ПУТЬ ГЕРТРУДЫ)"
 
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate russian gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "Мы в мотеле «Санрайз» на шоссе 69. Номер № 2."
+

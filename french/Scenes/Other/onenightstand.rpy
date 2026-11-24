@@ -1684,3 +1684,11 @@ translate french strings:
     old "Nah, not tonight"
     new "Non, pas ce soir"
 
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate french onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "D’habitude. Pourquoi ? Tu as faim ?"
+

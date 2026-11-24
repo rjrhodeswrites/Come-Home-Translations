@@ -178,3 +178,23 @@ translate german strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "nimm sie mit auf ein Date ins Kino und sie wird dich reiten wollen."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate german jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "Klar, steig auf."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate german jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "Sie stößt einen kleinen Schrei aus, als ich in sie eindringe."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate german jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "Jamie zieht ihre Hose hoch und ich stecke meinen feuchten Schwanz wieder in meine Hose. Dann setzt sie sich auf ihren Platz und sieht mich lächelnd an."
+

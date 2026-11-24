@@ -64,3 +64,11 @@ translate portuguese strings:
     old "hen you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
     new "Depois, poderás enviar um e-mail à Whitney a partir do portátil do teu pai. Passado um ou dois dias, verifica novamente o portátil para veres a resposta da Whitney."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Scenes/Whitney/whitney0.rpy:3
+    old "Then you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
+    new "Depois, poderás enviar um e-mail à Whitney a partir do portátil do teu pai. Passado um ou dois dias, verifica o portátil novamente para veres a resposta da Whitney."
+

@@ -1684,3 +1684,11 @@ translate portuguese strings:
     old "Nah, not tonight"
     new "Nah, esta noite não"
 
+# TODO: Translation updated at 2026-11-24 09:08
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate portuguese onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "Normalmente. Por quê? Você está com fome?"
+

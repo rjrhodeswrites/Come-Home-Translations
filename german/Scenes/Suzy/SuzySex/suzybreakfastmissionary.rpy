@@ -114,3 +114,11 @@ translate german suzybreakfastmissionary_3285809f:
     # "She goes upstairs to get cleaned up, while I get dressed, stuff some food in my mouth, then get ready for school."
     "Sie geht nach oben, um sich frisch zu machen, während ich mich anziehe, etwas zu essen in den Mund schiebe und mich dann für die Schule fertig mache."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Scenes/Suzy/SuzySex/suzybreakfastmissionary.rpy:6
+    old "Choose to fuck her missionary on the table."
+    new "Entscheide dich dafür, sie in der Missionarsstellung auf dem Tisch zu ficken."
+

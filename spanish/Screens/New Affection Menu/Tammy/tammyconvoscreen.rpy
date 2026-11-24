@@ -18,3 +18,23 @@ translate spanish strings:
     old "This is a question that Tammy will ask."
     new "Esta es una pregunta que te hará Tammy."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:14
+    old "TAMMY SOLO CONVERSATIONS"
+    new "CONVERSACIONES EN SOLITARIO DE TAMMY"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:71
+    old "Question: Are you messing around with Lisa?"
+    new "Pregunta: ¿Estás tonteando con Lisa?"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:76
+    old "Question: Do you like girls with muscles?"
+    new "Pregunta: ¿Te gustan las chicas musculosas?"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:102
+    old "Would you want to have a threesome with another guy?"
+    new "¿Te gustaría tener un trío con otro chico?"
+

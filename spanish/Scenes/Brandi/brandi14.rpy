@@ -1246,3 +1246,11 @@ translate spanish strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "ella te llamará por la noche y te invitará a su casa a cenar."
 
+# TODO: Translation updated at 2026-11-24 09:02
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate spanish brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "No, en serio. Nunca he probado un pastel de carne, una coliflor o unos espárragos que se acerquen siquiera a ese sabor."
+

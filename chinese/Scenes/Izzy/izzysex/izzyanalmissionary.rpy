@@ -156,3 +156,11 @@ translate chinese strings:
     old "Choose to fuck her in anal missionary."
     new "选择用传教士体位肛交。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate chinese izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "哦，是吗？用你那根又粗又大的鸡巴？你要把我撑得大大的吗？"
+

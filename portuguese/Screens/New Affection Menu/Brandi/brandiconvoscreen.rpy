@@ -26,3 +26,11 @@ translate portuguese strings:
     old "You can have these when you are on a date with her."
     new "Podes ter estas conversas quando estiveres num encontro com ela."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:85
+    old "Do you have siblings?"
+    new "Tens irmãos?"
+

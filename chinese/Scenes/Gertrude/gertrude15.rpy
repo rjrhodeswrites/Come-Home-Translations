@@ -1296,3 +1296,11 @@ translate chinese strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "我们该停手了（永久终结格特鲁德的剧情线）"
 
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate chinese gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "我们现在在69号公路上的日出汽车旅馆，2号房。"
+

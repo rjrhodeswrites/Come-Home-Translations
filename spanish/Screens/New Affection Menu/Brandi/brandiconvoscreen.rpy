@@ -26,3 +26,11 @@ translate spanish strings:
     old "You can have these when you are on a date with her."
     new "Puedes tenerlas cuando estés en una cita con ella."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:85
+    old "Do you have siblings?"
+    new "¿Tienes hermanos?"
+

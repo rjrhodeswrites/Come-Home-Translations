@@ -26,3 +26,11 @@ translate german strings:
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
     new "Sie stellt ihre Fragen der Reihe nach, eine pro Date. Um sie freizuschalten, gehe öfter mit ihr auf Dates."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:59
+    old "Question: Am I the only transgender person you've been with?"
+    new "Frage: Bin ich die einzige Transgender-Person, mit der du schon zusammen warst?"
+

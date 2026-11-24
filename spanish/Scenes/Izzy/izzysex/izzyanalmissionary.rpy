@@ -156,3 +156,11 @@ translate spanish strings:
     old "Choose to fuck her in anal missionary."
     new "Elige follarla en la postura del misionero anal."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate spanish izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "¿Ah, sí? ¿Con tu polla grande y gruesa? ¿Me vas a abrir bien de par en par?"
+

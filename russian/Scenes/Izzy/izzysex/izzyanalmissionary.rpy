@@ -156,3 +156,11 @@ translate russian strings:
     old "Choose to fuck her in anal missionary."
     new "Выбери, чтобы трахнуть ее в анальной миссионерской позе."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate russian izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "Да ну? С твоим большим, толстым членом? Ты собираешься широко раскрыть меня?"
+

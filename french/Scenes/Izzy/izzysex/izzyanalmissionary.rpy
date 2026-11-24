@@ -156,3 +156,11 @@ translate french strings:
     old "Choose to fuck her in anal missionary."
     new "Choisis de la baiser en missionnaire anal."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate french izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "Ah oui ? Avec ta grosse bite épaisse ? Tu vas m’écarter bien grand ?"
+

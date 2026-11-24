@@ -226,3 +226,157 @@ translate chinese strings:
     old "On your face"
     new "喷在你脸上"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:58
+translate chinese lisatvbj_438143e5:
+
+    # "When the show gets close to ending and she has been sucking on my dick for nearly half an hour, I'm starting to feel the orgasm building up."
+    "当这场“表演”接近尾声，她已经给我口交了将近半小时，我开始感觉到高潮在积聚。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:66
+translate chinese lisatvbj_7eff9392:
+
+    # "I glance over and see that we have an audience."
+    "我瞥了一眼，发现我们有观众了。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:67
+translate chinese lisatvbj_7df361ab:
+
+    # "Suzy is standing in the doorway, watching her mom suck my cock and rubbing her pussy."
+    "苏茜正站在门口，一边看着她妈妈给我口交，一边揉搓着自己的阴户。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:68
+translate chinese lisatvbj_195a81a0:
+
+    # "I'm surprised that Lisa doesn't notice her."
+    "令我惊讶的是，丽莎竟然没注意到她。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:107
+translate chinese lisatvbjcuminmouth_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "我抬头一看，发现苏茜正努力压低声音，同时让自己也达到高潮。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:108
+translate chinese lisatvbjcuminmouth_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "她揉搓着那湿润的阴户，直到爱液顺着大腿流淌下来。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:111
+translate chinese lisatvbjcuminmouth_c1c8389a:
+
+    # "Then, while her mom is swallowing my cum, Suzy slips away and back up the stairs."
+    "接着，就在她妈妈吞下我的精液时，苏茜悄悄溜走了，又回到了楼上。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:148
+translate chinese lisatvbjcumonface_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "我抬头一看，发现苏茜正一边努力压低声音，一边让自己高潮。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:149
+translate chinese lisatvbjcumonface_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "她揉搓着湿润的阴户，直到爱液顺着大腿流淌下来。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:152
+translate chinese lisatvbjcumonface_ac38b202:
+
+    # "Then, while I'm spraying cum all over her mom's face, Suzy slips away and back up the stairs."
+    "接着，就在我把精液喷洒在她妈妈满脸的时候，苏茜悄悄溜走，又跑回了楼上。"
+
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:27
+translate chinese lisatvbj_644c2c44:
+
+    # alt "The image shows Lisa leaning on the MC."
+    alt "画面显示丽莎倚在主角身上。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:36
+translate chinese lisatvbj_6d143f30:
+
+    # alt "The image shows Lisa lying her head down on the MC's lap"
+    alt "画面显示丽莎把头枕在主角的大腿"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:44
+translate chinese lisatvbj_f537573d:
+
+    # alt "The image shows Lisa, looking up at the MC."
+    alt "上。画面显示丽莎抬头看着主角。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:57
+translate chinese lisatvbj_f410399c:
+
+    # alt "An animation shows Lisa holding the MC's dick and sucking the tip."
+    alt "一段动画显示丽莎握住主角的阴茎，吸吮着龟头。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:69
+translate chinese lisatvbj_be8797e1:
+
+    # alt "The image shows Suzy watching from the doorway."
+    alt "图片显示苏茜站在门口旁观。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:95
+translate chinese lisatvbjcuminmouth_ac79d87e:
+
+    # alt "The image shows Lisa on her knees between the MC's legs with his dick in her mouth."
+    alt "图片显示丽莎跪在主角双腿之间，嘴里含着他的阴茎。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:103
+translate chinese lisatvbjcuminmouth_a7d50be5:
+
+    # alt "The image shows Lisa closing her eyes, smiling, as the MC cums in her mouth."
+    alt "图片显示丽莎闭着眼睛微笑，主角在她嘴里射精。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:113
+translate chinese lisatvbjcuminmouth_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "图片显示苏茜在门口自慰达到高潮。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:118
+translate chinese lisatvbjcuminmouth_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "图片显示苏茜悄悄离开。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:124
+translate chinese lisatvbjcuminmouth_e02aaa51:
+
+    # alt "The image shows Lisa looking up at the MC, smiling."
+    alt "图片显示丽莎抬头看着主角，微笑着。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:141
+translate chinese lisatvbjcumonface_1721fc0d:
+
+    # alt "The image shows Lisa on her knees between the MC's legs, dick in hand, looking up at him."
+    alt "画面显示丽莎跪在主角双腿之间，一手握着阴茎，抬头望着他。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:150
+translate chinese lisatvbjcumonface_615d3e65:
+
+    # alt "The image shows Lisa, closing her eyes smiling, mouth open, tongue out, as the MC cums on her face."
+    alt "画面显示丽莎闭着眼睛微笑，嘴巴张开，舌头伸出，主角射在她脸上。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:159
+translate chinese lisatvbjcumonface_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "画面显示苏茜在门边自慰达到高潮。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:164
+translate chinese lisatvbjcumonface_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "画面显示苏茜悄然离去。"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:170
+translate chinese lisatvbjcumonface_34b01edb:
+
+    # alt "The image shows Lisa, looking up at the MC smiling, her face covered in cum."
+    alt "画面显示丽莎抬头对着主角微笑，脸上沾满精液。"
+

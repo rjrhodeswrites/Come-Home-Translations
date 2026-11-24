@@ -26,3 +26,11 @@ translate russian strings:
     old "He asks his questions in order, one per date. To unlock, go on more dates with him."
     new "Он задает вопросы по порядку, по одному на каждое свидание. Чтобы разблокировать, ходите с ним на большее количество свиданий."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/Bai/baiconvoscreen.rpy:66
+    old "Propose a threesome with Tammy."
+    new "Предложить Тэмми секс втроем."
+

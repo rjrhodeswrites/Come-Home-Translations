@@ -1296,3 +1296,11 @@ translate portuguese strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "Devíamos parar (TERMINA DEFINITIVAMENTE O PERCURSO DE GERTRUDE)"
 
+# TODO: Translation updated at 2026-11-24 09:08
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate portuguese gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "Estamos no Motel Sunrise, na Rodovia 69. Quarto nº 2."
+

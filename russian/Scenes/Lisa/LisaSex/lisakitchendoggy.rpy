@@ -210,3 +210,53 @@ translate russian strings:
     old "you can find her in the kitchen on weekend mornings and have doggy style sex with her there."
     new "ты можешь найти ее на кухне по утрам в выходные и заняться с ней сексом по-собачьи прямо там."
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:59
+translate russian lisakitchendoggy_5badbcd0:
+
+    # "I look over and see that we have an audience."
+    "Я оглядываюсь и вижу, что у нас появилась зрительница."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:67
+translate russian lisakitchendoggy_aced7ece:
+
+    # "Suzy is watching, rubbing her pussy furiously as I pound her mom from behind."
+    "Сьюзи наблюдает, яростно потирая свою киску, пока я трахаю её маму сзади."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:84
+translate russian lisakitchendoggy_0b38642c:
+
+    # "The sight of her mother's orgasm makes Suzy cum as well, her wet pussy leaking juices down her leg."
+    "Вид оргазма её матери заставляет Сьюзи тоже кончить, и соки из её мокрой киски стекают по ноге."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:85
+translate russian lisakitchendoggy_b3924252:
+
+    # "The sight pushes me over the edge."
+    "Это зрелище доводит меня до предела."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:132
+translate russian lisakitchendoggy_2a323695:
+
+    # "I look over, worried that Suzy is still there, but she's gone, retreated unseen back up the stairs."
+    "Я оглядываюсь, опасаясь, что Сьюзи всё ещё здесь, но её уже нет — она незаметно ушла обратно наверх по лестнице."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:137
+translate russian lisakitchendoggy_3fcbd851:
+
+    # "A few minutes later, Lisa returns, then Suzy comes back downstairs and we sit down and eat breakfast together."
+    "Через несколько минут возвращается Лиза, затем Сьюзи спускается вниз, и мы садимся завтракать вместе."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:138
+translate russian lisakitchendoggy_abebd4fc:
+
+    # "Both of them smile at me through the entire meal,but Lisa doesn't seem to suspect anything."
+    "Обе улыбаются мне на протяжении всего завтрака, но Лиза, похоже, ничего не подозревает."
+
+translate russian strings:
+
+    # game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:14
+    old "Do you want Suzy watching?"
+    new "Хочешь, чтобы Сьюзи смотрела?"
+

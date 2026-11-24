@@ -3186,3 +3186,11 @@ translate portuguese displayepilogueslides_b97a871d:
     # "What more could a person ask for?"
     "O que mais se poderia pedir?"
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Scenes/Update20/u20haremending.rpy:2948
+    old "GO!"
+    new "VAI!"
+

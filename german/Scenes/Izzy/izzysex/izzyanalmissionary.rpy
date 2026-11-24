@@ -156,3 +156,11 @@ translate german strings:
     old "Choose to fuck her in anal missionary."
     new "Entscheide dich, sie in der Missionarsstellung anal zu ficken."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate german izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "Ach ja? Mit deinem großen, dicken Schwanz? Wirst du mich weit aufspreizen?"
+

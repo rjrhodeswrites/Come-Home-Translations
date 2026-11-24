@@ -116,3 +116,11 @@ translate russian strings:
     old "Of course"
     new "Конечно"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate russian brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    "Она готовит быстрый завтрак, и мы едим вместе, прежде чем нам обоим придётся разойтись."
+

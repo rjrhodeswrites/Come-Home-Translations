@@ -178,3 +178,23 @@ translate russian strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "пригласи ее на свидание в кинотеатр, и она захочет оседлать тебя."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate russian jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "Конечно, запрыгивай."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate russian jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "Она тихо вскрикивает, когда я вхожу в неё."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate russian jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "Джейми подтягивает штаны, а я прячу свой мокрый член обратно в штаны. Потом она садится на свое место и смотрит на меня с улыбкой."
+

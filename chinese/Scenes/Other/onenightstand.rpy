@@ -1684,3 +1684,11 @@ translate chinese strings:
     old "Nah, not tonight"
     new "不，今晚不行"
 
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate chinese onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "通常是这样。为什么？你饿了吗？"
+

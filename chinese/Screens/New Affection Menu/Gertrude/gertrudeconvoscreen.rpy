@@ -18,3 +18,15 @@ translate chinese strings:
     old "This is a question that Gertrude will ask."
     new "这是格特鲁德会问的问题。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "办公室外见面"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "与老师发生性关系"
+

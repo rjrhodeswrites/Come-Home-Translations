@@ -1484,3 +1484,11 @@ translate spanish strings:
     old "Do you want to take this relationship further?"
     new "¿Quieres llevar esta relación más allá?"
 
+# TODO: Translation updated at 2026-11-24 09:02
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate spanish mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "Cada embestida envía pulsaciones por mi cuerpo y, cada vez, ella tiembla con el mismo placer que yo siento."
+

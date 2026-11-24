@@ -178,3 +178,23 @@ translate spanish strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "Llévala al cine y se le antojará montarte."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate spanish jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "Claro, súbete."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate spanish jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "Ella deja escapar un pequeño grito ahogado cuando la penetro."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate spanish jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "Jamie se sube los pantalones y yo meto mi polla mojada de vuelta en mis calzoncillos. Luego se sienta en su asiento y me mira con una sonrisa."
+

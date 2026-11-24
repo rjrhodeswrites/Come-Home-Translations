@@ -42,3 +42,11 @@ translate russian end_c44a6525:
     # rj "Bye for now."
     rj "Пока."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Scenes/Other/endchapter.rpy:28
+    old "Skip Credits"
+    new "Пропусти титры"
+

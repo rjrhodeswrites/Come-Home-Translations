@@ -14,3 +14,11 @@ translate chinese strings:
     old "This is a question that Kendra will ask."
     new "这是肯德拉会问的问题。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/Kendra/kendraconvoscreen.rpy:51
+    old "Talk to her about Whitney"
+    new "跟她聊聊惠特尼"
+

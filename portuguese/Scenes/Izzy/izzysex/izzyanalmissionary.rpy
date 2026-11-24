@@ -156,3 +156,11 @@ translate portuguese strings:
     old "Choose to fuck her in anal missionary."
     new "Escolhe foder-lhe no anal missionário."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+# game/Scenes/Izzy/izzysex/izzyanalmissionary.rpy:18
+translate portuguese izzyanalmissionary_75ae0bcc:
+
+    # gl "Oh yeah? With your big, thick cock? You going to spread me wide open?"
+    gl "Ah, sim? Com a tua pila grande e grossa? Vais abrir-me bem à força?"
+

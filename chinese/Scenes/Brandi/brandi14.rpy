@@ -1246,3 +1246,11 @@ translate chinese strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "她会在晚上给你打电话，邀请你去她家吃晚饭。"
 
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate chinese brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "不，我是认真的。我从未吃过味道能接近那样的肉饼、花椰菜或芦笋。"
+

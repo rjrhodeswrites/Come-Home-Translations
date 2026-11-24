@@ -18,3 +18,15 @@ translate french strings:
     old "This is a question that Gertrude will ask."
     new "Voici une question que Gertrude posera."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "Rencontre à l’extérieur du bureau"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "Relations sexuelles avec des professeurs"
+

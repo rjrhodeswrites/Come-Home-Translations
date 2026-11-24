@@ -232,3 +232,11 @@ translate french strings:
     old "No punishment today"
     new "Pas de punition aujourd'hui"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Scenes/Micha/MichaSex/michadoggy.rpy:50
+    old "No (NEW)"
+    new "Non (NOUVEAU)"
+

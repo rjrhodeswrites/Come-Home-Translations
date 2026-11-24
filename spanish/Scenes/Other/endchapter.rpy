@@ -42,3 +42,11 @@ translate spanish end_c44a6525:
     # rj "Bye for now."
     rj "Adiós por ahora."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Scenes/Other/endchapter.rpy:28
+    old "Skip Credits"
+    new "Saltar los créditos"
+

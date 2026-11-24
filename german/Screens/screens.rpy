@@ -354,3 +354,11 @@ translate german strings:
     old "{size=50}Auto"
     new "{size=50}Auto"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/screens.rpy:798
+    old "[page]"
+    new "[page]"
+

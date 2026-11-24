@@ -284,3 +284,19 @@ translate chinese strings:
     old "Ask Juliana Out (NEW CONTENT)"
     new "邀请朱莉安娜出去（新内容）"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+translate chinese strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the cafe"
+    new "建议在她关掉咖啡馆"
+
+# TODO: Translation updated at 2026-11-24 08:41
+
+translate chinese strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the café"
+    new "建议在她关掉咖啡馆"
+

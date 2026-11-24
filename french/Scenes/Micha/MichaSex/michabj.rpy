@@ -518,3 +518,95 @@ translate french strings:
     old "Teach her to mind"
     new "Apprends-lui à faire attention"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:218
+translate french michaspitpunish_e890c78f:
+
+    # pc "You did good, but you spit out what I gave to you."
+    pc "T'as bien fait, mais t'as recraché ce que je t'ai donné."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:221
+translate french michaspitpunish_418c82fb:
+
+    # mc "Oh, I'm sorry. I should not have done that?"
+    mc "Oh, désolé. J'aurais pas dû faire ça ?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:222
+translate french michaspitpunish_54c40f64:
+
+    # pc "No, you are supposed to swallow it."
+    pc "Non, t'es censé l'avaler."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:224
+translate french michaspitpunish_d41d8cd9:
+
+    # voice 'voices/micha_imsorry2.mp3'
+    voice 'voices/micha_imsorry2.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:225
+translate french michaspitpunish_b360fd8d:
+
+    # mc "I'm sorry, [mcsir]."
+    mc "Je suis désolée, [mcsir]."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:227
+translate french michaspitpunish_d41d8cd9_1:
+
+    # voice 'voices/micha_punishme.mp3'
+    voice 'voices/micha_punishme.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:228
+translate french michaspitpunish_66925816:
+
+    # mc "Are you going to punish me?"
+    mc "Tu vas me punir ?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:229
+translate french michaspitpunish_7f1a3e8a:
+
+    # pc "I think I should."
+    pc "Je pense que je devrais."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:230
+translate french michaspitpunish_7ed0b06b:
+
+    # mc "I think you should too. I deserve to be punished."
+    mc "Je pense que tu devrais aussi. Je mérite d’être punie."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:233
+translate french michaspitpunish_4c9c289f:
+
+    # pc "You spit again. Why did you do that? I've told you not to."
+    pc "Tu as encore recraché. Pourquoi as-tu fait ça ? Je t’avais dit de ne pas le faire."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:237
+translate french michaspitpunish_d41d8cd9_2:
+
+    # voice 'voices/micha_imsorry1.mp3'
+    voice 'voices/micha_imsorry1.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:238
+translate french michaspitpunish_a49b3e35:
+
+    # mc "I'm sorry, [mcsir]. I forgot."
+    mc "Je suis désolée, [mcsir]. J’ai oublié."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:239
+translate french michaspitpunish_7e1bba4f:
+
+    # mc "I guess you should punish me again. So I remember next time."
+    mc "Je suppose que tu devrais me punir à nouveau. Pour que je m’en souvienne la prochaine fois."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:240
+translate french michaspitpunish_aef76910:
+
+    # pc "I guess I'm going to have to."
+    pc "Je suppose que je vais devoir le faire."
+
+translate french strings:
+
+    # game/Scenes/Micha/MichaSex/michabj.rpy:92
+    old "Punish her for spitting (NEW)"
+    new "La punir pour avoir craché (NOUVEAU)"
+

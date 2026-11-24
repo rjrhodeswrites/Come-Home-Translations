@@ -116,3 +116,11 @@ translate french strings:
     old "Of course"
     new "Bien sûr"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate french brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    ". Elle prépare un petit-déjeuner rapide et on mange ensemble avant de devoir chacun suivre notre chemin."
+

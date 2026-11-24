@@ -156,3 +156,17 @@ translate spanish jezsexend_48db6964_1:
     # det "Good night, [pcname]."
     det "Buenas noches, [pcname]."
 
+# TODO: Translation updated at 2026-11-24 09:02
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:149
+translate spanish jezsexend_2948f65e_1:
+
+    # det "Good. I like having you here, [pcname]."
+    det "Bien. Me gusta tenerte aquí, [pcname]."
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:152
+translate spanish jezsexend_392514d1_1:
+
+    # "I fall asleep pretty quickly, her warm body pressed against mine."
+    "Me quedo dormido bastante rápido, con su cuerpo cálido pegado al mío."
+

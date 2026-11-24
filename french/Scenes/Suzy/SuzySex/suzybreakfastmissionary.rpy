@@ -114,3 +114,11 @@ translate french suzybreakfastmissionary_3285809f:
     # "She goes upstairs to get cleaned up, while I get dressed, stuff some food in my mouth, then get ready for school."
     "Elle monte à l’étage pour se nettoyer, pendant que je m’habille, avale un peu de nourriture, puis me prépare pour l’école."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Scenes/Suzy/SuzySex/suzybreakfastmissionary.rpy:6
+    old "Choose to fuck her missionary on the table."
+    new "Choisis de la baiser en missionnaire sur la table."
+

@@ -518,3 +518,95 @@ translate chinese strings:
     old "Teach her to mind"
     new "教她听话"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:218
+translate chinese michaspitpunish_e890c78f:
+
+    # pc "You did good, but you spit out what I gave to you."
+    pc "你做得不错，但你把我的精液吐出来了。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:221
+translate chinese michaspitpunish_418c82fb:
+
+    # mc "Oh, I'm sorry. I should not have done that?"
+    mc "哦，对不起。我不该那样做吗？"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:222
+translate chinese michaspitpunish_54c40f64:
+
+    # pc "No, you are supposed to swallow it."
+    pc "不，你本该吞下去的。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:224
+translate chinese michaspitpunish_d41d8cd9:
+
+    # voice 'voices/micha_imsorry2.mp3'
+    voice 'voices/micha_imsorry2.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:225
+translate chinese michaspitpunish_b360fd8d:
+
+    # mc "I'm sorry, [mcsir]."
+    mc "对不起，[mcsir]。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:227
+translate chinese michaspitpunish_d41d8cd9_1:
+
+    # voice 'voices/micha_punishme.mp3'
+    voice 'voices/micha_punishme.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:228
+translate chinese michaspitpunish_66925816:
+
+    # mc "Are you going to punish me?"
+    mc "你要惩罚我吗？"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:229
+translate chinese michaspitpunish_7f1a3e8a:
+
+    # pc "I think I should."
+    pc "我觉得应该。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:230
+translate chinese michaspitpunish_7ed0b06b:
+
+    # mc "I think you should too. I deserve to be punished."
+    mc "我也觉得你应该。我活该被惩罚。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:233
+translate chinese michaspitpunish_4c9c289f:
+
+    # pc "You spit again. Why did you do that? I've told you not to."
+    pc "你又吐出来了。你为什么要那样做？我不是告诉过你不要那样做吗？"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:237
+translate chinese michaspitpunish_d41d8cd9_2:
+
+    # voice 'voices/micha_imsorry1.mp3'
+    voice 'voices/micha_imsorry1.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:238
+translate chinese michaspitpunish_a49b3e35:
+
+    # mc "I'm sorry, [mcsir]. I forgot."
+    mc "对不起，[mcsir]。我忘了。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:239
+translate chinese michaspitpunish_7e1bba4f:
+
+    # mc "I guess you should punish me again. So I remember next time."
+    mc "我想你应该再惩罚我一次。这样下次我才会记住。"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:240
+translate chinese michaspitpunish_aef76910:
+
+    # pc "I guess I'm going to have to."
+    pc "看来我不得不这么做了。"
+
+translate chinese strings:
+
+    # game/Scenes/Micha/MichaSex/michabj.rpy:92
+    old "Punish her for spitting (NEW)"
+    new "因为吐口水而惩罚她（新）"
+

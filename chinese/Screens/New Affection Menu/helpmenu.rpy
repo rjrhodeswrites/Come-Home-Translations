@@ -12,3 +12,11 @@ translate chinese helpmenu_b82eae54:
     # "[helptext2]"
     "[helptext2]"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/helpmenu.rpy:42
+    old "Watch Replay"
+    new "观看回放"
+

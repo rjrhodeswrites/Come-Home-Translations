@@ -1246,3 +1246,11 @@ translate french strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "elle t'appellera le soir et t'invitera chez elle pour dîner."
 
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate french brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "Non, je suis sérieux. Je n’ai jamais mangé de pain de viande, de chou-fleur ou d’asperges qui aient eu un goût ne serait-ce qu’approchant de celui-là."
+

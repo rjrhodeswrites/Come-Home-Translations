@@ -232,3 +232,11 @@ translate portuguese strings:
     old "No punishment today"
     new "Hoje não há castigo"
 
+# TODO: Translation updated at 2026-10-05 10:32
+
+translate portuguese strings:
+
+    # game/Scenes/Micha/MichaSex/michadoggy.rpy:50
+    old "No (NEW)"
+    new "Não (NOVO)"
+

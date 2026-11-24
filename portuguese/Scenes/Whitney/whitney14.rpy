@@ -1604,3 +1604,11 @@ translate portuguese strings:
     old "I think I need to go"
     new "Acho que tenho de ir"
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate portuguese rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "Deve haver um alarme que dispara se o cofre for aberto fora do horário de funcionamento."
+

@@ -232,3 +232,11 @@ translate german strings:
     old "No punishment today"
     new "Heute gibt es keine Bestrafung"
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+translate german strings:
+
+    # game/Scenes/Micha/MichaSex/michadoggy.rpy:50
+    old "No (NEW)"
+    new "Nein (NEU)"
+

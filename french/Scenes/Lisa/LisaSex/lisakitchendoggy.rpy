@@ -210,3 +210,53 @@ translate french strings:
     old "you can find her in the kitchen on weekend mornings and have doggy style sex with her there."
     new "Tu peux la trouver dans la cuisine le week-end le matin et faire l'amour avec elle en levrette là-bas."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:59
+translate french lisakitchendoggy_5badbcd0:
+
+    # "I look over and see that we have an audience."
+    "Je jette un coup d’œil et je constate que nous avons un public."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:67
+translate french lisakitchendoggy_aced7ece:
+
+    # "Suzy is watching, rubbing her pussy furiously as I pound her mom from behind."
+    "Suzy nous observe, se caressant frénétiquement la chatte pendant que je prends sa mère par derrière."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:84
+translate french lisakitchendoggy_0b38642c:
+
+    # "The sight of her mother's orgasm makes Suzy cum as well, her wet pussy leaking juices down her leg."
+    "La vue de l’orgasme de sa mère fait jouir Suzy à son tour, sa chatte humide laissant couler du jus le long de sa jambe."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:85
+translate french lisakitchendoggy_b3924252:
+
+    # "The sight pushes me over the edge."
+    "Ce spectacle me fait basculer."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:132
+translate french lisakitchendoggy_2a323695:
+
+    # "I look over, worried that Suzy is still there, but she's gone, retreated unseen back up the stairs."
+    "Je regarde autour de moi, inquiet que Suzy soit toujours là, mais elle est partie, remontée discrètement à l’étage."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:137
+translate french lisakitchendoggy_3fcbd851:
+
+    # "A few minutes later, Lisa returns, then Suzy comes back downstairs and we sit down and eat breakfast together."
+    "Quelques minutes plus tard, Lisa revient, puis Suzy redescend et nous nous asseyons pour prendre le petit-déjeuner ensemble."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:138
+translate french lisakitchendoggy_abebd4fc:
+
+    # "Both of them smile at me through the entire meal,but Lisa doesn't seem to suspect anything."
+    "Toutes les deux me sourient pendant tout le repas, mais Lisa ne semble rien soupçonner."
+
+translate french strings:
+
+    # game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:14
+    old "Do you want Suzy watching?"
+    new "Tu veux que Suzy regarde ?"
+

@@ -156,3 +156,17 @@ translate chinese jezsexend_48db6964_1:
     # det "Good night, [pcname]."
     det "晚安，[pcname]。"
 
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:149
+translate chinese jezsexend_2948f65e_1:
+
+    # det "Good. I like having you here, [pcname]."
+    det "很好。我喜欢你在这里，[pcname]。"
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:152
+translate chinese jezsexend_392514d1_1:
+
+    # "I fall asleep pretty quickly, her warm body pressed against mine."
+    "她的温暖身体紧贴着我，我很快就睡着了。"
+

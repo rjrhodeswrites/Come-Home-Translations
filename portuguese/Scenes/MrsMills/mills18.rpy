@@ -1484,3 +1484,11 @@ translate portuguese strings:
     old "Do you want to take this relationship further?"
     new "Queres levar este relacionamento mais longe?"
 
+# TODO: Translation updated at 2026-11-24 09:08
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate portuguese mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "Cada estocada envia pulsos pelo meu corpo e, todas as vezes, ela treme com o mesmo prazer que eu sinto."
+

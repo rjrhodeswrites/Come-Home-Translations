@@ -284,3 +284,19 @@ translate russian strings:
     old "Ask Juliana Out (NEW CONTENT)"
     new "Пригласить Джулиану на свидание (НОВОЕ СОДЕРЖАНИЕ)"
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+translate russian strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the cafe"
+    new "Предложи ей заняться сексом после того, как она закроет кафе"
+
+# TODO: Translation updated at 2026-11-24 09:12
+
+translate russian strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the café"
+    new "Предлагаю заняться сексом после того, как она закроет кафе"
+

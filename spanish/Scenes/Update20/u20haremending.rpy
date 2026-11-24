@@ -3242,3 +3242,11 @@ translate spanish haremending_4af44967:
     # mc "I like that I can please you both at the same time."
     mc "Me gusta poder complaceros a los dos a la vez."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Scenes/Update20/u20haremending.rpy:2948
+    old "GO!"
+    new "¡YA!"
+

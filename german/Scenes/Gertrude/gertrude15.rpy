@@ -1296,3 +1296,11 @@ translate german strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "Wir sollten aufhören (BEENDET GERTRUDES WEG ENDGÜLTIG)."
 
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate german gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "Wir sind im „Sunrise Motel“ am Highway 69. Zimmer Nr. 2."
+

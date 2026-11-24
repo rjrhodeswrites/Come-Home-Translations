@@ -114,3 +114,11 @@ translate chinese suzybreakfastmissionary_3285809f:
     # "She goes upstairs to get cleaned up, while I get dressed, stuff some food in my mouth, then get ready for school."
     "她上楼去清理，而我则穿好衣服，往嘴里塞了点东西，然后准备去上学。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Scenes/Suzy/SuzySex/suzybreakfastmissionary.rpy:6
+    old "Choose to fuck her missionary on the table."
+    new "选择在桌子上用传教士体位和她做爱。"
+

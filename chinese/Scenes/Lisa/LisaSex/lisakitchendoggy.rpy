@@ -210,3 +210,53 @@ translate chinese strings:
     old "you can find her in the kitchen on weekend mornings and have doggy style sex with her there."
     new "周末的早晨，你可以在厨房找到她，然后在那里和她做后入式。"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:59
+translate chinese lisakitchendoggy_5badbcd0:
+
+    # "I look over and see that we have an audience."
+    "我瞥了一眼，发现我们有观众了。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:67
+translate chinese lisakitchendoggy_aced7ece:
+
+    # "Suzy is watching, rubbing her pussy furiously as I pound her mom from behind."
+    "苏茜正盯着看，一边看着我从后面猛烈抽插她妈妈，一边疯狂地揉搓着自己的阴部。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:84
+translate chinese lisakitchendoggy_0b38642c:
+
+    # "The sight of her mother's orgasm makes Suzy cum as well, her wet pussy leaking juices down her leg."
+    "目睹母亲高潮的景象让苏茜也达到了高潮，她湿漉漉的阴部流出的爱液顺着大腿流下。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:85
+translate chinese lisakitchendoggy_b3924252:
+
+    # "The sight pushes me over the edge."
+    "这一幕让我彻底失控。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:132
+translate chinese lisakitchendoggy_2a323695:
+
+    # "I look over, worried that Suzy is still there, but she's gone, retreated unseen back up the stairs."
+    "我转头张望，担心苏茜还在那里，但她已经不见了，悄无声息地退回了楼上。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:137
+translate chinese lisakitchendoggy_3fcbd851:
+
+    # "A few minutes later, Lisa returns, then Suzy comes back downstairs and we sit down and eat breakfast together."
+    "几分钟后，丽莎回来了，随后苏茜也下楼，我们坐下来一起吃早餐。"
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:138
+translate chinese lisakitchendoggy_abebd4fc:
+
+    # "Both of them smile at me through the entire meal,but Lisa doesn't seem to suspect anything."
+    "整个用餐过程中，她们俩都对我微笑，但丽莎似乎并没有起疑。"
+
+translate chinese strings:
+
+    # game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:14
+    old "Do you want Suzy watching?"
+    new "你想让苏茜看着吗？"
+

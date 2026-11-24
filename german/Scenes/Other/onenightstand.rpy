@@ -1684,3 +1684,11 @@ translate german strings:
     old "Nah, not tonight"
     new "Nee, heute Abend nicht"
 
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate german onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "Normalerweise. Warum? Hast du Hunger?"
+

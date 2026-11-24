@@ -156,3 +156,17 @@ translate french jezsexend_48db6964_1:
     # det "Good night, [pcname]."
     det "Bonne nuit, [pcname]."
 
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:149
+translate french jezsexend_2948f65e_1:
+
+    # det "Good. I like having you here, [pcname]."
+    det "Bien. J’aime bien t’avoir ici, [pcname]."
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:152
+translate french jezsexend_392514d1_1:
+
+    # "I fall asleep pretty quickly, her warm body pressed against mine."
+    "Je m’endors assez vite, son corps chaud pressé contre le mien."
+

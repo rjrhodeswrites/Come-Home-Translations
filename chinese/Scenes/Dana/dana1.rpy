@@ -466,3 +466,11 @@ translate chinese strings:
     old "This scene happens automatically a few days after the last one."
     new "这一幕发生在前一幕的几天后，仿佛是自动重演的。"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+# game/Scenes/Dana/dana1.rpy:50
+translate chinese dana1_051a645a:
+
+    # "She quickly slips out of her jacket, displaying even more of her amazing body, and goes right back to work."
+    "后发生性关系。她迅速脱下外套，展现出更多令人惊叹的身材，随即回到工作岗位。"
+

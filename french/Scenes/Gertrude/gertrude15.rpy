@@ -1296,3 +1296,11 @@ translate french strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "On devrait arrêter (MET FIN DE MANIÈRE DÉFINITIVE AU PARCOURS DE GERTRUDE)"
 
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate french gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "On est au Sunrise Motel, sur l’autoroute 69. Chambre n° 2."
+

@@ -354,3 +354,11 @@ translate french strings:
     old "{size=50}Auto"
     new "{size=50}Auto"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Screens/screens.rpy:800
+    old "[page]"
+    new "[pcname]"
+

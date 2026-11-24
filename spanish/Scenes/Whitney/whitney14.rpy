@@ -1604,3 +1604,11 @@ translate spanish strings:
     old "I think I need to go"
     new "Creo que tengo que irme"
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate spanish rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "Debe haber habido una alarma que se activa si se abre la caja fuerte fuera del horario de atención."
+

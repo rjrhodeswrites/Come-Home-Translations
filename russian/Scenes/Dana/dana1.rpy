@@ -466,3 +466,11 @@ translate russian strings:
     old "This scene happens automatically a few days after the last one."
     new "Эта сцена происходит автоматически через несколько дней после предыдущей."
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+# game/Scenes/Dana/dana1.rpy:50
+translate russian dana1_051a645a:
+
+    # "She quickly slips out of her jacket, displaying even more of her amazing body, and goes right back to work."
+    ". Она быстро сбрасывает куртку, обнажая ещё больше своего потрясающего тела, и сразу же возвращается к работе."
+

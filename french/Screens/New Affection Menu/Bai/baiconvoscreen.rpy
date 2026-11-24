@@ -26,3 +26,11 @@ translate french strings:
     old "He asks his questions in order, one per date. To unlock, go on more dates with him."
     new "Il pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, passez plus de rendez-vous avec lui."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Screens/New Affection Menu/Bai/baiconvoscreen.rpy:66
+    old "Propose a threesome with Tammy."
+    new "Proposer un plan à trois avec Tammy."
+

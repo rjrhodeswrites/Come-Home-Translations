@@ -156,3 +156,17 @@ translate russian jezsexend_48db6964_1:
     # det "Good night, [pcname]."
     det "Спокойной ночи, [pcname]."
 
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:149
+translate russian jezsexend_2948f65e_1:
+
+    # det "Good. I like having you here, [pcname]."
+    det "Хорошо. Мне нравится, что ты здесь, [pcname]."
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:152
+translate russian jezsexend_392514d1_1:
+
+    # "I fall asleep pretty quickly, her warm body pressed against mine."
+    "Я довольно быстро засыпаю, прижавшись к её теплому телу."
+

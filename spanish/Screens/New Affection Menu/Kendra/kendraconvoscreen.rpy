@@ -14,3 +14,11 @@ translate spanish strings:
     old "This is a question that Kendra will ask."
     new "Esta es una pregunta que te hará Kendra."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Screens/New Affection Menu/Kendra/kendraconvoscreen.rpy:51
+    old "Talk to her about Whitney"
+    new "Habla con ella sobre Whitney"
+

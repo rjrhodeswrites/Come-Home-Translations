@@ -22,3 +22,23 @@ translate german strings:
     old "This is a question that Lisa will ask when you are on a date with her."
     new "Das ist eine Frage, die Lisa stellen wird, wenn du mit ihr auf einem Date bist."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:96
+    old "How long has this thing with Suzy been going on?"
+    new "Wie lange läuft diese Sache mit Suzy schon?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:100
+    old "Do you really think you're going to find your dad?"
+    new "Glaubst du wirklich, dass du deinen Vater finden wirst?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:104
+    old "What are you planning on doing after you graduate?"
+    new "Was hast du nach deinem Abschluss vor?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:108
+    old "How many women are you sleeping with?"
+    new "Mit wie vielen Frauen schläfst du?"
+

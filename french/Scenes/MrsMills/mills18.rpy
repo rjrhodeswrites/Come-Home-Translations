@@ -1484,3 +1484,11 @@ translate french strings:
     old "Do you want to take this relationship further?"
     new "Tu veux aller plus loin dans cette relation ?"
 
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate french mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "Chaque coup envoie des ondes de plaisir à travers mon corps et à chaque fois, elle tremble du même plaisir que je ressens."
+

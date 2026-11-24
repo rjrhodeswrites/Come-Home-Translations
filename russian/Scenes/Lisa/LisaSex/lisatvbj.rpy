@@ -226,3 +226,157 @@ translate russian strings:
     old "On your face"
     new "На лицо"
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:58
+translate russian lisatvbj_438143e5:
+
+    # "When the show gets close to ending and she has been sucking on my dick for nearly half an hour, I'm starting to feel the orgasm building up."
+    "Когда «шоу» подходит к концу, а она уже почти полчаса сосет мой член, я начинаю чувствовать, как нарастает оргазм."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:66
+translate russian lisatvbj_7eff9392:
+
+    # "I glance over and see that we have an audience."
+    "Я бросаю взгляд в сторону и вижу, что у нас появилась зрительница."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:67
+translate russian lisatvbj_7df361ab:
+
+    # "Suzy is standing in the doorway, watching her mom suck my cock and rubbing her pussy."
+    "Сьюзи стоит в дверном проёме, наблюдая, как её мама сосёт мой член, и потирает свою киску."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:68
+translate russian lisatvbj_195a81a0:
+
+    # "I'm surprised that Lisa doesn't notice her."
+    "Я удивлён, что Лиза её не замечает."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:107
+translate russian lisatvbjcuminmouth_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Я поднимаю глаза и вижу, как Сьюзи пытается не шуметь, одновременно доводит себя до оргазма."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:108
+translate russian lisatvbjcuminmouth_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Она потирает свою сочную киску, пока сок не начинает стекать по её ноге."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:111
+translate russian lisatvbjcuminmouth_c1c8389a:
+
+    # "Then, while her mom is swallowing my cum, Suzy slips away and back up the stairs."
+    "Затем, пока её мама глотает мою сперму, Сьюзи незаметно ускользает и уходит наверх по лестнице."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:148
+translate russian lisatvbjcumonface_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Я поднимаю глаза и вижу, как Сьюзи пытается не шуметь, одновременно доводит себя до оргазма."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:149
+translate russian lisatvbjcumonface_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Она потирает свою сочную киску, пока сок не хлещет по ноге."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:152
+translate russian lisatvbjcumonface_ac38b202:
+
+    # "Then, while I'm spraying cum all over her mom's face, Suzy slips away and back up the stairs."
+    "Затем, пока я брызгаю спермой по всему лицу её мамы, Сьюзи незаметно ускользает и поднимается по лестнице."
+
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:27
+translate russian lisatvbj_644c2c44:
+
+    # alt "The image shows Lisa leaning on the MC."
+    alt "На изображении Лиза прислоняется к главному герою."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:36
+translate russian lisatvbj_6d143f30:
+
+    # alt "The image shows Lisa lying her head down on the MC's lap"
+    alt "На изображении Лиза склонила голову на колени"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:44
+translate russian lisatvbj_f537573d:
+
+    # alt "The image shows Lisa, looking up at the MC."
+    alt "главного героя. На изображении Лиза смотрит вверх на главного героя."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:57
+translate russian lisatvbj_f410399c:
+
+    # alt "An animation shows Lisa holding the MC's dick and sucking the tip."
+    alt "Анимация показывает, как Лиза держит член главного героя и сосет его кончик."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:69
+translate russian lisatvbj_be8797e1:
+
+    # alt "The image shows Suzy watching from the doorway."
+    alt "На изображении Сьюзи наблюдает из дверного проёма."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:95
+translate russian lisatvbjcuminmouth_ac79d87e:
+
+    # alt "The image shows Lisa on her knees between the MC's legs with his dick in her mouth."
+    alt "На изображении Лиза стоит на коленях между ног главного героя, держа его член во рту."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:103
+translate russian lisatvbjcuminmouth_a7d50be5:
+
+    # alt "The image shows Lisa closing her eyes, smiling, as the MC cums in her mouth."
+    alt "На изображении Лиза закрывает глаза и улыбается, пока главный герой кончает ей в рот."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:113
+translate russian lisatvbjcuminmouth_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "На изображении Сьюзи кончает, лаская себя в дверном проёме."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:118
+translate russian lisatvbjcuminmouth_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "На изображении Сьюзи ускользает."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:124
+translate russian lisatvbjcuminmouth_e02aaa51:
+
+    # alt "The image shows Lisa looking up at the MC, smiling."
+    alt "На изображении Лиза смотрит на главного героя, улыбаясь."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:141
+translate russian lisatvbjcumonface_1721fc0d:
+
+    # alt "The image shows Lisa on her knees between the MC's legs, dick in hand, looking up at him."
+    alt "На изображении Лиза стоит на коленях между ног главного героя, держа его член в руке и глядя на него."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:150
+translate russian lisatvbjcumonface_615d3e65:
+
+    # alt "The image shows Lisa, closing her eyes smiling, mouth open, tongue out, as the MC cums on her face."
+    alt "На изображении Лиза, закрыв глаза и улыбаясь, с открытым ртом и высунутым языком, в то время как главный герой кончает ей на лицо."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:159
+translate russian lisatvbjcumonface_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "На изображении Сьюзи кончает, лаская себя в дверном проёме."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:164
+translate russian lisatvbjcumonface_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "На изображении Сьюзи ускользает."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:170
+translate russian lisatvbjcumonface_34b01edb:
+
+    # alt "The image shows Lisa, looking up at the MC smiling, her face covered in cum."
+    alt "На изображении Лиза, глядя на главного героя и улыбаясь, с лицом, покрытым спермой."
+

@@ -1604,3 +1604,11 @@ translate french strings:
     old "I think I need to go"
     new "Je crois que je dois y aller"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate french rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "Il devait y avoir une alarme qui se déclenche si le coffre-fort est ouvert en dehors des heures d’ouverture."
+

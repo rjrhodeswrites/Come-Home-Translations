@@ -1604,3 +1604,11 @@ translate chinese strings:
     old "I think I need to go"
     new "我觉得我得走了"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate chinese rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "保险箱如果在非营业时间被打开，肯定会有警报响起。"
+

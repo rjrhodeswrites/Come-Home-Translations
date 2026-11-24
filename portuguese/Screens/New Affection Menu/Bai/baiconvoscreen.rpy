@@ -26,3 +26,11 @@ translate portuguese strings:
     old "He asks his questions in order, one per date. To unlock, go on more dates with him."
     new "Ele faz as suas perguntas por ordem, uma por encontro. Para desbloquear, vai a mais encontros com ele."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/New Affection Menu/Bai/baiconvoscreen.rpy:66
+    old "Propose a threesome with Tammy."
+    new "Propor um ménage à trois com a Tammy."
+

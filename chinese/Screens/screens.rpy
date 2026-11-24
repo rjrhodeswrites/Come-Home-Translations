@@ -358,3 +358,11 @@ translate chinese strings:
     old "Close"
     new "关闭"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/screens.rpy:798
+    old "[page]"
+    new "[page]"
+
