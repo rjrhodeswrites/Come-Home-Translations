@@ -64,3 +64,11 @@ translate chinese strings:
     old "hen you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
     new "这样你就能用你爸爸的笔记本电脑给惠特尼发邮件了。之后，过一两天再检查一下笔记本电脑，看看有没有惠特尼的回复。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Scenes/Whitney/whitney0.rpy:3
+    old "Then you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
+    new "然后你就能用你爸的笔记本电脑给惠特尼发邮件了。之后，过一两天再查看那台笔记本电脑，看看有没有惠特尼的回复。"
+

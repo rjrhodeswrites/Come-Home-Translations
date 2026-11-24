@@ -38,3 +38,15 @@ translate spanish strings:
     old "Fuck her face (NEW)"
     new "Follarle la cara (NUEVO)"
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:20
+    old "Fuck her ass"
+    new "Fóllale el culo"
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:22
+    old "Fuck her ass (NEW)"
+    new "Fóllale el culo (NUEVO)"
+

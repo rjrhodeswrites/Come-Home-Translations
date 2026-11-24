@@ -26,3 +26,11 @@ translate french strings:
     old "You can have these when you are on a date with her."
     new "Vous pouvez avoir ce genre de conversation lorsque vous êtes en rendez-vous avec elle."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:85
+    old "Do you have siblings?"
+    new "As-tu des frères et sœurs ?"
+

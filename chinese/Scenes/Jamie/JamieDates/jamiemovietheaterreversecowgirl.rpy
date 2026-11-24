@@ -178,3 +178,23 @@ translate chinese strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "带她去电影院约会，她就会想骑在你身上。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate chinese jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "当然，上来吧。"
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate chinese jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "当我进入她体内时，她发出了一声轻呼。"
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate chinese jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "杰米拉起裤子，我把湿漉漉的鸡巴收进裤子里。 随后她坐回座位，笑着看着我。"
+

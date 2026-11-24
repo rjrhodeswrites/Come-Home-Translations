@@ -64,3 +64,11 @@ translate german strings:
     old "hen you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
     new "Dann kannst du Whitney eine E-Mail vom Laptop deines Vaters schicken. Schau danach in ein oder zwei Tagen noch einmal auf dem Laptop nach, ob Whitneys Antwort da ist."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Scenes/Whitney/whitney0.rpy:3
+    old "Then you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
+    new "Dann kannst du Whitney eine E-Mail vom Laptop deines Vaters aus schicken. Schau danach in ein oder zwei Tagen noch einmal auf dem Laptop nach, um Whitneys Antwort zu finden."
+

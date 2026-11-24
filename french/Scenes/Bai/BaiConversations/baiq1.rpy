@@ -234,3 +234,11 @@ translate french strings:
     old "I'm more into guys"
     new "Je suis plus branché mecs"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Scenes/Bai/BaiConversations/baiq1.rpy:14
+    old "Oh yeah"
+    new ". Oh oui"
+

@@ -26,3 +26,11 @@ translate russian strings:
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
     new "Она задает вопросы по порядку, по одному на каждое свидание. Чтобы разблокировать их, ходите с ней на большее количество свиданий."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:59
+    old "Question: Am I the only transgender person you've been with?"
+    new "Вопрос: Я единственный трансгендер, с которым ты был?"
+

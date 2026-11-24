@@ -268,3 +268,131 @@ translate chinese strings:
     old "End the session"
     new "结束本次体验"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate chinese danabondagedoggyanal_21ad8bd1:
+
+    # mc "Here, let's readjust these ropes, I want you ass up."
+    mc "来，让我们重新调整一下这些绳子，我要你把屁股撅起来。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:175
+translate chinese danabondagedoggyanal_c4650a4f:
+
+    # cw "Oh fuck, yes."
+    cw "哦，操，对。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:178
+translate chinese danabondagedoggyanal_03fc6380:
+
+    # "I climb on top of her and she gasps as my cock presses against her asshole."
+    "我爬到她身上，当我的鸡巴顶住她的屁眼时，她倒吸了一口凉气。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:179
+translate chinese danabondagedoggyanal_b895ffe0:
+
+    # "She lets out a gasp."
+    "她发出了一声惊呼。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:180
+translate chinese danabondagedoggyanal_967cb94d:
+
+    # cw "Are you going to fuck my ass?"
+    cw "“你要操我的屁眼吗？"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:183
+translate chinese danabondagedoggyanal_7f91de2a:
+
+    # "In response, I push forward, the tip sliding in, stretching her hole."
+    "”作为回应，我向前一顶，龟头滑了进去，撑开了她的后穴。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:184
+translate chinese danabondagedoggyanal_7c1da97a:
+
+    # cw "Oh God, it's so thick."
+    cw "“哦，天哪，好粗。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:185
+translate chinese danabondagedoggyanal_17081baa:
+
+    # cw "Please baby, fuck me hard."
+    cw "求你了，宝贝，狠狠地操我。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:190
+translate chinese danabondagedoggyanal_1d40c4cc:
+
+    # "Once she's ready, I start moving faster, slamming my cock into her."
+    "” 等她准备好了，我开始加快速度，猛烈地将肉棒撞进她体内。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:191
+translate chinese danabondagedoggyanal_dc73e539:
+
+    # "She screams as I pound her tight ass, using it like my personal pleasure hole."
+    "当我猛烈抽插她紧致的屁股，把它当作我专属的快感之源时，她尖叫起来。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:192
+translate chinese danabondagedoggyanal_1875defb:
+
+    # cw "Oh fuck! Oh fuck! It feels so good!"
+    cw "“哦，操！哦，操！感觉太棒了！"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:193
+translate chinese danabondagedoggyanal_f2a7fec4:
+
+    # cw "Harder! Ruin me!"
+    cw "再用力点！把我搞垮吧！"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:226
+translate chinese danabondagecum_6681bc6c:
+
+    # "Then I can't hold back any more and I shove my cock deep inside and paint her insides with my cum."
+    "”接着我再也按捺不住，将肉棒深深顶入，用精液涂满她的体内。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:227
+translate chinese danabondagecum_d555e853:
+
+    # "Her ass grips me tight. The heat is intense as she moans in pleasure."
+    "她的屁股紧紧绞住我，当她因快感而呻吟时，那股热浪异常炽烈。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:230
+translate chinese danabondagecum_bc8089d5:
+
+    # "When I'm empty, I pull out."
+    "射精完毕后，我抽了出来。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:231
+translate chinese danabondagecum_37dbcd3f:
+
+    # "Her asshole gapes, overflowing with my cum."
+    "她的肛门张开着，溢出我的精液。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:235
+translate chinese danabondagecum_a254f1c1:
+
+    # cw "Holy shit, that was intense."
+    cw "天啊，那真是太激烈了。"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:236
+translate chinese danabondagecum_13eb94df:
+
+    # cw "But it felt so good."
+    cw "但感觉太棒了。"
+
+translate chinese strings:
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:163
+    old "After you unlock bondage sex with Dana and you have had anal missionary sex with her,"
+    new "在解锁了与达娜的捆绑性爱，并与她体验过传教士体位肛交后，"
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:164
+    old "choose to have doggystyle anal sex with her during bondage."
+    new "选择在捆绑状态下与她进行狗爬式肛交。"
+
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate chinese danabondagedoggyanal_782a4a84:
+
+    # pc "Here, let's readjust these ropes, I want you ass up."
+    pc "来，我们把这些绳子重新调整一下，我要你把屁股撅起来。"
+

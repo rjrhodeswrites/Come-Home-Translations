@@ -1604,3 +1604,11 @@ translate german strings:
     old "I think I need to go"
     new "Ich glaube, ich muss los"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate german rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "Es muss einen Alarm gegeben haben, der ausgelöst wird, wenn der Safe außerhalb der Öffnungszeiten geöffnet wird."
+

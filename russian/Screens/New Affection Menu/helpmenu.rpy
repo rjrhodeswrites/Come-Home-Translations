@@ -12,3 +12,11 @@ translate russian helpmenu_b82eae54:
     # "[helptext2]"
     "[helptext2]"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/helpmenu.rpy:42
+    old "Watch Replay"
+    new "Посмотреть повтор"
+

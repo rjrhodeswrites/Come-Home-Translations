@@ -214,3 +214,127 @@ translate russian strings:
     old "Check out the skater girl again"
     new "Еще раз посмотреть на скейтбордистку"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/townmap.rpy:263
+    old "S"
+    new "С"
+
+    # game/Screens/townmap.rpy:264
+    old "M"
+    new "П"
+
+    # game/Screens/townmap.rpy:265
+    old "T"
+    new "В"
+
+    # game/Screens/townmap.rpy:266
+    old "W"
+    new "С"
+
+    # game/Screens/townmap.rpy:268
+    old "F"
+    new "П"
+
+    # game/Screens/townmap.rpy:508
+    old "Buy Kendra a new skateboard"
+    new "Купи Кендре новый скейтборд"
+
+    # game/Screens/townmap.rpy:509
+    old "Give Kendra the new board"
+    new "Подари Кендре новый скейтборд"
+
+    # game/Screens/townmap.rpy:510
+    old "Visit Kendra at the park"
+    new "Навести Кендру в парке"
+
+    # game/Screens/townmap.rpy:513
+    old "Call Nora"
+    new "Позвони Норе"
+
+    # game/Screens/townmap.rpy:515
+    old "Do social studies homework"
+    new "Сделай домашнее задание по обществознанию"
+
+    # game/Screens/townmap.rpy:517
+    old "Call Mrs. McGee"
+    new "Позвони миссис Макги"
+
+    # game/Screens/townmap.rpy:519
+    old "Go to Java Lava"
+    new "Сходи в «Java Lava»"
+
+    # game/Screens/townmap.rpy:520
+    old "Do english homework"
+    new "Сделай домашнее задание по английскому"
+
+    # game/Screens/townmap.rpy:522
+    old "Call Brandi"
+    new "Позвони Брэнди"
+
+    # game/Screens/townmap.rpy:524
+    old "Meet the food vlogger"
+    new "Встреться с фуд-блогером"
+
+    # game/Screens/townmap.rpy:525
+    old "Check out Brandi's livestream"
+    new "Посмотри прямую трансляцию Брэнди"
+
+    # game/Screens/townmap.rpy:526
+    old "Watch Brandi's livestream"
+    new "Посмотри прямую трансляцию Брэнди"
+
+    # game/Screens/townmap.rpy:529
+    old "Call Adrian"
+    new "Позвоните Эдриану"
+
+    # game/Screens/townmap.rpy:531
+    old "Bump into Adrian at the supermarket"
+    new "Встретьте Эдриана в супермаркете"
+
+    # game/Screens/townmap.rpy:532
+    old "Play Souls of War with Adrian"
+    new "Сыграйте в «Souls of War» с Эдрианом"
+
+    # game/Screens/townmap.rpy:535
+    old "Call Reba"
+    new "Позвоните Ребе"
+
+    # game/Screens/townmap.rpy:538
+    old "Call Whitney"
+    new "Позвоните Уитни"
+
+    # game/Screens/townmap.rpy:542
+    old "Call Bai"
+    new "Позвоните Бай"
+
+    # game/Screens/townmap.rpy:545
+    old "Visit Bai at work"
+    new "Навестите Бай на работе"
+
+    # game/Screens/townmap.rpy:548
+    old "Call Detective Rodriguez"
+    new "Позвоните детективу Родригесу"
+
+    # game/Screens/townmap.rpy:549
+    old "Call Jez"
+    new "Позвоните Джезу"
+
+    # game/Screens/townmap.rpy:552
+    old "Visit the school councelor"
+    new "Навестите школьного психолога"
+
+    # game/Screens/townmap.rpy:553
+    old "Visit Gertrude"
+    new "Навестите Гертруду"
+
+    # game/Screens/townmap.rpy:557
+    old "Call Mi-Cha"
+    new "Позвоните Ми-Ча"
+
+    # game/Screens/townmap.rpy:559
+    old "Visit Mi-Cha"
+    new "Навестите Ми-Ча"
+

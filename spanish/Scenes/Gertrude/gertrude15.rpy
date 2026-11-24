@@ -1296,3 +1296,11 @@ translate spanish strings:
     old "We should stop (PERMANENTLY ENDS GERTRUDE'S PATH)"
     new "Deberíamos dejarlo (TERMINA DEFINITIVAMENTE LA TRAYECTORIA DE GERTRUDE)"
 
+# TODO: Translation updated at 2026-11-24 09:02
+
+# game/Scenes/Gertrude/gertrude15.rpy:189
+translate spanish gertrude15_dcb5b69e:
+
+    # sc "We're at the Sunrise Motel over on Highway 69. Room #2."
+    sc "Estamos en el Motel Sunrise, en la Carretera 69. Habitación n.º 2."
+

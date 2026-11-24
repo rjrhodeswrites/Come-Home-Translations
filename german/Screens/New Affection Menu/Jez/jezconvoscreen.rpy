@@ -18,3 +18,23 @@ translate german strings:
     old "This is a question that Jez will ask."
     new "Dies ist eine Frage, die Jez stellen wird."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:46
+    old "What would you dream vacation be?"
+    new "Wie würde dein Traumurlaub aussehen?"
+
+    # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:61
+    old "What would you be if you weren't a cop?"
+    new "Was würdest du werden, wenn du kein Polizist wärst?"
+
+    # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:99
+    old "Javi Chat: What games do you like?"
+    new "Javi-Chat: Welche Spiele magst du?"
+
+    # game/Screens/New Affection Menu/Jez/jezconvoscreen.rpy:103
+    old "Javi Chat: How old are you?"
+    new "Javi-Chat: Wie alt bist du?"
+

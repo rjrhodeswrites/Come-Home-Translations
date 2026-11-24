@@ -116,3 +116,11 @@ translate portuguese strings:
     old "Of course"
     new "Claro"
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate portuguese brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    "Ela prepara um pequeno-almoço rápido e comemos juntos antes de termos de seguir caminhos separados."
+

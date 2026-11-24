@@ -26,3 +26,27 @@ translate chinese strings:
     old "She asks her questions in order, so just take her on more dates to unlock them all."
     new "她会按顺序提问，所以只需多带她去约会几次就能解锁所有问题。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:73
+    old "Why don't I ever see Mr. Gonzales?"
+    new "为什么我从来没见过冈萨雷斯先生？"
+
+    # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:115
+    old "Question: How did you get hired by Mrs. Mills?"
+    new "问题：你是怎么被米尔斯夫人雇用的？"
+
+    # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:119
+    old "Question: What are you going to do after the school year?"
+    new "问题：本学年结束后你打算做什么？"
+
+    # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:123
+    old "Question: What did you think about Liz?"
+    new "问题：你对莉兹有什么看法？"
+
+    # game/Screens/New Affection Menu/Dana/danaconvoscreen.rpy:127
+    old "Question: Do you think Mrs. Mills knows about us?"
+    new "问题：你觉得米尔斯夫人知道我们的事吗？"
+

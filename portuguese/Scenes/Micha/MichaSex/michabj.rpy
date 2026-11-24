@@ -518,3 +518,95 @@ translate portuguese strings:
     old "Teach her to mind"
     new "Ensina-a a ter cuidado"
 
+# TODO: Translation updated at 2026-10-05 10:32
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:218
+translate portuguese michaspitpunish_e890c78f:
+
+    # pc "You did good, but you spit out what I gave to you."
+    pc "Você se saiu bem, mas cuspiu o que eu te dei."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:221
+translate portuguese michaspitpunish_418c82fb:
+
+    # mc "Oh, I'm sorry. I should not have done that?"
+    mc "Ah, desculpa. Eu não devia ter feito isso?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:222
+translate portuguese michaspitpunish_54c40f64:
+
+    # pc "No, you are supposed to swallow it."
+    pc "Não, você tem que engolir."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:224
+translate portuguese michaspitpunish_d41d8cd9:
+
+    # voice 'voices/micha_imsorry2.mp3'
+    voice 'voices/micha_imsorry2.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:225
+translate portuguese michaspitpunish_b360fd8d:
+
+    # mc "I'm sorry, [mcsir]."
+    mc "Desculpa, [mcsir]."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:227
+translate portuguese michaspitpunish_d41d8cd9_1:
+
+    # voice 'voices/micha_punishme.mp3'
+    voice 'voices/micha_punishme.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:228
+translate portuguese michaspitpunish_66925816:
+
+    # mc "Are you going to punish me?"
+    mc "Você vai me punir?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:229
+translate portuguese michaspitpunish_7f1a3e8a:
+
+    # pc "I think I should."
+    pc "Acho que devo."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:230
+translate portuguese michaspitpunish_7ed0b06b:
+
+    # mc "I think you should too. I deserve to be punished."
+    mc "Acho que você também deveria. Eu mereço ser punida."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:233
+translate portuguese michaspitpunish_4c9c289f:
+
+    # pc "You spit again. Why did you do that? I've told you not to."
+    pc "Você cuspiu de novo. Por que fez isso? Eu já te disse para não fazer isso."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:237
+translate portuguese michaspitpunish_d41d8cd9_2:
+
+    # voice 'voices/micha_imsorry1.mp3'
+    voice 'voices/micha_imsorry1.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:238
+translate portuguese michaspitpunish_a49b3e35:
+
+    # mc "I'm sorry, [mcsir]. I forgot."
+    mc "Desculpa, [mcsir]. Eu esqueci."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:239
+translate portuguese michaspitpunish_7e1bba4f:
+
+    # mc "I guess you should punish me again. So I remember next time."
+    mc "Acho que você deveria me punir de novo. Pra eu lembrar da próxima vez."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:240
+translate portuguese michaspitpunish_aef76910:
+
+    # pc "I guess I'm going to have to."
+    pc "Acho que vou ter que fazer isso."
+
+translate portuguese strings:
+
+    # game/Scenes/Micha/MichaSex/michabj.rpy:92
+    old "Punish her for spitting (NEW)"
+    new "Punir ela por cuspir (NOVO)"
+

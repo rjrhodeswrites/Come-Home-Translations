@@ -38,3 +38,15 @@ translate chinese strings:
     old "Fuck her face (NEW)"
     new "颜射（新）"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:20
+    old "Fuck her ass"
+    new "操她的屁股"
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:22
+    old "Fuck her ass (NEW)"
+    new "操她的屁股（新）"
+

@@ -26,3 +26,11 @@ translate german strings:
     old "He asks his questions in order, one per date. To unlock, go on more dates with him."
     new "Er stellt seine Fragen der Reihe nach, eine pro Date. Um sie freizuschalten, gehe öfter mit ihm auf Dates."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Bai/baiconvoscreen.rpy:66
+    old "Propose a threesome with Tammy."
+    new "Schlage Tammy einen Dreier vor."
+

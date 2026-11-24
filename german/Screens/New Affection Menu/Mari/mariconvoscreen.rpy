@@ -18,3 +18,19 @@ translate german strings:
     old "This is a question that Mari will ask."
     new "Das ist eine Frage, die Mari stellen wird."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:76
+    old "Question: What's your favorite thing about me?"
+    new "Frage: Was magst du an mir am liebsten?"
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:81
+    old "Question: What's your favorite animal?"
+    new "Frage: Was ist dein Lieblingstier?"
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:86
+    old "Question: About becoming exclusive?"
+    new "Frage: Wie wäre es mit einer festen Beziehung?"
+

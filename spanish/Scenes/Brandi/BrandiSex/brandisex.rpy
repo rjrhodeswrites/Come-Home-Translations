@@ -120,3 +120,11 @@ translate spanish strings:
     old "Anal Doggy"
     new "anal a cuatro patas"
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate spanish brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    "Ella prepara un desayuno rápido y comemos juntos antes de que cada uno tenga que seguir su camino."
+

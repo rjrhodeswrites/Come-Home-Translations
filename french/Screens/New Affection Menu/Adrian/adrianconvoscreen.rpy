@@ -26,3 +26,11 @@ translate french strings:
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
     new "Elle pose ses questions dans l'ordre, une par rendez-vous. Pour les débloquer, allez à d'autres rendez-vous avec elle."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:59
+    old "Question: Am I the only transgender person you've been with?"
+    new "Question : Suis-je la seule personne transgenre avec qui tu aies été ?"
+

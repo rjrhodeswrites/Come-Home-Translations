@@ -18,3 +18,15 @@ translate spanish strings:
     old "This is a question that Gertrude will ask."
     new "Esta es una pregunta que Gertrude te hará."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "Quedarse fuera de la oficina"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "Sexo con profesores"
+

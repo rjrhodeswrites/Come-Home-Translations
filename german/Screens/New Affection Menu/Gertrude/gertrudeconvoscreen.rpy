@@ -18,3 +18,15 @@ translate german strings:
     old "This is a question that Gertrude will ask."
     new "Dies ist eine Frage, die Gertrude stellen wird."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "Treffen außerhalb des Büros"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "Sex mit Lehrern"
+

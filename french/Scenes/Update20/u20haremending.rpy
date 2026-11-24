@@ -3186,3 +3186,11 @@ translate french displayepilogueslides_b97a871d:
     # "What more could a person ask for?"
     "Que demander de plus ?"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Scenes/Update20/u20haremending.rpy:2948
+    old "GO!"
+    new "ALLEZ-Y !"
+

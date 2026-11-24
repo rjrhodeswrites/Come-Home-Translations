@@ -1684,3 +1684,11 @@ translate russian strings:
     old "Nah, not tonight"
     new "Нет, не сегодня"
 
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate russian onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "Обычно. Почему? Ты голодна?"
+

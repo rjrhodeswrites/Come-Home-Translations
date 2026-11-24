@@ -354,3 +354,11 @@ translate portuguese strings:
     old "{size=50}Auto"
     new "{size=50}Auto"
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/screens.rpy:798
+    old "[page]"
+    new "[page]"
+

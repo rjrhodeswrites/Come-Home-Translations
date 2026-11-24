@@ -210,3 +210,53 @@ translate spanish strings:
     old "you can find her in the kitchen on weekend mornings and have doggy style sex with her there."
     new "Puedes encontrarla en la cocina los fines de semana por la mañana y tener sexo a lo perrito con ella allí."
 
+# TODO: Translation updated at 2026-10-05 10:09
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:59
+translate spanish lisakitchendoggy_5badbcd0:
+
+    # "I look over and see that we have an audience."
+    "Miro hacia un lado y veo que tenemos público."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:67
+translate spanish lisakitchendoggy_aced7ece:
+
+    # "Suzy is watching, rubbing her pussy furiously as I pound her mom from behind."
+    "Suzy está mirando, frotándose el coño con furia mientras le doy duro a su mamá por detrás."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:84
+translate spanish lisakitchendoggy_0b38642c:
+
+    # "The sight of her mother's orgasm makes Suzy cum as well, her wet pussy leaking juices down her leg."
+    "Ver el orgasmo de su madre hace que Suzy también se corra, con su coño mojado derramando jugos por su pierna."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:85
+translate spanish lisakitchendoggy_b3924252:
+
+    # "The sight pushes me over the edge."
+    "Esa escena me lleva al límite."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:132
+translate spanish lisakitchendoggy_2a323695:
+
+    # "I look over, worried that Suzy is still there, but she's gone, retreated unseen back up the stairs."
+    "Miro hacia allá, preocupado de que Suzy siga ahí, pero ya se ha ido, se retiró sin que la viéramos, subiendo las escaleras."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:137
+translate spanish lisakitchendoggy_3fcbd851:
+
+    # "A few minutes later, Lisa returns, then Suzy comes back downstairs and we sit down and eat breakfast together."
+    "Unos minutos más tarde, Lisa regresa, luego Suzy baja las escaleras y nos sentamos a desayunar juntos."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:138
+translate spanish lisakitchendoggy_abebd4fc:
+
+    # "Both of them smile at me through the entire meal,but Lisa doesn't seem to suspect anything."
+    "Ambas me sonríen durante toda la comida, pero Lisa no parece sospechar nada."
+
+translate spanish strings:
+
+    # game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:14
+    old "Do you want Suzy watching?"
+    new "¿Quieres que Suzy esté mirando?"
+

@@ -268,3 +268,131 @@ translate russian strings:
     old "End the session"
     new "Закончи сеанс"
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate russian danabondagedoggyanal_21ad8bd1:
+
+    # mc "Here, let's readjust these ropes, I want you ass up."
+    mc "«Вот, давай поправим эти верёвки, я хочу, чтобы ты подняла задницу»."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:175
+translate russian danabondagedoggyanal_c4650a4f:
+
+    # cw "Oh fuck, yes."
+    cw "О, блядь, да."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:178
+translate russian danabondagedoggyanal_03fc6380:
+
+    # "I climb on top of her and she gasps as my cock presses against her asshole."
+    "Я забираюсь на неё, и она задыхается, когда мой член прижимается к её попке."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:179
+translate russian danabondagedoggyanal_b895ffe0:
+
+    # "She lets out a gasp."
+    "Она вскрикивает."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:180
+translate russian danabondagedoggyanal_967cb94d:
+
+    # cw "Are you going to fuck my ass?"
+    cw "— Ты собираешься трахнуть меня в попку?"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:183
+translate russian danabondagedoggyanal_7f91de2a:
+
+    # "In response, I push forward, the tip sliding in, stretching her hole."
+    "— В ответ я толкаюсь вперёд, кончик входит, растягивая её дырочку."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:184
+translate russian danabondagedoggyanal_7c1da97a:
+
+    # cw "Oh God, it's so thick."
+    cw "— О Боже, он такой толстый."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:185
+translate russian danabondagedoggyanal_17081baa:
+
+    # cw "Please baby, fuck me hard."
+    cw "— Пожалуйста, детка, трахни меня по-крупному."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:190
+translate russian danabondagedoggyanal_1d40c4cc:
+
+    # "Once she's ready, I start moving faster, slamming my cock into her."
+    "Как только она готова, я начинаю двигаться быстрее, с силой вбивая в неё свой член."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:191
+translate russian danabondagedoggyanal_dc73e539:
+
+    # "She screams as I pound her tight ass, using it like my personal pleasure hole."
+    "Она кричит, пока я долблю её тугую попку, используя её как свою личную дырочку для удовольствия."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:192
+translate russian danabondagedoggyanal_1875defb:
+
+    # cw "Oh fuck! Oh fuck! It feels so good!"
+    cw "О, блядь! О, блядь! Как хорошо!"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:193
+translate russian danabondagedoggyanal_f2a7fec4:
+
+    # cw "Harder! Ruin me!"
+    cw "Сильнее! Разрушь меня!"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:226
+translate russian danabondagecum_6681bc6c:
+
+    # "Then I can't hold back any more and I shove my cock deep inside and paint her insides with my cum."
+    "Потом я уже не могу сдерживаться, вталкиваю член глубоко внутрь и заливаю её изнутри своей спермой."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:227
+translate russian danabondagecum_d555e853:
+
+    # "Her ass grips me tight. The heat is intense as she moans in pleasure."
+    "Её попка крепко сжимает меня. Жар становится невыносимым, пока она стонет от удовольствия."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:230
+translate russian danabondagecum_bc8089d5:
+
+    # "When I'm empty, I pull out."
+    "Когда я опустошаюсь, я вытаскиваю член."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:231
+translate russian danabondagecum_37dbcd3f:
+
+    # "Her asshole gapes, overflowing with my cum."
+    "Её анус зияет, переполненный моей спермой."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:235
+translate russian danabondagecum_a254f1c1:
+
+    # cw "Holy shit, that was intense."
+    cw "Чёрт возьми, это было интенсивно."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:236
+translate russian danabondagecum_13eb94df:
+
+    # cw "But it felt so good."
+    cw "Но было так хорошо."
+
+translate russian strings:
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:163
+    old "After you unlock bondage sex with Dana and you have had anal missionary sex with her,"
+    new "После того как ты откроешь для себя секс в связке с Даной и займёшься с ней анальным сексом в миссионерской позе,"
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:164
+    old "choose to have doggystyle anal sex with her during bondage."
+    new "выбери анальный секс раком с ней во время бондажа."
+
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate russian danabondagedoggyanal_782a4a84:
+
+    # pc "Here, let's readjust these ropes, I want you ass up."
+    pc "Давай, подтянем эти веревки, я хочу, чтобы ты подняла зад."
+

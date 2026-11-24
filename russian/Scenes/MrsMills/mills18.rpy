@@ -1484,3 +1484,11 @@ translate russian strings:
     old "Do you want to take this relationship further?"
     new "Хочешь развивать эти отношения дальше?"
 
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate russian mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "Каждый толчок пронизывает моё тело, и каждый раз она дрожит от того же удовольствия, которое испытываю я."
+

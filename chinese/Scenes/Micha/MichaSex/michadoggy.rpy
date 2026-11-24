@@ -232,3 +232,11 @@ translate chinese strings:
     old "No punishment today"
     new "今天不惩罚"
 
+# TODO: Translation updated at 2026-10-05 09:34
+
+translate chinese strings:
+
+    # game/Scenes/Micha/MichaSex/michadoggy.rpy:50
+    old "No (NEW)"
+    new "不（新）"
+

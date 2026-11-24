@@ -26,3 +26,11 @@ translate chinese strings:
     old "She asks her questions in order, one per date. To unlock, go on more dates with her."
     new "她会按顺序提问，每次约会一个问题。要解锁更多问题，请多与她约会。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/Adrian/adrianconvoscreen.rpy:59
+    old "Question: Am I the only transgender person you've been with?"
+    new "问题：我是不是你唯一交往过的跨性别者？"
+

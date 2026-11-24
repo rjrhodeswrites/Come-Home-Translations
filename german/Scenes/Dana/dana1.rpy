@@ -466,3 +466,11 @@ translate german strings:
     old "This scene happens automatically a few days after the last one."
     new "Diese Szene spielt sich automatisch ein paar Tage nach der letzten ab."
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+# game/Scenes/Dana/dana1.rpy:50
+translate german dana1_051a645a:
+
+    # "She quickly slips out of her jacket, displaying even more of her amazing body, and goes right back to work."
+    "geschlossen hat. Sie schlüpft schnell aus ihrer Jacke, enthüllt dabei noch mehr von ihrem umwerfenden Körper, und macht sich sofort wieder an die Arbeit."
+

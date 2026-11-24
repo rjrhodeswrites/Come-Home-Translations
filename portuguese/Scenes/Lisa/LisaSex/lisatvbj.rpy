@@ -226,3 +226,157 @@ translate portuguese strings:
     old "On your face"
     new "No teu rosto"
 
+# TODO: Translation updated at 2026-10-05 10:32
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:58
+translate portuguese lisatvbj_438143e5:
+
+    # "When the show gets close to ending and she has been sucking on my dick for nearly half an hour, I'm starting to feel the orgasm building up."
+    "Quando o show está quase acabando e ela já está chupando meu pau há quase meia hora, começo a sentir o orgasmo se aproximando."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:66
+translate portuguese lisatvbj_7eff9392:
+
+    # "I glance over and see that we have an audience."
+    "Olho de relance e vejo que temos uma espectadora."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:67
+translate portuguese lisatvbj_7df361ab:
+
+    # "Suzy is standing in the doorway, watching her mom suck my cock and rubbing her pussy."
+    "Suzy está parada na porta, observando a mãe chupar meu pau e esfregando a buceta."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:68
+translate portuguese lisatvbj_195a81a0:
+
+    # "I'm surprised that Lisa doesn't notice her."
+    "Fico surpreso que Lisa não a tenha notado."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:107
+translate portuguese lisatvbjcuminmouth_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Levanto os olhos e vejo Suzy tentando não fazer barulho enquanto também se leva ao orgasmo."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:108
+translate portuguese lisatvbjcuminmouth_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Ela esfrega a buceta molhada até que o líquido escorra pela perna."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:111
+translate portuguese lisatvbjcuminmouth_c1c8389a:
+
+    # "Then, while her mom is swallowing my cum, Suzy slips away and back up the stairs."
+    "Então, enquanto a mãe engole meu esperma, Suzy se esgueira e sobe as escadas."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:148
+translate portuguese lisatvbjcumonface_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Olho para cima e vejo Suzy tentando ficar em silêncio enquanto também chega ao orgasmo."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:149
+translate portuguese lisatvbjcumonface_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Ela esfrega sua buceta suculenta até que o líquido escorra pela perna."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:152
+translate portuguese lisatvbjcumonface_ac38b202:
+
+    # "Then, while I'm spraying cum all over her mom's face, Suzy slips away and back up the stairs."
+    "Então, enquanto estou jorrando porra por todo o rosto da mãe dela, Suzy se esgueira e sobe as escadas."
+
+# TODO: Translation updated at 2026-11-24 09:08
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:27
+translate portuguese lisatvbj_644c2c44:
+
+    # alt "The image shows Lisa leaning on the MC."
+    alt "A imagem mostra Lisa encostada no protagonista."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:36
+translate portuguese lisatvbj_6d143f30:
+
+    # alt "The image shows Lisa lying her head down on the MC's lap"
+    alt "A imagem mostra Lisa deitada com a cabeça no colo"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:44
+translate portuguese lisatvbj_f537573d:
+
+    # alt "The image shows Lisa, looking up at the MC."
+    alt "do protagonista. A imagem mostra Lisa olhando para o protagonista."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:57
+translate portuguese lisatvbj_f410399c:
+
+    # alt "An animation shows Lisa holding the MC's dick and sucking the tip."
+    alt "Uma animação mostra Lisa segurando o pau do protagonista e chupando a ponta."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:69
+translate portuguese lisatvbj_be8797e1:
+
+    # alt "The image shows Suzy watching from the doorway."
+    alt "A imagem mostra Suzy observando da porta."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:95
+translate portuguese lisatvbjcuminmouth_ac79d87e:
+
+    # alt "The image shows Lisa on her knees between the MC's legs with his dick in her mouth."
+    alt "A imagem mostra Lisa de joelhos entre as pernas do protagonista, com o pênis dele na boca."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:103
+translate portuguese lisatvbjcuminmouth_a7d50be5:
+
+    # alt "The image shows Lisa closing her eyes, smiling, as the MC cums in her mouth."
+    alt "A imagem mostra Lisa fechando os olhos, sorrindo, enquanto o protagonista goza na boca dela."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:113
+translate portuguese lisatvbjcuminmouth_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "A imagem mostra Suzy gozando enquanto se masturba na porta."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:118
+translate portuguese lisatvbjcuminmouth_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "A imagem mostra Suzy se afastando."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:124
+translate portuguese lisatvbjcuminmouth_e02aaa51:
+
+    # alt "The image shows Lisa looking up at the MC, smiling."
+    alt "A imagem mostra Lisa olhando para o protagonista, sorrindo."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:141
+translate portuguese lisatvbjcumonface_1721fc0d:
+
+    # alt "The image shows Lisa on her knees between the MC's legs, dick in hand, looking up at him."
+    alt "A imagem mostra Lisa de joelhos entre as pernas do protagonista, com o pênis na mão, olhando para ele."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:150
+translate portuguese lisatvbjcumonface_615d3e65:
+
+    # alt "The image shows Lisa, closing her eyes smiling, mouth open, tongue out, as the MC cums on her face."
+    alt "A imagem mostra Lisa fechando os olhos, sorrindo, com a boca aberta e a língua para fora, enquanto o protagonista goza no rosto dela."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:159
+translate portuguese lisatvbjcumonface_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "A imagem mostra Suzy gozando enquanto se esfrega na porta."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:164
+translate portuguese lisatvbjcumonface_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "A imagem mostra Suzy se afastando."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:170
+translate portuguese lisatvbjcumonface_34b01edb:
+
+    # alt "The image shows Lisa, looking up at the MC smiling, her face covered in cum."
+    alt "A imagem mostra Lisa olhando para o protagonista, sorrindo, com o rosto coberto de esperma."
+

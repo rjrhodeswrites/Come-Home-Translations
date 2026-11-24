@@ -466,3 +466,11 @@ translate french strings:
     old "This scene happens automatically a few days after the last one."
     new "Cette scène se déroule automatiquement quelques jours après la précédente."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Dana/dana1.rpy:50
+translate french dana1_051a645a:
+
+    # "She quickly slips out of her jacket, displaying even more of her amazing body, and goes right back to work."
+    "Elle enlève rapidement sa veste, dévoilant encore davantage son corps de rêve, puis retourne aussitôt au travail."
+

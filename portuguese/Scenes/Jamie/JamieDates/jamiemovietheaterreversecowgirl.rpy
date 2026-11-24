@@ -178,3 +178,23 @@ translate portuguese strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "leva-a a um encontro no cinema e ela vai querer montar-te."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate portuguese jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "Claro, vem para cima."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate portuguese jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "Ela solta um pequeno suspiro quando a penetro."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate portuguese jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "A Jamie puxa as calças para cima e eu guardo a minha pila molhada de volta para dentro das minhas calças. Depois, ela senta-se no seu lugar e olha para mim com um sorriso."
+

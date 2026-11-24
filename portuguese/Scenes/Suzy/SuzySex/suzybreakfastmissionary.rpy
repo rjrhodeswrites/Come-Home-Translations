@@ -114,3 +114,11 @@ translate portuguese suzybreakfastmissionary_3285809f:
     # "She goes upstairs to get cleaned up, while I get dressed, stuff some food in my mouth, then get ready for school."
     "Ela sobe para se limpar, enquanto eu me visto, enfio alguma comida na boca e me preparo para a escola."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Scenes/Suzy/SuzySex/suzybreakfastmissionary.rpy:6
+    old "Choose to fuck her missionary on the table."
+    new "Escolhe foder com ela na posição missionária em cima da mesa."
+

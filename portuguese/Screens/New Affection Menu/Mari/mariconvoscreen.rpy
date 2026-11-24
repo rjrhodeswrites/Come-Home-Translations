@@ -18,3 +18,19 @@ translate portuguese strings:
     old "This is a question that Mari will ask."
     new "Esta é uma pergunta que a Mari fará."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:76
+    old "Question: What's your favorite thing about me?"
+    new "Pergunta: O que mais gostas em mim?"
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:81
+    old "Question: What's your favorite animal?"
+    new "Pergunta: Qual é o teu animal preferido?"
+
+    # game/Screens/New Affection Menu/Mari/mariconvoscreen.rpy:86
+    old "Question: About becoming exclusive?"
+    new "Pergunta: E quanto a ficarmos exclusivos?"
+

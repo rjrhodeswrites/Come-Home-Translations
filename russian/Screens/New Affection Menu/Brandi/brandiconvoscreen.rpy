@@ -26,3 +26,11 @@ translate russian strings:
     old "You can have these when you are on a date with her."
     new "Вы можете вести такие разговоры, когда вы на свидании с ней."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:85
+    old "Do you have siblings?"
+    new "Есть ли у тебя братья и сестры?"
+

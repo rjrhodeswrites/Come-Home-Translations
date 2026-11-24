@@ -156,3 +156,17 @@ translate german jezsexend_48db6964_1:
     # det "Good night, [pcname]."
     det "Gute Nacht, [pcname]."
 
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:149
+translate german jezsexend_2948f65e_1:
+
+    # det "Good. I like having you here, [pcname]."
+    det "Gut. Ich mag es, dich hier zu haben, [pcname]."
+
+# game/Scenes/Jez/JezSex/jezsex.rpy:152
+translate german jezsexend_392514d1_1:
+
+    # "I fall asleep pretty quickly, her warm body pressed against mine."
+    "Ich schlafe ziemlich schnell ein, ihren warmen Körper an meinen gepresst."
+

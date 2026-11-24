@@ -218,3 +218,127 @@ translate chinese strings:
     old "Check out the skater girl again"
     new "再去看看那个滑板女孩"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/townmap.rpy:263
+    old "S"
+    new "S"
+
+    # game/Screens/townmap.rpy:264
+    old "M"
+    new "M"
+
+    # game/Screens/townmap.rpy:265
+    old "T"
+    new "T"
+
+    # game/Screens/townmap.rpy:266
+    old "W"
+    new "W"
+
+    # game/Screens/townmap.rpy:268
+    old "F"
+    new "F"
+
+    # game/Screens/townmap.rpy:508
+    old "Buy Kendra a new skateboard"
+    new "给肯德拉买一块新滑板"
+
+    # game/Screens/townmap.rpy:509
+    old "Give Kendra the new board"
+    new "把新滑板送给肯德拉"
+
+    # game/Screens/townmap.rpy:510
+    old "Visit Kendra at the park"
+    new "去公园找肯德拉"
+
+    # game/Screens/townmap.rpy:513
+    old "Call Nora"
+    new "给诺拉打电话"
+
+    # game/Screens/townmap.rpy:515
+    old "Do social studies homework"
+    new "做社会研究作业"
+
+    # game/Screens/townmap.rpy:517
+    old "Call Mrs. McGee"
+    new "给麦基夫人打电话"
+
+    # game/Screens/townmap.rpy:519
+    old "Go to Java Lava"
+    new "去 Java Lava"
+
+    # game/Screens/townmap.rpy:520
+    old "Do english homework"
+    new "做英语作业"
+
+    # game/Screens/townmap.rpy:522
+    old "Call Brandi"
+    new "给布兰迪打电话"
+
+    # game/Screens/townmap.rpy:524
+    old "Meet the food vlogger"
+    new "见见那位美食博主"
+
+    # game/Screens/townmap.rpy:525
+    old "Check out Brandi's livestream"
+    new "看看布兰迪的直播"
+
+    # game/Screens/townmap.rpy:526
+    old "Watch Brandi's livestream"
+    new "观看布兰迪的直播"
+
+    # game/Screens/townmap.rpy:529
+    old "Call Adrian"
+    new "给阿德里安打电话"
+
+    # game/Screens/townmap.rpy:531
+    old "Bump into Adrian at the supermarket"
+    new "在超市偶遇阿德里安"
+
+    # game/Screens/townmap.rpy:532
+    old "Play Souls of War with Adrian"
+    new "和阿德里安一起玩《战争之魂》"
+
+    # game/Screens/townmap.rpy:535
+    old "Call Reba"
+    new "给雷巴打电话"
+
+    # game/Screens/townmap.rpy:538
+    old "Call Whitney"
+    new "给惠特尼打电话"
+
+    # game/Screens/townmap.rpy:542
+    old "Call Bai"
+    new "给白打电话"
+
+    # game/Screens/townmap.rpy:545
+    old "Visit Bai at work"
+    new "去白的工作单位探访"
+
+    # game/Screens/townmap.rpy:548
+    old "Call Detective Rodriguez"
+    new "给罗德里格斯探长打电话"
+
+    # game/Screens/townmap.rpy:549
+    old "Call Jez"
+    new "给杰兹打电话"
+
+    # game/Screens/townmap.rpy:552
+    old "Visit the school councelor"
+    new "去见学校心理咨询师"
+
+    # game/Screens/townmap.rpy:553
+    old "Visit Gertrude"
+    new "去见格特鲁德"
+
+    # game/Screens/townmap.rpy:557
+    old "Call Mi-Cha"
+    new "给米-查打电话"
+
+    # game/Screens/townmap.rpy:559
+    old "Visit Mi-Cha"
+    new "去拜访米-查"
+

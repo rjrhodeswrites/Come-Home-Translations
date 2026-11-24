@@ -1246,3 +1246,11 @@ translate portuguese strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "ela vai ligar-te à noite e convidar-te para jantar na casa dela."
 
+# TODO: Translation updated at 2026-11-24 09:08
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate portuguese brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "Não, tô falando sério. Nunca comi bolo de carne, couve-flor ou aspargos que tivessem um gosto nem de longe tão bom assim."
+

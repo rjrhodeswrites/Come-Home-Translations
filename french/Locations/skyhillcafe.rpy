@@ -284,3 +284,19 @@ translate french strings:
     old "Ask Juliana Out (NEW CONTENT)"
     new "Inviter Juliana à sortir (NOUVEAU CONTENU)"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the cafe"
+    new "Suggestion : faire l’amour après la fermeture du café"
+
+# TODO: Translation updated at 2026-11-24 09:04
+
+translate french strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the café"
+    new "Je lui suggère de faire l'amour après la fermeture du café"
+

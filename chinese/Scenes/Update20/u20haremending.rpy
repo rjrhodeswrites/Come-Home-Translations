@@ -3242,3 +3242,11 @@ translate chinese haremending_4af44967:
     # mc "I like that I can please you both at the same time."
     mc "我喜欢能同时取悦你们俩。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Scenes/Update20/u20haremending.rpy:2948
+    old "GO!"
+    new "开始！"
+

@@ -42,3 +42,11 @@ translate french end_c44a6525:
     # rj "Bye for now."
     rj "À plus tard."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+translate french strings:
+
+    # game/Scenes/Other/endchapter.rpy:28
+    old "Skip Credits"
+    new "Passer le générique"
+

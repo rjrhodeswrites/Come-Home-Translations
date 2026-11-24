@@ -466,3 +466,11 @@ translate spanish strings:
     old "This scene happens automatically a few days after the last one."
     new "Esta escena ocurre automáticamente unos días después de la anterior."
 
+# TODO: Translation updated at 2026-10-05 10:09
+
+# game/Scenes/Dana/dana1.rpy:50
+translate spanish dana1_051a645a:
+
+    # "She quickly slips out of her jacket, displaying even more of her amazing body, and goes right back to work."
+    ". Rápidamente se quita la chaqueta, mostrando aún más de su increíble cuerpo, y vuelve de inmediato al trabajo."
+

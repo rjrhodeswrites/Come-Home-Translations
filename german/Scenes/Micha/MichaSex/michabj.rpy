@@ -518,3 +518,95 @@ translate german strings:
     old "Teach her to mind"
     new "Bring ihr bei, auf dich zu hören"
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:218
+translate german michaspitpunish_e890c78f:
+
+    # pc "You did good, but you spit out what I gave to you."
+    pc "Du hast das gut gemacht, aber du hast ausgespuckt, was ich dir gegeben habe."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:221
+translate german michaspitpunish_418c82fb:
+
+    # mc "Oh, I'm sorry. I should not have done that?"
+    mc "Oh, es tut mir leid. Hätte ich das nicht tun sollen?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:222
+translate german michaspitpunish_54c40f64:
+
+    # pc "No, you are supposed to swallow it."
+    pc "Nein, du sollst es schlucken."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:224
+translate german michaspitpunish_d41d8cd9:
+
+    # voice 'voices/micha_imsorry2.mp3'
+    voice 'voices/micha_imsorry2.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:225
+translate german michaspitpunish_b360fd8d:
+
+    # mc "I'm sorry, [mcsir]."
+    mc "Es tut mir leid, [mcsir]."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:227
+translate german michaspitpunish_d41d8cd9_1:
+
+    # voice 'voices/micha_punishme.mp3'
+    voice 'voices/micha_punishme.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:228
+translate german michaspitpunish_66925816:
+
+    # mc "Are you going to punish me?"
+    mc "Wirst du mich bestrafen?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:229
+translate german michaspitpunish_7f1a3e8a:
+
+    # pc "I think I should."
+    pc "Ich glaube, ich sollte es."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:230
+translate german michaspitpunish_7ed0b06b:
+
+    # mc "I think you should too. I deserve to be punished."
+    mc "Ich finde auch, du solltest es. Ich verdiene es, bestraft zu werden."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:233
+translate german michaspitpunish_4c9c289f:
+
+    # pc "You spit again. Why did you do that? I've told you not to."
+    pc "Du hast schon wieder ausgespuckt. Warum hast du das gemacht? Ich habe dir doch gesagt, dass du das nicht tun sollst."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:237
+translate german michaspitpunish_d41d8cd9_2:
+
+    # voice 'voices/micha_imsorry1.mp3'
+    voice 'voices/micha_imsorry1.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:238
+translate german michaspitpunish_a49b3e35:
+
+    # mc "I'm sorry, [mcsir]. I forgot."
+    mc "Es tut mir leid, [mcsir]. Ich habe es vergessen."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:239
+translate german michaspitpunish_7e1bba4f:
+
+    # mc "I guess you should punish me again. So I remember next time."
+    mc "Ich schätze, du solltest mich wieder bestrafen. Damit ich es mir das nächste Mal merke."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:240
+translate german michaspitpunish_aef76910:
+
+    # pc "I guess I'm going to have to."
+    pc "Ich schätze, ich werde es wohl tun müssen."
+
+translate german strings:
+
+    # game/Scenes/Micha/MichaSex/michabj.rpy:92
+    old "Punish her for spitting (NEW)"
+    new "Sie dafür bestrafen, dass sie gespuckt hat (NEU)"
+

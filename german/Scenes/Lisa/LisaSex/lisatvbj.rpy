@@ -226,3 +226,157 @@ translate german strings:
     old "On your face"
     new "Auf dein Gesicht"
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:58
+translate german lisatvbj_438143e5:
+
+    # "When the show gets close to ending and she has been sucking on my dick for nearly half an hour, I'm starting to feel the orgasm building up."
+    "Als die Show sich dem Ende nähert und sie schon fast eine halbe Stunde an meinem Schwanz gelutscht hat, spüre ich, wie sich der Orgasmus aufbaut."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:66
+translate german lisatvbj_7eff9392:
+
+    # "I glance over and see that we have an audience."
+    "Ich werfe einen Blick zur Seite und stelle fest, dass wir Publikum haben."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:67
+translate german lisatvbj_7df361ab:
+
+    # "Suzy is standing in the doorway, watching her mom suck my cock and rubbing her pussy."
+    "Suzy steht in der Tür, sieht zu, wie ihre Mutter meinen Schwanz lutscht, und reibt sich dabei die Muschi."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:68
+translate german lisatvbj_195a81a0:
+
+    # "I'm surprised that Lisa doesn't notice her."
+    "Ich bin überrascht, dass Lisa sie nicht bemerkt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:107
+translate german lisatvbjcuminmouth_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Ich schaue auf und sehe, wie Suzy versucht, leise zu sein, während sie sich selbst zum Orgasmus bringt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:108
+translate german lisatvbjcuminmouth_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Sie reibt ihre saftige Muschi, bis es ihr das Bein hinunterläuft."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:111
+translate german lisatvbjcuminmouth_c1c8389a:
+
+    # "Then, while her mom is swallowing my cum, Suzy slips away and back up the stairs."
+    "Dann, während ihre Mutter mein Sperma schluckt, schleicht sich Suzy davon und geht die Treppe hinauf."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:148
+translate german lisatvbjcumonface_fa655a73:
+
+    # "I look up and see Suzy trying to be quiet while making herself cum as well."
+    "Ich schaue auf und sehe, wie Suzy versucht, leise zu sein, während sie sich ebenfalls zum Orgasmus bringt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:149
+translate german lisatvbjcumonface_25576ac3:
+
+    # "She rubs her juicy pussy until it gushes down her leg."
+    "Sie reibt ihre saftige Muschi, bis es ihr das Bein hinunterläuft."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:152
+translate german lisatvbjcumonface_ac38b202:
+
+    # "Then, while I'm spraying cum all over her mom's face, Suzy slips away and back up the stairs."
+    "Dann, während ich das Sperma über das ganze Gesicht ihrer Mutter spritze, schleicht sich Suzy davon und geht die Treppe hinauf."
+
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:27
+translate german lisatvbj_644c2c44:
+
+    # alt "The image shows Lisa leaning on the MC."
+    alt "Das Bild zeigt Lisa, wie sie sich an den MC lehnt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:36
+translate german lisatvbj_6d143f30:
+
+    # alt "The image shows Lisa lying her head down on the MC's lap"
+    alt "Das Bild zeigt Lisa, wie sie ihren Kopf auf den Schoß"
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:44
+translate german lisatvbj_f537573d:
+
+    # alt "The image shows Lisa, looking up at the MC."
+    alt "des MC legt. Das Bild zeigt Lisa, wie sie zum MC aufschaut."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:57
+translate german lisatvbj_f410399c:
+
+    # alt "An animation shows Lisa holding the MC's dick and sucking the tip."
+    alt "Eine Animation zeigt Lisa, wie sie den Schwanz des MC hält und an der Spitze saugt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:69
+translate german lisatvbj_be8797e1:
+
+    # alt "The image shows Suzy watching from the doorway."
+    alt "Das Bild zeigt Suzy, wie sie von der Tür aus zusieht."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:95
+translate german lisatvbjcuminmouth_ac79d87e:
+
+    # alt "The image shows Lisa on her knees between the MC's legs with his dick in her mouth."
+    alt "Das Bild zeigt Lisa auf den Knien zwischen den Beinen des MC, mit seinem Schwanz im Mund."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:103
+translate german lisatvbjcuminmouth_a7d50be5:
+
+    # alt "The image shows Lisa closing her eyes, smiling, as the MC cums in her mouth."
+    alt "Das Bild zeigt Lisa, wie sie die Augen schließt und lächelt, während der MC in ihrem Mund kommt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:113
+translate german lisatvbjcuminmouth_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "Das Bild zeigt Suzy, wie sie kommt, während sie sich in der Tür rieb."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:118
+translate german lisatvbjcuminmouth_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "Das Bild zeigt Suzy, wie sie sich davonschleicht."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:124
+translate german lisatvbjcuminmouth_e02aaa51:
+
+    # alt "The image shows Lisa looking up at the MC, smiling."
+    alt "Das Bild zeigt Lisa, wie sie zum MC aufblickt und lächelt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:141
+translate german lisatvbjcumonface_1721fc0d:
+
+    # alt "The image shows Lisa on her knees between the MC's legs, dick in hand, looking up at him."
+    alt "Das Bild zeigt Lisa auf den Knien zwischen den Beinen des Protagonisten, den Schwanz in der Hand, wie sie zu ihm aufblickt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:150
+translate german lisatvbjcumonface_615d3e65:
+
+    # alt "The image shows Lisa, closing her eyes smiling, mouth open, tongue out, as the MC cums on her face."
+    alt "Das Bild zeigt Lisa, wie sie lächelnd die Augen schließt, den Mund offen und die Zunge herausgestreckt, während der Protagonist auf ihr Gesicht kommt."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:159
+translate german lisatvbjcumonface_c68edb49:
+
+    # alt "The image shows Suzy cumming as she rubs herself in the doorway."
+    alt "Das Bild zeigt Suzy, wie sie zum Höhepunkt kommt, während sie sich in der Tür rieb."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:164
+translate german lisatvbjcumonface_7032bfeb:
+
+    # alt "The image shows Suzy slipping away."
+    alt "Das Bild zeigt Suzy, wie sie davonschlüpft."
+
+# game/Scenes/Lisa/LisaSex/lisatvbj.rpy:170
+translate german lisatvbjcumonface_34b01edb:
+
+    # alt "The image shows Lisa, looking up at the MC smiling, her face covered in cum."
+    alt "Das Bild zeigt Lisa, wie sie lächelnd zum Protagonisten aufblickt, ihr Gesicht mit Sperma bedeckt."
+

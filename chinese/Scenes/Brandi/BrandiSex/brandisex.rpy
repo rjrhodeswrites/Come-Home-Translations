@@ -120,3 +120,11 @@ translate chinese strings:
     old "Anal Doggy"
     new "后入式肛交"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+# game/Scenes/Brandi/BrandiSex/brandisex.rpy:57
+translate chinese brandisexend_84071f12:
+
+    # "She cooks a quick breakfast and we eat together before we both have to go our separate ways."
+    "她快速做了一顿早餐，我们一起吃完后，各自踏上不同的路。"
+

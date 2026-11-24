@@ -38,3 +38,15 @@ translate russian strings:
     old "Fuck her face (NEW)"
     new "Трахни её в рот (НОВОЕ)"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:20
+    old "Fuck her ass"
+    new "Трахни её в попку"
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:22
+    old "Fuck her ass (NEW)"
+    new "Трахни её в попку (НОВОЕ)"
+

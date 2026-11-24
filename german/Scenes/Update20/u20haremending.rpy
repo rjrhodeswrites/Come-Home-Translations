@@ -3186,3 +3186,11 @@ translate german displayepilogueslides_b97a871d:
     # "What more could a person ask for?"
     "Was könnte man sich mehr wünschen?"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Scenes/Update20/u20haremending.rpy:2948
+    old "GO!"
+    new "LOS!"
+

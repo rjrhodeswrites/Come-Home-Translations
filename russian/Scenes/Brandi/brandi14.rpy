@@ -1246,3 +1246,11 @@ translate russian strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "она позвонит тебе вечером и пригласит к себе на ужин."
 
+# TODO: Translation updated at 2026-11-24 09:12
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate russian brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "Нет, я серьезно. Я никогда не пробовал мясного рулета, цветной капусты или спаржи, которые бы хотя бы приблизительно так же вкусно."
+

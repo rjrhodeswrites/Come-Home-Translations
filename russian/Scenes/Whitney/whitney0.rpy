@@ -64,3 +64,11 @@ translate russian strings:
     old "hen you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
     new "После этого ты сможешь отправить Уитни электронное письмо с ноутбука твоего отца. Через день-два загляни в ноутбук еще раз, чтобы найти ответ Уитни."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Scenes/Whitney/whitney0.rpy:3
+    old "Then you will be able to send Whitney an e-mail from your dad's laptop. After that, check the laptop again in a day or two to find Whitney's reply."
+    new "Тогда ты сможешь отправить Уитни электронное письмо с ноутбука своего отца. После этого через день-два снова загляни в ноутбук, чтобы найти ответ Уитни."
+

@@ -18,3 +18,15 @@ translate portuguese strings:
     old "This is a question that Gertrude will ask."
     new "Esta é uma pergunta que a Gertrude fará."
 
+# TODO: Translation updated at 2026-08-03 10:49
+
+translate portuguese strings:
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:66
+    old "Meet outside of the office"
+    new "Encontro fora do escritório"
+
+    # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:71
+    old "Sex with teachers"
+    new "Sexo com professores"
+

@@ -268,3 +268,131 @@ translate french strings:
     old "End the session"
     new "Mets fin à la séance"
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate french danabondagedoggyanal_21ad8bd1:
+
+    # mc "Here, let's readjust these ropes, I want you ass up."
+    mc "Tiens, réajustons ces cordes, je veux que tu lèves le cul."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:175
+translate french danabondagedoggyanal_c4650a4f:
+
+    # cw "Oh fuck, yes."
+    cw "Oh putain, oui."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:178
+translate french danabondagedoggyanal_03fc6380:
+
+    # "I climb on top of her and she gasps as my cock presses against her asshole."
+    "Je grimpe sur elle et elle halète quand ma bite appuie contre son trou du cul."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:179
+translate french danabondagedoggyanal_b895ffe0:
+
+    # "She lets out a gasp."
+    "Elle laisse échapper un gémissement."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:180
+translate french danabondagedoggyanal_967cb94d:
+
+    # cw "Are you going to fuck my ass?"
+    cw "Tu vas me baiser le cul ?"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:183
+translate french danabondagedoggyanal_7f91de2a:
+
+    # "In response, I push forward, the tip sliding in, stretching her hole."
+    "En réponse, je pousse vers l’avant, le bout glissant à l’intérieur, lui dilatant le trou."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:184
+translate french danabondagedoggyanal_7c1da97a:
+
+    # cw "Oh God, it's so thick."
+    cw "Oh mon Dieu, elle est tellement grosse."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:185
+translate french danabondagedoggyanal_17081baa:
+
+    # cw "Please baby, fuck me hard."
+    cw "S’il te plaît, bébé, baise-moi fort."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:190
+translate french danabondagedoggyanal_1d40c4cc:
+
+    # "Once she's ready, I start moving faster, slamming my cock into her."
+    "Une fois qu’elle est prête, je commence à aller plus vite, enfonçant ma bite en elle."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:191
+translate french danabondagedoggyanal_dc73e539:
+
+    # "She screams as I pound her tight ass, using it like my personal pleasure hole."
+    "Elle hurle tandis que je martèle son cul serré, l’utilisant comme mon trou de plaisir personnel."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:192
+translate french danabondagedoggyanal_1875defb:
+
+    # cw "Oh fuck! Oh fuck! It feels so good!"
+    cw "Oh putain ! Oh putain ! C’est trop bon !"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:193
+translate french danabondagedoggyanal_f2a7fec4:
+
+    # cw "Harder! Ruin me!"
+    cw "Plus fort ! Détruis-moi !"
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:226
+translate french danabondagecum_6681bc6c:
+
+    # "Then I can't hold back any more and I shove my cock deep inside and paint her insides with my cum."
+    "Puis je ne peux plus me retenir et j’enfonce ma bite au plus profond d’elle pour recouvrir ses entrailles de mon sperme."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:227
+translate french danabondagecum_d555e853:
+
+    # "Her ass grips me tight. The heat is intense as she moans in pleasure."
+    "Son cul me serre fort. La chaleur est intense tandis qu’elle gémit de plaisir."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:230
+translate french danabondagecum_bc8089d5:
+
+    # "When I'm empty, I pull out."
+    "Quand je suis vidé, je me retire."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:231
+translate french danabondagecum_37dbcd3f:
+
+    # "Her asshole gapes, overflowing with my cum."
+    "Son trou du cul béant déborde de mon sperme."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:235
+translate french danabondagecum_a254f1c1:
+
+    # cw "Holy shit, that was intense."
+    cw "Putain, c’était intense."
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:236
+translate french danabondagecum_13eb94df:
+
+    # cw "But it felt so good."
+    cw "Mais c’était tellement bon."
+
+translate french strings:
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:163
+    old "After you unlock bondage sex with Dana and you have had anal missionary sex with her,"
+    new "Après avoir débloqué le sexe bondage avec Dana et avoir pratiqué la levrette anale avec elle,"
+
+    # game/Scenes/Dana/DanaSex/danabondage.rpy:164
+    old "choose to have doggystyle anal sex with her during bondage."
+    new "choisis de la prendre en levrette pendant le bondage."
+
+# TODO: Translation updated at 2026-11-24 09:04
+
+# game/Scenes/Dana/DanaSex/danabondage.rpy:174
+translate french danabondagedoggyanal_782a4a84:
+
+    # pc "Here, let's readjust these ropes, I want you ass up."
+    pc "Tiens, réajustons ces cordes, je veux que tu lèves les fesses."
+

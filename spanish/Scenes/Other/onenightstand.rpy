@@ -1684,3 +1684,11 @@ translate spanish strings:
     old "Nah, not tonight"
     new "No, esta noche no."
 
+# TODO: Translation updated at 2026-11-24 09:02
+
+# game/Scenes/Other/onenightstand.rpy:128
+translate spanish onenightstand_88b5f895:
+
+    # pc "Usually. Why? Are you hungry?"
+    pc "Por lo general. ¿Por qué? ¿Tienes hambre?"
+

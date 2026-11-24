@@ -22,3 +22,23 @@ translate spanish strings:
     old "This is a question that Lisa will ask when you are on a date with her."
     new "Esta es una pregunta que te hará Lisa cuando estés en una cita con ella."
 
+# TODO: Translation updated at 2026-08-03 10:59
+
+translate spanish strings:
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:96
+    old "How long has this thing with Suzy been going on?"
+    new "¿Desde cuándo va esto con Suzy?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:100
+    old "Do you really think you're going to find your dad?"
+    new "¿De verdad crees que vas a encontrar a tu papá?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:104
+    old "What are you planning on doing after you graduate?"
+    new "¿Qué piensas hacer después de graduarte?"
+
+    # game/Screens/New Affection Menu/Lisa/lisaconvoscreen.rpy:108
+    old "How many women are you sleeping with?"
+    new "¿Con cuántas mujeres te acuestas?"
+

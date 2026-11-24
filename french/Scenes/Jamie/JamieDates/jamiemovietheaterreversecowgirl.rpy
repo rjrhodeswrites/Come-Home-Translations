@@ -178,3 +178,23 @@ translate french strings:
     old "take her on a date to the movie theater and she'll want to ride you."
     new "emmène-la au cinéma et elle voudra te chevaucher."
 
+# TODO: Translation updated at 2026-10-05 10:15
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:21
+translate french jamiemovietheaterreversecowgirl_9344722c:
+
+    # pc "Sure, hop on."
+    pc "Bien sûr, viens."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:42
+translate french jamiemovietheaterreversecowgirl_b99e4838:
+
+    # "She lets out a little gasp as I penetrate her."
+    "Elle laisse échapper un petit halètement quand je la pénètre."
+
+# game/Scenes/Jamie/JamieDates/jamiemovietheaterreversecowgirl.rpy:97
+translate french jamiemovietheaterreversecowgirl_4806868c:
+
+    # "Jamie pulls up her pants and I tuck my wet cock back inside mine. Then she sits in her seat and looks at me with a smile."
+    "Jamie remonte son pantalon et je range ma bite mouillée dans mon caleçon. Puis elle s’assoit sur son siège et me regarde en souriant."
+

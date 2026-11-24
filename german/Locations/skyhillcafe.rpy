@@ -284,3 +284,19 @@ translate german strings:
     old "Ask Juliana Out (NEW CONTENT)"
     new "Juliana um ein Date bitten (NEUER INHALT)"
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+translate german strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the cafe"
+    new "Schlage vor, Sex zu haben, nachdem sie das Café"
+
+# TODO: Translation updated at 2026-11-24 08:58
+
+translate german strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the café"
+    new "Schlage vor, Sex zu haben, nachdem sie das Café"
+

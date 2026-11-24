@@ -518,3 +518,95 @@ translate russian strings:
     old "Teach her to mind"
     new "Научи ее слушаться"
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:218
+translate russian michaspitpunish_e890c78f:
+
+    # pc "You did good, but you spit out what I gave to you."
+    pc "Ты хорошо справился, но ты выплюнул то, что я тебе дала."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:221
+translate russian michaspitpunish_418c82fb:
+
+    # mc "Oh, I'm sorry. I should not have done that?"
+    mc "Ой, прости. Я не должна была так делать?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:222
+translate russian michaspitpunish_54c40f64:
+
+    # pc "No, you are supposed to swallow it."
+    pc "Нет, ты должна была проглотить."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:224
+translate russian michaspitpunish_d41d8cd9:
+
+    # voice 'voices/micha_imsorry2.mp3'
+    voice 'voices/micha_imsorry2.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:225
+translate russian michaspitpunish_b360fd8d:
+
+    # mc "I'm sorry, [mcsir]."
+    mc "Прости, [mcsir]."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:227
+translate russian michaspitpunish_d41d8cd9_1:
+
+    # voice 'voices/micha_punishme.mp3'
+    voice 'voices/micha_punishme.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:228
+translate russian michaspitpunish_66925816:
+
+    # mc "Are you going to punish me?"
+    mc "Ты меня накажешь?"
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:229
+translate russian michaspitpunish_7f1a3e8a:
+
+    # pc "I think I should."
+    pc "Думаю, да."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:230
+translate russian michaspitpunish_7ed0b06b:
+
+    # mc "I think you should too. I deserve to be punished."
+    mc "Я тоже так думаю. Я заслуживаю наказания."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:233
+translate russian michaspitpunish_4c9c289f:
+
+    # pc "You spit again. Why did you do that? I've told you not to."
+    pc "Ты снова выплюнула. Почему ты это сделала? Я же тебе говорил, чтобы ты этого не делала."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:237
+translate russian michaspitpunish_d41d8cd9_2:
+
+    # voice 'voices/micha_imsorry1.mp3'
+    voice 'voices/micha_imsorry1.mp3'
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:238
+translate russian michaspitpunish_a49b3e35:
+
+    # mc "I'm sorry, [mcsir]. I forgot."
+    mc "Прости, [mcsir]. Я забыла."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:239
+translate russian michaspitpunish_7e1bba4f:
+
+    # mc "I guess you should punish me again. So I remember next time."
+    mc "Наверное, ты должен меня снова наказать. Чтобы я в следующий раз запомнила."
+
+# game/Scenes/Micha/MichaSex/michabj.rpy:240
+translate russian michaspitpunish_aef76910:
+
+    # pc "I guess I'm going to have to."
+    pc "Похоже, мне придётся это сделать."
+
+translate russian strings:
+
+    # game/Scenes/Micha/MichaSex/michabj.rpy:92
+    old "Punish her for spitting (NEW)"
+    new "Наказать её за то, что она сплюнула (НОВОЕ)"
+

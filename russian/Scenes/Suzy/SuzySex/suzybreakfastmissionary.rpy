@@ -114,3 +114,11 @@ translate russian suzybreakfastmissionary_3285809f:
     # "She goes upstairs to get cleaned up, while I get dressed, stuff some food in my mouth, then get ready for school."
     "Она поднимается наверх, чтобы привести себя в порядок, а я одеваюсь, запихиваю в рот немного еды, а затем готовлюсь к школе."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Scenes/Suzy/SuzySex/suzybreakfastmissionary.rpy:6
+    old "Choose to fuck her missionary on the table."
+    new "Выбери трахнуть её в миссионерской позе на столе."
+

@@ -38,3 +38,15 @@ translate german strings:
     old "Fuck her face (NEW)"
     new "Fick ihr Gesicht (NEU)"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:20
+    old "Fuck her ass"
+    new "Fick ihren Arsch"
+
+    # game/Scenes/Micha/MichaSex/michapunish.rpy:22
+    old "Fuck her ass (NEW)"
+    new "Fick ihren Arsch (NEU)"
+

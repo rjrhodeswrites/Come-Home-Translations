@@ -26,3 +26,11 @@ translate chinese strings:
     old "He asks his questions in order, one per date. To unlock, go on more dates with him."
     new "他按顺序提问，每次约会一个问题。要解锁，请多和他约会几次。"
 
+# TODO: Translation updated at 2026-08-03 10:30
+
+translate chinese strings:
+
+    # game/Screens/New Affection Menu/Bai/baiconvoscreen.rpy:66
+    old "Propose a threesome with Tammy."
+    new "向塔米提议三人行"
+

@@ -1604,3 +1604,11 @@ translate russian strings:
     old "I think I need to go"
     new "Думаю, мне пора"
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+# game/Scenes/Whitney/whitney14.rpy:265
+translate russian rjwhitneywarning_5a9511fd:
+
+    # wt "There must have been an alarm that trips if the safe is opened after hours."
+    wt "Должно быть, там был сигнализатор, срабатывающий, если сейф открывают в нерабочее время."
+

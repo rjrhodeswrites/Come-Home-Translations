@@ -214,3 +214,127 @@ translate german strings:
     old "Check out the skater girl again"
     new "Schau dir das Skater-Mädchen noch einmal an"
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/townmap.rpy:263
+    old "S"
+    new "S"
+
+    # game/Screens/townmap.rpy:264
+    old "M"
+    new "M"
+
+    # game/Screens/townmap.rpy:265
+    old "T"
+    new "T"
+
+    # game/Screens/townmap.rpy:266
+    old "W"
+    new "W"
+
+    # game/Screens/townmap.rpy:268
+    old "F"
+    new "F"
+
+    # game/Screens/townmap.rpy:508
+    old "Buy Kendra a new skateboard"
+    new "Kauf Kendra ein neues Skateboard"
+
+    # game/Screens/townmap.rpy:509
+    old "Give Kendra the new board"
+    new "Gib Kendra das neue Board"
+
+    # game/Screens/townmap.rpy:510
+    old "Visit Kendra at the park"
+    new "Besuche Kendra im Park"
+
+    # game/Screens/townmap.rpy:513
+    old "Call Nora"
+    new "Ruf Nora an"
+
+    # game/Screens/townmap.rpy:515
+    old "Do social studies homework"
+    new "Mach die Hausaufgaben in Sozialkunde"
+
+    # game/Screens/townmap.rpy:517
+    old "Call Mrs. McGee"
+    new "Ruf Frau McGee an"
+
+    # game/Screens/townmap.rpy:519
+    old "Go to Java Lava"
+    new "Geh ins „Java Lava“"
+
+    # game/Screens/townmap.rpy:520
+    old "Do english homework"
+    new "Mach die Hausaufgaben in Englisch"
+
+    # game/Screens/townmap.rpy:522
+    old "Call Brandi"
+    new "Ruf Brandi an"
+
+    # game/Screens/townmap.rpy:524
+    old "Meet the food vlogger"
+    new "Triff die Food-Vloggerin"
+
+    # game/Screens/townmap.rpy:525
+    old "Check out Brandi's livestream"
+    new "Schau dir Brandis Livestream an"
+
+    # game/Screens/townmap.rpy:526
+    old "Watch Brandi's livestream"
+    new "Schau dir BrandisLivestream ansehen"
+
+    # game/Screens/townmap.rpy:529
+    old "Call Adrian"
+    new "Rufe Adrian an"
+
+    # game/Screens/townmap.rpy:531
+    old "Bump into Adrian at the supermarket"
+    new "Triff Adrian zufällig im Supermarkt"
+
+    # game/Screens/townmap.rpy:532
+    old "Play Souls of War with Adrian"
+    new "Spiele „Souls of War“ mit Adrian"
+
+    # game/Screens/townmap.rpy:535
+    old "Call Reba"
+    new "Rufe Reba an"
+
+    # game/Screens/townmap.rpy:538
+    old "Call Whitney"
+    new "Rufe Whitney an"
+
+    # game/Screens/townmap.rpy:542
+    old "Call Bai"
+    new "Rufe Bai an"
+
+    # game/Screens/townmap.rpy:545
+    old "Visit Bai at work"
+    new "Besuche Bai bei der Arbeit"
+
+    # game/Screens/townmap.rpy:548
+    old "Call Detective Rodriguez"
+    new "Rufe Detective Rodriguez an"
+
+    # game/Screens/townmap.rpy:549
+    old "Call Jez"
+    new "Rufe Jez an"
+
+    # game/Screens/townmap.rpy:552
+    old "Visit the school councelor"
+    new "Besuche den Schulberater"
+
+    # game/Screens/townmap.rpy:553
+    old "Visit Gertrude"
+    new "Besuche Gertrude"
+
+    # game/Screens/townmap.rpy:557
+    old "Call Mi-Cha"
+    new "Rufe Mi-Cha an"
+
+    # game/Screens/townmap.rpy:559
+    old "Visit Mi-Cha"
+    new "Besuche Mi-Cha"
+

@@ -1246,3 +1246,11 @@ translate german strings:
     old "she will call you in the evening and invite you over to her house for dinner."
     new "wird sie dich am Abend anrufen und dich zum Abendessen zu sich nach Hause einladen."
 
+# TODO: Translation updated at 2026-11-24 08:58
+
+# game/Scenes/Brandi/brandi14.rpy:118
+translate german brandi14_81ba3894:
+
+    # pc "No, I'm serious. I've never had meatloaf, cauliflower, or asparagus that tasted even close to that good."
+    pc "Nein, ich meine es ernst. Ich habe noch nie Hackbraten, Blumenkohl oder Spargel gegessen, der auch nur annähernd so gut geschmeckt hat."
+

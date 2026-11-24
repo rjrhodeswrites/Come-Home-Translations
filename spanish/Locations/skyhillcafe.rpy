@@ -284,3 +284,19 @@ translate spanish strings:
     old "Ask Juliana Out (NEW CONTENT)"
     new "Invitar a Juliana a salir (NUEVO CONTENIDO)"
 
+# TODO: Translation updated at 2026-10-05 10:09
+
+translate spanish strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the cafe"
+    new "Sugiero tener sexo después de que ella cierre la cafetería"
+
+# TODO: Translation updated at 2026-11-24 09:02
+
+translate spanish strings:
+
+    # game/Locations/skyhillcafe.rpy:127
+    old "Suggest having sex after she closes the café"
+    new "Sugiero tener sexo después de que ella cierre la cafetería"
+

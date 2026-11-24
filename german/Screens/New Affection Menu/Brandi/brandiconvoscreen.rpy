@@ -26,3 +26,11 @@ translate german strings:
     old "You can have these when you are on a date with her."
     new "Du kannst diese führen, wenn du mit ihr auf einem Date bist."
 
+# TODO: Translation updated at 2026-08-03 10:22
+
+translate german strings:
+
+    # game/Screens/New Affection Menu/Brandi/brandiconvoscreen.rpy:85
+    old "Do you have siblings?"
+    new "Hast du Geschwister?"
+

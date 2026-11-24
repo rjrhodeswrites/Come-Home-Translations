@@ -1484,3 +1484,11 @@ translate chinese strings:
     old "Do you want to take this relationship further?"
     new "你想把这段关系更进一步吗？"
 
+# TODO: Translation updated at 2026-11-24 08:41
+
+# game/Scenes/MrsMills/mills18.rpy:337
+translate chinese mills18_def05e64:
+
+    # "Each shot sends pulses through my body and every time, she trembles in the same pleasure that I feel."
+    "每次射精都让我的身体一阵阵颤动，而每次，她都会因与我相同的快感而颤抖。"
+

@@ -210,3 +210,53 @@ translate german strings:
     old "you can find her in the kitchen on weekend mornings and have doggy style sex with her there."
     new "Du kannst sie an Wochenendvormittagen in der Küche finden und dort Sex in der Hündchenstellung mit ihr haben."
 
+# TODO: Translation updated at 2026-10-05 09:49
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:59
+translate german lisakitchendoggy_5badbcd0:
+
+    # "I look over and see that we have an audience."
+    "Ich schaue hinüber und stelle fest, dass wir Zuschauer haben."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:67
+translate german lisakitchendoggy_aced7ece:
+
+    # "Suzy is watching, rubbing her pussy furiously as I pound her mom from behind."
+    "Suzy schaut zu und reibt sich wie wild die Muschi, während ich ihre Mutter von hinten durchnehme."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:84
+translate german lisakitchendoggy_0b38642c:
+
+    # "The sight of her mother's orgasm makes Suzy cum as well, her wet pussy leaking juices down her leg."
+    "Der Anblick des Orgasmus ihrer Mutter bringt auch Suzy zum Kommen, ihr feuchter Scheidensaft läuft ihr das Bein hinunter."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:85
+translate german lisakitchendoggy_b3924252:
+
+    # "The sight pushes me over the edge."
+    "Der Anblick treibt mich über den Rand."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:132
+translate german lisakitchendoggy_2a323695:
+
+    # "I look over, worried that Suzy is still there, but she's gone, retreated unseen back up the stairs."
+    "Ich schaue hinüber, besorgt, dass Suzy noch da ist, aber sie ist weg, hat sich unbemerkt die Treppe hinauf zurückgezogen."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:137
+translate german lisakitchendoggy_3fcbd851:
+
+    # "A few minutes later, Lisa returns, then Suzy comes back downstairs and we sit down and eat breakfast together."
+    "Ein paar Minuten später kommt Lisa zurück, dann kommt Suzy wieder die Treppe herunter, und wir setzen uns hin und frühstücken gemeinsam."
+
+# game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:138
+translate german lisakitchendoggy_abebd4fc:
+
+    # "Both of them smile at me through the entire meal,but Lisa doesn't seem to suspect anything."
+    "Beide lächeln mich während des gesamten Essens an, aber Lisa scheint nichts zu ahnen."
+
+translate german strings:
+
+    # game/Scenes/Lisa/LisaSex/lisakitchendoggy.rpy:14
+    old "Do you want Suzy watching?"
+    new "Willst du, dass Suzy zusieht?"
+

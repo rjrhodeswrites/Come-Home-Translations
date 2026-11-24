@@ -18,3 +18,23 @@ translate russian strings:
     old "This is a question that Tammy will ask."
     new "Это вопрос, который задаст Тэмми."
 
+# TODO: Translation updated at 2026-08-03 10:53
+
+translate russian strings:
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:14
+    old "TAMMY SOLO CONVERSATIONS"
+    new "СОЛО-БЕСЕДЫ С ТЭММИ"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:71
+    old "Question: Are you messing around with Lisa?"
+    new "Вопрос: Ты заигрываешь с Лизой?"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:76
+    old "Question: Do you like girls with muscles?"
+    new "Вопрос: Тебе нравятся мускулистые девушки?"
+
+    # game/Screens/New Affection Menu/Tammy/tammyconvoscreen.rpy:102
+    old "Would you want to have a threesome with another guy?"
+    new "Хотел бы ты заняться сексом втроем с другим парнем?"
+

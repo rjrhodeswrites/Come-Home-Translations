@@ -232,3 +232,11 @@ translate russian strings:
     old "No punishment today"
     new "Сегодня никакого наказания"
 
+# TODO: Translation updated at 2026-10-05 10:37
+
+translate russian strings:
+
+    # game/Scenes/Micha/MichaSex/michadoggy.rpy:50
+    old "No (NEW)"
+    new "Нет (НОВОЕ)"
+
