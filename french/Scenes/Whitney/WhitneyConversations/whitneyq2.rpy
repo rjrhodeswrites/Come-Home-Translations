@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:12
 translate french whitneyq2_29acda57:
@@ -22,7 +22,7 @@ translate french whitneyq2_e37a9d5d:
 translate french whitneyq2_3f970292:
 
     # wt "I've been thinking about starting my own lab."
-    wt "J’ai pensé à monter mon propre laboratoire."
+    wt "J’envisage de monter mon propre laboratoire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:18
 translate french whitneyq2_40ff646e:
@@ -64,7 +64,7 @@ translate french whitneyq2_c320ba54:
 translate french whitneyq2_f9fc9074:
 
     # wt "I'm not mad."
-    wt "Je ne suis pas fou."
+    wt "Je ne suis pas folle."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:33
 translate french whitneyq2_5ae98453:
@@ -82,19 +82,19 @@ translate french whitneyq2_fe5d5afd:
 translate french whitneyq2_453ab0ca:
 
     # wt "Anyway, I could use a couple of assistants with these projects, if you're interested in pursuing that."
-    wt "Quoi qu’il en soit, j’aurais besoin de deux assistants pour ces projets, si ça t’intéresse."
+    wt "Quoi qu’il en soit, j’aurais bien besoin de quelques assistants pour ces projets, si ça t’intéresse."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:40
 translate french whitneyq2_62d418b5:
 
     # wt "I'm glad."
-    wt "J’en suis ravi."
+    wt "J’en suis ravie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:41
 translate french whitneyq2_214e8d99:
 
     # wt "I've enjoyed working with you so far and I think that we could do good things together."
-    wt "J’ai apprécié travailler avec toi jusqu’à présent et je pense qu’on pourrait faire de grandes choses ensemble."
+    wt "J’ai apprécié travailler avec toi jusqu’à présent et je pense qu’on pourrait faire de belles choses ensemble."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:43
 translate french whitneyq2_6c16cd66:
@@ -112,7 +112,7 @@ translate french whitneyq2_119fcf3f:
 translate french whitneyq2_214e8d99_1:
 
     # wt "I've enjoyed working with you so far and I think that we could do good things together."
-    wt "J'ai apprécié travailler avec toi jusqu'à présent et je pense qu'on pourrait faire de belles choses ensemble."
+    wt "J’ai apprécié travailler avec toi jusqu’à présent et je pense qu’on pourrait faire de belles choses ensemble."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:48
 translate french whitneyq2_d4519477:
@@ -142,13 +142,12 @@ translate french strings:
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:26
     old "That sounds amazing"
-    new "Ça a l'air génial."
+    new "Ça a l'air génial"
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:30
     old "That's some mad scientist stuff"
-    new "C'est un peu le genre de trucs de savant fou."
+    new "Ça, c'est un truc de savant fou"
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:45
     old "I'll keep that in mind"
-    new "Je vais y réfléchir."
-
+    new "Je vais y réfléchir"
