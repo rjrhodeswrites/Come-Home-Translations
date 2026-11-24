@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:15
 translate french whitneys2_f8a79e24:
@@ -16,7 +16,7 @@ translate french whitneys2_d705782d:
 translate french whitneys2_20899d6b:
 
     # pc "Oh nice. You live by yourself?"
-    pc "Oh, sympa. Tu vis tout seul ?"
+    pc "Oh, sympa. Tu vis toute seule ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:18
 translate french whitneys2_3741c3cf:
@@ -40,7 +40,7 @@ translate french whitneys2_4471df1e:
 translate french whitneys2_7e7e2060:
 
     # wt "I have a maid-slash-cook who is here most of the day, a groundskeeper who comes once a week…"
-    wt "J’ai une femme de ménage/cuisinière qui est là presque toute la journée, un jardinier qui vient une fois par semaine…"
+    wt "J’ai une femme de ménage qui fait aussi la cuisine et qui est là presque toute la journée, un jardinier qui vient une fois par semaine…"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:22
 translate french whitneys2_bfa9a062:
@@ -52,7 +52,7 @@ translate french whitneys2_bfa9a062:
 translate french whitneys2_20aac584:
 
     # pc "Sounds like you keep pretty busy."
-    pc "On dirait que tu es bien occupé."
+    pc "On dirait que tu es bien occupée."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:25
 translate french whitneys2_87889000:
@@ -76,7 +76,7 @@ translate french whitneys2_6e598717:
 translate french whitneys2_95cf8e29:
 
     # pc "What do you do in there?"
-    pc "Que fais-tu là-dedans ?"
+    pc "Qu’est-ce que tu fais là-dedans ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:30
 translate french whitneys2_1f645aba:
@@ -88,7 +88,7 @@ translate french whitneys2_1f645aba:
 translate french whitneys2_cea18af3:
 
     # pc "You invent anything that I might have heard of?"
-    pc "As-tu inventé quelque chose dont j’aurais pu entendre parler ?"
+    pc "Tu as inventé quelque chose dont j’aurais pu entendre parler ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:33
 translate french whitneys2_0b69c304:
@@ -100,7 +100,7 @@ translate french whitneys2_0b69c304:
 translate french whitneys2_db3a119a:
 
     # wt "They've paid me quite well not to speak of them."
-    wt "Ils m’ont bien payé pour que je n’en parle pas."
+    wt "Ils m’ont très bien payée pour que je n’en parle pas."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys2.rpy:35
 translate french whitneys2_bdcea22e:
