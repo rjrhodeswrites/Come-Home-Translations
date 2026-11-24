@@ -64,7 +64,7 @@ translate french work0_640a0bfd:
 translate french work0_c24d08f6:
 
     # pc "Yes, ma'am, I am."
-    pc "Oui, madame, je le suis."
+    pc "Oui, madame, je suis prêt."
 
 # game/Scenes/Work/work0.rpy:20
 translate french work0_cc9bf2b9:
@@ -88,7 +88,7 @@ translate french work0_e7ab64bb:
 translate french work0_67f863e2:
 
     # "Afterwards, Mrs. Mills has me type all her notes while she dictates. Luckily, I'm a fast typist because she is a fast talker and doesn't slow down at all."
-    "Ensuite, Mme Mills me demande de taper toutes ses notes pendant qu'elle dicte. Heureusement, je tape vite, car elle parle vite et ne ralentit pas du tout."
+    "Ensuite, Mme Mills me demande de taper toutes ses notes pendant qu'elle dicte. Heureusement, je tape vite, car elle parle rapidement et ne ralentit pas du tout."
 
 # game/Scenes/Work/work0.rpy:26
 translate french work0_cec5844a:
@@ -160,7 +160,7 @@ translate french work0_ef83833d:
 translate french work0_9dec6a30:
 
     # "It has been a long day and I'm exhausted. And this is only the first. Every weekday is going to be like this basically, leaving me only the evenings to do whatever I want."
-    "La journée a été longue et je suis épuisée. Et ce n'est que le début. Tous les jours de la semaine vont se dérouler à peu près comme ça, ne me laissant que les soirées pour faire ce que je veux."
+    "La journée a été longue et je suis épuisé. Et ce n'est que le début. Tous les jours de la semaine vont se dérouler à peu près comme ça, ne me laissant que les soirées pour faire ce que je veux."
 
 # game/Scenes/Work/work0.rpy:45
 translate french work0_d7ac5816:
