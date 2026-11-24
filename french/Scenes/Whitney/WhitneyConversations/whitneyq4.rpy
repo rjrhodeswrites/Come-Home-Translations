@@ -70,7 +70,7 @@ translate french whitneyq4_2a4d084d:
 translate french whitneyq4_f0f44364:
 
     # pc "I know that you know what you're doing, but if something goes wrong, I could be stuck wherever my dad is."
-    pc "Je sais que tu sais ce que tu fais, mais si quelque chose tourne mal, je pourrais me retrouver coincé là où est mon père."
+    pc "Je sais que tu sais ce que tu fais, mais si quelque chose tourne mal, je pourrais me retrouver coincé là où est mon Papa."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:34
 translate french whitneyq4_db92c80f:
@@ -148,7 +148,7 @@ translate french whitneyq4_3d91f7b3:
 translate french whitneyq4_2acedf3a:
 
     # pc "No matter what I feel, I'm going to do it. I want to find my dad."
-    pc "Peu importe ce que je ressens, je vais le faire. Je veux retrouver mon père."
+    pc "Peu importe ce que je ressens, je vais le faire. Je veux retrouver mon Papa."
 
 translate french strings:
 
