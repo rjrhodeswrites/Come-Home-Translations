@@ -28,7 +28,7 @@ translate french strings:
 
     # game/Screens/devtools.rpy:190
     old "Portal Companion"
-    new "Portal Companion"
+    new "Partenaire de portail"
 
 # TODO: Translation updated at 2026-10-05 10:15
 
