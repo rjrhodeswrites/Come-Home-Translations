@@ -34,7 +34,7 @@ translate french over18check_613faf73:
 translate french over18check_3b065084:
 
     # rj "Then you can't play, sorry."
-    rj "Dans ce cas, tu peux pas jouer, désolé."
+    rj "Dans ce cas, tu ne peux pas jouer, désolé."
 
 # game/script.rpy:166
 translate french over18check_828f04ed:
@@ -46,7 +46,7 @@ translate french strings:
 
     # game/script.rpy:3
     old "What is your name?"
-    new "Comment tu t'appelles ?"
+    new "Comment t'appelles-tu ?"
 
     # game/script.rpy:157
     old "I'm over 18"
