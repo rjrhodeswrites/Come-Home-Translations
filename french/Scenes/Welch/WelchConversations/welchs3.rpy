@@ -10,7 +10,7 @@ translate french welchs3_b204bfc7:
 translate french welchs3_8cb4d2f0:
 
     # sst "I really try not to. It could affect my job and I really love my job."
-    sst "J'essaie vraiment de ne pas le faire. Ça pourrait affecter mon travail et j'adore vraiment mon travail."
+    sst "J'essaie vraiment de ne pas me faire arrêter. Ça pourrait affecter mon travail et j'adore vraiment mon travail."
 
 # game/Scenes/Welch/WelchConversations/welchs3.rpy:18
 translate french welchs3_c9aeded0:
