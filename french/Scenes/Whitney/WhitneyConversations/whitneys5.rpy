@@ -76,7 +76,7 @@ translate french whitneys5_afda4767:
 translate french whitneys5_cd47a419:
 
     # wt "I took care of that goldfish until it died of natural causes and afterwards I told myself that I would not get another pet."
-    wt "Je me suis occupé de ce poisson rouge jusqu'à ce qu'il meure de causes naturelles, et après ça, je me suis dit que je ne prendrais plus d'animal de compagnie."
+    wt "Je me suis occupée de ce poisson rouge jusqu'à ce qu'il meure de causes naturelles, et après ça, je me suis dit que je ne prendrais plus d'animal de compagnie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys5.rpy:35
 translate french whitneys5_28d808e3:
