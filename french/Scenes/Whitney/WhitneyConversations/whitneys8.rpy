@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:14
 translate french whitneys8_c4281aad:
@@ -10,7 +10,7 @@ translate french whitneys8_c4281aad:
 translate french whitneys8_7486e142:
 
     # pc "Why not?"
-    pc "Pourquoi pas ?"
+    pc "Pourquoi ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:17
 translate french whitneys8_75226b8d:
@@ -34,13 +34,13 @@ translate french whitneys8_0b9382d4:
 translate french whitneys8_7ab6ca1f:
 
     # wt "We spoke on the phone some when I lived with my abba. He tries to make me talk to them."
-    wt "On s'est un peu parlé au téléphone quand je vivais avec mon abba. Il essaie de me faire parler avec eux."
+    wt "On s'est un peu parlé au téléphone quand je vivais avec mon Abba. Il essaie de me faire parler avec eux."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:24
 translate french whitneys8_dd22a36e:
 
     # wt "But they do not speak English and most of our conversations revolve around them telling me how bad my Urdu is."
-    wt "Mais ils ne parlent pas anglais et la plupart de nos conversations tournent autour du fait qu’ils me disent à quel point mon ourdou est mauvais."
+    wt "Mais ils ne parlent pas anglais, et la plupart du temps, ils passent la conversation à me dire à quel point mon ourdou est mauvais."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:25
 translate french whitneys8_04de268b:
@@ -58,7 +58,7 @@ translate french whitneys8_a2e8f856:
 translate french whitneys8_27721dbf:
 
     # wt "Or she's talking about religion. I have no interest in having {i}that{/i} conversation at all."
-    wt "Ou encore elle parle de religion. Je n’ai absolument aucun intérêt à avoir {i}cette{/i} conversation."
+    wt "Ou encore elle parle de religion. Je n’ai absolument aucune envie d’avoir {i}cette{/i} conversation."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:30
 translate french whitneys8_099e0336:
@@ -76,23 +76,22 @@ translate french whitneys8_fda75b03:
 translate french whitneys8_1565bc86:
 
     # wt "I guess. I've never had a real relationship with them to be sad about losing."
-    wt "Je suppose. Je n'ai jamais eu de véritable relation avec eux qui me rende triste de les avoir perdus."
+    wt "Je suppose. Mais je n'ai jamais vraiment eu de lien avec eux, alors je ne peux pas être triste de l'avoir perdu."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:35
 translate french whitneys8_9eb63709:
 
     # wt "I love my abba and my brother, but I have other things in my life."
-    wt "J'aime mon abba et mon frère, mais j'ai d'autres choses dans ma vie."
+    wt "J'aime mon Abba et mon frère, mais j'ai d'autres choses dans ma vie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:37
 translate french whitneys8_7ab0a1dc:
 
     # wt "Family is not as important to me as it is to some other people."
-    wt "La famille n'est pas aussi importante pour moi qu'elle l'est pour certaines autres personnes."
+    wt "La famille n'est pas aussi importante pour moi que pour d'autres personnes."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys8.rpy:39
 translate french whitneys8_05bbc0e7:
 
     # wt "I am happy alone."
     wt "Je suis heureuse toute seule."
-
