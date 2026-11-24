@@ -10,7 +10,7 @@ translate french whitneycunnilingus_42c148b0:
 translate french whitneycunnilingus_e82bf66a:
 
     # wt "You want to put your mouth on me? Are you sure?"
-    wt "Tu veux me prendre dans ta bouche ? T'es sûre ?"
+    wt "Tu veux poser ta bouche sur moi ? T'es sûr ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:16
 translate french whitneycunnilingus_2951ed74:
@@ -124,7 +124,7 @@ translate french whitneycunnilingus_76830f7f:
 translate french whitneycunnilingus_92534358:
 
     # wt "I don't think I've ever felt anything so good down there."
-    wt "Je ne crois pas avoir jamais ressenti quelque chose d’aussi bon là en bas."
+    wt "Je ne crois pas avoir jamais ressenti quelque chose d’aussi bon là."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:48
 translate french whitneycunnilingus_7fd31cde:
@@ -184,7 +184,7 @@ translate french whitneycunnilingus_4a87a30f:
 translate french whitneycunnilingus_b126ab05:
 
     # wt "I have never had an orgasm like that before. Not even close."
-    wt "Je n'ai jamais eu un orgasme comme ça avant. Même pas proche."
+    wt "Je n'ai jamais eu un orgasme comme ça avant. Et de loin ..."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:66
 translate french whitneycunnilingus_228fef76:
@@ -202,13 +202,13 @@ translate french whitneycunnilingus_0feea2b9:
 translate french whitneycunnilingus_212cbb08:
 
     # wt "It wasn't bad down there?"
-    wt "C'était pas mal là en bas ?"
+    wt "C'était pas désagréable à cet endroit là ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:73
 translate french whitneycunnilingus_dbb45450:
 
     # pc "Not at all. You're gorgeous. Your pussy is amazing."
-    pc "Pas du tout. T'es magnifique. Ta chatte est incroyable."
+    pc "Pas du tout. T'es magnifique. Ta chatte est divine."
 
 # game/Scenes/Whitney/WhitneySex/whitneycunnilingus.rpy:74
 translate french whitneycunnilingus_a14b050a:

@@ -58,7 +58,7 @@ translate french whitneyblowjob_1c709216:
 translate french whitneyblowjob_125459c0:
 
     # "She takes it a bit into her mouth, stroking with one hand while she sucks."
-    "Elle l'enfonce un peu dans sa bouche, le caressant d'une main pendant qu'elle le suce."
+    "Elle l'enfonce un peu dans sa bouche, la caressant d'une main pendant qu'elle la suce."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:32
 translate french whitneyblowjob_c6827667:
@@ -88,7 +88,7 @@ translate french whitneyblowjob_6e39faab:
 translate french whitneyblowjob_bacfa32d:
 
     # "She continues stroking me as she moves, and even though she's not going very deep, it feels incredible."
-    "Elle continue à me caresser tout en bougeant, et même si elle ne va pas très loin, c’est incroyablement bon."
+    "Elle continue à me caresser tout en bougeant et, même si elle ne va pas très loin, c’est incroyablement bon."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:42
 translate french whitneyblowjob_76c99ec6:
@@ -100,7 +100,7 @@ translate french whitneyblowjob_76c99ec6:
 translate french whitneyblowjob_51ce1057:
 
     # pc "If you keep going like that, I'm definitely going to cum."
-    pc "Si tu continues comme ça, je vais carrément jouir."
+    pc "Si tu continues comme ça, je vais vraiment jouir."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:45
 translate french whitneyblowjob_ce09b365:
@@ -136,7 +136,7 @@ translate french whitneyblowjob_ced3af66:
 translate french whitneyblowjob_b5173ffb:
 
     # "She goes back to sucking, and it doesn't take long before I feel like I'm close."
-    "Elle recommence à me sucer, et ça ne tarde pas avant que je sente que j’y suis presque."
+    "Elle recommence à me sucer et ça ne tarde pas avant que je sente que j’y suis presque."
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:53
 translate french whitneyblowjob_537c0368:
@@ -214,7 +214,7 @@ translate french whitneyblowjob_7f97f41d:
 translate french whitneyblowjob_0e693f93:
 
     # wt "Ha, I'm sorry. I assumed you enjoyed it?"
-    wt "Ha, je suis désolée. J’ai supposé que tu avais aimé ?"
+    wt "Ha, je suis désolée. Je suppose que tu as aimé ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:78
 translate french whitneyblowjob_91920297:
@@ -232,7 +232,7 @@ translate french whitneyblowjob_15c2ea7f:
 translate french whitneyblowjob_6e720ae7:
 
     # pc "But you don't want me to do anything for you?"
-    pc "Mais tu ne veux pas que je fasse quoi que ce soit pour toi ?"
+    pc "Mais tu ne veux pas que je fasse quelque chose pour toi ?"
 
 # game/Scenes/Whitney/WhitneySex/whitneyblowjob.rpy:81
 translate french whitneyblowjob_d412aefd:

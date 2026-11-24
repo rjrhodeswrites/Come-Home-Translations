@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/whitney7.rpy:11
 translate french whitney7_ad10b90b:
@@ -22,13 +22,13 @@ translate french whitney7_bea5e8cb:
 translate french whitney7_4a60db83:
 
     # wt "Hi, this is Whitney. Are you free to meet me somewhere right now?"
-    wt "Salut, c'est Whitney. Tu es libre de me retrouver quelque part tout de suite ?"
+    wt "Bonjour, c'est Whitney. Vous êtes libre pour me retrouver quelque part tout de suite ?"
 
 # game/Scenes/Whitney/whitney7.rpy:16
 translate french whitney7_69634ee1:
 
     # "Whitney!? The girl from my dad's laptop?"
-    "Whitney !? La fille de l'ordi de mon père ?"
+    "Whitney !? La fille de l'ordinateur de mon père ?"
 
 # game/Scenes/Whitney/whitney7.rpy:17
 translate french whitney7_211b830a:
@@ -40,19 +40,19 @@ translate french whitney7_211b830a:
 translate french whitney7_79a8dcaf:
 
     # pc "I can do that. Where should we meet?"
-    pc "Je peux faire ça. Où on se retrouve ?"
+    pc "Oui, je peux. Où est-ce qu'on se retrouve ?"
 
 # game/Scenes/Whitney/whitney7.rpy:19
 translate french whitney7_79b31320:
 
     # wt "Do you know Herman Park, down on Pecan Street?"
-    wt "Tu connais Herman Park, sur Pecan Street ?"
+    wt "Vous connaissez Herman Park, sur Pecan Street ?"
 
 # game/Scenes/Whitney/whitney7.rpy:20
 translate french whitney7_8f37db32:
 
     # pc "Yeah, I know it."
-    pc "Ouais, je le connais."
+    pc "Ouais, je connais."
 
 # game/Scenes/Whitney/whitney7.rpy:21
 translate french whitney7_5cd14d0f:
@@ -64,7 +64,7 @@ translate french whitney7_5cd14d0f:
 translate french whitney7_b4f0dd46:
 
     # pc "How will I know it's you?"
-    pc "Comment je saurai que c'est toi ?"
+    pc "Comment je saurai que c'est vous ?"
 
 # game/Scenes/Whitney/whitney7.rpy:23
 translate french whitney7_ff11c902:
@@ -82,13 +82,13 @@ translate french whitney7_ecb46f26:
 translate french whitney7_6711737d:
 
     # wt "See you then."
-    wt "À tout à l'heure."
+    wt "À tout de suite."
 
 # game/Scenes/Whitney/whitney7.rpy:26
 translate french whitney7_9952d847:
 
     # "I hang up the phone and start towards the park."
-    "Je raccroche le téléphone et me dirige vers le parc."
+    "Je raccroche et me dirige vers le parc."
 
 # game/Scenes/Whitney/whitney7.rpy:29
 translate french whitney7_d040c5de:
@@ -112,13 +112,13 @@ translate french whitney7_d80c069c:
 translate french whitney7_8a04cf58:
 
     # pc "Yes. Hi. Please tell me where my dad is."
-    pc "Oui. Salut. S’il te plaît, dis-moi où est mon père."
+    pc "Oui. Bonjour. S’il vous plaît, dites-moi où est mon père."
 
 # game/Scenes/Whitney/whitney7.rpy:37
 translate french whitney7_260be885:
 
     # wt "Sit down and catch your breath. This is going to be a long story."
-    wt "Assieds-toi et reprends ton souffle. Ça va être une longue histoire."
+    wt "Asseyez-vous et reprenez votre souffle. Ça va être une longue histoire."
 
 # game/Scenes/Whitney/whitney7.rpy:40
 translate french whitney7_cd3bff2c:
@@ -130,13 +130,13 @@ translate french whitney7_cd3bff2c:
 translate french whitney7_94d5474a:
 
     # wt "Okay. I'm going to talk for a while. Don't interrupt me please. This is hard enough to explain without having to break it into parts."
-    wt "Bon. Je vais parler un moment. Ne m’interromps pas, s’il te plaît. C’est déjà assez difficile à expliquer sans avoir à le découper en plusieurs parties."
+    wt "Bon. Je vais parler un moment. Ne m’interrompez pas, s’il vous plaît. C’est déjà assez difficile à expliquer sans avoir à le découper en plusieurs parties."
 
 # game/Scenes/Whitney/whitney7.rpy:42
 translate french whitney7_8597f291:
 
     # wt "I met your father on a company message board. I do some work for the same lab that he does."
-    wt "J’ai rencontré ton père sur un forum d’entreprise. Je travaille pour le même laboratoire que lui."
+    wt "J’ai rencontré votre père sur un forum d’entreprise. Je travaille un peu pour le même laboratoire que lui."
 
 # game/Scenes/Whitney/whitney7.rpy:43
 translate french whitney7_2f8f0eb4:
@@ -148,19 +148,19 @@ translate french whitney7_2f8f0eb4:
 translate french whitney7_3c45d6f7:
 
     # wt "Do you know what that is?"
-    wt "Tu sais ce que c’est ?"
+    wt "Vous savez ce que c’est ?"
 
 # game/Scenes/Whitney/whitney7.rpy:46
 translate french whitney7_35b81414:
 
     # pc "I know a bit, but it's been a while since I studied that. Could you refresh me a little?"
-    pc "J’en sais un peu, mais ça fait longtemps que je n’ai pas étudié ça. Tu pourrais me rafraîchir un peu la mémoire ?"
+    pc "J’en sais un peu, mais ça fait longtemps que je n’ai pas étudié ça. Vous pourriez me rafraîchir un peu la mémoire ?"
 
 # game/Scenes/Whitney/whitney7.rpy:48
 translate french whitney7_0b160995:
 
     # wt "Your father said that you were smart and that you were going to one of the best schools for quantum physics in the world, so I know you know what the multiverse theorem is."
-    wt "Ton père m'a dit que tu étais intelligent et que tu allais dans l'une des meilleures écoles de physique quantique au monde, donc je sais que tu sais ce qu'est le théorème du multivers."
+    wt "Votre père m'a dit que vous étiez intelligent et que vous alliez dans l'une des meilleures écoles de physique quantique au monde, donc je sais que vous savez ce qu'est le théorème du multivers."
 
 # game/Scenes/Whitney/whitney7.rpy:49
 translate french whitney7_b31eb204:
@@ -178,7 +178,7 @@ translate french whitney7_4ebcf1f8:
 translate french whitney7_84324fdb:
 
     # wt "Your father theorized it was possible to transition between universes. There are a number of problems with this theory, but he believed it was possible, and after listening to him, I believed in him."
-    wt "Ton père avait émis l’hypothèse qu’il était possible de passer d’un univers à l’autre. Cette théorie posait un certain nombre de problèmes, mais il croyait que c’était possible, et après l’avoir écouté, j’ai cru en lui."
+    wt "Votre père avait émis l’hypothèse qu’il était possible de passer d’un univers à l’autre. Cette théorie posait un certain nombre de problèmes, mais il croyait que c’était possible, et après l’avoir écouté, j’ai cru en lui."
 
 # game/Scenes/Whitney/whitney7.rpy:52
 translate french whitney7_6aba256d:
@@ -196,7 +196,7 @@ translate french whitney7_a841026f:
 translate french whitney7_2fa71a76:
 
     # wt "A little bit of both I guess. Your father was looking for a specific decision point - a point in the timeline where a choice was made. Then he was going to attempt to transition to a universe where a different decision was made."
-    wt "Un peu des deux, je suppose. Ton père cherchait un point de décision spécifique — un moment dans la ligne temporelle où un choix avait été fait. Ensuite, il allait tenter de passer dans un univers où une décision différente avait été prise."
+    wt "Un peu des deux, je suppose. Votre père cherchait un point de décision précis — un moment dans la ligne temporelle où un choix avait été fait. Ensuite, il allait tenter de passer dans un univers où une décision différente avait été prise."
 
 # game/Scenes/Whitney/whitney7.rpy:55
 translate french whitney7_42aced6a:
@@ -238,7 +238,7 @@ translate french whitney7_5153c62e:
 translate french whitney7_eaa886b5:
 
     # wt "I had no idea if it would actually work, but I followed his designs to the letter."
-    wt "Je n'avais aucune idée si ça fonctionnerait vraiment, mais j'ai suivi ses plans à la lettre."
+    wt "Je ne savais pas du tout si ça fonctionnerait vraiment, mais j'ai suivi ses plans à la lettre."
 
 # game/Scenes/Whitney/whitney7.rpy:62
 translate french whitney7_2d505b49:
@@ -256,7 +256,7 @@ translate french whitney7_8e6802e5:
 translate french whitney7_e14cd465:
 
     # wt "I only met your father in person one time. When I transferred the hoop to him."
-    wt "Je n’ai rencontré ton père en personne qu’une seule fois. Quand je lui ai remis le portail."
+    wt "Je n’ai rencontré votre père en personne qu’une seule fois. Quand je lui ai remis le portail."
 
 # game/Scenes/Whitney/whitney7.rpy:65
 translate french whitney7_42c00358:
@@ -280,13 +280,13 @@ translate french whitney7_303edcea:
 translate french whitney7_404a8ea2:
 
     # pc "Did he tell you what he wanted to change?"
-    pc "T’a-t-il dit ce qu’il voulait changer ?"
+    pc "Vous a-t-il dit ce qu’il voulait changer ?"
 
 # game/Scenes/Whitney/whitney7.rpy:70
 translate french whitney7_2d2e9b9a:
 
     # wt "I only asked him once. He said he didn't want to talk about it, so I dropped it there."
-    wt "Je ne lui ai posé la question qu’une seule fois. Il a dit qu’il ne voulait pas en parler, alors j’ai laissé tomber."
+    wt "Je ne lui ai posé la question qu’une seule fois. Il a dit qu’il ne voulait pas en parler, alors je n’ai pas insisté."
 
 # game/Scenes/Whitney/whitney7.rpy:71
 translate french whitney7_ac619f62:
@@ -310,7 +310,7 @@ translate french whitney7_239f4062:
 translate french whitney7_d8e98609:
 
     # wt "Yeah it is. But he told me that he was going to use the device, then he didn't ever message me again, and you tell me he's been missing."
-    wt "Oui, c'est vrai. Mais il m'a dit qu'il allait utiliser l'appareil, puis il ne m'a plus jamais envoyé de message, et tu me dis qu'il a disparu."
+    wt "Oui, c'est vrai. Mais il m'a dit qu'il allait utiliser l'appareil, puis il ne m'a plus jamais envoyé de message, et vous me dites qu'il a disparu."
 
 # game/Scenes/Whitney/whitney7.rpy:75
 translate french whitney7_7639e702:
@@ -328,7 +328,7 @@ translate french whitney7_18486a0d:
 translate french whitney7_24623513:
 
     # wt "You can't."
-    wt "Tu ne peux pas."
+    wt "Vous ne pouvez pas."
 
 # game/Scenes/Whitney/whitney7.rpy:78
 translate french whitney7_1942c328:
@@ -352,7 +352,7 @@ translate french whitney7_96d09a0f:
 translate french whitney7_1abdd3e7:
 
     # wt "Okay, so if we put it together logically - you'd need to find out where your father went - which universe. I could probably do that if I had the hoop."
-    wt "Bon, si on raisonne logiquement, il faudrait d’abord découvrir où ton père est parti, dans quel univers. Je pourrais probablement le faire si j’avais le cerceau."
+    wt "Bon, si on raisonne logiquement, il faudrait d’abord découvrir où votre père est parti, dans quel univers. Je pourrais probablement le faire si j’avais le cerceau."
 
 # game/Scenes/Whitney/whitney7.rpy:83
 translate french whitney7_bff5c5cb:
@@ -364,13 +364,13 @@ translate french whitney7_bff5c5cb:
 translate french whitney7_5108bacc:
 
     # wt "Then we would have to recharge the hoop. That would require some work on my part to recalibrate it and adjust it for your body chemistry."
-    wt "Ensuite, il faudrait recharger le cerceau. Ça me demanderait un peu de travail pour le recalibrer et l’adapter à ta chimie corporelle."
+    wt "Ensuite, il faudrait recharger le cerceau. Ça me demanderait un peu de travail pour le recalibrer et l’adapter à votre chimie corporelle."
 
 # game/Scenes/Whitney/whitney7.rpy:85
 translate french whitney7_faa449e4:
 
     # pc "But you could do it?"
-    pc "Mais tu pourrais le faire ?"
+    pc "Mais vous pourriez le faire ?"
 
 # game/Scenes/Whitney/whitney7.rpy:86
 translate french whitney7_010a8cef:
@@ -382,7 +382,7 @@ translate french whitney7_010a8cef:
 translate french whitney7_4a1963eb:
 
     # wt "Then we'd have to get the diamond again. The hoop I'm sure used it up when it was activated. You didn't see a big diamond in it did you?"
-    wt "Ensuite, il faudrait récupérer le diamant. Je suis sûr que le cerceau l’a épuisé quand il a été activé. Tu n’as pas vu un gros diamant dedans, n’est-ce pas ?"
+    wt "Ensuite, il faudrait se procurer un nouveau diamant. Je suis sûre que le cerceau l’a épuisé quand il a été activé. Vous n’avez pas vu un gros diamant dedans, n’est-ce pas ?"
 
 # game/Scenes/Whitney/whitney7.rpy:88
 translate french whitney7_65fe6cf3:
@@ -406,7 +406,7 @@ translate french whitney7_40a91fe5:
 translate french whitney7_2161fef8:
 
     # wt "Okay, assuming all of that was done, you could probably replicate your father's experiment. The problem is that we don't even know if his experiment worked."
-    wt "D'accord, en supposant que tout cela soit fait, tu pourrais probablement reproduire l'expérience de ton père. Le problème, c'est qu'on ne sait même pas si son expérience a fonctionné."
+    wt "D'accord, en supposant que tout cela soit fait, vous pourriez probablement reproduire l'expérience de votre père. Le problème, c'est qu'on ne sait même pas si son expérience a fonctionné."
 
 # game/Scenes/Whitney/whitney7.rpy:93
 translate french whitney7_8bb09eac:
@@ -436,25 +436,25 @@ translate french whitney7_ef3d4609:
 translate french whitney7_0113650b:
 
     # wt "So, the biggest problem is that if we did all of these things, if we replicated his experiment perfectly, if the experiment succeeds and you are able to transfer to a different universe…"
-    wt "Donc, le plus gros problème, c’est que si nous faisions tout cela, si nous reproduisions son expérience à la perfection, si l’expérience réussissait et que tu parvenais à te transférer dans un autre univers…"
+    wt "Donc, le plus gros problème, c’est que si nous faisions tout cela, si nous reproduisions son expérience à la perfection, si l’expérience réussissait et que vous parveniez à vous transférer dans un autre univers…"
 
 # game/Scenes/Whitney/whitney7.rpy:99
 translate french whitney7_b2a5f871:
 
     # wt "There is no way for you to get back."
-    wt "Tu n’aurais aucun moyen de revenir."
+    wt "Vous n’auriez aucun moyen de revenir."
 
 # game/Scenes/Whitney/whitney7.rpy:100
 translate french whitney7_ecf40c6a:
 
     # wt "It's a one-way street. You would have to somehow get a similar portal in the other universe, but there's no guarantees that the other universe will have similar matter, or that our physics will even work the same over there."
-    wt "C'est un aller simple. Il faudrait que tu trouves d'une manière ou d'une autre un portail similaire dans l'autre univers, mais rien ne garantit que cet autre univers contienne une matière similaire, ni même que nos lois physiques s'y appliquent de la même façon."
+    wt "C'est un aller simple. Il faudrait que vous trouviez d'une manière ou d'une autre un portail similaire dans l'autre univers, mais rien ne garantit que cet autre univers contienne une matière similaire, ni même que nos lois physiques s'y appliquent de la même façon."
 
 # game/Scenes/Whitney/whitney7.rpy:101
 translate french whitney7_c239bc04:
 
     # wt "Assuming your father made it, that's probably why he hasn't returned."
-    wt "En supposant que ton père ait réussi, c'est probablement pour ça qu'il n'est pas revenu."
+    wt "En supposant que votre père ait réussi, c'est probablement pour ça qu'il n'est pas revenu."
 
 # game/Scenes/Whitney/whitney7.rpy:102
 translate french whitney7_781e027b:
@@ -466,13 +466,13 @@ translate french whitney7_781e027b:
 translate french whitney7_224fa74a:
 
     # pc "Will you help me?"
-    pc "Tu vas m'aider ?"
+    pc "Vous allez m'aider ?"
 
 # game/Scenes/Whitney/whitney7.rpy:105
 translate french whitney7_1bda123d:
 
     # wt "I feel stupid for saying this, but I will. Let me do it on my own time though. It's not going to be tomorrow, and it's not going to be next week."
-    wt "Je me sens bête de dire ça, mais je le ferai. Laisse-moi le faire quand je le déciderai, par contre. Ce ne sera pas demain, et ce ne sera pas la semaine prochaine."
+    wt "Je me sens bête de dire ça, mais je le ferai. Laissez-moi le faire à mon rythme, par contre. Ce ne sera pas demain, et ce ne sera pas la semaine prochaine."
 
 # game/Scenes/Whitney/whitney7.rpy:106
 translate french whitney7_b8761f91:
@@ -490,13 +490,13 @@ translate french whitney7_cfa15d5d:
 translate french whitney7_120a4942:
 
     # wt "But I want to see if we can ensure that we'll be able to get you back. Otherwise what's the point? You'll both be missing and the cops will come knocking on my door wondering why the two of you started talking to me and then disappeared."
-    wt "Mais je veux m'assurer qu'on pourra te ramener. Sinon, à quoi ça sert ? Vous serez tous les deux portés disparus et les flics viendront frapper à ma porte pour me demander pourquoi vous avez commencé à me parler puis disparu."
+    wt "Mais je veux m'assurer qu'on pourra vous ramener. Sinon, à quoi ça sert ? Vous serez tous les deux portés disparus et les flics viendront frapper à ma porte pour me demander pourquoi vous avez commencé à me parler puis avez disparu."
 
 # game/Scenes/Whitney/whitney7.rpy:110
 translate french whitney7_f003842c:
 
     # wt "So let me run my tests. Let me try some things. I have an idea that may work, but it's going to take time."
-    wt "Alors laisse-moi faire mes tests. Laisse-moi essayer certaines choses. J'ai une idée qui pourrait marcher, mais ça va prendre du temps."
+    wt "Alors laissez-moi faire mes tests. Laissez-moi essayer certaines choses. J'ai une idée qui pourrait marcher, mais ça va prendre du temps."
 
 # game/Scenes/Whitney/whitney7.rpy:111
 translate french whitney7_eb4a0612:
@@ -562,7 +562,7 @@ translate french whitney7_61f77a4c:
 translate french whitney7_a1f75e3a:
 
     # wt "Did I surprise you with the wheelchair?"
-    wt "Je t'ai surpris avec le fauteuil roulant ?"
+    wt "Je vous ai surpris avec le fauteuil roulant ?"
 
 # game/Scenes/Whitney/whitney7.rpy:129
 translate french whitney7_4db958a5:
@@ -574,19 +574,19 @@ translate french whitney7_4db958a5:
 translate french whitney7_6b8b0fba:
 
     # wt "Yeah I did. You were surprised. It's okay."
-    wt "Si, je t'ai surpris. C'est pas grave."
+    wt "Si, je vous ai surpris. Ce n'est pas grave."
 
 # game/Scenes/Whitney/whitney7.rpy:131
 translate french whitney7_c5361874:
 
     # pc "Okay maybe a little. I just didn't see it."
-    pc "D'accord, peut-être un peu. Je l'avais juste pas vu."
+    pc "D'accord, peut-être un peu. Je ne l'avais juste pas vu."
 
 # game/Scenes/Whitney/whitney7.rpy:132
 translate french whitney7_e81b25fb:
 
     # wt "I've been in it most of my life. I was eight and they found a tumor on my spine. They removed it, but paralyzed me from the waist down."
-    wt "J'y suis depuis presque toujours. J'avais huit ans quand ils ont trouvé une tumeur sur ma colonne vertébrale. Ils l'ont enlevée, mais ça m'a paralysé à partir de la taille."
+    wt "J'y suis depuis presque toute ma vie. J'avais huit ans quand ils ont trouvé une tumeur sur ma colonne vertébrale. Ils l'ont enlevée, mais ça m'a paralysée à partir de la taille."
 
 # game/Scenes/Whitney/whitney7.rpy:133
 translate french whitney7_e421b9e3:
@@ -610,13 +610,13 @@ translate french whitney7_49d907e6:
 translate french whitney7_b0adf572:
 
     # pc "Do you uh… need any help?"
-    pc "Tu as… besoin d'aide ?"
+    pc "Vous avez… besoin d'aide ?"
 
 # game/Scenes/Whitney/whitney7.rpy:141
 translate french whitney7_011c0b6c:
 
     # wt "I know you're just trying to be nice, but no. I'm fine. I do all of this on my own every day."
-    wt "Je sais que tu essaies juste d'être sympa, mais non. Ça va. Je fais tout ça toute seule tous les jours."
+    wt "Je sais que vous essayez juste d'être sympa, mais non. Ça va. Je fais tout ça toute seule tous les jours."
 
 # game/Scenes/Whitney/whitney7.rpy:142
 translate french whitney7_9cb59423:
@@ -640,7 +640,7 @@ translate french whitney7_bc490b82:
 translate french whitney7_2a8c5206:
 
     # "I have no idea how she drives the thing - must be hand controls somehow - but she had told me to leave, so I leave."
-    "Je n'ai aucune idée de comment elle conduit ce truc – ça doit être avec des commandes manuelles d'une manière ou d'une autre – mais elle m'avait dit de partir, alors je pars."
+    "Je n'ai aucune idée de la façon dont elle conduit ce truc – ça doit être avec des commandes manuelles d'une manière ou d'une autre – mais elle m'avait dit de partir, alors je pars."
 
 # game/Scenes/Whitney/whitney7.rpy:150
 translate french whitney7_2195d649:
@@ -674,7 +674,7 @@ translate french strings:
 
     # game/Scenes/Whitney/whitney7.rpy:3
     old "she will call you in the morning on the weekend."
-    new "elle t'appellera le matin du week-end."
+    new "elle vous appellera un matin, le week-end."
 
     # game/Scenes/Whitney/whitney7.rpy:152
     old "She was cute too..."

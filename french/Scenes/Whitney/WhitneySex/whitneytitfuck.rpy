@@ -58,13 +58,13 @@ translate french whitneytitfuck_4cda9bfa:
 translate french whitneytitfuck_472e58c1:
 
     # wt "It's fun too. I don't usually like my breasts. They tend to be more of a nuisance than anything."
-    wt "C'est marrant aussi. D'habitude, je n'aime pas mes seins. Ils sont plus une nuisance qu'autre chose."
+    wt "C'est marrant aussi. D'habitude, je n'aime pas mes seins. Ils sont plus une gène qu'autre chose."
 
 # game/Scenes/Whitney/WhitneySex/whitneytitfuck.rpy:37
 translate french whitneytitfuck_512b37a9:
 
     # wt "But I am enjoying this."
-    wt "Mais là, j'apprécie ça."
+    wt "Mais là, j'aime ça."
 
 # game/Scenes/Whitney/WhitneySex/whitneytitfuck.rpy:42
 translate french whitneytitfuck_13208d63:
@@ -118,5 +118,5 @@ translate french whitneytitfuck_3eb6e8ce:
 translate french whitneytitfuck_fa9a3b99:
 
     # wt "I'm glad. That was fun. I enjoyed it too."
-    wt "Je suis contente. C'était amusant. J'ai apprécié aussi."
+    wt "Je suis contente. C'était amusant. J'ai aimé aussi."
 
