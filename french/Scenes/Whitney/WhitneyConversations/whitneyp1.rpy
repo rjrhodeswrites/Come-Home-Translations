@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:12
 translate french whitneyp1_bf449e7e:
@@ -22,7 +22,7 @@ translate french whitneyp1_2c1a5690:
 translate french whitneyp1_6aa82862:
 
     # pc "I wasn't sure, because you look my age, but you sound and act like you're older. More mature."
-    pc "Je n'étais pas sûr, parce que tu as l'air d'avoir mon âge, mais tu parles et tu agis comme si tu étais plus âgée. Plus mature."
+    pc "Je n'étais pas sûr, parce que vous avez l'air d'avoir mon âge, mais vous parlez et vous agissez comme si vous étiez plus âgée. Plus mature."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:18
 translate french whitneyp1_a239d5d7:
@@ -58,7 +58,7 @@ translate french whitneyp1_27ce3f09:
 translate french whitneyp1_111a6060:
 
     # pc "Well, you're young. You have plenty of time."
-    pc "Eh bien, tu es jeune. Tu as tout le temps devant toi."
+    pc "Eh bien, vous êtes jeune. Vous avez tout le temps devant vous."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:27
 translate french whitneyp1_0b182abd:
@@ -70,13 +70,13 @@ translate french whitneyp1_0b182abd:
 translate french whitneyp1_3336e78d:
 
     # pc "I'm sure you will. Look at all the things that you've done already."
-    pc "Je suis sûr que tu y arriveras. Regarde tout ce que tu as déjà accompli."
+    pc "Je suis sûr que vous y arriverez. Regardez tout ce que vous avez déjà accompli."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:30
 translate french whitneyp1_05d9f799:
 
     # wt "Nothing that's going to help people, I don't think."
-    wt "Rien qui va aider les gens, je ne pense pas."
+    wt "Rien qui aidera vraiment les gens, je crois."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:31
 translate french whitneyp1_337cb7fb:
@@ -94,17 +94,16 @@ translate french whitneyp1_2bb0add7:
 translate french whitneyp1_612aa8d6:
 
     # pc "I'm glad you're on the side of good. A mind like yours could definitely do some harm if you were on the side of evil."
-    pc "Je suis content que tu sois du côté du bien. Un esprit comme le tien pourrait certainement faire du mal si tu étais du côté du mal."
+    pc "Je suis content que vous soyez du côté du bien. Un esprit comme le vôtre pourrait certainement faire du mal si vous étiez du côté du mal."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:36
 translate french whitneyp1_54860455:
 
     # wt "I don't know about good and evil, but I understand what you're saying."
-    wt "Je ne sais pas grand-chose du bien et du mal, mais je comprends ce que tu veux dire."
+    wt "Le bien et le mal, je ne sais pas trop, mais je comprends ce que vous voulez dire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp1.rpy:38
 translate french whitneyp1_83cd531c:
 
     # wt "I'm only trying to help people now."
     wt "J'essaie seulement d'aider les gens maintenant."
-
