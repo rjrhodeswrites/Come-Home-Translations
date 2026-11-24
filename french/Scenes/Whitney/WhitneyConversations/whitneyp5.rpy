@@ -94,7 +94,7 @@ translate french whitneyp5_bfd42d1e:
 translate french whitneyp5_bf14b6c8:
 
     # wt "Would you like me to instead divert my time towards making a sex toy that has feelings?"
-    wt "Préféreriez-vous que je consacre plutôt mon temps à créer un sextoy doté de sentiments ?"
+    wt "Préférerais-tu que je consacre plutôt mon temps à créer un sextoy doté de sentiments ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp5.rpy:37
 translate french whitneyp5_b5702645:
