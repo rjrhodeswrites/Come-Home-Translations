@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys4.rpy:14
 translate french whitneys4_defcba4a:
 
     # wt "I do wheelies."
-    wt "Je fais des wheelies."
+    wt "Je fais du wheeling."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys4.rpy:15
 translate french whitneys4_3d9d2141:
@@ -34,7 +34,7 @@ translate french whitneys4_5c5e1161:
 translate french whitneys4_c10ddf8e:
 
     # wt "Sometimes I'll take a couple of days off from working on whatever project is currently occupying my time and learn something new."
-    wt "Parfois, je prends quelques jours de congé pour m'éloigner du projet qui m'occupe le plus en ce moment et j'apprends quelque chose de nouveau."
+    wt "Parfois, je mets de côté pendant quelques jours le projet qui m'occupe en ce moment et j'apprends quelque chose de nouveau."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys4.rpy:23
 translate french whitneys4_a77b4e4c:
@@ -89,4 +89,3 @@ translate french whitneys4_228fef76:
 
     # wt "Thank you."
     wt "Merci."
-
