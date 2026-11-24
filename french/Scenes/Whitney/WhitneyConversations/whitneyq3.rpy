@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:12
 translate french whitneyq3_3d52a2fa:
@@ -10,13 +10,13 @@ translate french whitneyq3_3d52a2fa:
 translate french whitneyq3_93fc5acb:
 
     # wt "Oh? Anything serious? Monogamous?"
-    wt "Oh ? Quelque chose de sérieux ? En couple ?"
+    wt "Oh ? Quelque chose de sérieux ? Exclusif ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:18
 translate french whitneyq3_b4a723c0:
 
     # wt "So what are we doing then?"
-    wt "Alors, qu'est-ce qu'on fait, dans ce cas ?"
+    wt "Alors, qu'est-ce qu'on fait, nous deux ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:19
 translate french whitneyq3_cd06bb32:
@@ -40,7 +40,7 @@ translate french whitneyq3_311df1a4:
 translate french whitneyq3_666983e3:
 
     # wt "Silly me."
-    wt "Je suis bête."
+    wt "Que je suis bête."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:24
 translate french whitneyq3_6f132b13:
@@ -64,7 +64,7 @@ translate french whitneyq3_291ca041:
 translate french whitneyq3_a32a7e44:
 
     # wt "And I'm on that field too?"
-    wt "Et je suis dans le même cas de figure ?"
+    wt "Et moi aussi, je fais partie des fleurs que tu butines ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:35
 translate french whitneyq3_76d673a0:
@@ -100,7 +100,7 @@ translate french whitneyq3_4117d5f5:
 translate french whitneyq3_b4a723c0_1:
 
     # wt "So what are we doing then?"
-    wt "Alors, qu'est-ce qu'on fait ?"
+    wt "Alors, qu'est-ce qu'on fait, nous deux ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:44
 translate french whitneyq3_cd06bb32_1:
@@ -124,7 +124,7 @@ translate french whitneyq3_311df1a4_1:
 translate french whitneyq3_666983e3_1:
 
     # wt "Silly me."
-    wt "Je suis bête."
+    wt "Que je suis bête."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:49
 translate french whitneyq3_6f132b13_1:
@@ -160,7 +160,7 @@ translate french whitneyq3_344acd31:
 translate french whitneyq3_1d036974:
 
     # wt "Oh. I'll be honest, I find that a bit off-putting."
-    wt "Oh. Je vais être honnête, je trouve ça un peu rebutant."
+    wt "Oh. Je vais être honnête, ça me refroidit un peu."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq3.rpy:60
 translate french whitneyq3_eb7028b4:
@@ -202,7 +202,7 @@ translate french whitneyq3_ef5cf0b7:
 translate french whitneyq3_831e20ae:
 
     # wt "I do think you're sweet though."
-    wt "Je te trouve quand même gentil, par contre."
+    wt "Mais je te trouve gentil, quand même."
 
 translate french strings:
 
