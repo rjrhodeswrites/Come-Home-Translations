@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:14
 translate french whitneys7_61555687:
 
     # wt "Not at all."
-    wt "De rien."
+    wt "Pas du tout."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:15
 translate french whitneys7_ae546df9:
@@ -76,7 +76,7 @@ translate french whitneys7_06529d8d:
 translate french whitneys7_b499fdd7:
 
     # pc "I hope that those projects do help the world eventually, then."
-    pc "J'espère donc que ces projets finiront par aider le monde."
+    pc "Alors j'espère que ces projets finiront vraiment par aider le monde."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:35
 translate french whitneys7_82d6ff18:
@@ -88,13 +88,13 @@ translate french whitneys7_82d6ff18:
 translate french whitneys7_08a9d3a9:
 
     # pc "Have they? What have you done?"
-    pc "C'est le cas ? Qu'as-tu fait ?"
+    pc "C'est le cas ? Qu'est-ce que tu as fait ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:38
 translate french whitneys7_35066eb3:
 
     # wt "I'm not permitted to talk about them specifically, but yes, I have made some contributions that are already helping the world and I will continue to do so."
-    wt "Je ne suis pas autorisé à en parler en détail, mais oui, j'ai apporté des contributions qui aident déjà le monde et je continuerai à le faire."
+    wt "Je ne suis pas autorisée à en parler en détail, mais oui, j'ai apporté des contributions qui aident déjà le monde et je continuerai à le faire."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys7.rpy:39
 translate french whitneys7_e9937d74:
@@ -107,4 +107,3 @@ translate french whitneys7_b69744ce:
 
     # wt "Maybe one day."
     wt "Peut-être un jour."
-
