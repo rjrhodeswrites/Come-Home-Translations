@@ -72,7 +72,7 @@ translate french strings:
 
     # game/Screens/screens.rpy:355
     old "End Replay"
-    new "Fin du replay"
+    new "Fin de la séquence"
 
     # game/Screens/screens.rpy:359
     old "Main Menu"
