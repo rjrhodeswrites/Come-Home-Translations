@@ -154,7 +154,7 @@ translate french whitneydatesetup_2ed5d9df_2:
 translate french whitneydatesetup_45312a13_3:
 
     # wt "Oh yeah. I'm glad you decided to ask me."
-    wt "Oh oui. Je suis content que tu aies décidé de m'inviter."
+    wt "Oh oui. Je suis contente que tu aies décidé de m'inviter."
 
 # game/Scenes/Whitney/WhitneyPhone/whitneyphone.rpy:84
 translate french whitneydatesetup_f332e412_3:
@@ -184,7 +184,7 @@ translate french whitneydatesetup_2ed5d9df_3:
 translate french whitneydatesetup_2013db20:
 
     # wt "Oh, feeling fancy today, huh?"
-    wt "Oh, tu te sens chic aujourd'hui, hein ?"
+    wt "Oh, tu as envie d'être chic aujourd'hui, hein ?"
 
 # game/Scenes/Whitney/WhitneyPhone/whitneyphone.rpy:92
 translate french whitneydatesetup_57292fe6:
@@ -208,7 +208,7 @@ translate french whitneydatesetup_2ed5d9df_4:
 translate french whitneydatesetup_2013db20_1:
 
     # wt "Oh, feeling fancy today, huh?"
-    wt "Oh, tu te sens chic aujourd'hui, hein ?"
+    wt "Oh, tu as envie d'être chic aujourd'hui, hein ?"
 
 # game/Scenes/Whitney/WhitneyPhone/whitneyphone.rpy:99
 translate french whitneydatesetup_57292fe6_1:
@@ -232,7 +232,7 @@ translate french whitneydatesetup_2ed5d9df_5:
 translate french whitneydatesetup_2013db20_2:
 
     # wt "Oh, feeling fancy today, huh?"
-    wt "Oh, tu te sens chic aujourd'hui, hein ?"
+    wt "Oh, tu as envie d'être chic aujourd'hui, hein ?"
 
 # game/Scenes/Whitney/WhitneyPhone/whitneyphone.rpy:106
 translate french whitneydatesetup_57292fe6_2:
@@ -412,7 +412,7 @@ translate french whitneydatesetup_287398ac_3:
 translate french whitneydatesetup_92e8cd64_3:
 
     # wt "That sounds wonderful."
-    wt "Ça me dit bien."
+    wt "Ça a l’air merveilleux."
 
 # game/Scenes/Whitney/WhitneyPhone/whitneyphone.rpy:152
 translate french whitneydatesetup_e6aaa7bd_3:
