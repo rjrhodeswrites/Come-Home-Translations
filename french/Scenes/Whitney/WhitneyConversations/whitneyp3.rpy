@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:12
 translate french whitneyp3_72fff9f6:
@@ -10,7 +10,7 @@ translate french whitneyp3_72fff9f6:
 translate french whitneyp3_51c77b80:
 
     # pc "Sorry. I didn't mean to be insensitive. I just want to learn more about you."
-    pc "Désolé. Je ne voulais pas être insensible. Je veux juste en savoir plus sur toi."
+    pc "Désolé. Je ne voulais pas être insensible. Je veux juste en savoir plus sur vous."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:15
 translate french whitneyp3_34b95502:
@@ -40,19 +40,19 @@ translate french whitneyp3_01b03b34:
 translate french whitneyp3_9c1a857a:
 
     # wt "But often people see me struggling and want to help and end up rushing me, which just makes me feel worse."
-    wt "Mais souvent, les gens me voient galérer et veulent m'aider, et finissent par me presser, ce qui ne fait qu'empirer les choses."
+    wt "Mais souvent, les gens me voient galérer, veulent m'aider et finissent par me presser, ce qui me met encore plus mal à l'aise."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:22
 translate french whitneyp3_1ccc9d1c:
 
     # pc "So if I see you struggling, I shouldn't try to help?"
-    pc "Donc si je te vois galérer, je ne devrais pas essayer de t'aider ?"
+    pc "Donc si je vous vois galérer, je ne devrais pas essayer de vous aider ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:24
 translate french whitneyp3_f12c8f1b:
 
     # wt "Not unless I ask, please."
-    wt "Sauf si je te le demande, s'il te plaît."
+    wt "Sauf si je vous le demande, s'il vous plaît."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:25
 translate french whitneyp3_df2e120b:
@@ -70,7 +70,7 @@ translate french whitneyp3_510d21ae:
 translate french whitneyp3_8dcfb75c:
 
     # wt "So it may look like I need help, but I promise I don't."
-    wt "Alors j’ai peut-être l’air d’avoir besoin d’aide, mais je te promets que ce n’est pas le cas."
+    wt "Alors j’ai peut-être l’air d’avoir besoin d’aide, mais je vous promets que ce n’est pas le cas."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:29
 translate french whitneyp3_ee4a5370:
@@ -82,7 +82,7 @@ translate french whitneyp3_ee4a5370:
 translate french whitneyp3_b163a498:
 
     # pc "Okay. I don't mind helping though."
-    pc "D’accord. Ça ne me dérange pas de t’aider quand même."
+    pc "D’accord. Ça ne me dérange pas de vous aider, pourtant."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:31
 translate french whitneyp3_b843b534:
@@ -106,7 +106,7 @@ translate french whitneyp3_c5e562fd:
 translate french whitneyp3_a2da784a:
 
     # wt "But worse is the people who treat you different - like you're a child."
-    wt "Mais le pire, ce sont les gens qui te traitent différemment – comme si tu étais un enfant."
+    wt "Mais le pire, ce sont les gens qui vous traitent différemment – comme si vous étiez un enfant."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:36
 translate french whitneyp3_d6bfe391:
@@ -118,7 +118,7 @@ translate french whitneyp3_d6bfe391:
 translate french whitneyp3_3c3812c2:
 
     # wt "It is. But generally, people are just trying to be friendly. It just confuses them when they interact with a disabled person."
-    wt "Ça l’est. Mais en général, les gens essaient juste d’être aimables. Ça les déconcerte simplement quand ils interagissent avec une personne handicapée."
+    wt "Ça l’est. Mais en général, les gens essaient juste d’être aimables. Ils sont simplement déstabilisés face à une personne handicapée."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyp3.rpy:39
 translate french whitneyp3_d1f94eba:
