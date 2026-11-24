@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:14
 translate french whitneys9_5d131cfa:
@@ -64,7 +64,7 @@ translate french whitneys9_de0153a9:
 translate french whitneys9_35497163:
 
     # wt "I'm glad to have solved that question."
-    wt "Je suis content d'avoir résolu cette question."
+    wt "Je suis contente d'avoir réglé cette question."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys9.rpy:33
 translate french whitneys9_d7daf6b1:
@@ -100,5 +100,4 @@ translate french whitneys9_adf722a1:
 translate french whitneys9_1f1b91a6:
 
     # wt "Sure, I would like that. I'd be happy to try any new foods with you."
-    wt "Bien sûr, ça me ferait plaisir. Je serais ravi d’essayer de nouveaux plats avec toi."
-
+    wt "Bien sûr, ça me ferait plaisir. Je serais ravie d’essayer de nouveaux plats avec toi."
