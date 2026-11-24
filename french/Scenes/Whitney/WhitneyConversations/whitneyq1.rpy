@@ -22,13 +22,13 @@ translate french whitneyq1_847f8a3e:
 translate french whitneyq1_a026c59b:
 
     # pc "So we did everything together. We would go on little trips, vacations, see all the things we could."
-    pc "Alors on faisait tout ensemble. On partait en petite escapade, en vacances, on découvrait tout ce qu’on pouvait."
+    pc "Alors on faisait tout ensemble. On partait en ballades, en vacances, on découvrait tout ce qu’on pouvait."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:17
 translate french whitneyq1_ab7a70cd:
 
     # pc "We'd work on the car together, play Nintendo together, shoot pool, build stuff... everything."
-    pc "On bricolait la voiture ensemble, on jouait à la Nintendo ensemble, on jouait au billard, on construisait des trucs… tout."
+    pc "On bricolait la voiture, on jouait à la Nintendo ensemble, on jouait au billard, on construisait des trucs… tout."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:18
 translate french whitneyq1_d4d550f0:
@@ -82,13 +82,13 @@ translate french whitneyq1_2ab75d25:
 translate french whitneyq1_4ebfb2c5:
 
     # pc "But at the time, I felt abandoned. First by Mom. Then by him."
-    pc "Mais à l’époque, je me suis sentie abandonnée. D’abord par maman. Puis par lui."
+    pc "Mais à l’époque, je me suis sentie abandonné. D’abord par Maman. Puis par lui."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:30
 translate french whitneyq1_be2f5876:
 
     # pc "And I left before we figured things out. And now he's gone."
-    pc "Et je suis partie avant qu’on ait pu régler les choses. Et maintenant, il est parti."
+    pc "Et je suis partie avant qu’on ait pu régler les choses. Et maintenant, il n'est plus là."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq1.rpy:31
 translate french whitneyq1_cbbd9e6e:
