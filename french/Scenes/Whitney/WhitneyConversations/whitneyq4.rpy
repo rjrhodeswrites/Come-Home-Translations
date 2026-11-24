@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:12
 translate french whitneyq4_e73edfc6:
 
     # wt "Are you afraid of going through the hoop?"
-    wt "Tu as peur de franchir le pas ?"
+    wt "Tu as peur de traverser le cerceau ?"
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:16
 translate french whitneyq4_de003d77:
@@ -28,13 +28,13 @@ translate french whitneyq4_1968b38a:
 translate french whitneyq4_82298393:
 
     # wt "It will be time soon, I think. I am almost ready."
-    wt "Ce moment arrivera bientôt, je pense. Je suis presque prêt."
+    wt "Ce moment arrivera bientôt, je pense. Je suis presque prête."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:22
 translate french whitneyq4_1a57731c:
 
     # wt "I might be more nervous about it than you are."
-    wt "Je suis peut-être plus nerveux que toi à ce sujet."
+    wt "Je suis peut-être plus nerveuse que toi à ce sujet."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:25
 translate french whitneyq4_808f0c76:
@@ -58,7 +58,7 @@ translate french whitneyq4_3854f192:
 translate french whitneyq4_340495cb:
 
     # wt "I am a little worried, as well."
-    wt "Je suis un peu inquiet, moi aussi."
+    wt "Je suis un peu inquiète, moi aussi."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:30
 translate french whitneyq4_2a4d084d:
@@ -112,7 +112,7 @@ translate french whitneyq4_289a8839:
 translate french whitneyq4_655dcd08:
 
     # wt "If you go through and are not able to return, I feel like the police are going to come after me."
-    wt "Si tu pars et que tu ne peux pas revenir, j'ai l'impression que la police va s'en prendre à moi."
+    wt "Si tu passes de l'autre côté et que tu ne peux pas revenir, j'ai l'impression que la police va me tomber dessus."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:44
 translate french whitneyq4_0ceee22c:
@@ -142,13 +142,13 @@ translate french whitneyq4_f4d9a84f:
 translate french whitneyq4_3d91f7b3:
 
     # wt "I'm sorry, that was not my intention."
-    wt "Je suis désolé, ce n'était pas mon intention."
+    wt "Je suis désolée, ce n'était pas mon intention."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:52
 translate french whitneyq4_2acedf3a:
 
     # pc "No matter what I feel, I'm going to do it. I want to find my dad."
-    pc "Quels que soient mes sentiments, je vais le faire. Je veux retrouver mon père."
+    pc "Peu importe ce que je ressens, je vais le faire. Je veux retrouver mon père."
 
 translate french strings:
 
@@ -158,5 +158,5 @@ translate french strings:
 
     # game/Scenes/Whitney/WhitneyConversations/whitneyq4.rpy:31
     old "I'm terrified"
-    new "Je suis terrifiée."
+    new "Je suis terrifié"
 
