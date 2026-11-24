@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys6.rpy:16
 translate french whitneys6_2247c279:
@@ -22,7 +22,7 @@ translate french whitneys6_108a2230:
 translate french whitneys6_d41acc3a:
 
     # pc "That's great! I wasn't sure how easy it would be with the paralysis."
-    pc "C’est génial ! Je ne savais pas si ce serait facile avec la paralysie."
+    pc "C’est génial ! Je ne savais pas si ce serait facile avec ta paralysie."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys6.rpy:22
 translate french whitneys6_39054788:
@@ -40,7 +40,7 @@ translate french whitneys6_9fb5f51b:
 translate french whitneys6_4d79e114:
 
     # wt "That sounds fun! I'd love to."
-    wt "Ça a l’air sympa ! J’adorerais ça."
+    wt "Ça a l’air sympa ! Avec plaisir."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys6.rpy:26
 translate french whitneys6_bb159cf8:
@@ -71,4 +71,3 @@ translate french whitneys6_228fef76:
 
     # wt "Thank you."
     wt "Merci."
-
