@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-02 13:12
+# TODO: Translation updated at 2026-06-02 13:12
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys1.rpy:14
 translate french whitneys1_5b89c8f2:
@@ -58,7 +58,7 @@ translate french whitneys1_3186ca77:
 translate french whitneys1_38f36d99:
 
     # wt "I'm pretty sure it is."
-    wt "J’en suis presque sûr."
+    wt "J’en suis presque sûre."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys1.rpy:27
 translate french whitneys1_e4aa8ba6:
@@ -70,7 +70,7 @@ translate french whitneys1_e4aa8ba6:
 translate french whitneys1_1a0b2401:
 
     # wt "I like fixing things. I guess I couldn't say no to that."
-    wt "J'aime réparer des choses. Je suppose que je ne pouvais pas refuser ça."
+    wt "J'aime réparer ce qui est cassé. Je suppose que je ne pouvais pas résister à ça."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys1.rpy:30
 translate french whitneys1_a91ab7fa:
@@ -94,11 +94,10 @@ translate french whitneys1_5d0b8356:
 translate french whitneys1_c9d7b2e0:
 
     # wt "Sorry, by the way. That's rough."
-    wt "Désolé, au fait. C'est dur."
+    wt "Désolée, au fait. C'est dur."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneys1.rpy:35
 translate french whitneys1_6efc15e2:
 
     # pc "Yeah. Thanks."
     pc "Oui. Merci."
-
