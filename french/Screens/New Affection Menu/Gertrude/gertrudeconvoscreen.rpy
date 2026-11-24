@@ -8,11 +8,11 @@ translate french strings:
 
     # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:3
     old "This is a counselor chat with Gertrude that you can have by talking to her in her office on weekday mornings before school."
-    new "Il s'agit d'une discussion avec Gertrude, la conseillère, que tu peux avoir en lui parlant dans son bureau les matins en semaine avant les cours."
+    new "Il s'agit d'une séance avec Gertrude, la psychologue scolaire, que vous pouvez avoir en lui parlant dans son bureau en semaine, le matin avant les cours."
 
     # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:4
     old "Some conversations won't appear until you've done others."
-    new "Certaines conversations n'apparaîtront qu'une fois que tu en auras eu d'autres."
+    new "Certaines conversations n'apparaîtront pas tant que vous n'en aurez pas terminé d'autres."
 
     # game/Screens/New Affection Menu/Gertrude/gertrudeconvoscreen.rpy:5
     old "This is a question that Gertrude will ask."
