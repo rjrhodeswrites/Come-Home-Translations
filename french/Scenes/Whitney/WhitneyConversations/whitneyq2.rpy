@@ -10,7 +10,7 @@ translate french whitneyq2_29acda57:
 translate french whitneyq2_28276084:
 
     # pc "I'm not sure. Working in a lab somewhere probably. Maybe where my dad works."
-    pc "Je ne sais pas trop. Travailler dans un labo quelque part, probablement. Peut-être là où travaille mon père."
+    pc "Je ne sais pas trop. Travailler dans un labo quelque part, probablement. Peut-être là où travaille mon Papa."
 
 # game/Scenes/Whitney/WhitneyConversations/whitneyq2.rpy:15
 translate french whitneyq2_e37a9d5d:
